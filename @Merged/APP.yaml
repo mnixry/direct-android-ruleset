@@ -330,7 +330,6 @@ payload:
   - PROCESS-NAME,com.cctv.yangshipin.app.androidp #央视频
   - PROCESS-NAME,com.cdb.app #充电加速器
   - PROCESS-NAME,com.cdcd.milv #觅侣-语音视频恋爱交友
-  - PROCESS-NAME,com.cdjsyq.xzj #Sweetly小组件
   - PROCESS-NAME,com.cdtv.app #看度
   - PROCESS-NAME,com.cdv.video360 #云美摄
   - PROCESS-NAME,com.cebbank.mobile.cemb #光大银行
@@ -433,6 +432,7 @@ payload:
   - PROCESS-NAME,com.diershoubing.erbing #二柄
   - PROCESS-NAME,com.digitalgd.dgyss #粤省事
   - PROCESS-NAME,com.dingchebao #订车宝
+  - PROCESS-NAME,com.dingniu.wallpaper #4k动态壁纸
   - PROCESS-NAME,com.dingtai.wxhn.activity #新湖南
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
   - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
@@ -459,7 +459,6 @@ payload:
   - PROCESS-NAME,com.duoduo.child.story #儿歌多多
   - PROCESS-NAME,com.duokan.phone.remotecontroller #万能遥控
   - PROCESS-NAME,com.duokan.reader #多看
-  - PROCESS-NAME,com.duolingo #多邻国
   - PROCESS-NAME,com.duowan.kiwi #虎牙直播
   - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.dute.dutenews #读特

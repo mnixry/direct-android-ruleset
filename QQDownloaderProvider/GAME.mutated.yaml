@@ -1007,9 +1007,15 @@ payload:
   - PROCESS-NAME,org.islq.move2048 #天天2048
   - PROCESS-NAME,xyz.ymyapp.xbw.nearme.gamecenter #小霸王
   - PROCESS-NAME,com.alicom.smartdial
-  - PROCESS-NAME-REGEX,^com\.heytap\..*
-  - PROCESS-NAME-REGEX,^com\.oppo\..*
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,me.gfuil.bmap
+  - PROCESS-NAME,cn.com.bmac.nfc
+  - PROCESS-NAME,com.nowcasting.activity
+  - PROCESS-NAME,com.coolapk.market
+  - PROCESS-NAME,com.unionpay.tsmservice
+  - PROCESS-NAME-REGEX,^com\.(?:heytap|oppo|coloros|oneplus|oplus)\..*
   - PROCESS-NAME-REGEX,^com\.huawei\..*
   - PROCESS-NAME-REGEX,^com\.vivo\..*
-  - PROCESS-NAME-REGEX,^com\.xiaomi\..*
+  - PROCESS-NAME-REGEX,^com\.(?:xiaomi|miui)\..*
   - PROCESS-NAME-REGEX,^com\.tencent\..*
+  - PROCESS-NAME-REGEX,^com\.hypergryph\..*

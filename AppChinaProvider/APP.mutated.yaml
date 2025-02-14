@@ -246,7 +246,6 @@ payload:
   - PROCESS-NAME,com.cbnweekly #第一财经杂志
   - PROCESS-NAME,com.ccgs.sms #短信群发助手
   - PROCESS-NAME,com.cdcd.milv #觅侣-语音视频恋爱交友
-  - PROCESS-NAME,com.cdjsyq.xzj #Sweetly小组件
   - PROCESS-NAME,com.cdtv.app #看度
   - PROCESS-NAME,com.ceic.app #地震速报
   - PROCESS-NAME,com.chan.cwallpaper #图凌
@@ -309,6 +308,7 @@ payload:
   - PROCESS-NAME,com.DHgate.seller.android #敦煌网商户
   - PROCESS-NAME,com.dianping.v1 #大众点评
   - PROCESS-NAME,com.diershoubing.erbing #二柄
+  - PROCESS-NAME,com.dingniu.wallpaper #4k动态壁纸
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
   - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
   - PROCESS-NAME,com.djbox.product #DJ音乐盒
@@ -327,7 +327,6 @@ payload:
   - PROCESS-NAME,com.duoduo.child.story #儿歌多多
   - PROCESS-NAME,com.duokan.phone.remotecontroller #万能遥控
   - PROCESS-NAME,com.duokan.reader #多看
-  - PROCESS-NAME,com.duolingo #多邻国
   - PROCESS-NAME,com.duowan.kiwi #虎牙直播
   - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.dx.x1myapplication #电销外呼电话
@@ -1070,9 +1069,15 @@ payload:
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
   - PROCESS-NAME,com.alicom.smartdial
-  - PROCESS-NAME-REGEX,^com\.heytap\..*
-  - PROCESS-NAME-REGEX,^com\.oppo\..*
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,me.gfuil.bmap
+  - PROCESS-NAME,cn.com.bmac.nfc
+  - PROCESS-NAME,com.nowcasting.activity
+  - PROCESS-NAME,com.coolapk.market
+  - PROCESS-NAME,com.unionpay.tsmservice
+  - PROCESS-NAME-REGEX,^com\.(?:heytap|oppo|coloros|oneplus|oplus)\..*
   - PROCESS-NAME-REGEX,^com\.huawei\..*
   - PROCESS-NAME-REGEX,^com\.vivo\..*
-  - PROCESS-NAME-REGEX,^com\.xiaomi\..*
+  - PROCESS-NAME-REGEX,^com\.(?:xiaomi|miui)\..*
   - PROCESS-NAME-REGEX,^com\.tencent\..*
+  - PROCESS-NAME-REGEX,^com\.hypergryph\..*
