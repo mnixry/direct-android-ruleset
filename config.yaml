@@ -1,14 +1,23 @@
 excluded:
   # Exclude this package specifically
   - cn.amazon.mShop.android
+  - com.android.vending # Google Play Store
+  - com.android.chrome
+  - com.airbnb.android
   # Exclude all packages starting with com.microsoft
   - regex: ^com\.microsoft\..*
+  - regex: ^com\.google\..*
 
 included:
   # Include this package specifically
   - com.alicom.smartdial
   # Include all packages starting with com.heytap by PROCESS-NAME-REGEX
   - regex: ^com\.heytap\..*
+  - regex: ^com\.oppo\..*
+  - regex: ^com\.huawei\..*
+  - regex: ^com\.vivo\..*
+  - regex: ^com\.xiaomi\..*
+  - regex: ^com\.tencent\..*
 
 headers:
   User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
