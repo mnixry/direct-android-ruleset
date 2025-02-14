@@ -1,0 +1,5 @@
+excluded:
+  - com.example.excluded
+
+included:
+  - com.example.included
