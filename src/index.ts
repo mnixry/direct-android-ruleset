@@ -8,6 +8,7 @@ type RuleSetExtension = string | { regex: string };
 interface RulesetConfig {
   excluded: RuleSetExtension[];
   included: RuleSetExtension[];
+  headers: Record<string, string>;
 }
 
 const rulesToYaml = (
@@ -92,7 +93,7 @@ const main = async () => {
     const merged: Record<string, string> = {};
 
     for (const Provider of providers) {
-      const provider = new Provider(type);
+      const provider = new Provider(type, config?.headers);
       console.log(
         `retrieving from ${Provider.providerName}(${ProviderType[type]})`
       );

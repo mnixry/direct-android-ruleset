@@ -9,3 +9,15 @@ included:
   - com.alicom.smartdial
   # Include all packages starting with com.heytap by PROCESS-NAME-REGEX
   - regex: ^com\.heytap\..*
+
+headers:
+  User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+  Accept-Language: en-US,zh-CN;q=0.5
+  Sec-GPC: 1
+  Sec-Fetch-Dest: document
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Site: none
+  Sec-Fetch-User: "?1"
+  Priority: u=0, i
+  Pragma: no-cache
+  Cache-Control: no-cache
