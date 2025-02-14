@@ -1,0 +1,38 @@
+name: Rule Updater
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+
+      - uses: pnpm/action-setup@master
+        with:
+          version: 10
+          run_install: false
+
+      - uses: actions/setup-node@main
+        with:
+          node-version: 22
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run updater
+        run: pnpm start
+
+      - uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: rules
+          FOLDER: ./result
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
