@@ -37,41 +37,42 @@ export class AppChinaProvider extends AppListProvider {
   }
 
   async retrieve(page: number): Promise<Record<string, string>> {
-    const results = await Promise.all(
-      this.appTypeIds.values().map(async (appTypeId) => {
-        const response = await fetch(
-          `http://m.appchina.com/ajax/cat/${appTypeId}/${page}`,
-          {
-            headers: {
-              ...this.extraHeaders,
-              "Cache-Control": "no-cache",
-              Accept: "application/json, text/javascript, */*; q=0.01",
-              "X-Requested-With": "XMLHttpRequest",
-            },
-          }
-        );
-
-        assert(response.ok, "Failed to fetch AppChina");
-
-        const { nextPage, list } = await response.text().then((text) => {
-          try {
-            return JSON.parse(text);
-          } catch (e) {
-            console.error(e, text);
-            return {};
-          }
-        });
-
-        if (!(nextPage && list.length)) {
-          this.appTypeIds.delete(appTypeId);
-          return {};
+    const results: Record<string, string> = {};
+    for (const appTypeId of this.appTypeIds) {
+      const response = await fetch(
+        `http://m.appchina.com/ajax/cat/${appTypeId}/${page}`,
+        {
+          headers: {
+            ...this.extraHeaders,
+            "Cache-Control": "no-cache",
+            Accept: "application/json, text/javascript, */*; q=0.01",
+            "X-Requested-With": "XMLHttpRequest",
+          },
         }
-        return Object.fromEntries(
-          list.map(({ name, packageName }: any) => [packageName, name])
-        ) as Record<string, string>;
-      })
-    );
+      );
 
-    return Object.assign({}, ...results);
+      assert(response.ok, "Failed to fetch AppChina");
+
+      const { nextPage, list } = await response.text().then((text) => {
+        try {
+          return JSON.parse(text);
+        } catch (e) {
+          console.error(e, text);
+          throw e;
+        }
+      });
+
+      if (!(nextPage && list.length)) {
+        this.appTypeIds.delete(appTypeId);
+        continue;
+      }
+
+      Object.assign(
+        results,
+        ...list.map(({ name, packageName }: any) => ({ [packageName]: name }))
+      );
+    }
+
+    return results;
   }
 }
