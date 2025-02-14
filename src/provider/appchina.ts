@@ -46,12 +46,22 @@ export class AppChinaProvider extends AppListProvider {
               ...this.extraHeaders,
               "Cache-Control": "no-cache",
               Accept: "application/json, text/javascript, */*; q=0.01",
+              "X-Requested-With": "XMLHttpRequest",
             },
           }
         );
 
         assert(response.ok, "Failed to fetch AppChina");
-        const { nextPage, list } = await response.json();
+
+        const { nextPage, list } = await response.text().then((text) => {
+          try {
+            return JSON.parse(text);
+          } catch (e) {
+            console.error(e, text);
+            return {};
+          }
+        });
+
         if (!(nextPage && list.length)) {
           this.appTypeIds.delete(appTypeId);
           return {};
