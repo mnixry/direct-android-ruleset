@@ -16,6 +16,15 @@ const rulesToYaml = (
   includes?: RuleSetExtension[]
 ) => {
   const document = new YAML.Document({ payload: [] });
+
+  for (const [pkgName, name] of Object.entries(rules).sort(([ka], [kb]) =>
+    ka.localeCompare(kb)
+  )) {
+    const node = document.createNode(`PROCESS-NAME,${pkgName}`);
+    if (name) node.comment = name;
+    document.addIn(["payload"], node);
+  }
+
   if (includes) {
     for (const include of includes) {
       const node = document.createNode(
@@ -25,13 +34,6 @@ const rulesToYaml = (
       );
       document.addIn(["payload"], node);
     }
-  }
-  for (const [pkgName, name] of Object.entries(rules).sort(([ka], [kb]) =>
-    ka.localeCompare(kb)
-  )) {
-    const node = document.createNode(`PROCESS-NAME,${pkgName}`);
-    if (name) node.comment = name;
-    document.addIn(["payload"], node);
   }
   return document.toString();
 };
