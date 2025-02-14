@@ -1,6 +1,4 @@
 payload:
-  - PROCESS-NAME,com.alicom.smartdial
-  - PROCESS-NAME-REGEX,^com\.heytap\..*
   - PROCESS-NAME,air.com.bbfriend.ddsz #哆哆识字
   - PROCESS-NAME,air.tv.douyu.android #斗鱼
   - PROCESS-NAME,alook.browser #Alook浏览器
@@ -248,6 +246,7 @@ payload:
   - PROCESS-NAME,com.cbnweekly #第一财经杂志
   - PROCESS-NAME,com.ccgs.sms #短信群发助手
   - PROCESS-NAME,com.cdcd.milv #觅侣-语音视频恋爱交友
+  - PROCESS-NAME,com.cdjsyq.xzj #Sweetly小组件
   - PROCESS-NAME,com.cdtv.app #看度
   - PROCESS-NAME,com.ceic.app #地震速报
   - PROCESS-NAME,com.chan.cwallpaper #图凌
@@ -310,7 +309,6 @@ payload:
   - PROCESS-NAME,com.DHgate.seller.android #敦煌网商户
   - PROCESS-NAME,com.dianping.v1 #大众点评
   - PROCESS-NAME,com.diershoubing.erbing #二柄
-  - PROCESS-NAME,com.dingniu.wallpaper #4k动态壁纸
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
   - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
   - PROCESS-NAME,com.djbox.product #DJ音乐盒
@@ -1071,3 +1069,10 @@ payload:
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
+  - PROCESS-NAME,com.alicom.smartdial
+  - PROCESS-NAME-REGEX,^com\.heytap\..*
+  - PROCESS-NAME-REGEX,^com\.oppo\..*
+  - PROCESS-NAME-REGEX,^com\.huawei\..*
+  - PROCESS-NAME-REGEX,^com\.vivo\..*
+  - PROCESS-NAME-REGEX,^com\.xiaomi\..*
+  - PROCESS-NAME-REGEX,^com\.tencent\..*

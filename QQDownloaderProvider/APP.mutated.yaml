@@ -1,6 +1,4 @@
 payload:
-  - PROCESS-NAME,com.alicom.smartdial
-  - PROCESS-NAME-REGEX,^com\.heytap\..*
   - PROCESS-NAME,ai.zuoye.app #爱作业
   - PROCESS-NAME,air.tv.douyu.android #斗鱼
   - PROCESS-NAME,all.parttimeguidesystem #兼职猫-同城找工作求职招聘平台
@@ -75,7 +73,6 @@ payload:
   - PROCESS-NAME,com.achievo.vipshop #唯品会
   - PROCESS-NAME,com.adobe.reader #PDF阅读器 Adobe reader
   - PROCESS-NAME,com.aikan #免费小说大全
-  - PROCESS-NAME,com.airbnb.android #爱彼迎
   - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
@@ -85,12 +82,10 @@ payload:
   - PROCESS-NAME,com.ancient.calendar #老黄历
   - PROCESS-NAME,com.android.app.quanmama #券妈妈优惠券
   - PROCESS-NAME,com.android.bankabc #农行掌上银行
-  - PROCESS-NAME,com.android.chrome #谷歌浏览器Google Chrome
   - PROCESS-NAME,com.android.dazhihui #大智慧
   - PROCESS-NAME,com.android.haitong #海通e海通财
   - PROCESS-NAME,com.android.icredit #企查查
   - PROCESS-NAME,com.android.tutuerge #兔兔儿歌
-  - PROCESS-NAME,com.android.vending #Google Play Store
   - PROCESS-NAME,com.Android56 #56视频
   - PROCESS-NAME,com.androidesk.livewallpaper #安卓动态壁纸
   - PROCESS-NAME,com.anjiu.buff.yingyongbao #BUFF手游
@@ -288,8 +283,6 @@ payload:
   - PROCESS-NAME,com.gome.eshopnew #国美-电器消费潮人的选择
   - PROCESS-NAME,com.gomejr.icash #美易借钱
   - PROCESS-NAME,com.goodtech.tq #天气预报
-  - PROCESS-NAME,com.google.android.apps.translate #Google翻译
-  - PROCESS-NAME,com.google.android.googlequicksearchbox #Google 搜索
   - PROCESS-NAME,com.gorgeous.lite #轻颜
   - PROCESS-NAME,com.gotokeep.keep #Keep
   - PROCESS-NAME,com.gouwufanlilianmengw #购物返利联盟
@@ -1000,3 +993,10 @@ payload:
   - PROCESS-NAME,wshifu.app.android #万师傅企业版
   - PROCESS-NAME,yiqi.bazi #易奇文化
   - PROCESS-NAME,zzll.cn.com.trader #彼彼省家
+  - PROCESS-NAME,com.alicom.smartdial
+  - PROCESS-NAME-REGEX,^com\.heytap\..*
+  - PROCESS-NAME-REGEX,^com\.oppo\..*
+  - PROCESS-NAME-REGEX,^com\.huawei\..*
+  - PROCESS-NAME-REGEX,^com\.vivo\..*
+  - PROCESS-NAME-REGEX,^com\.xiaomi\..*
+  - PROCESS-NAME-REGEX,^com\.tencent\..*

@@ -1,6 +1,4 @@
 payload:
-  - PROCESS-NAME,com.alicom.smartdial
-  - PROCESS-NAME-REGEX,^com\.heytap\..*
   - PROCESS-NAME,age.of.civilizations2.jakowski.lukasz.europe #文明时代II：欧洲
   - PROCESS-NAME,air.air.RedSunPremium #红太阳
   - PROCESS-NAME,air.BattleofZombies #僵尸之战
@@ -1032,3 +1030,10 @@ payload:
   - PROCESS-NAME,syj.youngfhsher #手机收音机
   - PROCESS-NAME,uni.eamApp #一码多识
   - PROCESS-NAME,zhtc.noscores.pmtianlongzhl #口袋天龙的堕落
+  - PROCESS-NAME,com.alicom.smartdial
+  - PROCESS-NAME-REGEX,^com\.heytap\..*
+  - PROCESS-NAME-REGEX,^com\.oppo\..*
+  - PROCESS-NAME-REGEX,^com\.huawei\..*
+  - PROCESS-NAME-REGEX,^com\.vivo\..*
+  - PROCESS-NAME-REGEX,^com\.xiaomi\..*
+  - PROCESS-NAME-REGEX,^com\.tencent\..*
