@@ -1,23 +1,36 @@
+# spell-checker: disable
+
 excluded:
   # Exclude this package specifically
   - cn.amazon.mShop.android
   - com.android.vending # Google Play Store
   - com.android.chrome
   - com.airbnb.android
+  - com.duolingo
+
   # Exclude all packages starting with com.microsoft
   - regex: ^com\.microsoft\..*
   - regex: ^com\.google\..*
 
 included:
   # Include this package specifically
-  - com.alicom.smartdial
+  - com.alicom.smartdial # 阿里小号
+  - com.bilibili.app.in # Bilibili International
+  - me.gfuil.bmap # 白马地图
+  - cn.com.bmac.nfc # 北京一卡通
+  - com.nowcasting.activity # 彩云天气
+  - com.coolapk.market # 酷安
+  - com.unionpay.tsmservice # 银联可信服务
+
   # Include all packages starting with com.heytap by PROCESS-NAME-REGEX
-  - regex: ^com\.heytap\..*
-  - regex: ^com\.oppo\..*
-  - regex: ^com\.huawei\..*
-  - regex: ^com\.vivo\..*
-  - regex: ^com\.xiaomi\..*
+  # - regex: ^com\.(?:heytap|oppo|huawei|vivo|xiaomi|coloros|oneplus|oplus)\..*
+  - regex: ^com\.(?:heytap|oppo|coloros|oneplus|oplus)\..* # OPPO, OnePlus
+  - regex: ^com\.huawei\..* # Huawei
+  - regex: ^com\.vivo\..* # Vivo
+  - regex: ^com\.(?:xiaomi|miui)\..* # Xiaomi
+
   - regex: ^com\.tencent\..*
+  - regex: ^com\.hypergryph\..*
 
 headers:
   User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
