@@ -73,7 +73,7 @@ payload:
   - PROCESS-NAME,cn.ledongli.ldl #乐动力
   - PROCESS-NAME,cn.longmaster.pengpeng #语玩
   - PROCESS-NAME,cn.lrapps.changliaocall #畅聊网络电话
-  - PROCESS-NAME,cn.lrapps.yitongcall #易通网络电话-加密电话信息版
+  - PROCESS-NAME,cn.lrapps.yitongcall #易通网络电话
   - PROCESS-NAME,cn.mama.activity #妈妈网轻聊
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看电影
@@ -305,7 +305,6 @@ payload:
   - PROCESS-NAME,com.devuni.flashlight #超级手电筒
   - PROCESS-NAME,com.dewmobile.kuaiya #快牙
   - PROCESS-NAME,com.deyi.client #得意生活
-  - PROCESS-NAME,com.dhc.app #DHC
   - PROCESS-NAME,com.DHgate.seller.android #敦煌网商户
   - PROCESS-NAME,com.dianping.v1 #大众点评
   - PROCESS-NAME,com.diershoubing.erbing #二柄
@@ -341,7 +340,6 @@ payload:
   - PROCESS-NAME,com.ebnews #亿邦
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
   - PROCESS-NAME,com.ell.wallpaperell #主题商店免费
-  - PROCESS-NAME,com.eno.android #国海金探号
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
   - PROCESS-NAME,com.enotary.cloud #公证云
@@ -508,7 +506,6 @@ payload:
   - PROCESS-NAME,com.jie.lockscreen #锁屏大全
   - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
-  - PROCESS-NAME,com.jimi.idphoto #在线证件照
   - PROCESS-NAME,com.jingdong.app.mall #京东
   - PROCESS-NAME,com.jingzhou #荆州社区
   - PROCESS-NAME,com.jinying.mobile #金鹰生活
@@ -733,6 +730,7 @@ payload:
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
   - PROCESS-NAME,com.shangc.tiennews #石榴云
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
+  - PROCESS-NAME,com.shengmi.photo #社交应用隐藏
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
   - PROCESS-NAME,com.shinyv.cnr #云听
   - PROCESS-NAME,com.shizhuang.duapp #得物
@@ -813,6 +811,7 @@ payload:
   - PROCESS-NAME,com.taobao.taobao #淘宝
   - PROCESS-NAME,com.taobao.trip #飞猪旅行
   - PROCESS-NAME,com.taoche.qctt #汽车头条
+  - PROCESS-NAME,com.taoguba.app #淘股吧
   - PROCESS-NAME,com.taou.maimai #脉脉
   - PROCESS-NAME,com.telecom.video #天翼超高清
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
