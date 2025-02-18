@@ -75,7 +75,7 @@ payload:
   - PROCESS-NAME,cn.lrapps.yitongcall #易通网络电话
   - PROCESS-NAME,cn.mama.activity #妈妈网轻聊
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
-  - PROCESS-NAME,cn.mopon.film.xflh #幸福看电影
+  - PROCESS-NAME,cn.mopon.film.xflh #幸福看
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
   - PROCESS-NAME,cn.nanjingshuoyu.iclock #一键锁屏iclock主题-应用锁
   - PROCESS-NAME,cn.okek.chexingwuyou #车行无忧
@@ -504,6 +504,7 @@ payload:
   - PROCESS-NAME,com.jie.lockscreen #锁屏大全
   - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
+  - PROCESS-NAME,com.jimi.idphoto #在线证件照
   - PROCESS-NAME,com.jingdong.app.mall #京东
   - PROCESS-NAME,com.jingzhou #荆州社区
   - PROCESS-NAME,com.jinying.mobile #金鹰生活
@@ -838,7 +839,6 @@ payload:
   - PROCESS-NAME,com.tianxingjian.screenshot #超级截图录屏大师
   - PROCESS-NAME,com.tieyou.train.ark #铁友火车票
   - PROCESS-NAME,com.ting.mp3.android #千千音乐
-  - PROCESS-NAME,com.tjqdwl.wallpaper.qudong #趣动壁纸
   - PROCESS-NAME,com.tmall.wireless #天猫
   - PROCESS-NAME,com.tom.ule.ui #邮乐
   - PROCESS-NAME,com.tongcheng.android #同程旅行

@@ -291,7 +291,6 @@ payload:
   - PROCESS-NAME,com.google.android.googlequicksearchbox #Google 搜索
   - PROCESS-NAME,com.gorgeous.lite #轻颜
   - PROCESS-NAME,com.gotokeep.keep #Keep
-  - PROCESS-NAME,com.gouwufanlilianmengw #购物返利联盟
   - PROCESS-NAME,com.greenline.guahao #微医
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
   - PROCESS-NAME,com.greentree.android #格林
@@ -498,7 +497,7 @@ payload:
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meichu.food.release #烘培厨房
   - PROCESS-NAME,com.meitu.meipaimv #美拍
-  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
+  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-AI换装
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
   - PROCESS-NAME,com.melot.meshow #KK
@@ -567,7 +566,6 @@ payload:
   - PROCESS-NAME,com.paic.yl.health #好福利
   - PROCESS-NAME,com.paic.zhifu.wallet.activity #壹钱包
   - PROCESS-NAME,com.pdmi.guangzhou.media #广州日报新花城
-  - PROCESS-NAME,com.pen.recorder #手机录音笔
   - PROCESS-NAME,com.people.health.doctor #人民好医生
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.phone.recording #电话录音宝
@@ -711,6 +709,7 @@ payload:
   - PROCESS-NAME,com.suddenfix.customer #闪电修
   - PROCESS-NAME,com.suning.mobile.ebuy #苏宁易购
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
+  - PROCESS-NAME,com.suteng.zzss480 #趣拿
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
   - PROCESS-NAME,com.szyy2106.pdfscanner #扫描王PDF
@@ -945,6 +944,7 @@ payload:
   - PROCESS-NAME,com.zhibo.mm #秘密直播
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
+  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.ziipin.homeinn #首旅如家
   - PROCESS-NAME,com.zl.fqbao #招联金融

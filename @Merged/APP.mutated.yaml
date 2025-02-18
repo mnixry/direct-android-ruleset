@@ -100,7 +100,7 @@ payload:
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
   - PROCESS-NAME,cn.microants.merchants #义采宝义乌小商品批发网
   - PROCESS-NAME,cn.mimilive.xianyu #爆聊
-  - PROCESS-NAME,cn.mopon.film.xflh #幸福看电影
+  - PROCESS-NAME,cn.mopon.film.xflh #幸福看
   - PROCESS-NAME,cn.mucang.android.drivingsimulator #驾考宝典科目一
   - PROCESS-NAME,cn.mucang.android.jkxt #驾考宝典多语言版
   - PROCESS-NAME,cn.mucang.android.parallelvehicle #平行之家
@@ -575,7 +575,6 @@ payload:
   - PROCESS-NAME,com.gopro.smarty #GoPro Quik
   - PROCESS-NAME,com.gorgeous.lite #轻颜
   - PROCESS-NAME,com.gotokeep.keep #Keep
-  - PROCESS-NAME,com.gouwufanlilianmengw #购物返利联盟
   - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.gpslh.baidumap #物联在线
   - PROCESS-NAME,com.greenline.guahao #微医
@@ -765,6 +764,7 @@ payload:
   - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
   - PROCESS-NAME,com.jiliguala.niuwa #叽里呱啦
+  - PROCESS-NAME,com.jimi.idphoto #在线证件照
   - PROCESS-NAME,com.jingdian.tianxiameishi.android #美食天下
   - PROCESS-NAME,com.jingdong.app.mall #京东
   - PROCESS-NAME,com.jingdong.pdj #京东到家
@@ -912,7 +912,7 @@ payload:
   - PROCESS-NAME,com.meichu.food.release #烘培厨房
   - PROCESS-NAME,com.meitu.makeup #美妆相机
   - PROCESS-NAME,com.meitu.meipaimv #美拍
-  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
+  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-AI换装
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
   - PROCESS-NAME,com.meitu.wink #Wink
@@ -1026,7 +1026,6 @@ payload:
   - PROCESS-NAME,com.paic.zhifu.wallet.activity #壹钱包
   - PROCESS-NAME,com.pcpop.popapk #hao网址大全
   - PROCESS-NAME,com.pdmi.guangzhou.media #广州日报新花城
-  - PROCESS-NAME,com.pen.recorder #手机录音笔
   - PROCESS-NAME,com.people.health.doctor #人民好医生
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.perracolabs.tcc #Tiny Call Confirm
@@ -1245,6 +1244,7 @@ payload:
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
   - PROCESS-NAME,com.sunying.booster #光影
   - PROCESS-NAME,com.superlib #超星移动图书馆
+  - PROCESS-NAME,com.suteng.zzss480 #趣拿
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
@@ -1328,7 +1328,6 @@ payload:
   - PROCESS-NAME,com.tingniu.audioclip #音频剪辑大师
   - PROCESS-NAME,com.tinmanarts.JoJoSherlock #叫叫识字
   - PROCESS-NAME,com.tiqiaa.icontrol #遥控精灵
-  - PROCESS-NAME,com.tjqdwl.wallpaper.qudong #趣动壁纸
   - PROCESS-NAME,com.tmall.wireless #天猫
   - PROCESS-NAME,com.tmri.app.main #交管12123
   - PROCESS-NAME,com.tom.ule.ui #邮乐
@@ -1580,6 +1579,7 @@ payload:
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
   - PROCESS-NAME,com.zhihu.daily.android #知乎日报
+  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.zhubajie.client #猪八戒
   - PROCESS-NAME,com.ziipin.homeinn #首旅如家
