@@ -34,12 +34,12 @@ module.exports = {
     ...,
     {
       name: "chinaApps",
-      url: 'https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/APP.mutated.yaml',
+      url: 'https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/APP.mutated.tpl',
       surgioSnippet: true
     },
     {
       name: "chinaGames",
-      url: 'https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/GAME.mutated.yaml',
+      url: 'https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/GAME.mutated.tpl',
       surgioSnippet: true
     },
   ],
