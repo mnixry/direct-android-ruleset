@@ -1,6 +1,6 @@
 # direct-android-ruleset
 
-帮 Android 手机绕开国产 App 的包名合集。规则基于多个应用市场榜单自动抓取包名生成，每天自动更新🍃
+帮 Android 手机绕开国产 App 的包名合集。规则基于多个应用市场榜单自动抓取包名生成，每天自动更新 🍃
 
 ## 食用方法
 
@@ -23,6 +23,40 @@ rules:
 ```
 
 如果你发现你访问不了 `github.com`，自己想办法套个 jsDelivr CDN 之类的。
+
+### Surgio
+
+在 `surgio.conf.js` 中配置远程模板片段
+
+```javascript
+module.exports = {
+  remoteSnippets: [
+    ...,
+    {
+      name: "chinaApps",
+      url: 'https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/APP.mutated.yaml',
+      surgioSnippet: true
+    },
+    {
+      name: "chinaGames",
+      url: 'https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/GAME.mutated.yaml',
+      surgioSnippet: true
+    },
+  ],
+};
+```
+
+然后在模板规则里引用远程模板片段（以 `clash.tpl` 为例）
+
+```yaml
+rules:
+{% filter clash %}
+{{ remoteSnippet.chinaApps.main('DIRECT') }}
+{{ remoteSnippet.chinaGames.main('DIRECT') }}
+{% endfilter %}
+```
+
+详情参考 [Surgio 文档](https://surgio.js.org/guide/custom-template.html#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%89%87%E6%AE%B5)。
 
 ### Others
 
