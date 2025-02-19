@@ -47,7 +47,7 @@ const rulesToSurgioSnippet = (
   for (const [pkgName, name] of Object.entries(rules).sort(([ka], [kb]) =>
     ka.localeCompare(kb)
   )) {
-    const comment = name ? ` {# ${name} #}` : "";
+    const comment = name ? ` # ${name}` : "";
     snippets.push(`PROCESS-NAME,${pkgName},{{ rule }}${comment}`);
   }
 
@@ -55,8 +55,8 @@ const rulesToSurgioSnippet = (
     for (const include of includes) {
       snippets.push(
         typeof include === "string"
-          ? `PROCESS-NAME,${include}`
-          : `PROCESS-NAME-REGEX,${include.regex}`
+          ? `PROCESS-NAME,${include},{{ rule }}`
+          : `PROCESS-NAME-REGEX,${include.regex},{{ rule }}`
       );
     }
   }
