@@ -38,6 +38,33 @@ const rulesToYaml = (
   return document.toString();
 };
 
+const rulesToSurgioSnippet = (
+  rules: Record<string, string>,
+  includes?: RuleSetExtension[]
+) => {
+  const snippets: string[] = ["{% macro main(rule) %}"];
+
+  for (const [pkgName, name] of Object.entries(rules).sort(([ka], [kb]) =>
+    ka.localeCompare(kb)
+  )) {
+    const comment = name ? ` {# ${name} #}` : "";
+    snippets.push(`PROCESS-NAME,${pkgName},{{ rule }}${comment}`);
+  }
+
+  if (includes) {
+    for (const include of includes) {
+      snippets.push(
+        typeof include === "string"
+          ? `PROCESS-NAME,${include}`
+          : `PROCESS-NAME-REGEX,${include.regex}`
+      );
+    }
+  }
+
+  snippets.push("{% endmacro %}");
+  return snippets.join("\n");
+};
+
 const exhaustProvider = async (
   provider: AppListProvider,
   limit: number = 1_000
@@ -112,6 +139,16 @@ const main = async () => {
       await mkdir(path.dirname(filePath));
       await fs.writeFile(filePath, yaml);
 
+      const surgioSnippetFilePath = path.resolve(
+        dataPath,
+        Provider.providerName,
+        ProviderType[type] + ".tpl"
+      );
+      console.log(`writing to ${surgioSnippetFilePath}`);
+      const surgioSnippet = rulesToSurgioSnippet(result);
+      await mkdir(path.dirname(surgioSnippetFilePath));
+      await fs.writeFile(surgioSnippetFilePath, surgioSnippet);
+
       if (!config) continue;
       const { excluded, included } = config;
       const mutatedConfig = processRuleExclusions(result, excluded);
@@ -124,6 +161,19 @@ const main = async () => {
       const mutatedYaml = rulesToYaml(mutatedConfig, included);
       await mkdir(path.dirname(mutatedFilePath));
       await fs.writeFile(mutatedFilePath, mutatedYaml);
+
+      const mutatedSurgioSnippetFilePath = path.resolve(
+        dataPath,
+        Provider.providerName,
+        ProviderType[type] + ".mutated.tpl"
+      );
+      console.log(`writing to ${mutatedSurgioSnippetFilePath}`);
+      const mutatedSurgioSnippet = rulesToSurgioSnippet(
+        mutatedConfig,
+        included
+      );
+      await mkdir(path.dirname(mutatedSurgioSnippetFilePath));
+      await fs.writeFile(mutatedSurgioSnippetFilePath, mutatedSurgioSnippet);
 
       Object.assign(merged, mutatedConfig);
     }
@@ -138,6 +188,16 @@ const main = async () => {
     await mkdir(path.dirname(mergedFilePath));
     await fs.writeFile(mergedFilePath, mergedYaml);
 
+    const mergedSurgioSnippetFilePath = path.resolve(
+      dataPath,
+      "@Merged",
+      ProviderType[type] + ".tpl"
+    );
+    console.log(`writing to ${mergedSurgioSnippetFilePath}`);
+    const mergedSurgioSnippet = rulesToSurgioSnippet(merged);
+    await mkdir(path.dirname(mergedSurgioSnippetFilePath));
+    await fs.writeFile(mergedSurgioSnippetFilePath, mergedSurgioSnippet);
+
     if (!config) continue;
     const { excluded, included } = config;
     const mutatedConfig = processRuleExclusions(merged, excluded);
@@ -150,6 +210,16 @@ const main = async () => {
     const mutatedYaml = rulesToYaml(mutatedConfig, included);
     await mkdir(path.dirname(mutatedFilePath));
     await fs.writeFile(mutatedFilePath, mutatedYaml);
+
+    const mutatedSurgioSnippetFilePath = path.resolve(
+      dataPath,
+      "@Merged",
+      ProviderType[type] + ".mutated.tpl"
+    );
+    console.log(`writing to ${mutatedSurgioSnippetFilePath}`);
+    const mutatedSurgioSnippet = rulesToSurgioSnippet(mutatedConfig, included);
+    await mkdir(path.dirname(mutatedSurgioSnippetFilePath));
+    await fs.writeFile(mutatedSurgioSnippetFilePath, mutatedSurgioSnippet);
   }
 };
 
