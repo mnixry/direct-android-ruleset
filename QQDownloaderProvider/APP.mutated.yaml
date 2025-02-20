@@ -142,7 +142,6 @@ payload:
   - PROCESS-NAME,com.ccb.longjiLife #建行生活
   - PROCESS-NAME,com.cctv.caijing #央视财经
   - PROCESS-NAME,com.cctv.yangshipin.app.androidp #央视频
-  - PROCESS-NAME,com.cdb.app #充电加速器
   - PROCESS-NAME,com.cdv.video360 #云美摄
   - PROCESS-NAME,com.cebbank.mobile.cemb #光大银行
   - PROCESS-NAME,com.cffex.htqh #海通期货期海通行
@@ -268,7 +267,6 @@ payload:
   - PROCESS-NAME,com.fqapps.fdsh #福袋生活
   - PROCESS-NAME,com.free_ride_pin.yiwei #汽车票
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
-  - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.funshion.video.mobile #风行视频
   - PROCESS-NAME,com.gameabc.zhanqiAndroid #战旗直播
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
@@ -544,6 +542,7 @@ payload:
   - PROCESS-NAME,com.nfdaily.nfplus #南方Plus
   - PROCESS-NAME,com.nice.main #nice
   - PROCESS-NAME,com.ninexiu.sixninexiu #九秀直播
+  - PROCESS-NAME,com.njh.biubiu #biubiu加速器
   - PROCESS-NAME,com.nxy.sc #四川农信手机银行
   - PROCESS-NAME,com.octinn.birthdayplus #生日管家
   - PROCESS-NAME,com.ophone.reader.ui #咪咕阅读
@@ -658,6 +657,7 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.drinks #宝宝甜品店
   - PROCESS-NAME,com.sinyee.babybus.food #中华美食
   - PROCESS-NAME,com.sinyee.babybus.kindergarten #宝宝欢乐教室
+  - PROCESS-NAME,com.sinyee.babybus.number #宝宝玩数字
   - PROCESS-NAME,com.sinyee.babybus.recommendapp #宝宝巴士
   - PROCESS-NAME,com.sinyee.babybus.shopping #宝宝超市
   - PROCESS-NAME,com.sinyee.babybus.talk2kiki #宝宝巴士奇妙屋

@@ -46,7 +46,6 @@ payload:
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.damai #大麦
   - PROCESS-NAME,cn.dict.android.pro #海词词典
-  - PROCESS-NAME,cn.dxckeji.xinliao #心聊视频聊天交友
   - PROCESS-NAME,cn.dxy.idxyer #丁香园
   - PROCESS-NAME,cn.dxy.medicinehelper #用药助手
   - PROCESS-NAME,cn.eclicks.drivingtest #车轮驾考通
@@ -506,6 +505,7 @@ payload:
   - PROCESS-NAME,com.jie.lockscreen #锁屏大全
   - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
+  - PROCESS-NAME,com.jimi.idphoto #在线证件照
   - PROCESS-NAME,com.jingdong.app.mall #京东
   - PROCESS-NAME,com.jingzhou #荆州社区
   - PROCESS-NAME,com.jinying.mobile #金鹰生活
@@ -1001,7 +1001,6 @@ payload:
   - PROCESS-NAME,epson.print #Epson iPrint
   - PROCESS-NAME,flipboard.cn #红板报
   - PROCESS-NAME,fm.qingting.qtradio #蜻蜓FM
-  - PROCESS-NAME,gzqf.chmao.ihusb #彩虹猫
   - PROCESS-NAME,hbyc.china.medical.view #壹生
   - PROCESS-NAME,howbuy.android.palmfund #好买基金
   - PROCESS-NAME,howbuy.android.piggy #储蓄罐
