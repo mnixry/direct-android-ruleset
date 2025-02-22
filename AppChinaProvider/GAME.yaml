@@ -799,6 +799,7 @@ payload:
   - PROCESS-NAME,com.tencent.game.rhythmmaster #节奏大师
   - PROCESS-NAME,com.tencent.gwgo #一起来捉妖
   - PROCESS-NAME,com.tencent.jyhx #劲乐幻想
+  - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
   - PROCESS-NAME,com.tencent.mf.uam #暗区突围
   - PROCESS-NAME,com.tencent.nfsonline #极品飞车：集结
   - PROCESS-NAME,com.tencent.pao #天天酷跑
@@ -885,7 +886,6 @@ payload:
   - PROCESS-NAME,com.wb.goog.godzilla.strikezone #哥斯拉：攻击区
   - PROCESS-NAME,com.wb.goog.injustice #不义联盟:人间之神
   - PROCESS-NAME,com.wb.goog.injustice.brawler2017 #不义联盟2
-  - PROCESS-NAME,com.wb.goog.legobdc #乐高蝙蝠侠2：超级英雄
   - PROCESS-NAME,com.wb.goog.legojurassicworld #乐高侏罗纪世界
   - PROCESS-NAME,com.wb.wwe.brawler2014 #WWE不朽战神 无限金币版
   - PROCESS-NAME,com.webprancer.google.garfieldDefense #加菲猫总动员

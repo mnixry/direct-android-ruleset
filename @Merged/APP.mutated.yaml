@@ -412,7 +412,7 @@ payload:
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器智能计算
   - PROCESS-NAME,com.ddsm.didu #Didu
-  - PROCESS-NAME,com.ddwallpaperang.wallpaper #图图乐-主题壁纸组件大全
+  - PROCESS-NAME,com.ddwallpaperang.wallpaper #图图乐
   - PROCESS-NAME,com.ddyhq.youhuiquan #优惠券
   - PROCESS-NAME,com.dealmoon.android #北美省钱快报
   - PROCESS-NAME,com.desktop.pendant #银河壁纸多多
@@ -1486,7 +1486,6 @@ payload:
   - PROCESS-NAME,com.xunlei.browser #迅雷浏览器
   - PROCESS-NAME,com.xunlei.downloadprovider #迅雷
   - PROCESS-NAME,com.xunmeng.pinduoduo #拼多多
-  - PROCESS-NAME,com.xunrui.videowallpaper #动态壁纸
   - PROCESS-NAME,com.xunruifairy.wallpaper #壁纸精灵
   - PROCESS-NAME,com.xvideostudio.videoeditor #乐秀视频剪辑视频编辑
   - PROCESS-NAME,com.xyhui #PU口袋校园
