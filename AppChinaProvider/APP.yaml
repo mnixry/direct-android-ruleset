@@ -505,7 +505,6 @@ payload:
   - PROCESS-NAME,com.jie.lockscreen #锁屏大全
   - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
-  - PROCESS-NAME,com.jimi.idphoto #在线证件照
   - PROCESS-NAME,com.jingdong.app.mall #京东
   - PROCESS-NAME,com.jingzhou #荆州社区
   - PROCESS-NAME,com.jinying.mobile #金鹰生活
@@ -1070,3 +1069,4 @@ payload:
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
+  - PROCESS-NAME,zuo.sai.che #全民跑车
