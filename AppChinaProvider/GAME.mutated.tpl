@@ -312,6 +312,7 @@ PROCESS-NAME,com.ezjoynetwork.marbleblast3,{{ rule }} # 七彩祖玛3
 PROCESS-NAME,com.ezjoynetwork.marbleblast4,{{ rule }} # 七彩祖玛4
 PROCESS-NAME,com.ezjoynetwork.petpop,{{ rule }} # 宠物消除
 PROCESS-NAME,com.f84games.survivalrun,{{ rule }} # 荒野求生
+PROCESS-NAME,com.faintmoon.staratlas,{{ rule }} # 星迷
 PROCESS-NAME,com.fancywing.s3,{{ rule }} # 全境戒备 测试服
 PROCESS-NAME,com.fde.avpevolution,{{ rule }} # 异形大战铁血战士：进化
 PROCESS-NAME,com.fde.predators,{{ rule }} # 铁血战士
@@ -503,6 +504,7 @@ PROCESS-NAME,com.kiloo.subwaysurf,{{ rule }} # 地铁跑酷
 PROCESS-NAME,com.king.farmheroessaga,{{ rule }} # Farm Heroes Saga
 PROCESS-NAME,com.kleientertainment.doNotStarveShipwrecked,{{ rule }} # 饥荒：海难
 PROCESS-NAME,com.knight.union.yyh,{{ rule }} # 元气骑士
+PROCESS-NAME,com.knit.zylt,{{ rule }} # 致远轮胎商城
 PROCESS-NAME,com.kuaihidjplay.product,{{ rule }} # 快嗨DJ
 PROCESS-NAME,com.kugou.viper,{{ rule }} # VIPER HiFi
 PROCESS-NAME,com.kumagames.highschoolsimulator2018,{{ rule }} # 高校模拟2018
@@ -894,6 +896,7 @@ PROCESS-NAME,com.webprancer.google.garfieldpethospital,{{ rule }} # 加菲猫的
 PROCESS-NAME,com.WildSoda.MineSurvival,{{ rule }} # 生存世界
 PROCESS-NAME,com.wooga.diamonddash,{{ rule }} # 飞爆钻石
 PROCESS-NAME,com.world.cmccmm.yyh,{{ rule }} # 世界Online
+PROCESS-NAME,com.wuba.lingan,{{ rule }} # 临感VR
 PROCESS-NAME,com.wx.vrpanorama,{{ rule }} # 伟星全景拍摄
 PROCESS-NAME,com.x3m.tx3,{{ rule }} # 极限摩托3
 PROCESS-NAME,com.xftc.xinfengtongcheng,{{ rule }} # 信丰同城

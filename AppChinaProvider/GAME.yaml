@@ -312,6 +312,7 @@ payload:
   - PROCESS-NAME,com.ezjoynetwork.marbleblast4 #七彩祖玛4
   - PROCESS-NAME,com.ezjoynetwork.petpop #宠物消除
   - PROCESS-NAME,com.f84games.survivalrun #荒野求生
+  - PROCESS-NAME,com.faintmoon.staratlas #星迷
   - PROCESS-NAME,com.fancywing.s3 #全境戒备 测试服
   - PROCESS-NAME,com.fde.avpevolution #异形大战铁血战士：进化
   - PROCESS-NAME,com.fde.predators #铁血战士
@@ -503,6 +504,7 @@ payload:
   - PROCESS-NAME,com.king.farmheroessaga #Farm Heroes Saga
   - PROCESS-NAME,com.kleientertainment.doNotStarveShipwrecked #饥荒：海难
   - PROCESS-NAME,com.knight.union.yyh #元气骑士
+  - PROCESS-NAME,com.knit.zylt #致远轮胎商城
   - PROCESS-NAME,com.kuaihidjplay.product #快嗨DJ
   - PROCESS-NAME,com.kugou.viper #VIPER HiFi
   - PROCESS-NAME,com.kumagames.highschoolsimulator2018 #高校模拟2018
@@ -894,6 +896,7 @@ payload:
   - PROCESS-NAME,com.WildSoda.MineSurvival #生存世界
   - PROCESS-NAME,com.wooga.diamonddash #飞爆钻石
   - PROCESS-NAME,com.world.cmccmm.yyh #世界Online
+  - PROCESS-NAME,com.wuba.lingan #临感VR
   - PROCESS-NAME,com.wx.vrpanorama #伟星全景拍摄
   - PROCESS-NAME,com.x3m.tx3 #极限摩托3
   - PROCESS-NAME,com.xftc.xinfengtongcheng #信丰同城

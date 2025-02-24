@@ -366,6 +366,7 @@ payload:
   - PROCESS-NAME,com.fimo.camera #FIMO
   - PROCESS-NAME,com.finals.finalsflash #来电闪光灯
   - PROCESS-NAME,com.flightmanager.view #航班管家
+  - PROCESS-NAME,com.fn.android #蜂鸟摄影
   - PROCESS-NAME,com.fombo.wallpaper #高清动态壁纸大全
   - PROCESS-NAME,com.font #写字先生
   - PROCESS-NAME,com.founder.qujing #掌上曲靖
@@ -415,6 +416,7 @@ payload:
   - PROCESS-NAME,com.happylife.multimedia.image #相片集
   - PROCESS-NAME,com.happyteam.dubbingshow #配音秀
   - PROCESS-NAME,com.heiyan.reader #黑岩阅读
+  - PROCESS-NAME,com.hellotalk #HelloTalk
   - PROCESS-NAME,com.hexin.android.bank #同花顺爱基金
   - PROCESS-NAME,com.hexin.android.stockassistant #i问财
   - PROCESS-NAME,com.hexin.ifind.android #同花顺iFinD
@@ -486,7 +488,6 @@ payload:
   - PROCESS-NAME,com.intel.voice #超级声音表情
   - PROCESS-NAME,com.intsig.BizCardReader #名片全能王
   - PROCESS-NAME,com.intsig.camscanner #扫描全能王
-  - PROCESS-NAME,com.iqinbao.android.songs #亲宝儿歌
   - PROCESS-NAME,com.irongroup #电话时间统计
   - PROCESS-NAME,com.iss.dongyingbank #东营银行
   - PROCESS-NAME,com.iss.taianbank #泰安银行
@@ -674,7 +675,6 @@ payload:
   - PROCESS-NAME,com.pcpop.popapk #hao网址大全
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.perracolabs.tcc #Tiny Call Confirm
-  - PROCESS-NAME,com.piaopiao.idphoto #证件照随拍
   - PROCESS-NAME,com.pingdiguo.tuner #乐器调音器
   - PROCESS-NAME,com.pinguo.edit.sdk #MIX滤镜大师
   - PROCESS-NAME,com.pplive.androidphone #PP视频
@@ -839,6 +839,7 @@ payload:
   - PROCESS-NAME,com.theotino.chinadaily #China Daily
   - PROCESS-NAME,com.theotino.sztv #无线苏州
   - PROCESS-NAME,com.thestore.main #1号会员店
+  - PROCESS-NAME,com.thinkyeah.galleryvault #照片保险箱
   - PROCESS-NAME,com.tianxingjian.screenshot #超级截图录屏大师
   - PROCESS-NAME,com.tieyou.train.ark #铁友火车票
   - PROCESS-NAME,com.ting.mp3.android #千千音乐
@@ -913,6 +914,7 @@ payload:
   - PROCESS-NAME,com.ximalaya.ting.android #喜马拉雅
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xingluo.mpa #魔力相册
+  - PROCESS-NAME,com.xingzhicheng2024.bizhi #超高清壁纸
   - PROCESS-NAME,com.xinhang.mobileclient #中国移动河南
   - PROCESS-NAME,com.xinli.fm #心理Fm
   - PROCESS-NAME,com.xinshuru.inputmethod #手心输入法
@@ -943,7 +945,6 @@ payload:
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
   - PROCESS-NAME,com.yigequanquanqq.app #一个圈圈
   - PROCESS-NAME,com.yilesoft.app.beautifulimageshow #图片文字美化
-  - PROCESS-NAME,com.yingyonghui.market #应用汇
   - PROCESS-NAME,com.yinliang.simple_desktop #超极简桌面
   - PROCESS-NAME,com.yipiao #智行火车票
   - PROCESS-NAME,com.yiruike.sodacn.android #甜盐相机
@@ -1069,4 +1070,3 @@ payload:
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
-  - PROCESS-NAME,zuo.sai.che #全民跑车

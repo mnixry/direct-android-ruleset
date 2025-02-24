@@ -523,6 +523,7 @@ payload:
   - PROCESS-NAME,com.flash.zhongcao #种草生活
   - PROCESS-NAME,com.flightmanager.view #航班管家
   - PROCESS-NAME,com.fm.aiyinsitan #爱音斯坦FM
+  - PROCESS-NAME,com.fn.android #蜂鸟摄影
   - PROCESS-NAME,com.folder.management #文件夹管家
   - PROCESS-NAME,com.fombo.wallpaper #高清动态壁纸大全
   - PROCESS-NAME,com.font #写字先生
@@ -605,6 +606,7 @@ payload:
   - PROCESS-NAME,com.hcc.app #捷信金融
   - PROCESS-NAME,com.hcyh.scanner #扫描仪全能王
   - PROCESS-NAME,com.heiyan.reader #黑岩阅读
+  - PROCESS-NAME,com.hellotalk #HelloTalk
   - PROCESS-NAME,com.helplove.shbf #社会扶贫
   - PROCESS-NAME,com.hexin.android.bank #同花顺爱基金
   - PROCESS-NAME,com.hexin.android.stockassistant #i问财
@@ -729,7 +731,6 @@ payload:
   - PROCESS-NAME,com.intsig.camscanner #扫描全能王
   - PROCESS-NAME,com.iodkols.onekeylockscreen #一键锁屏
   - PROCESS-NAME,com.iqilu.ksd #闪电新闻
-  - PROCESS-NAME,com.iqinbao.android.songs #亲宝儿歌
   - PROCESS-NAME,com.iqiyi.acg #爱奇艺叭嗒
   - PROCESS-NAME,com.iqiyi.qixiu #奇秀
   - PROCESS-NAME,com.irongroup #电话时间统计
@@ -1028,7 +1029,6 @@ payload:
   - PROCESS-NAME,com.perracolabs.tcc #Tiny Call Confirm
   - PROCESS-NAME,com.phoenix.read #红果免费短剧
   - PROCESS-NAME,com.phone.recording #电话录音宝
-  - PROCESS-NAME,com.piaopiao.idphoto #证件照随拍
   - PROCESS-NAME,com.pingan.carowner #平安好车主
   - PROCESS-NAME,com.pingan.lifeinsurance #平安金管家
   - PROCESS-NAME,com.pingan.paces.ccms #平安口袋银行
@@ -1315,6 +1315,7 @@ payload:
   - PROCESS-NAME,com.theotino.sztv #无线苏州
   - PROCESS-NAME,com.thestore.main #1号会员店
   - PROCESS-NAME,com.thinkive.mobile.open.account.huaan #华安证券手机开户
+  - PROCESS-NAME,com.thinkyeah.galleryvault #照片保险箱
   - PROCESS-NAME,com.threegene.yeemiao #小豆苗
   - PROCESS-NAME,com.tianqi2345 #2345天气预报
   - PROCESS-NAME,com.tianqi8.weather #天气吧
@@ -1462,6 +1463,7 @@ payload:
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xingjiabi.shengsheng #他趣
   - PROCESS-NAME,com.xingluo.mpa #魔力相册
+  - PROCESS-NAME,com.xingzhicheng2024.bizhi #超高清壁纸
   - PROCESS-NAME,com.xinhang.mobileclient #中国移动河南
   - PROCESS-NAME,com.xinhu.futures #新湖期货开户交易
   - PROCESS-NAME,com.xinli.fm #心理Fm
@@ -1703,7 +1705,6 @@ payload:
   - PROCESS-NAME,yiqi.bazi #易奇文化
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
-  - PROCESS-NAME,zuo.sai.che #全民跑车
   - PROCESS-NAME,zzll.cn.com.trader #彼彼省家
   - PROCESS-NAME,com.alicom.smartdial
   - PROCESS-NAME,com.bilibili.app.in
