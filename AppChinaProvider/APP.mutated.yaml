@@ -808,6 +808,7 @@ payload:
   - PROCESS-NAME,com.taoguba.app #淘股吧
   - PROCESS-NAME,com.taou.maimai #脉脉
   - PROCESS-NAME,com.telecom.video #天翼超高清
+  - PROCESS-NAME,com.tencent.android.qqdownloader #应用宝
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
   - PROCESS-NAME,com.tencent.gallerymanager #相册管家
   - PROCESS-NAME,com.tencent.gamehelper.smoba #王者营地
@@ -893,7 +894,6 @@ payload:
   - PROCESS-NAME,com.wondertek.paper #澎湃新闻
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
-  - PROCESS-NAME,com.wyfc.itingtxt #看小说听书
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xdf.recite #新东方乐词
   - PROCESS-NAME,com.xdtech.news.greatriver #江西新闻
@@ -902,7 +902,6 @@ payload:
   - PROCESS-NAME,com.xiachufang #下厨房
   - PROCESS-NAME,com.xiaobanlong.main #小伴龙
   - PROCESS-NAME,com.xiaoenai.app #小恩爱
-  - PROCESS-NAME,com.xiaomi.gamecenter #小米游戏中心
   - PROCESS-NAME,com.xiaomi.gamecenter.sdk.service #游戏服务
   - PROCESS-NAME,com.xiaomi.router #小米WiFi
   - PROCESS-NAME,com.xiaomi.shop #小米商城
@@ -940,6 +939,7 @@ payload:
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
   - PROCESS-NAME,com.yigequanquanqq.app #一个圈圈
   - PROCESS-NAME,com.yilesoft.app.beautifulimageshow #图片文字美化
+  - PROCESS-NAME,com.yingyonghui.market #应用汇
   - PROCESS-NAME,com.yinliang.simple_desktop #超极简桌面
   - PROCESS-NAME,com.yipiao #智行火车票
   - PROCESS-NAME,com.yiruike.sodacn.android #甜盐相机
