@@ -529,6 +529,7 @@ payload:
   - PROCESS-NAME,com.jx.safebrowser #安全浏览器
   - PROCESS-NAME,com.jxedt #驾校一点通
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
+  - PROCESS-NAME,com.kaola #考拉海购
   - PROCESS-NAME,com.kdbzyjz20 #口袋壁纸
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
@@ -738,7 +739,6 @@ payload:
   - PROCESS-NAME,com.shuqi.controller #书旗小说
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
-  - PROCESS-NAME,com.sijzhmg.vmkajz #风糖小组件
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.VDisk #新浪微盘
   - PROCESS-NAME,com.sina.weibo #微博
@@ -1070,3 +1070,4 @@ payload:
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
+  - PROCESS-NAME,zuo.sai.che #全民跑车

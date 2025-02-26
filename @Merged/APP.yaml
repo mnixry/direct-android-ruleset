@@ -637,7 +637,7 @@ payload:
   - PROCESS-NAME,com.honeymoon.stone.jean.poweredit #图片编辑工具
   - PROCESS-NAME,com.hong.chenranse #情趣淘成人购物商城
   - PROCESS-NAME,com.honghesoft.calligrapher #大书法家
-  - PROCESS-NAME,com.hongju.aishang #情趣
+  - PROCESS-NAME,com.hongju.aishang #情趣店
   - PROCESS-NAME,com.hongren.ui #红人直播
   - PROCESS-NAME,com.hongxiu.app #红袖读书
   - PROCESS-NAME,com.hoo.mood.wallpaper #免费壁纸王
@@ -1153,7 +1153,6 @@ payload:
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.shyz.toutiao #清理大师
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
-  - PROCESS-NAME,com.sijzhmg.vmkajz #风糖小组件
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.VDisk #新浪微盘
   - PROCESS-NAME,com.sina.weibo #微博
@@ -1704,4 +1703,5 @@ payload:
   - PROCESS-NAME,yiqi.bazi #易奇文化
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
+  - PROCESS-NAME,zuo.sai.che #全民跑车
   - PROCESS-NAME,zzll.cn.com.trader #彼彼省家

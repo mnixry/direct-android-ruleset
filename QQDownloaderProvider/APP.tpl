@@ -320,7 +320,7 @@ PROCESS-NAME,com.hlg.daydaytobusiness,{{ rule }} # 稿定设计
 PROCESS-NAME,com.holyblade.cloud.platform,{{ rule }} # 蘑菇云游
 PROCESS-NAME,com.homelink.android,{{ rule }} # 链家
 PROCESS-NAME,com.hong.chenranse,{{ rule }} # 情趣淘成人购物商城
-PROCESS-NAME,com.hongju.aishang,{{ rule }} # 情趣
+PROCESS-NAME,com.hongju.aishang,{{ rule }} # 情趣店
 PROCESS-NAME,com.hongren.ui,{{ rule }} # 红人直播
 PROCESS-NAME,com.HotelZhiDing.zhiding365,{{ rule }} # 直订
 PROCESS-NAME,com.hp.android.printservice,{{ rule }} # HP 打印服务插件

@@ -637,7 +637,7 @@ PROCESS-NAME,com.homelink.android,{{ rule }} # 链家
 PROCESS-NAME,com.honeymoon.stone.jean.poweredit,{{ rule }} # 图片编辑工具
 PROCESS-NAME,com.hong.chenranse,{{ rule }} # 情趣淘成人购物商城
 PROCESS-NAME,com.honghesoft.calligrapher,{{ rule }} # 大书法家
-PROCESS-NAME,com.hongju.aishang,{{ rule }} # 情趣
+PROCESS-NAME,com.hongju.aishang,{{ rule }} # 情趣店
 PROCESS-NAME,com.hongren.ui,{{ rule }} # 红人直播
 PROCESS-NAME,com.hongxiu.app,{{ rule }} # 红袖读书
 PROCESS-NAME,com.hoo.mood.wallpaper,{{ rule }} # 免费壁纸王
@@ -1153,7 +1153,6 @@ PROCESS-NAME,com.shusheng.JoJoRead,{{ rule }} # 叫叫
 PROCESS-NAME,com.shyltts,{{ rule }} # 读短信来电报姓名
 PROCESS-NAME,com.shyz.toutiao,{{ rule }} # 清理大师
 PROCESS-NAME,com.si.wallpapersi,{{ rule }} # 最美免费壁纸秀
-PROCESS-NAME,com.sijzhmg.vmkajz,{{ rule }} # 风糖小组件
 PROCESS-NAME,com.sina.news,{{ rule }} # 新浪新闻
 PROCESS-NAME,com.sina.VDisk,{{ rule }} # 新浪微盘
 PROCESS-NAME,com.sina.weibo,{{ rule }} # 微博
@@ -1704,5 +1703,6 @@ PROCESS-NAME,wshifu.app.android,{{ rule }} # 万师傅企业版
 PROCESS-NAME,yiqi.bazi,{{ rule }} # 易奇文化
 PROCESS-NAME,ysykzheng.hotlauncher,{{ rule }} # 热门启动器
 PROCESS-NAME,yyc.xk,{{ rule }} # 星空视频壁纸
+PROCESS-NAME,zuo.sai.che,{{ rule }} # 全民跑车
 PROCESS-NAME,zzll.cn.com.trader,{{ rule }} # 彼彼省家
 {% endmacro %}

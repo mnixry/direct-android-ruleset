@@ -527,6 +527,7 @@ PROCESS-NAME,com.jx.minibrowser,{{ rule }} # 极速浏览器
 PROCESS-NAME,com.jx.safebrowser,{{ rule }} # 安全浏览器
 PROCESS-NAME,com.jxedt,{{ rule }} # 驾校一点通
 PROCESS-NAME,com.kankanews.kankanxinwen,{{ rule }} # 看看新闻
+PROCESS-NAME,com.kaola,{{ rule }} # 考拉海购
 PROCESS-NAME,com.kdbzyjz20,{{ rule }} # 口袋壁纸
 PROCESS-NAME,com.Kingdee.Express,{{ rule }} # 快递100
 PROCESS-NAME,com.kingsoft,{{ rule }} # 金山词霸
@@ -733,7 +734,6 @@ PROCESS-NAME,com.shoujiduoduo.wallpaper,{{ rule }} # 壁纸多多
 PROCESS-NAME,com.shuqi.controller,{{ rule }} # 书旗小说
 PROCESS-NAME,com.shyltts,{{ rule }} # 读短信来电报姓名
 PROCESS-NAME,com.si.wallpapersi,{{ rule }} # 最美免费壁纸秀
-PROCESS-NAME,com.sijzhmg.vmkajz,{{ rule }} # 风糖小组件
 PROCESS-NAME,com.sina.news,{{ rule }} # 新浪新闻
 PROCESS-NAME,com.sina.VDisk,{{ rule }} # 新浪微盘
 PROCESS-NAME,com.sina.weibo,{{ rule }} # 微博
@@ -1065,6 +1065,7 @@ PROCESS-NAME,wind.deposit,{{ rule }} # 万得基金
 PROCESS-NAME,windinfo.android,{{ rule }} # Wind金融终端
 PROCESS-NAME,ysykzheng.hotlauncher,{{ rule }} # 热门启动器
 PROCESS-NAME,yyc.xk,{{ rule }} # 星空视频壁纸
+PROCESS-NAME,zuo.sai.che,{{ rule }} # 全民跑车
 PROCESS-NAME,com.alicom.smartdial,{{ rule }}
 PROCESS-NAME,com.bilibili.app.in,{{ rule }}
 PROCESS-NAME,me.gfuil.bmap,{{ rule }}

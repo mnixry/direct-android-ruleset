@@ -314,7 +314,7 @@ payload:
   - PROCESS-NAME,com.holyblade.cloud.platform #蘑菇云游
   - PROCESS-NAME,com.homelink.android #链家
   - PROCESS-NAME,com.hong.chenranse #情趣淘成人购物商城
-  - PROCESS-NAME,com.hongju.aishang #情趣
+  - PROCESS-NAME,com.hongju.aishang #情趣店
   - PROCESS-NAME,com.hongren.ui #红人直播
   - PROCESS-NAME,com.HotelZhiDing.zhiding365 #直订
   - PROCESS-NAME,com.hp.android.printservice #HP 打印服务插件
