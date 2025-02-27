@@ -245,7 +245,7 @@ payload:
   - PROCESS-NAME,com.cbnweekly #第一财经杂志
   - PROCESS-NAME,com.ccgs.sms #短信群发助手
   - PROCESS-NAME,com.cdcd.milv #觅侣-语音视频恋爱交友
-  - PROCESS-NAME,com.cdtv.app #看度
+  - PROCESS-NAME,com.cdtv.app #看度新闻
   - PROCESS-NAME,com.ceic.app #地震速报
   - PROCESS-NAME,com.chan.cwallpaper #图凌
   - PROCESS-NAME,com.changba #唱吧
@@ -730,7 +730,6 @@ payload:
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
   - PROCESS-NAME,com.shangc.tiennews #石榴云
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
-  - PROCESS-NAME,com.shengmi.photo #社交应用隐藏
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
   - PROCESS-NAME,com.shinyv.cnr #云听
   - PROCESS-NAME,com.shizhuang.duapp #得物
@@ -784,7 +783,6 @@ payload:
   - PROCESS-NAME,com.ss.android.article.news #今日头条
   - PROCESS-NAME,com.ss.android.tuchong #图虫
   - PROCESS-NAME,com.ss.android.ugc.aweme #抖音
-  - PROCESS-NAME,com.ss.android.ugc.live #抖音火山版
   - PROCESS-NAME,com.sskj.flashlight #随手电筒
   - PROCESS-NAME,com.ssports.mobile.video #爱奇艺体育
   - PROCESS-NAME,com.starbucks.cn #星巴克
@@ -975,6 +973,7 @@ payload:
   - PROCESS-NAME,com.yx #有信
   - PROCESS-NAME,com.yy.android.udbsec #YY安全中心
   - PROCESS-NAME,com.yyyfs.wallpaper #元宇宙壁纸
+  - PROCESS-NAME,com.zbx.ct.tvzhibo #手机电视高清直播
   - PROCESS-NAME,com.zd.meta #元气桌面宠物
   - PROCESS-NAME,com.zerone.hidesktop #我的桌面iScreen
   - PROCESS-NAME,com.zhangdan.app #51信用卡管家
@@ -1027,6 +1026,7 @@ payload:
   - PROCESS-NAME,net.ask123.mima96 #密码酷
   - PROCESS-NAME,net.bontec.wxqd.activity #爱青岛
   - PROCESS-NAME,net.cmoaciopm.sgsdict #三国杀大典
+  - PROCESS-NAME,net.hua.hua.a3dlivewallpaper #4D动态壁纸
   - PROCESS-NAME,net.joydao.radio #听听广播
   - PROCESS-NAME,net.kdnet.club #凯迪网
   - PROCESS-NAME,net.pchome.kds #kds宽带山
