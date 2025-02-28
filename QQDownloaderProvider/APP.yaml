@@ -235,7 +235,6 @@ payload:
   - PROCESS-NAME,com.eastmoney.android.fund #天天基金
   - PROCESS-NAME,com.easy.bus #无忧巴士
   - PROCESS-NAME,com.easy.subway #地铁查询宝
-  - PROCESS-NAME,com.easy.wallpaper #番茄动态壁纸
   - PROCESS-NAME,com.ebank.creditcard #阳光惠生活
   - PROCESS-NAME,com.ecitic.bank.mobile #中信银行
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
@@ -599,6 +598,7 @@ payload:
   - PROCESS-NAME,com.qq.qcloud #微云
   - PROCESS-NAME,com.qq.reader #QQ阅读
   - PROCESS-NAME,com.qsmy.walkmonkey #步多多
+  - PROCESS-NAME,com.qtx.qtxty #球天下体育
   - PROCESS-NAME,com.quanleimu.activity #百姓网
   - PROCESS-NAME,com.quanmai.findu #饭友
   - PROCESS-NAME,com.quark.browser #夸克
