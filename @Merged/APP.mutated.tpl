@@ -82,7 +82,7 @@ PROCESS-NAME,cn.huntlaw.android,{{ rule }} # 好律师
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
 PROCESS-NAME,cn.ishansong,{{ rule }} # 闪送
 PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
-PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 百度魔图
+PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 魔图精灵
 PROCESS-NAME,cn.jjpengcheng.wallpaper,{{ rule }} # 安卓动态壁纸
 PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
 PROCESS-NAME,cn.kaoshi100.view,{{ rule }} # 考试100
@@ -253,7 +253,6 @@ PROCESS-NAME,com.baidu.yuedu,{{ rule }} # 百度阅读
 PROCESS-NAME,com.baihe,{{ rule }} # 百合网
 PROCESS-NAME,com.baijiu.bizhi.sjbixiaz,{{ rule }} # Wallpaper
 PROCESS-NAME,com.baijiu.bizhi.zhutidaq,{{ rule }} # 主题
-PROCESS-NAME,com.balawallpaper.app,{{ rule }} # 巴拉壁纸
 PROCESS-NAME,com.bananavideo.atqb,{{ rule }} # 香焦视频
 PROCESS-NAME,com.bank,{{ rule }} # 黄河银行
 PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
@@ -1687,6 +1686,7 @@ PROCESS-NAME,smskb.com,{{ rule }} # 盛名时刻表
 PROCESS-NAME,software.ecenter.study,{{ rule }} # 状元共享课堂
 PROCESS-NAME,sogou.mobile.explorer,{{ rule }} # 搜狗浏览器极速版
 PROCESS-NAME,sr.daiv.alls.ko,{{ rule }} # 基础韩语口语
+PROCESS-NAME,ssdk.xkbz.gzgy,{{ rule }} # 星空壁纸
 PROCESS-NAME,tool.music.ringtonemaker,{{ rule }} # 铃声制作MP3编辑器
 PROCESS-NAME,ts.NetTraffic,{{ rule }} # 网速流量监测
 PROCESS-NAME,tt.lt.tt,{{ rule }} # 聊天漂流瓶

@@ -61,7 +61,7 @@ payload:
   - PROCESS-NAME,cn.gzmovement #动静新闻
   - PROCESS-NAME,cn.ibabyzone.music #胎教盒子
   - PROCESS-NAME,cn.itheme.tech #手机主题
-  - PROCESS-NAME,cn.jingling.motu.photowonder #百度魔图
+  - PROCESS-NAME,cn.jingling.motu.photowonder #魔图精灵
   - PROCESS-NAME,cn.jjpengcheng.wallpaper #安卓动态壁纸
   - PROCESS-NAME,cn.jsb.china #江苏银行
   - PROCESS-NAME,cn.kaoshi100.view #考试100
@@ -193,7 +193,6 @@ payload:
   - PROCESS-NAME,com.baihe #百合网
   - PROCESS-NAME,com.baijiu.bizhi.sjbixiaz #Wallpaper
   - PROCESS-NAME,com.baijiu.bizhi.zhutidaq #主题
-  - PROCESS-NAME,com.balawallpaper.app #巴拉壁纸
   - PROCESS-NAME,com.bank #黄河银行
   - PROCESS-NAME,com.baoear.baoer #宝耳
   - PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq #科技之光-宝软3D主题
@@ -1057,6 +1056,7 @@ payload:
   - PROCESS-NAME,smskb.com #盛名时刻表
   - PROCESS-NAME,sogou.mobile.explorer #搜狗浏览器极速版
   - PROCESS-NAME,sr.daiv.alls.ko #基础韩语口语
+  - PROCESS-NAME,ssdk.xkbz.gzgy #星空壁纸
   - PROCESS-NAME,tool.music.ringtonemaker #铃声制作MP3编辑器
   - PROCESS-NAME,ts.NetTraffic #网速流量监测
   - PROCESS-NAME,tt.lt.tt #聊天漂流瓶
