@@ -591,7 +591,7 @@ PROCESS-NAME,com.meitu.meipaimv,{{ rule }} # 美拍
 PROCESS-NAME,com.meitu.meiyancamera,{{ rule }} # 美颜相机
 PROCESS-NAME,com.meitu.poster,{{ rule }} # 美图设计室
 PROCESS-NAME,com.meitu.wheecam,{{ rule }} # 潮自拍
-PROCESS-NAME,com.meitu.wink,{{ rule }} # Wink
+PROCESS-NAME,com.meitu.wink,{{ rule }} # Meitu Wink
 PROCESS-NAME,com.meixun.wnpet,{{ rule }} # 蜗牛桌宠- 桌面小组件
 PROCESS-NAME,com.meizu.flyme.find,{{ rule }} # 查找手机
 PROCESS-NAME,com.melot.meshow,{{ rule }} # KK

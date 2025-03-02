@@ -593,7 +593,7 @@ payload:
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
-  - PROCESS-NAME,com.meitu.wink #Wink
+  - PROCESS-NAME,com.meitu.wink #Meitu Wink
   - PROCESS-NAME,com.meixun.wnpet #蜗牛桌宠- 桌面小组件
   - PROCESS-NAME,com.meizu.flyme.find #查找手机
   - PROCESS-NAME,com.melot.meshow #KK
