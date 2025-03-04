@@ -51,8 +51,8 @@ module.exports = {
 ```yaml
 rules:
 {% filter clash %}
-{{ remoteSnippet.chinaApps.main('DIRECT') }}
-{{ remoteSnippet.chinaGames.main('DIRECT') }}
+{{ remoteSnippets.chinaApps.main('DIRECT') }}
+{{ remoteSnippets.chinaGames.main('DIRECT') }}
 {% endfilter %}
 ```
 
