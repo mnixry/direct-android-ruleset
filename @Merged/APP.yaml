@@ -420,9 +420,9 @@ payload:
   - PROCESS-NAME,com.deyi.client #得意生活
   - PROCESS-NAME,com.DHgate.seller.android #敦煌网商户
   - PROCESS-NAME,com.dianping.v1 #大众点评
-  - PROCESS-NAME,com.dida.help #滴答滴顺风车
-  - PROCESS-NAME,com.didago.dida #滴答顺风车
-  - PROCESS-NAME,com.didago.travel #滴答出行
+  - PROCESS-NAME,com.dida.help #滴答滴
+  - PROCESS-NAME,com.didago.dida #滴答滴顺风车
+  - PROCESS-NAME,com.didago.travel #滴答滴出行
   - PROCESS-NAME,com.didapinche.booking #嘀嗒出行
   - PROCESS-NAME,com.diershoubing.erbing #二柄
   - PROCESS-NAME,com.digitalgd.dgyss #粤省事
@@ -580,7 +580,6 @@ payload:
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
   - PROCESS-NAME,com.greentree.android #格林
   - PROCESS-NAME,com.gstarmc.android #CAD看图王
-  - PROCESS-NAME,com.gtdev5.caller_flashover #来电闪
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.guotai.dazhihui #国泰君安君弘
@@ -686,7 +685,6 @@ payload:
   - PROCESS-NAME,com.huxiupro #妙投
   - PROCESS-NAME,com.huyun.ybb #运帮帮
   - PROCESS-NAME,com.hw.okm #二三里
-  - PROCESS-NAME,com.hxak.liangongbao #链工宝
   - PROCESS-NAME,com.hyhy.view #掌上天津
   - PROCESS-NAME,com.i61.draw.live #画啦啦美术课堂
   - PROCESS-NAME,com.ibike.publicbicycle.activity #永安行
@@ -826,7 +824,7 @@ payload:
   - PROCESS-NAME,com.kugou.android.ktvapp #酷狗唱唱
   - PROCESS-NAME,com.kugou.android.ringtone #酷狗铃声
   - PROCESS-NAME,com.kugou.fanxing #酷狗直播
-  - PROCESS-NAME,com.kunpeng.babyting #宝贝听听
+  - PROCESS-NAME,com.kunpeng.babyting #宝贝听听-睡前故事
   - PROCESS-NAME,com.kunpeng.bluefont #字体下载极速版
   - PROCESS-NAME,com.kwai.livepartner #快手直播伴侣
   - PROCESS-NAME,com.kwai.m2u #一甜相机
@@ -970,7 +968,7 @@ payload:
   - PROCESS-NAME,com.myzaker.ZAKER_Phone #ZAKER
   - PROCESS-NAME,com.n_add.android #粉象生活
   - PROCESS-NAME,com.nade.ownerride #顺风车司机版
-  - PROCESS-NAME,com.nade.tickowner #滴答出行司机端
+  - PROCESS-NAME,com.nade.tickowner #滴答滴出行司机端
   - PROCESS-NAME,com.naiyoubz.main #奶油桌面
   - PROCESS-NAME,com.nanyibang.nomi #男衣邦穿衣搭配
   - PROCESS-NAME,com.nanyibang.rm #穿衣有品
@@ -1004,6 +1002,7 @@ payload:
   - PROCESS-NAME,com.nineteenlou.nineteenlou #19楼
   - PROCESS-NAME,com.ninexiu.sixninexiu #九秀直播
   - PROCESS-NAME,com.niuguwang.stock #牛股王股票
+  - PROCESS-NAME,com.njh.biubiu #biubiu加速器
   - PROCESS-NAME,com.njmizhilan.wallpaper #动态壁纸
   - PROCESS-NAME,com.njwry.zhuochong #桌面宠物多多
   - PROCESS-NAME,com.novv.resshare #光点视频壁纸
@@ -1154,6 +1153,7 @@ payload:
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.shyz.toutiao #清理大师
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
+  - PROCESS-NAME,com.sijzhmg.vmkajz #风糖小组件
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.VDisk #新浪微盘
   - PROCESS-NAME,com.sina.weibo #微博
