@@ -140,6 +140,7 @@ PROCESS-NAME,com.appchina.yugao.2021101902,{{ rule }} # 足球经理2022 移动�
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
 PROCESS-NAME,com.appchina.yugao.2022020701,{{ rule }} # 奥林匹克运动会：北京2022
 PROCESS-NAME,com.appchina.yugao.2022051001,{{ rule }} # 完美滑板 
+PROCESS-NAME,com.appchina.yugao.202406039,{{ rule }} # 热血美职篮
 PROCESS-NAME,com.appsorama.kleptocats,{{ rule }} # 小偷猫
 PROCESS-NAME,com.aquiris.horizonchase,{{ rule }} # 驶向天际 赛道解锁版
 PROCESS-NAME,com.arbstudios.tikikartfree,{{ rule }} # 提基卡丁车
@@ -175,7 +176,6 @@ PROCESS-NAME,com.bolong.super2048,{{ rule }} # 超级2048
 PROCESS-NAME,com.bossastudios.ss13touch,{{ rule }} # 外科医生
 PROCESS-NAME,com.brainfreezing.KpopIdolSimulator,{{ rule }} # 韩娱偶像模拟器
 PROCESS-NAME,com.brianbaek.popstar,{{ rule }} # 消灭星星全新版
-PROCESS-NAME,com.bsoft.hcn.jieyi,{{ rule }} # 闵行捷医
 PROCESS-NAME,com.budgestudios.googleplay.BarbieDreamhouse,{{ rule }} # 芭比梦幻小屋历险
 PROCESS-NAME,com.build.scan,{{ rule }} # 途景VR智拍
 PROCESS-NAME,com.bulkypix.deadeffect,{{ rule }} # 死亡效应
@@ -473,7 +473,6 @@ PROCESS-NAME,com.immusician.ukulele.tuner,{{ rule }} # AI调音器
 PROCESS-NAME,com.Imperialeagle.rts,{{ rule }} # 铁锈战争:帝国雄鹰
 PROCESS-NAME,com.IMStudio.PocketRally,{{ rule }} # 掌上拉力赛
 PROCESS-NAME,com.infinityvector.assolutoracing,{{ rule }} # 绝对赛车
-PROCESS-NAME,com.inhe.meifa,{{ rule }} # 美发预约
 PROCESS-NAME,com.integer3d.dirtroadtrucker,{{ rule }} # 3D泥路货车
 PROCESS-NAME,com.InterServ.ApocalypseKnights,{{ rule }} # 光之骑士
 PROCESS-NAME,com.ironhidegames.android.kingdomrush,{{ rule }} # 王国保卫战
@@ -543,6 +542,7 @@ PROCESS-NAME,com.mediocre.smashhit,{{ rule }} # 急速冲击
 PROCESS-NAME,com.meetfuture.cooldrum,{{ rule }} # 酷架子鼓
 PROCESS-NAME,com.melesta.coffeeshop,{{ rule }} # 我的咖啡厅 - 世界餐厅游戏
 PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator,{{ rule }} # 校园女生模拟器
+PROCESS-NAME,com.meuni.app,{{ rule }} # 元校
 PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2,{{ rule }} # 泡泡女巫传奇2
 PROCESS-NAME,com.miga.mypets,{{ rule }} # 米加小镇:宠物
 PROCESS-NAME,com.miga.mystore,{{ rule }} # 米加小镇:商店
