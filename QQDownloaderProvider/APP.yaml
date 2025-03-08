@@ -200,6 +200,7 @@ payload:
   - PROCESS-NAME,com.dbscgeneral #东北证券融e通
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器智能计算
   - PROCESS-NAME,com.ddyhq.youhuiquan #优惠券
+  - PROCESS-NAME,com.dedao.juvenile #少年得到
   - PROCESS-NAME,com.devuni.flashlight #超级手电筒
   - PROCESS-NAME,com.dewmobile.kuaiya #快牙
   - PROCESS-NAME,com.dianping.v1 #大众点评
@@ -469,7 +470,6 @@ payload:
   - PROCESS-NAME,com.liulishuo.engzo #流利说-英语
   - PROCESS-NAME,com.lltskb.lltskb #路路通
   - PROCESS-NAME,com.lofter.android #网易LOFTER
-  - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸_桌面锁屏
   - PROCESS-NAME,com.lphtsccft #涨乐财富通
   - PROCESS-NAME,com.lt.lighting #来电闪光
   - PROCESS-NAME,com.lu.ashionweather #天气预报
@@ -879,6 +879,7 @@ payload:
   - PROCESS-NAME,com.xiwei.logistics #运满满司机
   - PROCESS-NAME,com.xiwei.logistics.consignor #运满满货主
   - PROCESS-NAME,com.xk.span.zutuan #美逛
+  - PROCESS-NAME,com.xmcy.hykb #好游快爆
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xt.retouch #醒图
   - PROCESS-NAME,com.xtc.watch #小天才

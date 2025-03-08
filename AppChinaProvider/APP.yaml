@@ -399,7 +399,6 @@ payload:
   - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.gpslh.baidumap #物联在线
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
-  - PROCESS-NAME,com.gtdev5.caller_flashover #来电闪
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
@@ -684,7 +683,7 @@ payload:
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
   - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
-  - PROCESS-NAME,com.qiaola.desktop #动态壁纸精灵
+  - PROCESS-NAME,com.qiaola.desktop #主题壁纸美化
   - PROCESS-NAME,com.qidian.QDReader #起点读书
   - PROCESS-NAME,com.qihoo.appstore #360手机助手
   - PROCESS-NAME,com.qihoo.browser #360浏览器
@@ -740,6 +739,7 @@ payload:
   - PROCESS-NAME,com.shuqi.controller #书旗小说
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
+  - PROCESS-NAME,com.sijzhmg.vmkajz #风糖小组件
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.VDisk #新浪微盘
   - PROCESS-NAME,com.sina.weibo #微博
