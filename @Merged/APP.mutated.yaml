@@ -220,7 +220,6 @@ payload:
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
   - PROCESS-NAME,com.appstarry.beauty.widget #小组件桌面美化
   - PROCESS-NAME,com.appsys.goodname #易经起名取名
-  - PROCESS-NAME,com.astonievanesc.affinit #怦然来电
   - PROCESS-NAME,com.ataaw.tianyi #天翼生活
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
@@ -582,6 +581,7 @@ payload:
   - PROCESS-NAME,com.greenline.guahao #微医
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
   - PROCESS-NAME,com.greentree.android #格林
+  - PROCESS-NAME,com.growing.topwidgets #万能小组件
   - PROCESS-NAME,com.gstarmc.android #CAD看图王
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
@@ -1476,7 +1476,7 @@ payload:
   - PROCESS-NAME,com.xiwei.logistics.consignor #运满满货主
   - PROCESS-NAME,com.xk.span.zutuan #美逛
   - PROCESS-NAME,com.xmcy.hykb #好游快爆
-  - PROCESS-NAME,com.xnbzxbk #仙女壁纸
+  - PROCESS-NAME,com.xnbzxbk #宣宝仙女壁纸
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xt.retouch #醒图
   - PROCESS-NAME,com.xtc.watch #小天才

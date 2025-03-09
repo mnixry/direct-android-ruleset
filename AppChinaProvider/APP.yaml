@@ -161,7 +161,6 @@ payload:
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
   - PROCESS-NAME,com.appstarry.beauty.widget #小组件桌面美化
-  - PROCESS-NAME,com.astonievanesc.affinit #怦然来电
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.avatar.kungfufinance #功夫财经
@@ -399,6 +398,7 @@ payload:
   - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.gpslh.baidumap #物联在线
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
+  - PROCESS-NAME,com.growing.topwidgets #万能小组件
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
@@ -917,7 +917,7 @@ payload:
   - PROCESS-NAME,com.xinli.fm #心理Fm
   - PROCESS-NAME,com.xinshuru.inputmethod #手心输入法
   - PROCESS-NAME,com.xinyu210.enchdictionary #英汉词典
-  - PROCESS-NAME,com.xnbzxbk #仙女壁纸
+  - PROCESS-NAME,com.xnbzxbk #宣宝仙女壁纸
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xt.retouch #醒图
   - PROCESS-NAME,com.xtuone.android.syllabus #超级课程表
