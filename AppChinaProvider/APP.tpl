@@ -22,7 +22,6 @@ PROCESS-NAME,cn.cj.pe,{{ rule }} # 139邮箱
 PROCESS-NAME,cn.cntv,{{ rule }} # 央视影音
 PROCESS-NAME,cn.cntvhd,{{ rule }} # 央视影音HD-新闻体育人文影视高清
 PROCESS-NAME,cn.cntvnews,{{ rule }} # 央视新闻
-PROCESS-NAME,cn.co.toyota_ms.smartGLINK,{{ rule }} # eLexusClub
 PROCESS-NAME,cn.colorv,{{ rule }} # 彩视
 PROCESS-NAME,cn.com.enorth.jinyun,{{ rule }} # 津云
 PROCESS-NAME,cn.com.gjzq.yjb.kh,{{ rule }} # 佣金宝开户
@@ -56,7 +55,6 @@ PROCESS-NAME,cn.emagsoftware.gamehall,{{ rule }} # 咪咕快游
 PROCESS-NAME,cn.emoney.level2,{{ rule }} # 益盟操盘手经典版
 PROCESS-NAME,cn.etouch.ecalendar,{{ rule }} # 中华万年历
 PROCESS-NAME,cn.fmsyjhgb,{{ rule }} # FM收音机广播-广播电台
-PROCESS-NAME,cn.ghac.gha,{{ rule }} # 广汽本田
 PROCESS-NAME,cn.gogocity.suibian,{{ rule }} # 随便走
 PROCESS-NAME,cn.gzmovement,{{ rule }} # 动静新闻
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
@@ -85,7 +83,6 @@ PROCESS-NAME,cn.shengmimi.callshow,{{ rule }} # 视频铃声
 PROCESS-NAME,cn.shengmitech.intelllock,{{ rule }} # 锁屏
 PROCESS-NAME,cn.shijihaiwaitech.hunli,{{ rule }} # 婚礼邀请函
 PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
-PROCESS-NAME,cn.sqcat.jwcamera,{{ rule }} # 经纬
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
 PROCESS-NAME,cn.vcinema.cinema,{{ rule }} # 南瓜电影
 PROCESS-NAME,cn.weixiaowenghua.Polaroid,{{ rule }} # 拍立得
@@ -336,7 +333,7 @@ PROCESS-NAME,com.easy.wallpaper,{{ rule }} # 番茄动态壁纸
 PROCESS-NAME,com.ebnews,{{ rule }} # 亿邦
 PROCESS-NAME,com.eg.android.AlipayGphone,{{ rule }} # 支付宝
 PROCESS-NAME,com.ell.wallpaperell,{{ rule }} # 主题商店免费
-PROCESS-NAME,com.eno.android,{{ rule }} # 国海金探号
+PROCESS-NAME,com.elong.merchant,{{ rule }} # 同程酒店商家
 PROCESS-NAME,com.eno.android.cj.page,{{ rule }} # 长江e号
 PROCESS-NAME,com.eno.xyzq.page,{{ rule }} # 兴业证券优理宝
 PROCESS-NAME,com.enotary.cloud,{{ rule }} # 公证云
@@ -440,6 +437,7 @@ PROCESS-NAME,com.honeymoon.stone.jean.poweredit,{{ rule }} # 图片编辑工具
 PROCESS-NAME,com.honghesoft.calligrapher,{{ rule }} # 大书法家
 PROCESS-NAME,com.hongxiu.app,{{ rule }} # 红袖读书
 PROCESS-NAME,com.hoo.mood.wallpaper,{{ rule }} # 免费壁纸王
+PROCESS-NAME,com.hp.android.printservice,{{ rule }} # HP 打印服务插件
 PROCESS-NAME,com.hqf.app.yuanqi,{{ rule }} # 趣玩桌面壁纸
 PROCESS-NAME,com.hsbank.mobilebank,{{ rule }} # 徽商银行
 PROCESS-NAME,com.htffund.mobile.ec.ui,{{ rule }} # 汇添富现金宝
@@ -470,6 +468,7 @@ PROCESS-NAME,com.ichano.athome.camera,{{ rule }} # 掌上看家
 PROCESS-NAME,com.iCitySuzhou.suzhou001,{{ rule }} # 引力播
 PROCESS-NAME,com.icoolme.android.weather,{{ rule }} # 最美天气
 PROCESS-NAME,com.id10000,{{ rule }} # ID
+PROCESS-NAME,com.idotools.rings,{{ rule }} # 多多铃声
 PROCESS-NAME,com.ifanr.activitys,{{ rule }} # 爱范儿
 PROCESS-NAME,com.ifeimo.videoeditor,{{ rule }} # 视频剪辑大师
 PROCESS-NAME,com.ifeng.fhdt,{{ rule }} # 凤凰FM
@@ -489,7 +488,6 @@ PROCESS-NAME,com.intel.voice,{{ rule }} # 超级声音表情
 PROCESS-NAME,com.intsig.BizCardReader,{{ rule }} # 名片全能王
 PROCESS-NAME,com.intsig.camscanner,{{ rule }} # 扫描全能王
 PROCESS-NAME,com.irongroup,{{ rule }} # 电话时间统计
-PROCESS-NAME,com.iss.dongyingbank,{{ rule }} # 东营银行
 PROCESS-NAME,com.iss.taianbank,{{ rule }} # 泰安银行
 PROCESS-NAME,com.istone.activity,{{ rule }} # 邦购商城
 PROCESS-NAME,com.iyuba.AE,{{ rule }} # 美语怎么说
@@ -685,7 +683,6 @@ PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer
 PROCESS-NAME,com.qdnews.qd,{{ rule }} # 青岛新闻
 PROCESS-NAME,com.qiaola.desktop,{{ rule }} # 主题壁纸美化
 PROCESS-NAME,com.qidian.QDReader,{{ rule }} # 起点读书
-PROCESS-NAME,com.qihoo.appstore,{{ rule }} # 360手机助手
 PROCESS-NAME,com.qihoo.browser,{{ rule }} # 360浏览器
 PROCESS-NAME,com.qihoo.camera,{{ rule }} # 360摄像机
 PROCESS-NAME,com.qihoo.cleandroid_cn,{{ rule }} # 360清理大师
@@ -745,6 +742,7 @@ PROCESS-NAME,com.sina.VDisk,{{ rule }} # 新浪微盘
 PROCESS-NAME,com.sina.weibo,{{ rule }} # 微博
 PROCESS-NAME,com.sina.weibog3,{{ rule }} # 微博移动版
 PROCESS-NAME,com.sing.client,{{ rule }} # 5sing音乐
+PROCESS-NAME,com.sinosoft.mobilebiz.chinalife,{{ rule }} # 中国人寿综合金融
 PROCESS-NAME,com.sinovatech.gxmobile.ui,{{ rule }} # 中国移动广西
 PROCESS-NAME,com.sinovatech.unicom.ui,{{ rule }} # 中国联通
 PROCESS-NAME,com.sinovoice.hcicloudinput,{{ rule }} # 灵云智能输入法
@@ -811,6 +809,7 @@ PROCESS-NAME,com.taobao.trip,{{ rule }} # 飞猪旅行
 PROCESS-NAME,com.taoche.qctt,{{ rule }} # 汽车头条
 PROCESS-NAME,com.taoguba.app,{{ rule }} # 淘股吧
 PROCESS-NAME,com.taou.maimai,{{ rule }} # 脉脉
+PROCESS-NAME,com.tdx.AndroidNew,{{ rule }} # 通达信
 PROCESS-NAME,com.telecom.video,{{ rule }} # 天翼超高清
 PROCESS-NAME,com.tencent.androidqqmail,{{ rule }} # QQ邮箱
 PROCESS-NAME,com.tencent.gallerymanager,{{ rule }} # 相册管家
@@ -1027,6 +1026,7 @@ PROCESS-NAME,net.bontec.wxqd.activity,{{ rule }} # 爱青岛
 PROCESS-NAME,net.cmoaciopm.sgsdict,{{ rule }} # 三国杀大典
 PROCESS-NAME,net.hua.hua.a3dlivewallpaper,{{ rule }} # 4D动态壁纸
 PROCESS-NAME,net.joydao.radio,{{ rule }} # 听听广播
+PROCESS-NAME,net.joydao.spring2011,{{ rule }} # 祝福短信
 PROCESS-NAME,net.kdnet.club,{{ rule }} # 凯迪网
 PROCESS-NAME,net.pchome.kds,{{ rule }} # kds宽带山
 PROCESS-NAME,net.qihoo.launcher.widget.clockweather,{{ rule }} # 360天气

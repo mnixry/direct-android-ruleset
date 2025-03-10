@@ -226,6 +226,7 @@ PROCESS-NAME,com.chucklefish.stardewvalley,{{ rule }} # 星露谷物语
 PROCESS-NAME,com.citizen12.nanosaur2,{{ rule }} # 恐龙战士
 PROCESS-NAME,com.clapfootgames.laserwars,{{ rule }} # 坦克大战:激光战争
 PROCESS-NAME,com.clapfootgames.vtt3d,{{ rule }} # 3D乒乓球
+PROCESS-NAME,com.classicgame.newmagictower,{{ rule }} # 新新魔塔
 PROCESS-NAME,com.cliffordsoftware.android.motoxtreme,{{ rule }} # 越野摩托
 PROCESS-NAME,com.clius.realparking3d,{{ rule }} # 3D超真实停车
 PROCESS-NAME,com.cnvcs.xiangqi,{{ rule }} # 中国象棋
@@ -452,6 +453,7 @@ PROCESS-NAME,com.glutenfreegames.snakesimulator,{{ rule }} # 蟒蛇模拟器
 PROCESS-NAME,com.glutenfreegames.ultimatesafarisimulator,{{ rule }} # 热带草原动物模拟器
 PROCESS-NAME,com.gmfr.heavy.excavator.simulator2,{{ rule }} # 重型挖掘机3D模拟器2
 PROCESS-NAME,com.gml.fw.fw2,{{ rule }} # 战斗之翼2
+PROCESS-NAME,com.gof.china,{{ rule }} # 无尽冬日
 PROCESS-NAME,com.golaxy.mobile,{{ rule }} # 星阵围棋
 PROCESS-NAME,com.goorusoft.MetalWars3,{{ rule }} # 金属咆哮3
 PROCESS-NAME,com.grampus.cookingadventure,{{ rule }} # 烹饪冒险
@@ -464,7 +466,6 @@ PROCESS-NAME,com.halfbrick.colossatron,{{ rule }} # 庞然巨物
 PROCESS-NAME,com.halfbrick.fruitninja,{{ rule }} # 水果忍者
 PROCESS-NAME,com.halfbrick.fruitninjafree,{{ rule }} # Fruit Ninja
 PROCESS-NAME,com.halfbrick.fruitninjapib,{{ rule }} # 水果忍者之穿靴子的猫:Fruit
-PROCESS-NAME,com.HanBinLi.ThinkingPaper,{{ rule }} # 多练思维训练
 PROCESS-NAME,com.happyelements.AndroidAnimal,{{ rule }} # 开心消消乐
 PROCESS-NAME,com.happyelements.AndroidAnimal.qq,{{ rule }} # 开心消消乐
 PROCESS-NAME,com.happyelements.AndroidClover.www,{{ rule }} # 海滨消消乐
@@ -515,7 +516,6 @@ PROCESS-NAME,com.Imperialeagle.rts,{{ rule }} # 铁锈战争:帝国雄鹰
 PROCESS-NAME,com.IMStudio.PocketRally,{{ rule }} # 掌上拉力赛
 PROCESS-NAME,com.indeed.golinks,{{ rule }} # 弈客围棋
 PROCESS-NAME,com.infinityvector.assolutoracing,{{ rule }} # 绝对赛车
-PROCESS-NAME,com.inhe.meifa,{{ rule }} # 美发预约
 PROCESS-NAME,com.integer3d.dirtroadtrucker,{{ rule }} # 3D泥路货车
 PROCESS-NAME,com.InterServ.ApocalypseKnights,{{ rule }} # 光之骑士
 PROCESS-NAME,com.ironhidegames.android.kingdomrush,{{ rule }} # 王国保卫战
@@ -571,6 +571,7 @@ PROCESS-NAME,com.leiting.wjcs.android,{{ rule }} # 问剑长生
 PROCESS-NAME,com.leiting.xiany,{{ rule }} # 一念逍遥
 PROCESS-NAME,com.leoexe.archery,{{ rule }} # 策马入山林
 PROCESS-NAME,com.leosfortune,{{ rule }} # 里奥的财富
+PROCESS-NAME,com.leyouwanban.lywb,{{ rule }} # 乐优达人
 PROCESS-NAME,com.liaoyanxuan.jeweldropdom,{{ rule }} # 方块宝石滑消消
 PROCESS-NAME,com.liaoyanxuan.sudoku,{{ rule }} # 数独玩家
 PROCESS-NAME,com.liaoyanxuan.unblockMeKlotski,{{ rule }} # 三国华容道谜题集
@@ -730,6 +731,7 @@ PROCESS-NAME,com.ovilex.schooldriving3d,{{ rule }} # 学校驾驶3D
 PROCESS-NAME,com.ovilex.trucksimulator3d,{{ rule }} # 卡车模拟3D
 PROCESS-NAME,com.ovilex.trucksimulatorusa,{{ rule }} # 美国卡车模拟
 PROCESS-NAME,com.oxgame.smxf,{{ rule }} # 使命先锋
+PROCESS-NAME,com.papegames.infinitynikki,{{ rule }} # 无限暖暖
 PROCESS-NAME,com.papegames.lysk.cn,{{ rule }} # 恋与深空
 PROCESS-NAME,com.paradoxplaza.imagicka,{{ rule }} # 魔能：方碑之巫
 PROCESS-NAME,com.patigames.ilovepasta4gsp,{{ rule }} # 全民餐厅
@@ -945,7 +947,6 @@ PROCESS-NAME,com.tencent.gwgo,{{ rule }} # 一起来捉妖
 PROCESS-NAME,com.tencent.hhw,{{ rule }} # 航海王：壮志雄心
 PROCESS-NAME,com.tencent.huajing,{{ rule }} # 画境长恨歌
 PROCESS-NAME,com.tencent.hxgame,{{ rule }} # QQ华夏手游
-PROCESS-NAME,com.tencent.hygd,{{ rule }} # 荒野国度
 PROCESS-NAME,com.tencent.hyrzol,{{ rule }} # 火影忍者：忍者新世代
 PROCESS-NAME,com.tencent.jgm,{{ rule }} # 家国梦
 PROCESS-NAME,com.tencent.jkchess,{{ rule }} # 金铲铲之战
@@ -1087,6 +1088,7 @@ PROCESS-NAME,com.tencent.tmgp.cszr.cly,{{ rule }} # 侠剑狂歌
 PROCESS-NAME,com.tencent.tmgp.ctycj,{{ rule }} # 餐厅养成记
 PROCESS-NAME,com.tencent.tmgp.cxswz,{{ rule }} # 潮汐守望者
 PROCESS-NAME,com.tencent.tmgp.cyddztwo,{{ rule }} # 禅游斗地主
+PROCESS-NAME,com.tencent.tmgp.cykj.kldmx,{{ rule }} # 卡罗大冒险
 PROCESS-NAME,com.tencent.tmgp.daluandou,{{ rule }} # 奇葩战斗家
 PROCESS-NAME,com.tencent.tmgp.dancingline,{{ rule }} # 跳舞的线
 PROCESS-NAME,com.tencent.tmgp.daqing,{{ rule }} # 我在大清当皇帝
@@ -1120,7 +1122,6 @@ PROCESS-NAME,com.tencent.tmgp.dpdj,{{ rule }} # 斗破苍穹：巅峰对决
 PROCESS-NAME,com.tencent.tmgp.dqdgxxhd,{{ rule }} # 大秦帝国之帝国烽烟
 PROCESS-NAME,com.tencent.tmgp.dragonball,{{ rule }} # 龙珠激斗
 PROCESS-NAME,com.tencent.tmgp.dreamfarm,{{ rule }} # 梦想农场
-PROCESS-NAME,com.tencent.tmgp.dssgame.jianzhong,{{ rule }} # 剑中
 PROCESS-NAME,com.tencent.tmgp.dtszj,{{ rule }} # 永恒纪元
 PROCESS-NAME,com.tencent.tmgp.dtszjkhd,{{ rule }} # 精灵盛典：黎明
 PROCESS-NAME,com.tencent.tmgp.dtszjwd222,{{ rule }} # 大天使之剑H5

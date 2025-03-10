@@ -21,6 +21,7 @@ PROCESS-NAME,com.carrot.carrotfantasy,{{ rule }} # 保卫萝卜
 PROCESS-NAME,com.cayer.qiesg,{{ rule }} # 快乐切水果
 PROCESS-NAME,com.cchsx.chxc,{{ rule }} # 插花消除
 PROCESS-NAME,com.chrysler.ball,{{ rule }} # 七彩五子连珠
+PROCESS-NAME,com.classicgame.newmagictower,{{ rule }} # 新新魔塔
 PROCESS-NAME,com.deeplusplus.blackmath,{{ rule }} # 黑色数学-挑战高难度问题
 PROCESS-NAME,com.dobest.new2048,{{ rule }} # 2048数字方块
 PROCESS-NAME,com.draw.color.pixel.digit,{{ rule }} # 指尖涂色
@@ -34,9 +35,9 @@ PROCESS-NAME,com.fingertip.saolei,{{ rule }} # 扫雷世界
 PROCESS-NAME,com.fourddz.yyb,{{ rule }} # 边锋四人斗地主精简版
 PROCESS-NAME,com.gamebox.king,{{ rule }} # 帝王·三国
 PROCESS-NAME,com.gdczu.memory,{{ rule }} # C族记忆宫殿
+PROCESS-NAME,com.gof.china,{{ rule }} # 无尽冬日
 PROCESS-NAME,com.golaxy.mobile,{{ rule }} # 星阵围棋
 PROCESS-NAME,com.guandan.yybtest,{{ rule }} # 掼蛋
-PROCESS-NAME,com.HanBinLi.ThinkingPaper,{{ rule }} # 多练思维训练
 PROCESS-NAME,com.happyelements.AndroidAnimal.qq,{{ rule }} # 开心消消乐
 PROCESS-NAME,com.happyelements.AndroidClover.www,{{ rule }} # 海滨消消乐
 PROCESS-NAME,com.hdhd.cyxxcg,{{ rule }} # 成语消消闯关
@@ -101,6 +102,7 @@ PROCESS-NAME,com.ourgame.mahjong.danji,{{ rule }} # 单机麻将-开心版
 PROCESS-NAME,com.outfit7.mytalkingangelafree,{{ rule }} # 我的安吉拉
 PROCESS-NAME,com.outfit7.mytalkingtomfree,{{ rule }} # 我的汤姆猫
 PROCESS-NAME,com.outfit7.talkingtompool,{{ rule }} # 汤姆猫水上乐园
+PROCESS-NAME,com.papegames.infinitynikki,{{ rule }} # 无限暖暖
 PROCESS-NAME,com.papegames.lysk.cn,{{ rule }} # 恋与深空
 PROCESS-NAME,com.pdragon.chess,{{ rule }} # 国际象棋
 PROCESS-NAME,com.pdragon.junqi,{{ rule }} # 军棋
@@ -161,7 +163,6 @@ PROCESS-NAME,com.tencent.gwgo,{{ rule }} # 一起来捉妖
 PROCESS-NAME,com.tencent.hhw,{{ rule }} # 航海王：壮志雄心
 PROCESS-NAME,com.tencent.huajing,{{ rule }} # 画境长恨歌
 PROCESS-NAME,com.tencent.hxgame,{{ rule }} # QQ华夏手游
-PROCESS-NAME,com.tencent.hygd,{{ rule }} # 荒野国度
 PROCESS-NAME,com.tencent.hyrzol,{{ rule }} # 火影忍者：忍者新世代
 PROCESS-NAME,com.tencent.jgm,{{ rule }} # 家国梦
 PROCESS-NAME,com.tencent.jkchess,{{ rule }} # 金铲铲之战
@@ -300,6 +301,7 @@ PROCESS-NAME,com.tencent.tmgp.cszr.cly,{{ rule }} # 侠剑狂歌
 PROCESS-NAME,com.tencent.tmgp.ctycj,{{ rule }} # 餐厅养成记
 PROCESS-NAME,com.tencent.tmgp.cxswz,{{ rule }} # 潮汐守望者
 PROCESS-NAME,com.tencent.tmgp.cyddztwo,{{ rule }} # 禅游斗地主
+PROCESS-NAME,com.tencent.tmgp.cykj.kldmx,{{ rule }} # 卡罗大冒险
 PROCESS-NAME,com.tencent.tmgp.daluandou,{{ rule }} # 奇葩战斗家
 PROCESS-NAME,com.tencent.tmgp.dancingline,{{ rule }} # 跳舞的线
 PROCESS-NAME,com.tencent.tmgp.daqing,{{ rule }} # 我在大清当皇帝
@@ -333,7 +335,6 @@ PROCESS-NAME,com.tencent.tmgp.dpdj,{{ rule }} # 斗破苍穹：巅峰对决
 PROCESS-NAME,com.tencent.tmgp.dqdgxxhd,{{ rule }} # 大秦帝国之帝国烽烟
 PROCESS-NAME,com.tencent.tmgp.dragonball,{{ rule }} # 龙珠激斗
 PROCESS-NAME,com.tencent.tmgp.dreamfarm,{{ rule }} # 梦想农场
-PROCESS-NAME,com.tencent.tmgp.dssgame.jianzhong,{{ rule }} # 剑中
 PROCESS-NAME,com.tencent.tmgp.dtszj,{{ rule }} # 永恒纪元
 PROCESS-NAME,com.tencent.tmgp.dtszjkhd,{{ rule }} # 精灵盛典：黎明
 PROCESS-NAME,com.tencent.tmgp.dtszjwd222,{{ rule }} # 大天使之剑H5
