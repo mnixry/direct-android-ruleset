@@ -366,6 +366,7 @@ payload:
   - PROCESS-NAME,com.founder.zhanjiang #湛江云媒
   - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸-超清主题桌面大全
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
+  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
@@ -393,7 +394,7 @@ payload:
   - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.gpslh.baidumap #物联在线
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
-  - PROCESS-NAME,com.growing.topwidgets #万能小组件
+  - PROCESS-NAME,com.growing.topwidgets #万能小组件 Top Widgets
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
@@ -1019,7 +1020,6 @@ payload:
   - PROCESS-NAME,net.ask123.mima96 #密码酷
   - PROCESS-NAME,net.bontec.wxqd.activity #爱青岛
   - PROCESS-NAME,net.cmoaciopm.sgsdict #三国杀大典
-  - PROCESS-NAME,net.hua.hua.a3dlivewallpaper #4D动态壁纸
   - PROCESS-NAME,net.joydao.radio #听听广播
   - PROCESS-NAME,net.joydao.spring2011 #祝福短信
   - PROCESS-NAME,net.kdnet.club #凯迪网

@@ -56,7 +56,6 @@ payload:
   - PROCESS-NAME,cn.net.iwave.zoo #元气开开
   - PROCESS-NAME,cn.ninegame.gamemanager #九游
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
-  - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.szyy2106.recorder #录音转文字
   - PROCESS-NAME,cn.TuHu.android #途虎养车
@@ -149,6 +148,7 @@ payload:
   - PROCESS-NAME,com.ccb.longjiLife #建行生活
   - PROCESS-NAME,com.cctv.caijing #央视财经
   - PROCESS-NAME,com.cctv.yangshipin.app.androidp #央视频
+  - PROCESS-NAME,com.cdb.app #充电加速器
   - PROCESS-NAME,com.cdv.video360 #云美摄
   - PROCESS-NAME,com.cebbank.mobile.cemb #光大银行
   - PROCESS-NAME,com.cffex.htqh #海通期货期海通行
