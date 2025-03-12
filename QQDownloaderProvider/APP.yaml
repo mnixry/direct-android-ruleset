@@ -56,6 +56,7 @@ payload:
   - PROCESS-NAME,cn.net.iwave.zoo #元气开开
   - PROCESS-NAME,cn.ninegame.gamemanager #九游
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
+  - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.szyy2106.recorder #录音转文字
   - PROCESS-NAME,cn.TuHu.android #途虎养车
@@ -246,11 +247,11 @@ payload:
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.enqualcomm.kids.cyp #西瓜皮
   - PROCESS-NAME,com.evideo.MobileKTV #K米
+  - PROCESS-NAME,com.excean.gspace #OurPlay加速器
   - PROCESS-NAME,com.excean.masaid #微分身版
   - PROCESS-NAME,com.excelliance.dualaid #双开助手微分身版
   - PROCESS-NAME,com.ezg.camper #约你游
   - PROCESS-NAME,com.fangdai.fdjsq #房贷计算器
-  - PROCESS-NAME,com.fangdai.fdjszs #房贷计算器
   - PROCESS-NAME,com.fanli.android.apps #返利
   - PROCESS-NAME,com.fanlitaolianmengw #返利淘联盟
   - PROCESS-NAME,com.fanlwgaoylmengw #返利高佣联盟
@@ -939,7 +940,6 @@ payload:
   - PROCESS-NAME,com.zcbl.bjjj_driving #北京交警
   - PROCESS-NAME,com.zenmen.palmchat #连信
   - PROCESS-NAME,com.zhangdan.app #51信用卡管家
-  - PROCESS-NAME,com.zhangxiong.art #张雄艺术
   - PROCESS-NAME,com.zhaopin.social #智联招聘
   - PROCESS-NAME,com.zhenai.android #珍爱
   - PROCESS-NAME,com.zhibo.mm #秘密直播
