@@ -571,7 +571,7 @@ PROCESS-NAME,com.liuzb.moodiary,{{ rule }} # 心情日记本
 PROCESS-NAME,com.ljmobile.zlj.rom.release,{{ rule }} # 授权管理软件搬家
 PROCESS-NAME,com.llspace.pupu,{{ rule }} # 平行世界
 PROCESS-NAME,com.lltskb.lltskb,{{ rule }} # 路路通
-PROCESS-NAME,com.lofter.android,{{ rule }} # LOFTER
+PROCESS-NAME,com.lofter.android,{{ rule }} # 网易LOFTER
 PROCESS-NAME,com.lokinfo.android.gamemarket.mmshow,{{ rule }} # 95秀
 PROCESS-NAME,com.lolaage.tbulu.tools,{{ rule }} # 两步路户外助手
 PROCESS-NAME,com.lovebizhi.wallpaper,{{ rule }} # 爱壁纸_桌面锁屏
@@ -736,7 +736,6 @@ PROCESS-NAME,com.shoujiduoduo.wallpaper,{{ rule }} # 壁纸多多
 PROCESS-NAME,com.shuqi.controller,{{ rule }} # 书旗小说
 PROCESS-NAME,com.shyltts,{{ rule }} # 读短信来电报姓名
 PROCESS-NAME,com.si.wallpapersi,{{ rule }} # 最美免费壁纸秀
-PROCESS-NAME,com.sijzhmg.vmkajz,{{ rule }} # 风糖小组件
 PROCESS-NAME,com.sina.news,{{ rule }} # 新浪新闻
 PROCESS-NAME,com.sina.VDisk,{{ rule }} # 新浪微盘
 PROCESS-NAME,com.sina.weibo,{{ rule }} # 微博
@@ -1025,6 +1024,7 @@ PROCESS-NAME,my.PCamera,{{ rule }} # POCO相机
 PROCESS-NAME,net.ask123.mima96,{{ rule }} # 密码酷
 PROCESS-NAME,net.bontec.wxqd.activity,{{ rule }} # 爱青岛
 PROCESS-NAME,net.cmoaciopm.sgsdict,{{ rule }} # 三国杀大典
+PROCESS-NAME,net.hua.hua.a3dlivewallpaper,{{ rule }} # 4D动态壁纸
 PROCESS-NAME,net.joydao.radio,{{ rule }} # 听听广播
 PROCESS-NAME,net.joydao.spring2011,{{ rule }} # 祝福短信
 PROCESS-NAME,net.kdnet.club,{{ rule }} # 凯迪网

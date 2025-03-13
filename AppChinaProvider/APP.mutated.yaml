@@ -569,7 +569,7 @@ payload:
   - PROCESS-NAME,com.ljmobile.zlj.rom.release #授权管理软件搬家
   - PROCESS-NAME,com.llspace.pupu #平行世界
   - PROCESS-NAME,com.lltskb.lltskb #路路通
-  - PROCESS-NAME,com.lofter.android #LOFTER
+  - PROCESS-NAME,com.lofter.android #网易LOFTER
   - PROCESS-NAME,com.lokinfo.android.gamemarket.mmshow #95秀
   - PROCESS-NAME,com.lolaage.tbulu.tools #两步路户外助手
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸_桌面锁屏
@@ -731,7 +731,6 @@ payload:
   - PROCESS-NAME,com.shuqi.controller #书旗小说
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
-  - PROCESS-NAME,com.sijzhmg.vmkajz #风糖小组件
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.VDisk #新浪微盘
   - PROCESS-NAME,com.sina.weibo #微博
@@ -1020,6 +1019,7 @@ payload:
   - PROCESS-NAME,net.ask123.mima96 #密码酷
   - PROCESS-NAME,net.bontec.wxqd.activity #爱青岛
   - PROCESS-NAME,net.cmoaciopm.sgsdict #三国杀大典
+  - PROCESS-NAME,net.hua.hua.a3dlivewallpaper #4D动态壁纸
   - PROCESS-NAME,net.joydao.radio #听听广播
   - PROCESS-NAME,net.joydao.spring2011 #祝福短信
   - PROCESS-NAME,net.kdnet.club #凯迪网
