@@ -823,6 +823,7 @@ PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐
 PROCESS-NAME,com.kugou.android.ktvapp,{{ rule }} # 酷狗唱唱
 PROCESS-NAME,com.kugou.android.ringtone,{{ rule }} # 酷狗铃声
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
+PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐pad版
 PROCESS-NAME,com.kunpeng.babyting,{{ rule }} # 宝贝听听-睡前故事
 PROCESS-NAME,com.kunpeng.bluefont,{{ rule }} # 字体下载极速版
 PROCESS-NAME,com.kwai.livepartner,{{ rule }} # 快手直播伴侣
@@ -1352,7 +1353,6 @@ PROCESS-NAME,com.tujia.hotel,{{ rule }} # 途家民宿
 PROCESS-NAME,com.tuniu.app.ui,{{ rule }} # 途牛旅游
 PROCESS-NAME,com.tuoniu.pingmuezuo,{{ rule }} # 屏幕恶作剧
 PROCESS-NAME,com.tuyang.global.trans,{{ rule }} # 全局透明壁纸
-PROCESS-NAME,com.tvunetworks.android.anywhere,{{ rule }} # TVU Anywhere
 PROCESS-NAME,com.twentyfirstcbh.epaper,{{ rule }} # 21财经
 PROCESS-NAME,com.tydic.app.hh,{{ rule }} # 海航信息
 PROCESS-NAME,com.ubestkid.beilehu.android,{{ rule }} # 贝乐虎儿歌
@@ -1608,6 +1608,7 @@ PROCESS-NAME,fkg.client.side.activity,{{ rule }} # 蜂狂购
 PROCESS-NAME,flipboard.cn,{{ rule }} # 红板报
 PROCESS-NAME,fm.qingting.qtradio,{{ rule }} # 蜻蜓FM
 PROCESS-NAME,gz.lifesense.weidong,{{ rule }} # 乐心健康
+PROCESS-NAME,gzry.mxbz.ihauh,{{ rule }} # 魔秀桌面壁纸
 PROCESS-NAME,hbyc.china.medical.view,{{ rule }} # 壹生
 PROCESS-NAME,hg.zp.ui,{{ rule }} # 天眼新闻
 PROCESS-NAME,howbuy.android.palmfund,{{ rule }} # 好买基金
@@ -1651,7 +1652,6 @@ PROCESS-NAME,my.PCamera,{{ rule }} # POCO相机
 PROCESS-NAME,net.ask123.mima96,{{ rule }} # 密码酷
 PROCESS-NAME,net.bontec.wxqd.activity,{{ rule }} # 爱青岛
 PROCESS-NAME,net.cmoaciopm.sgsdict,{{ rule }} # 三国杀大典
-PROCESS-NAME,net.hua.hua.a3dlivewallpaper,{{ rule }} # 4D动态壁纸
 PROCESS-NAME,net.joydao.radio,{{ rule }} # 听听广播
 PROCESS-NAME,net.joydao.spring2011,{{ rule }} # 祝福短信
 PROCESS-NAME,net.kdnet.club,{{ rule }} # 凯迪网
