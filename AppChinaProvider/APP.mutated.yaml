@@ -31,7 +31,7 @@ payload:
   - PROCESS-NAME,cn.com.nbd.nbdmobile #每日经济新闻
   - PROCESS-NAME,cn.com.open.mooc #慕课网
   - PROCESS-NAME,cn.com.pcauto.android.browser #太平洋汽车
-  - PROCESS-NAME,cn.com.pcgroup.magazine #太平洋家居
+  - PROCESS-NAME,cn.com.pcgroup.magazine #PChouse太平洋家居
   - PROCESS-NAME,cn.com.pconline.android.browser #太平洋科技
   - PROCESS-NAME,cn.com.qlwb.qiluyidian #齐鲁壹点
   - PROCESS-NAME,cn.com.shbank.mper #上海银行
