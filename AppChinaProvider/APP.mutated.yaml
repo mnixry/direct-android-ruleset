@@ -157,6 +157,7 @@ payload:
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
   - PROCESS-NAME,com.appstarry.beauty.widget #小组件桌面美化
+  - PROCESS-NAME,com.apyxjypu.qyxn #夜色夜聊
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.avatar.kungfufinance #功夫财经
@@ -560,6 +561,7 @@ payload:
   - PROCESS-NAME,com.letv.android.client.pad #乐视视频Pad
   - PROCESS-NAME,com.letv.letvshop #乐视商城
   - PROCESS-NAME,com.lezhi.mythcall #北瓜电话
+  - PROCESS-NAME,com.lgb.trainie #链工宝
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
   - PROCESS-NAME,com.liba.android #篱笆社区
   - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
@@ -1051,7 +1053,6 @@ payload:
   - PROCESS-NAME,smskb.com #盛名时刻表
   - PROCESS-NAME,sogou.mobile.explorer #搜狗浏览器极速版
   - PROCESS-NAME,sr.daiv.alls.ko #基础韩语口语
-  - PROCESS-NAME,ssdk.xkbz.gzgy #星空壁纸
   - PROCESS-NAME,tool.music.ringtonemaker #铃声制作MP3编辑器
   - PROCESS-NAME,ts.NetTraffic #网速流量监测
   - PROCESS-NAME,tt.lt.tt #聊天漂流瓶

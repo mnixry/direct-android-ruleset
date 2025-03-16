@@ -451,7 +451,6 @@ payload:
   - PROCESS-NAME,com.glutenfreegames.ultimatesafarisimulator #热带草原动物模拟器
   - PROCESS-NAME,com.gmfr.heavy.excavator.simulator2 #重型挖掘机3D模拟器2
   - PROCESS-NAME,com.gml.fw.fw2 #战斗之翼2
-  - PROCESS-NAME,com.gof.china #无尽冬日
   - PROCESS-NAME,com.golaxy.mobile #星阵围棋
   - PROCESS-NAME,com.goorusoft.MetalWars3 #金属咆哮3
   - PROCESS-NAME,com.grampus.cookingadventure #烹饪冒险
@@ -1152,7 +1151,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.fjdz2 #飞机大战之全民雷电
   - PROCESS-NAME,com.tencent.tmgp.fknsg2 #放开那三国2
   - PROCESS-NAME,com.tencent.tmgp.forgame.mmxd #美美小店
-  - PROCESS-NAME,com.tencent.tmgp.freeking #空当接龙
   - PROCESS-NAME,com.tencent.tmgp.frxxzrjp #凡人修仙传：人界篇
   - PROCESS-NAME,com.tencent.tmgp.fszn2.huiyue #封神之怒
   - PROCESS-NAME,com.tencent.tmgp.ftf #战就战
@@ -1257,6 +1255,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.jxqy #新剑侠情缘
   - PROCESS-NAME,com.tencent.tmgp.kaayou.daye #大冶打拱
   - PROCESS-NAME,com.tencent.tmgp.kaayou.ezhou #鄂州五十K
+  - PROCESS-NAME,com.tencent.tmgp.kaayou.qichun #蕲春打拱
   - PROCESS-NAME,com.tencent.tmgp.kaopu.jzpaj #决战！平安京
   - PROCESS-NAME,com.tencent.tmgp.kaopu.zdjs #朕的江山
   - PROCESS-NAME,com.tencent.tmgp.kbxy.kyl #狂暴西游
@@ -1442,6 +1441,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.seal #征途
   - PROCESS-NAME,com.tencent.tmgp.seasun.jxsj3 #剑侠世界3
   - PROCESS-NAME,com.tencent.tmgp.seasun.jxsjorg #剑侠世界：起源
+  - PROCESS-NAME,com.tencent.tmgp.seayoo.jxfs #封神再临
   - PROCESS-NAME,com.tencent.tmgp.secret #黑猫奇闻社
   - PROCESS-NAME,com.tencent.tmgp.SeerInfiniteUniverse #赛尔号星球大战
   - PROCESS-NAME,com.tencent.tmgp.SevenHegemony #七雄争霸
@@ -1460,6 +1460,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sgzr #三国之刃
   - PROCESS-NAME,com.tencent.tmgp.sgzzqb #三国志·战棋版
   - PROCESS-NAME,com.tencent.tmgp.sh.cly #山河
+  - PROCESS-NAME,com.tencent.tmgp.shanggqg #上古情歌
   - PROCESS-NAME,com.tencent.tmgp.shangguxiux #上古修仙
   - PROCESS-NAME,com.tencent.tmgp.shdlln #神火大陆
   - PROCESS-NAME,com.tencent.tmgp.shelter #辐射：避难所Online
