@@ -6,7 +6,6 @@ payload:
   - PROCESS-NAME,alook.browser #Alook浏览器
   - PROCESS-NAME,android.translate.xuedianba #同声翻译超级版
   - PROCESS-NAME,android.zhibo8 #直播吧
-  - PROCESS-NAME,app.Artronauction #雅昌拍卖图录
   - PROCESS-NAME,app.yhyh.com #YHYH通信集成云厅
   - PROCESS-NAME,az.studio.gkztc #高考直通车
   - PROCESS-NAME,battymole.trainticket #买火车票
@@ -478,7 +477,6 @@ payload:
   - PROCESS-NAME,com.ecitic.bank.mobile #中信银行
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
   - PROCESS-NAME,com.ell.wallpaperell #主题商店免费
-  - PROCESS-NAME,com.elong.merchant #同程酒店商家
   - PROCESS-NAME,com.emperor.flashlight #手电王
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
@@ -815,6 +813,7 @@ payload:
   - PROCESS-NAME,com.koudai.recorder #手机录音管家
   - PROCESS-NAME,com.koudai.weidian.buyer #微店
   - PROCESS-NAME,com.koudai.weishop #微店店长版
+  - PROCESS-NAME,com.kuaidi.cx #查快递物流
   - PROCESS-NAME,com.kuaiduizuoye.scan #快对AI
   - PROCESS-NAME,com.kuaikan.comic #快看漫画
   - PROCESS-NAME,com.kuaishou.nebula #快手极速版
@@ -864,7 +863,6 @@ payload:
   - PROCESS-NAME,com.lianjia.beike #贝壳找房
   - PROCESS-NAME,com.liba.android #篱笆社区
   - PROCESS-NAME,com.lietou.mishu #猎聘
-  - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
   - PROCESS-NAME,com.lingan.seeyou #美柚
   - PROCESS-NAME,com.linkiing.show #联客show
   - PROCESS-NAME,com.lion.market #虫虫助手
@@ -966,6 +964,7 @@ payload:
   - PROCESS-NAME,com.my.subway #地铁管家
   - PROCESS-NAME,com.mybank.android.phone #网商银行
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
+  - PROCESS-NAME,com.mygolbs.mybuswz #我看行
   - PROCESS-NAME,com.mymoney #随手记
   - PROCESS-NAME,com.mymoney.sms #卡牛信用管家
   - PROCESS-NAME,com.myzaker.ZAKER_Phone #ZAKER
@@ -1070,7 +1069,6 @@ payload:
   - PROCESS-NAME,com.qiyi.video.pad #爱奇艺PAD
   - PROCESS-NAME,com.qiyi.video.reader #爱奇艺小说
   - PROCESS-NAME,com.qlscupgrade #中泰齐富通
-  - PROCESS-NAME,com.qnap.qremote #Qremote
   - PROCESS-NAME,com.qq.ac.android #腾讯动漫
   - PROCESS-NAME,com.qq.qcloud #微云
   - PROCESS-NAME,com.qq.reader #QQ阅读
@@ -1196,6 +1194,7 @@ payload:
   - PROCESS-NAME,com.sjsj.clockapp.clockmaster #即刻闹钟
   - PROCESS-NAME,com.sjz.cl.smspopup #短信弹窗
   - PROCESS-NAME,com.skp.adf.photopunch #抠图神手
+  - PROCESS-NAME,com.skydh #SKY体验电话
   - PROCESS-NAME,com.skyplatanus.crucio #快点阅读
   - PROCESS-NAME,com.slanissue.apps.mobile.erge #贝瓦儿歌
   - PROCESS-NAME,com.sloth.removelogo #视频去水印
@@ -1420,6 +1419,7 @@ payload:
   - PROCESS-NAME,com.wlqq4consignor #货车帮货主
   - PROCESS-NAME,com.wlstock.fund #持股帮
   - PROCESS-NAME,com.wm.dmall #多点
+  - PROCESS-NAME,com.wochacha #我查查
   - PROCESS-NAME,com.wodan.xianshijian #兼客兼职
   - PROCESS-NAME,com.wodi.who #玩吧
   - PROCESS-NAME,com.wole56.ishow #我秀
@@ -1667,6 +1667,7 @@ payload:
   - PROCESS-NAME,oms.mmc.fortunetelling #灵机
   - PROCESS-NAME,one.hh.oneclient #一个
   - PROCESS-NAME,org.fungo.fungolive #天天电视直播
+  - PROCESS-NAME,org.moegirl.moegirlview #萌娘百科-万物皆可萌的百科全书
   - PROCESS-NAME,org.mozilla.fennec_mylinux #蚂蚁浏览器
   - PROCESS-NAME,org.sojex.finance #口袋贵金属
   - PROCESS-NAME,org.sunapp.wenote #微鹏
