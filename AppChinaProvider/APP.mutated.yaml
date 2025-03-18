@@ -79,7 +79,6 @@ payload:
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
   - PROCESS-NAME,cn.shengmimi.callshow #视频铃声
   - PROCESS-NAME,cn.shengmitech.intelllock #锁屏
-  - PROCESS-NAME,cn.shijihaiwaitech.hunli #婚礼邀请函
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.tianya.light #天涯社区
   - PROCESS-NAME,cn.vcinema.cinema #南瓜电影
@@ -131,7 +130,7 @@ payload:
   - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.app.meiyue #魅约
   - PROCESS-NAME,com.app.ymqzy #动态壁纸秀场
-  - PROCESS-NAME,com.app.yujiasuxingji #壁纸图片大师
+  - PROCESS-NAME,com.app.yujiasuxingji #壁纸大全
   - PROCESS-NAME,com.appbyme.app71974 #编织人生论坛
   - PROCESS-NAME,com.appchina.anpai.2019071601 #鸟类壁纸
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
@@ -366,6 +365,7 @@ payload:
   - PROCESS-NAME,com.founder.zhanjiang #湛江云媒
   - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸-超清主题桌面大全
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
+  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
