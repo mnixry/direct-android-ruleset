@@ -925,7 +925,6 @@ PROCESS-NAME,com.xueqiu.android,{{ rule }} # 雪球
 PROCESS-NAME,com.xuexiang.myring,{{ rule }} # 炫铃声
 PROCESS-NAME,com.xunlei.browser,{{ rule }} # 迅雷浏览器
 PROCESS-NAME,com.xunlei.downloadprovider,{{ rule }} # 迅雷
-PROCESS-NAME,com.xunruifairy.wallpaper,{{ rule }} # 壁纸精灵
 PROCESS-NAME,com.xvideostudio.videoeditor,{{ rule }} # 乐秀视频剪辑视频编辑
 PROCESS-NAME,com.xyhui,{{ rule }} # PU口袋校园
 PROCESS-NAME,com.ybws.ucast,{{ rule }} # Ucast

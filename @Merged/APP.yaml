@@ -663,7 +663,6 @@ payload:
   - PROCESS-NAME,com.huawei.intelligent #智慧助手·今天
   - PROCESS-NAME,com.huawei.KoBackup #备份
   - PROCESS-NAME,com.huawei.mycenter #会员中心
-  - PROCESS-NAME,com.huawei.search #智慧搜索
   - PROCESS-NAME,com.huawei.smarthome #智慧生活
   - PROCESS-NAME,com.huimai365 #惠买
   - PROCESS-NAME,com.huitouche.android.app #省省原省省回头车
@@ -932,6 +931,7 @@ payload:
   - PROCESS-NAME,com.midea.vm.washer #U净
   - PROCESS-NAME,com.miercnnew.app #米尔军事
   - PROCESS-NAME,com.mimikko.mimikkoui #兽耳助手
+  - PROCESS-NAME,com.mini.bill #口袋账本
   - PROCESS-NAME,com.minitools.miniwidget #心动主题壁纸
   - PROCESS-NAME,com.mishangwo #迷上我
   - PROCESS-NAME,com.miui.video #小米视频
@@ -1488,7 +1488,6 @@ payload:
   - PROCESS-NAME,com.xunlei.browser #迅雷浏览器
   - PROCESS-NAME,com.xunlei.downloadprovider #迅雷
   - PROCESS-NAME,com.xunmeng.pinduoduo #拼多多
-  - PROCESS-NAME,com.xunruifairy.wallpaper #壁纸精灵
   - PROCESS-NAME,com.xvideostudio.videoeditor #乐秀视频剪辑视频编辑
   - PROCESS-NAME,com.xyhui #PU口袋校园
   - PROCESS-NAME,com.yangcong345.android.phone #洋葱学园
