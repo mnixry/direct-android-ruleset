@@ -513,7 +513,6 @@ payload:
   - PROCESS-NAME,com.lego.bricksmore #乐高玩具
   - PROCESS-NAME,com.leoexe.archery #策马入山林
   - PROCESS-NAME,com.leosfortune #里奥的财富
-  - PROCESS-NAME,com.leyouwanban.lywb #乐优达人
   - PROCESS-NAME,com.lima.doodlejump #涂鸦跳跃
   - PROCESS-NAME,com.linecorp.LGRGS #LINE Rangers
   - PROCESS-NAME,com.linkdeskstudio.popcat #欢乐碰碰猫
@@ -1032,4 +1031,5 @@ payload:
   - PROCESS-NAME,sggs.android.witchhouse #魔女之家
   - PROCESS-NAME,sts.pl #口袋传奇
   - PROCESS-NAME,syj.youngfhsher #手机收音机
+  - PROCESS-NAME,uni.eamApp #一码多识
   - PROCESS-NAME,zhtc.noscores.pmtianlongzhl #口袋天龙的堕落
