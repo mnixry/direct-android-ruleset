@@ -572,7 +572,6 @@ payload:
   - PROCESS-NAME,com.liaoyanxuan.sudoku #数独玩家
   - PROCESS-NAME,com.liaoyanxuan.unblockMeKlotski #三国华容道谜题集
   - PROCESS-NAME,com.lilithgame.igame.android.cn #剑与远征：启程
-  - PROCESS-NAME,com.lilithgame.wgame.android.cn #战火勋章
   - PROCESS-NAME,com.lilithgames.rok.offical.cn #万国觉醒
   - PROCESS-NAME,com.lilithgames.samo.android.cn #万龙觉醒
   - PROCESS-NAME,com.lilithgames.xgame.android.cn #众神派对
@@ -1021,6 +1020,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.bilibili.warmsnow #暖雪
   - PROCESS-NAME,com.tencent.tmgp.bingougame.tgsw #太古神王
   - PROCESS-NAME,com.tencent.tmgp.bkddz #波克斗地主
+  - PROCESS-NAME,com.tencent.tmgp.blackstar #黑星勇者成名录
   - PROCESS-NAME,com.tencent.tmgp.blr3 #不良人3
   - PROCESS-NAME,com.tencent.tmgp.brdz67 #兵人大战
   - PROCESS-NAME,com.tencent.tmgp.budapp #碧优蒂的世界

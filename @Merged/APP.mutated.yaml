@@ -1380,6 +1380,7 @@ payload:
   - PROCESS-NAME,com.v2gogo.project #百姓关注
   - PROCESS-NAME,com.vbill.shoushua.biz #随行付Plus
   - PROCESS-NAME,com.vcredit.ddcash #豆豆钱
+  - PROCESS-NAME,com.vcredit.kkcredit #维信卡卡贷
   - PROCESS-NAME,com.versa #马卡龙玩图
   - PROCESS-NAME,com.video.clip #视频拼接王
   - PROCESS-NAME,com.video.link.heart #心心相印

@@ -602,7 +602,6 @@ payload:
   - PROCESS-NAME,com.rong.fastloan #时光分期
   - PROCESS-NAME,com.rong360.app #融360
   - PROCESS-NAME,com.rosedate.siye #玫瑰约会视频聊天交友
-  - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
   - PROCESS-NAME,com.runbey.ybjk #元贝驾考
   - PROCESS-NAME,com.samoyed.credit #省呗
   - PROCESS-NAME,com.samsung.android.app.watchmanager #三星智能穿戴
@@ -801,6 +800,7 @@ payload:
   - PROCESS-NAME,com.v2gogo.project #百姓关注
   - PROCESS-NAME,com.vbill.shoushua.biz #随行付Plus
   - PROCESS-NAME,com.vcredit.ddcash #豆豆钱
+  - PROCESS-NAME,com.vcredit.kkcredit #维信卡卡贷
   - PROCESS-NAME,com.video.clip #视频拼接王
   - PROCESS-NAME,com.videogo #萤石云视频
   - PROCESS-NAME,com.vivo.easyshare #互传
