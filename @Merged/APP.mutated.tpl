@@ -536,7 +536,6 @@ PROCESS-NAME,com.free_ride_pin.yiwei,{{ rule }} # 汽车票
 PROCESS-NAME,com.free_ride.yiwei,{{ rule }} # 顺风车
 PROCESS-NAME,com.free.compass,{{ rule }} # 免费指南针
 PROCESS-NAME,com.freebird.zsp.DailyAccounting,{{ rule }} # 日常记账
-PROCESS-NAME,com.freeme.cloud.theme,{{ rule }} # 最美主题
 PROCESS-NAME,com.frozenape.tempo,{{ rule }} # 移动节拍器 Metronome Tempo
 PROCESS-NAME,com.fullgoal.android,{{ rule }} # 富国富钱包
 PROCESS-NAME,com.funinput.digit,{{ rule }} # 数字尾巴
@@ -822,7 +821,7 @@ PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐
 PROCESS-NAME,com.kugou.android.ktvapp,{{ rule }} # 酷狗唱唱
 PROCESS-NAME,com.kugou.android.ringtone,{{ rule }} # 酷狗铃声
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
-PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐pad版
+PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐HD
 PROCESS-NAME,com.kunpeng.babyting,{{ rule }} # 宝贝听听-睡前故事
 PROCESS-NAME,com.kunpeng.bluefont,{{ rule }} # 字体下载极速版
 PROCESS-NAME,com.kwai.livepartner,{{ rule }} # 快手直播伴侣
@@ -1592,6 +1591,7 @@ PROCESS-NAME,com.zsyj.videomake,{{ rule }} # 趣制作
 PROCESS-NAME,com.zsyj.wallpaper,{{ rule }} # 动态壁纸
 PROCESS-NAME,com.zuoyebang.airclass,{{ rule }} # 作业帮直播课
 PROCESS-NAME,com.zxscnew,{{ rule }} # 中信证券
+PROCESS-NAME,com.zy.photo,{{ rule }} # 半糖
 PROCESS-NAME,com.zybang.parent,{{ rule }} # 作业帮口算
 PROCESS-NAME,com.zydsoft.acuherb,{{ rule }} # 中医辨证云
 PROCESS-NAME,com.zyhd.voice,{{ rule }} # 语音包变声器

@@ -536,7 +536,6 @@ payload:
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
-  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
@@ -822,7 +821,7 @@ payload:
   - PROCESS-NAME,com.kugou.android.ktvapp #酷狗唱唱
   - PROCESS-NAME,com.kugou.android.ringtone #酷狗铃声
   - PROCESS-NAME,com.kugou.fanxing #酷狗直播
-  - PROCESS-NAME,com.kugou.playerHD #酷狗音乐pad版
+  - PROCESS-NAME,com.kugou.playerHD #酷狗音乐HD
   - PROCESS-NAME,com.kunpeng.babyting #宝贝听听-睡前故事
   - PROCESS-NAME,com.kunpeng.bluefont #字体下载极速版
   - PROCESS-NAME,com.kwai.livepartner #快手直播伴侣
@@ -1592,6 +1591,7 @@ payload:
   - PROCESS-NAME,com.zsyj.wallpaper #动态壁纸
   - PROCESS-NAME,com.zuoyebang.airclass #作业帮直播课
   - PROCESS-NAME,com.zxscnew #中信证券
+  - PROCESS-NAME,com.zy.photo #半糖
   - PROCESS-NAME,com.zybang.parent #作业帮口算
   - PROCESS-NAME,com.zydsoft.acuherb #中医辨证云
   - PROCESS-NAME,com.zyhd.voice #语音包变声器

@@ -364,7 +364,6 @@ PROCESS-NAME,com.founder.qujing,{{ rule }} # 掌上曲靖
 PROCESS-NAME,com.founder.zhanjiang,{{ rule }} # 湛江云媒
 PROCESS-NAME,com.fq.wallpaper,{{ rule }} # 飞火动态壁纸-超清主题桌面大全
 PROCESS-NAME,com.freebird.zsp.DailyAccounting,{{ rule }} # 日常记账
-PROCESS-NAME,com.freeme.cloud.theme,{{ rule }} # 最美主题
 PROCESS-NAME,com.frozenape.tempo,{{ rule }} # 移动节拍器 Metronome Tempo
 PROCESS-NAME,com.fullgoal.android,{{ rule }} # 富国富钱包
 PROCESS-NAME,com.funinput.digit,{{ rule }} # 数字尾巴
@@ -538,7 +537,7 @@ PROCESS-NAME,com.kuangxiang.novel,{{ rule }} # 欢乐书客
 PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐
 PROCESS-NAME,com.kugou.android.ringtone,{{ rule }} # 酷狗铃声
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
-PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐pad版
+PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐HD
 PROCESS-NAME,com.kunpeng.babyting,{{ rule }} # 宝贝听听-睡前故事
 PROCESS-NAME,com.kunpeng.bluefont,{{ rule }} # 字体下载极速版
 PROCESS-NAME,com.kwai.m2u,{{ rule }} # 一甜相机
@@ -982,6 +981,7 @@ PROCESS-NAME,com.zol.android,{{ rule }} # 中关村在线
 PROCESS-NAME,com.zongheng.reader,{{ rule }} # 纵横小说
 PROCESS-NAME,com.zsyj.trans,{{ rule }} # 全局透明壁纸
 PROCESS-NAME,com.zsyj.wallpaper,{{ rule }} # 熊猫动态壁纸
+PROCESS-NAME,com.zy.photo,{{ rule }} # 半糖
 PROCESS-NAME,com.zydsoft.acuherb,{{ rule }} # 中医辨证云
 PROCESS-NAME,com.zzu.sxm.chemical,{{ rule }} # 化学方程式
 PROCESS-NAME,ctrip.android.view,{{ rule }} # 携程旅行
