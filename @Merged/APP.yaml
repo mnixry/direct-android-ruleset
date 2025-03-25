@@ -338,7 +338,6 @@ payload:
   - PROCESS-NAME,com.chaozh.iReaderFree15 #爱读掌阅
   - PROCESS-NAME,com.chebada #巴士管家
   - PROCESS-NAME,com.chenai.eyes #夜间模式
-  - PROCESS-NAME,com.chenyang.wzzyy #文字转语音
   - PROCESS-NAME,com.chinaamc.MainActivityAMC #华夏基金管家
   - PROCESS-NAME,com.chinaamc.mfbh.amcActivity #华夏活期通
   - PROCESS-NAME,com.chinablue.tv #Z视介
@@ -587,6 +586,7 @@ payload:
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
   - PROCESS-NAME,com.gzrcb.mobilebank #广州农商银行
   - PROCESS-NAME,com.haidilao #海底捞
+  - PROCESS-NAME,com.haier.uhome.uplus #海尔智家
   - PROCESS-NAME,com.haitao #55海淘
   - PROCESS-NAME,com.haixiu.ui #嗨秀直播
   - PROCESS-NAME,com.haizhengqihuo.mhdxh #上海证券期货
@@ -836,7 +836,6 @@ payload:
   - PROCESS-NAME,com.laoyuegou.android #捞月狗
   - PROCESS-NAME,com.lazymc.smstoemail #我的信
   - PROCESS-NAME,com.lcworld.haiwainet #海客新闻
-  - PROCESS-NAME,com.lcworld.oasismedical #泓华医疗
   - PROCESS-NAME,com.le123.ysdq #影视大全
   - PROCESS-NAME,com.lechuan.mdwz #米读极速版
   - PROCESS-NAME,com.lechuan.midunovel #米读小说
@@ -1058,7 +1057,6 @@ payload:
   - PROCESS-NAME,com.qihuo.yinhe #银河期货开户交易
   - PROCESS-NAME,com.qilesoft.en.eights #英语口语8000句
   - PROCESS-NAME,com.qima.kdt #有赞微商城
-  - PROCESS-NAME,com.qimingzz.qm #宝宝起名取名
   - PROCESS-NAME,com.qinhe.ispeak #IS语音
   - PROCESS-NAME,com.qisi.freepaper #免费壁纸大全
   - PROCESS-NAME,com.qisi.wallpaper #壁纸主题大全
@@ -1226,7 +1224,6 @@ payload:
   - PROCESS-NAME,com.ss.android.ugc.aweme #抖音
   - PROCESS-NAME,com.ss.android.ugc.aweme.lite #抖音极速版
   - PROCESS-NAME,com.ss.android.ugc.live #抖音火山版
-  - PROCESS-NAME,com.ss.readpoem #为你诵读
   - PROCESS-NAME,com.sskj.flashlight #随手电筒
   - PROCESS-NAME,com.ssports.mobile.video #爱奇艺体育
   - PROCESS-NAME,com.ssxg.cheers #悦享
@@ -1397,6 +1394,7 @@ payload:
   - PROCESS-NAME,com.wangdou.prettygirls.dress #装扮次元手帐
   - PROCESS-NAME,com.wangyin.payment #京东钱包
   - PROCESS-NAME,com.waterfall.metronome #节拍器
+  - PROCESS-NAME,com.we.keyuan #微商码头
   - PROCESS-NAME,com.webank.wemoney #微众银行
   - PROCESS-NAME,com.weface.kksocialsecurity #看看生活
   - PROCESS-NAME,com.welove520.welove #微爱
@@ -1428,6 +1426,7 @@ payload:
   - PROCESS-NAME,com.words.english #英语单词君
   - PROCESS-NAME,com.work.clock #起床闹铃
   - PROCESS-NAME,com.wsecar.wsjc #万顺叫车
+  - PROCESS-NAME,com.wshifu.app.jiedanyi #万师傅师傅版
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
   - PROCESS-NAME,com.wudaokou.hippo #盒马
@@ -1703,6 +1702,7 @@ payload:
   - PROCESS-NAME,vz.com #飞常准
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
+  - PROCESS-NAME,wshifu.app.android #万师傅企业版
   - PROCESS-NAME,yiqi.bazi #易奇文化
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
