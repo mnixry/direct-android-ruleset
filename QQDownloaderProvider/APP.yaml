@@ -688,7 +688,7 @@ payload:
   - PROCESS-NAME,com.sohu.inputmethod.sogou #搜狗输入法
   - PROCESS-NAME,com.sohu.newsclient #搜狐新闻
   - PROCESS-NAME,com.sohu.sohuvideo #搜狐视频
-  - PROCESS-NAME,com.sohu.tv #搜狐视频HD
+  - PROCESS-NAME,com.sohu.tv #搜狐视频Pad
   - PROCESS-NAME,com.songguoyhqw #赚钱联盟
   - PROCESS-NAME,com.spdbccc.app #浦大喜奔
   - PROCESS-NAME,com.speed.master #网络测速大师

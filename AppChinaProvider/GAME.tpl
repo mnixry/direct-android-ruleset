@@ -175,7 +175,6 @@ PROCESS-NAME,com.bolong.super2048,{{ rule }} # 超级2048
 PROCESS-NAME,com.bossastudios.ss13touch,{{ rule }} # 外科医生
 PROCESS-NAME,com.brainfreezing.KpopIdolSimulator,{{ rule }} # 韩娱偶像模拟器
 PROCESS-NAME,com.brianbaek.popstar,{{ rule }} # 消灭星星全新版
-PROCESS-NAME,com.bsoft.hcn.jieyi,{{ rule }} # 闵行捷医
 PROCESS-NAME,com.budgestudios.googleplay.BarbieDreamhouse,{{ rule }} # 芭比梦幻小屋历险
 PROCESS-NAME,com.build.scan,{{ rule }} # 途景VR智拍
 PROCESS-NAME,com.bulkypix.deadeffect,{{ rule }} # 死亡效应
@@ -803,6 +802,7 @@ PROCESS-NAME,com.tencent.gwgo,{{ rule }} # 一起来捉妖
 PROCESS-NAME,com.tencent.jyhx,{{ rule }} # 劲乐幻想
 PROCESS-NAME,com.tencent.lolm,{{ rule }} # 英雄联盟手游
 PROCESS-NAME,com.tencent.mf.uam,{{ rule }} # 暗区突围
+PROCESS-NAME,com.tencent.nba2kx,{{ rule }} # 美职篮全明星 - NBA2K手游
 PROCESS-NAME,com.tencent.nfsonline,{{ rule }} # 极品飞车：集结
 PROCESS-NAME,com.tencent.pao,{{ rule }} # 天天酷跑
 PROCESS-NAME,com.tencent.peng,{{ rule }} # 天天爱消除

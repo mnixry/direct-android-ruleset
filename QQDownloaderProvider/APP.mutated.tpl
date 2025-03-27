@@ -677,7 +677,7 @@ PROCESS-NAME,com.sohu.infonews,{{ rule }} # 搜狐资讯
 PROCESS-NAME,com.sohu.inputmethod.sogou,{{ rule }} # 搜狗输入法
 PROCESS-NAME,com.sohu.newsclient,{{ rule }} # 搜狐新闻
 PROCESS-NAME,com.sohu.sohuvideo,{{ rule }} # 搜狐视频
-PROCESS-NAME,com.sohu.tv,{{ rule }} # 搜狐视频HD
+PROCESS-NAME,com.sohu.tv,{{ rule }} # 搜狐视频Pad
 PROCESS-NAME,com.songguoyhqw,{{ rule }} # 赚钱联盟
 PROCESS-NAME,com.spdbccc.app,{{ rule }} # 浦大喜奔
 PROCESS-NAME,com.speed.master,{{ rule }} # 网络测速大师

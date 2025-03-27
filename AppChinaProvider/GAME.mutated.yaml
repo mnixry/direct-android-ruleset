@@ -175,7 +175,6 @@ payload:
   - PROCESS-NAME,com.bossastudios.ss13touch #外科医生
   - PROCESS-NAME,com.brainfreezing.KpopIdolSimulator #韩娱偶像模拟器
   - PROCESS-NAME,com.brianbaek.popstar #消灭星星全新版
-  - PROCESS-NAME,com.bsoft.hcn.jieyi #闵行捷医
   - PROCESS-NAME,com.budgestudios.googleplay.BarbieDreamhouse #芭比梦幻小屋历险
   - PROCESS-NAME,com.build.scan #途景VR智拍
   - PROCESS-NAME,com.bulkypix.deadeffect #死亡效应
@@ -803,6 +802,7 @@ payload:
   - PROCESS-NAME,com.tencent.jyhx #劲乐幻想
   - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
   - PROCESS-NAME,com.tencent.mf.uam #暗区突围
+  - PROCESS-NAME,com.tencent.nba2kx #美职篮全明星 - NBA2K手游
   - PROCESS-NAME,com.tencent.nfsonline #极品飞车：集结
   - PROCESS-NAME,com.tencent.pao #天天酷跑
   - PROCESS-NAME,com.tencent.peng #天天爱消除

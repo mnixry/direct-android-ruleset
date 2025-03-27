@@ -367,6 +367,7 @@ PROCESS-NAME,com.founder.qujing,{{ rule }} # 掌上曲靖
 PROCESS-NAME,com.founder.zhanjiang,{{ rule }} # 湛江云媒
 PROCESS-NAME,com.fq.wallpaper,{{ rule }} # 飞火动态壁纸-超清主题桌面大全
 PROCESS-NAME,com.freebird.zsp.DailyAccounting,{{ rule }} # 日常记账
+PROCESS-NAME,com.freeme.cloud.theme,{{ rule }} # 最美主题
 PROCESS-NAME,com.frozenape.tempo,{{ rule }} # 移动节拍器 Metronome Tempo
 PROCESS-NAME,com.fullgoal.android,{{ rule }} # 富国富钱包
 PROCESS-NAME,com.funinput.digit,{{ rule }} # 数字尾巴
@@ -772,7 +773,7 @@ PROCESS-NAME,com.sohu.inputmethod.sogou,{{ rule }} # 搜狗输入法
 PROCESS-NAME,com.sohu.mail.client.cordova,{{ rule }} # 搜狐闪电邮
 PROCESS-NAME,com.sohu.newsclient,{{ rule }} # 搜狐新闻
 PROCESS-NAME,com.sohu.sohuvideo,{{ rule }} # 搜狐视频
-PROCESS-NAME,com.sohu.tv,{{ rule }} # 搜狐视频HD
+PROCESS-NAME,com.sohu.tv,{{ rule }} # 搜狐视频Pad
 PROCESS-NAME,com.sony.store.china,{{ rule }} # 索尼中国
 PROCESS-NAME,com.soohoot.ptest,{{ rule }} # 普通话发音测试
 PROCESS-NAME,com.soufun.app,{{ rule }} # 房天下
@@ -908,7 +909,6 @@ PROCESS-NAME,com.xiaomi.shop,{{ rule }} # 小米商城
 PROCESS-NAME,com.ximalaya.ting.android,{{ rule }} # 喜马拉雅
 PROCESS-NAME,com.xingin.xhs,{{ rule }} # 小红书
 PROCESS-NAME,com.xingluo.mpa,{{ rule }} # 魔力相册
-PROCESS-NAME,com.xingzhicheng2024.bizhi,{{ rule }} # 超高清壁纸
 PROCESS-NAME,com.xinhang.mobileclient,{{ rule }} # 中国移动河南
 PROCESS-NAME,com.xinli.fm,{{ rule }} # 心理Fm
 PROCESS-NAME,com.xinshuru.inputmethod,{{ rule }} # 手心输入法

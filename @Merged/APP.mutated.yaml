@@ -536,6 +536,7 @@ payload:
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
+  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
@@ -1206,7 +1207,7 @@ payload:
   - PROCESS-NAME,com.sohu.mail.client.cordova #搜狐闪电邮
   - PROCESS-NAME,com.sohu.newsclient #搜狐新闻
   - PROCESS-NAME,com.sohu.sohuvideo #搜狐视频
-  - PROCESS-NAME,com.sohu.tv #搜狐视频HD
+  - PROCESS-NAME,com.sohu.tv #搜狐视频Pad
   - PROCESS-NAME,com.songguoyhqw #赚钱联盟
   - PROCESS-NAME,com.sony.store.china #索尼中国
   - PROCESS-NAME,com.soohoot.ptest #普通话发音测试
@@ -1459,7 +1460,6 @@ payload:
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xingjiabi.shengsheng #他趣
   - PROCESS-NAME,com.xingluo.mpa #魔力相册
-  - PROCESS-NAME,com.xingzhicheng2024.bizhi #超高清壁纸
   - PROCESS-NAME,com.xinhang.mobileclient #中国移动河南
   - PROCESS-NAME,com.xinhu.futures #新湖期货开户交易
   - PROCESS-NAME,com.xinli.fm #心理Fm
