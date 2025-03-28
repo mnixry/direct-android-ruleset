@@ -16,7 +16,6 @@ payload:
   - PROCESS-NAME,com.bruce.riddle #谜语猜猜猜
   - PROCESS-NAME,com.c2vl.kgamebox #狼人杀
   - PROCESS-NAME,com.carrot.carrotfantasy #保卫萝卜
-  - PROCESS-NAME,com.cayer.qiesg #快乐切水果
   - PROCESS-NAME,com.cchsx.chxc #插花消除
   - PROCESS-NAME,com.chrysler.ball #七彩五子连珠
   - PROCESS-NAME,com.dobest.new2048 #2048数字方块
@@ -34,7 +33,6 @@ payload:
   - PROCESS-NAME,com.fourddz.yyb #边锋四人斗地主精简版
   - PROCESS-NAME,com.gamebox.king #帝王·三国
   - PROCESS-NAME,com.gdczu.memory #C族记忆宫殿
-  - PROCESS-NAME,com.gof.china #无尽冬日
   - PROCESS-NAME,com.golaxy.mobile #星阵围棋
   - PROCESS-NAME,com.guandan.yybtest #掼蛋
   - PROCESS-NAME,com.happyelements.AndroidAnimal.qq #开心消消乐
@@ -157,7 +155,6 @@ payload:
   - PROCESS-NAME,com.tencent.gnyx.tqxs #星火筑梦人
   - PROCESS-NAME,com.tencent.gris #格莉斯的旅程
   - PROCESS-NAME,com.tencent.gwgo #一起来捉妖
-  - PROCESS-NAME,com.tencent.hhw #航海王：壮志雄心
   - PROCESS-NAME,com.tencent.huajing #画境长恨歌
   - PROCESS-NAME,com.tencent.hxgame #QQ华夏手游
   - PROCESS-NAME,com.tencent.hyrzol #火影忍者：忍者新世代
@@ -169,6 +166,7 @@ payload:
   - PROCESS-NAME,com.tencent.lastblade #末刀
   - PROCESS-NAME,com.tencent.letsgo #元梦之星
   - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
+  - PROCESS-NAME,com.tencent.lszz #龙石战争
   - PROCESS-NAME,com.tencent.lzhx #龙族幻想
   - PROCESS-NAME,com.tencent.mergemansion #庄园合合
   - PROCESS-NAME,com.tencent.mf.uam #暗区突围
@@ -236,6 +234,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.bilibili.warmsnow #暖雪
   - PROCESS-NAME,com.tencent.tmgp.bingougame.tgsw #太古神王
   - PROCESS-NAME,com.tencent.tmgp.bkddz #波克斗地主
+  - PROCESS-NAME,com.tencent.tmgp.blackstar #黑星勇者成名录
   - PROCESS-NAME,com.tencent.tmgp.blr3 #不良人3
   - PROCESS-NAME,com.tencent.tmgp.brdz67 #兵人大战
   - PROCESS-NAME,com.tencent.tmgp.budapp #碧优蒂的世界
@@ -249,7 +248,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.cdxhdsg #魂斗三国
   - PROCESS-NAME,com.tencent.tmgp.cf #穿越火线-枪战王者
   - PROCESS-NAME,com.tencent.tmgp.cfxf #超凡先锋
-  - PROCESS-NAME,com.tencent.tmgp.cgatts #重构：阿塔提斯
   - PROCESS-NAME,com.tencent.tmgp.chcyyb #彩虹橙
   - PROCESS-NAME,com.tencent.tmgp.chd #永恒岛
   - PROCESS-NAME,com.tencent.tmgp.chengzhu.zcydtz #这城有良田
@@ -366,6 +364,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.fknsg2 #放开那三国2
   - PROCESS-NAME,com.tencent.tmgp.forgame.mmxd #美美小店
   - PROCESS-NAME,com.tencent.tmgp.frxxzrjp #凡人修仙传：人界篇
+  - PROCESS-NAME,com.tencent.tmgp.fszhs #封神召唤师
   - PROCESS-NAME,com.tencent.tmgp.fszn2.huiyue #封神之怒
   - PROCESS-NAME,com.tencent.tmgp.ftf #战就战
   - PROCESS-NAME,com.tencent.tmgp.funntcp #欢乐南通长牌
@@ -423,6 +422,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.hlxxz #幻灵修仙传
   - PROCESS-NAME,com.tencent.tmgp.hmzqfy #豪门足球风云
   - PROCESS-NAME,com.tencent.tmgp.hnjysgfz #上古纷争
+  - PROCESS-NAME,com.tencent.tmgp.hnty.tfjy #塔防纪元
   - PROCESS-NAME,com.tencent.tmgp.hotta #幻塔
   - PROCESS-NAME,com.tencent.tmgp.hqfytank #华清飞扬全民坦克联盟游戏软件v1.0
   - PROCESS-NAME,com.tencent.tmgp.hqxy #魂器学院
@@ -439,8 +439,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.hy.dwbxjs #动物变形竞赛
   - PROCESS-NAME,com.tencent.tmgp.hy.hcrdj #火柴人对决
   - PROCESS-NAME,com.tencent.tmgp.hy.hcrssyx #火柴人绳索英雄
-  - PROCESS-NAME,com.tencent.tmgp.hy.hcrzzyc #火柴人战争遗产
-  - PROCESS-NAME,com.tencent.tmgp.hy.kbnn #恐怖奶奶
   - PROCESS-NAME,com.tencent.tmgp.hymc #荒野迷城
   - PROCESS-NAME,com.tencent.tmgp.hyrjgd #荒野日记：孤岛
   - PROCESS-NAME,com.tencent.tmgp.idol2 #绝对演绎
@@ -506,6 +504,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.lilithgames.afk #剑与远征
   - PROCESS-NAME,com.tencent.tmgp.limboworks.honorofcup #足球大师黄金一代
   - PROCESS-NAME,com.tencent.tmgp.lkhx #蓝空幻想
+  - PROCESS-NAME,com.tencent.tmgp.lmztln #黎明之塔
   - PROCESS-NAME,com.tencent.tmgp.locojoy #我叫MT
   - PROCESS-NAME,com.tencent.tmgp.lostinblue #迷失蔚蓝
   - PROCESS-NAME,com.tencent.tmgp.ltgame.atmcard #奥特曼王者传奇
@@ -563,7 +562,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mytalkingtomfriends #汤姆猫总动员
   - PROCESS-NAME,com.tencent.tmgp.mywar #我的战争
   - PROCESS-NAME,com.tencent.tmgp.nanningmj #南宁麻将
-  - PROCESS-NAME,com.tencent.tmgp.NBA #最强NBA
+  - PROCESS-NAME,com.tencent.tmgp.NBA #最强NBA(登录送欧文)
   - PROCESS-NAME,com.tencent.tmgp.netcraftyouyi #奶块
   - PROCESS-NAME,com.tencent.tmgp.nhyd #怒火一刀
   - PROCESS-NAME,com.tencent.tmgp.ninefun.ark #仙国志
@@ -640,7 +639,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.rxcq #热血传奇
   - PROCESS-NAME,com.tencent.tmgp.rxjhbj #热血江湖手游
   - PROCESS-NAME,com.tencent.tmgp.rxsjkp #热血神剑
-  - PROCESS-NAME,com.tencent.tmgp.rywm #荣耀文明
   - PROCESS-NAME,com.tencent.tmgp.s3.sgzzlb #三国志·战略版
   - PROCESS-NAME,com.tencent.tmgp.sanguobt #攻城掠地（唯一正版）
   - PROCESS-NAME,com.tencent.tmgp.sanguosha.mjz #三国杀名将传
@@ -692,7 +690,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.slsmfx #狩猎使命
   - PROCESS-NAME,com.tencent.tmgp.sm #创造与魔法
   - PROCESS-NAME,com.tencent.tmgp.smdl.qy #神魔大陆
-  - PROCESS-NAME,com.tencent.tmgp.sniper3dv2 #狙击行动：代号猎鹰
   - PROCESS-NAME,com.tencent.tmgp.snk.kofworld #拳皇世界
   - PROCESS-NAME,com.tencent.tmgp.snsgz #少年三国志
   - PROCESS-NAME,com.tencent.tmgp.sparrowkwx2dx.maijie #楚天优游卡五星麻将
@@ -745,6 +742,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tmsk.qj3 #全民奇迹2
   - PROCESS-NAME,com.tencent.tmgp.tmst #同盟神探
   - PROCESS-NAME,com.tencent.tmgp.tom #猫和老鼠（正版授权）
+  - PROCESS-NAME,com.tencent.tmgp.tomatostyycn #盛唐烟雨
   - PROCESS-NAME,com.tencent.tmgp.tong.lcgame #归龙潮
   - PROCESS-NAME,com.tencent.tmgp.tqbaohuang #大眼保皇
   - PROCESS-NAME,com.tencent.tmgp.tqfuzhoumajiang #福州麻将
@@ -784,6 +782,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.universeatm #奥特曼宇宙英雄
   - PROCESS-NAME,com.tencent.tmgp.uuapps.chinachess #经典中国象棋
   - PROCESS-NAME,com.tencent.tmgp.uuapps.doudizhu #经典单机斗地主
+  - PROCESS-NAME,com.tencent.tmgp.uuapps.sichuan #单机四川麻将
   - PROCESS-NAME,com.tencent.tmgp.uuappsmajiang #经典单机麻将
   - PROCESS-NAME,com.tencent.tmgp.vlfcn #绿茵信仰
   - PROCESS-NAME,com.tencent.tmgp.wafcncn.hwyad #杜拉拉升职记
@@ -839,7 +838,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xsj.fbmy2 #风暴魔域2
   - PROCESS-NAME,com.tencent.tmgp.xsmdl #新神魔大陆
   - PROCESS-NAME,com.tencent.tmgp.xtlbb #新天龙八部
-  - PROCESS-NAME,com.tencent.tmgp.xuezunew #血族
   - PROCESS-NAME,com.tencent.tmgp.xunkaish.hhxxl #洪荒西行录
   - PROCESS-NAME,com.tencent.tmgp.xxajh #新笑傲江湖
   - PROCESS-NAME,com.tencent.tmgp.xxcz #小小村长
@@ -867,6 +865,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ykdqddz #真人天天斗地主
   - PROCESS-NAME,com.tencent.tmgp.ylandscn #艾兰岛手游
   - PROCESS-NAME,com.tencent.tmgp.ylm #御龙在天手游
+  - PROCESS-NAME,com.tencent.tmgp.yndssy #异能都市
   - PROCESS-NAME,com.tencent.tmgp.ynxy.fangzhou #一念永恒：少年追梦
   - PROCESS-NAME,com.tencent.tmgp.yokaverse.zzxy #自在西游
   - PROCESS-NAME,com.tencent.tmgp.yonghenglianmeng #永恒联盟
@@ -947,6 +946,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ztgame.yszt #原始征途
   - PROCESS-NAME,com.tencent.tmgp.zulong.drc #龙族：卡塞尔之门
   - PROCESS-NAME,com.tencent.tmgp.zushi #最强祖师
+  - PROCESS-NAME,com.tencent.tmgp.zvsa #烈火星辰
   - PROCESS-NAME,com.tencent.tmgp.zy.ddzjdb #斗地主经典版
   - PROCESS-NAME,com.tencent.tmpg.yzywl.hldjddz #欢乐单机斗地主
   - PROCESS-NAME,com.tencent.toaa #黎明觉醒：生机
