@@ -282,6 +282,7 @@ payload:
   - PROCESS-NAME,com.bilibili.studio #必剪
   - PROCESS-NAME,com.biligyar.izdax #izdax翻译
   - PROCESS-NAME,com.bingo.yeliao #十点聊天
+  - PROCESS-NAME,com.bizhi.picturexx #垃圾清理高手
   - PROCESS-NAME,com.bizhijuhe.lj #克拉壁纸
   - PROCESS-NAME,com.bjbyhd.voiceback #保益悦听
   - PROCESS-NAME,com.bjsy.xiangsubz #像素壁纸
@@ -536,7 +537,6 @@ payload:
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
-  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
@@ -642,7 +642,6 @@ payload:
   - PROCESS-NAME,com.hoo.mood.wallpaper #免费壁纸王
   - PROCESS-NAME,com.HotelZhiDing.zhiding365 #直订
   - PROCESS-NAME,com.hp.android.printservice #HP 打印服务插件
-  - PROCESS-NAME,com.hpbr.bosszhipin #BOSS直聘
   - PROCESS-NAME,com.hpplay.happycast #乐播投屏
   - PROCESS-NAME,com.hqf.app.yuanqi #趣玩桌面壁纸
   - PROCESS-NAME,com.hrz.quick #红人装极速版

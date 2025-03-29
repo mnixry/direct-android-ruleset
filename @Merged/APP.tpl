@@ -282,6 +282,7 @@ PROCESS-NAME,com.bigwinepot.nwdn,{{ rule }} # 你我当年AI照片修复
 PROCESS-NAME,com.bilibili.studio,{{ rule }} # 必剪
 PROCESS-NAME,com.biligyar.izdax,{{ rule }} # izdax翻译
 PROCESS-NAME,com.bingo.yeliao,{{ rule }} # 十点聊天
+PROCESS-NAME,com.bizhi.picturexx,{{ rule }} # 垃圾清理高手
 PROCESS-NAME,com.bizhijuhe.lj,{{ rule }} # 克拉壁纸
 PROCESS-NAME,com.bjbyhd.voiceback,{{ rule }} # 保益悦听
 PROCESS-NAME,com.bjsy.xiangsubz,{{ rule }} # 像素壁纸
@@ -536,7 +537,6 @@ PROCESS-NAME,com.free_ride_pin.yiwei,{{ rule }} # 汽车票
 PROCESS-NAME,com.free_ride.yiwei,{{ rule }} # 顺风车
 PROCESS-NAME,com.free.compass,{{ rule }} # 免费指南针
 PROCESS-NAME,com.freebird.zsp.DailyAccounting,{{ rule }} # 日常记账
-PROCESS-NAME,com.freeme.cloud.theme,{{ rule }} # 最美主题
 PROCESS-NAME,com.frozenape.tempo,{{ rule }} # 移动节拍器 Metronome Tempo
 PROCESS-NAME,com.fullgoal.android,{{ rule }} # 富国富钱包
 PROCESS-NAME,com.funinput.digit,{{ rule }} # 数字尾巴
@@ -642,7 +642,6 @@ PROCESS-NAME,com.hongxiu.app,{{ rule }} # 红袖读书
 PROCESS-NAME,com.hoo.mood.wallpaper,{{ rule }} # 免费壁纸王
 PROCESS-NAME,com.HotelZhiDing.zhiding365,{{ rule }} # 直订
 PROCESS-NAME,com.hp.android.printservice,{{ rule }} # HP 打印服务插件
-PROCESS-NAME,com.hpbr.bosszhipin,{{ rule }} # BOSS直聘
 PROCESS-NAME,com.hpplay.happycast,{{ rule }} # 乐播投屏
 PROCESS-NAME,com.hqf.app.yuanqi,{{ rule }} # 趣玩桌面壁纸
 PROCESS-NAME,com.hrz.quick,{{ rule }} # 红人装极速版

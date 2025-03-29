@@ -328,7 +328,6 @@ PROCESS-NAME,com.hongju.aishang,{{ rule }} # 情趣店
 PROCESS-NAME,com.hongren.ui,{{ rule }} # 红人直播
 PROCESS-NAME,com.HotelZhiDing.zhiding365,{{ rule }} # 直订
 PROCESS-NAME,com.hp.android.printservice,{{ rule }} # HP 打印服务插件
-PROCESS-NAME,com.hpbr.bosszhipin,{{ rule }} # BOSS直聘
 PROCESS-NAME,com.hpplay.happycast,{{ rule }} # 乐播投屏
 PROCESS-NAME,com.hrz.quick,{{ rule }} # 红人装极速版
 PROCESS-NAME,com.htinns,{{ rule }} # 华住会
@@ -671,6 +670,7 @@ PROCESS-NAME,com.sinyee.babybus.chef,{{ rule }} # 宝宝小厨房
 PROCESS-NAME,com.sinyee.babybus.drinks,{{ rule }} # 宝宝甜品店
 PROCESS-NAME,com.sinyee.babybus.food,{{ rule }} # 中华美食
 PROCESS-NAME,com.sinyee.babybus.kindergarten,{{ rule }} # 宝宝欢乐教室
+PROCESS-NAME,com.sinyee.babybus.number,{{ rule }} # 宝宝玩数字
 PROCESS-NAME,com.sinyee.babybus.recommendapp,{{ rule }} # 宝宝巴士
 PROCESS-NAME,com.sinyee.babybus.shopping,{{ rule }} # 宝宝超市
 PROCESS-NAME,com.sinyee.babybus.talk2kiki,{{ rule }} # 宝宝巴士奇妙屋
