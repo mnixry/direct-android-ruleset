@@ -214,7 +214,6 @@ payload:
   - PROCESS-NAME,com.bilibili.studio #必剪
   - PROCESS-NAME,com.biligyar.izdax #izdax翻译
   - PROCESS-NAME,com.bizhi.picturexx #垃圾清理高手
-  - PROCESS-NAME,com.bizhijuhe.lj #克拉壁纸
   - PROCESS-NAME,com.bjbyhd.voiceback #保益悦听
   - PROCESS-NAME,com.bjsy.xiangsubz #像素壁纸
   - PROCESS-NAME,com.blink.academy.nomo #NOMO CAM
@@ -366,6 +365,7 @@ payload:
   - PROCESS-NAME,com.founder.zhanjiang #湛江云媒
   - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸-超清主题桌面大全
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
+  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
