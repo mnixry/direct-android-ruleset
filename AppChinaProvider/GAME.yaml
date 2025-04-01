@@ -119,7 +119,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020082001 #足球大亨
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
-  - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
   - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
   - PROCESS-NAME,com.appchina.yugao.2021030903 #终极对抗：球场
@@ -440,6 +439,7 @@ payload:
   - PROCESS-NAME,com.headupgames.bridgeconstructormedieval #桥梁建筑师：中世纪
   - PROCESS-NAME,com.headupgames.bridgeconstructorplayground #桥梁建筑师之游乐场
   - PROCESS-NAME,com.hemispheregames.osmos #星噬
+  - PROCESS-NAME,com.hermes.mk #初音未来：缤纷舞台
   - PROCESS-NAME,com.hermes.ygame1 #花亦山心之月
   - PROCESS-NAME,com.herocraft.game.icerage #愤怒冰球
   - PROCESS-NAME,com.hg.aotl #王牌战机

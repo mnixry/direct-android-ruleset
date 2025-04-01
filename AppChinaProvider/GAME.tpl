@@ -119,7 +119,6 @@ PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082001,{{ rule }} # 足球大亨
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
 PROCESS-NAME,com.appchina.yugao.2020122302,{{ rule }} # Lo-Fi Room
-PROCESS-NAME,com.appchina.yugao.2021022205,{{ rule }} # Rotaeno 旋转音律
 PROCESS-NAME,com.appchina.yugao.2021022505,{{ rule }} # 热血街‪篮‬
 PROCESS-NAME,com.appchina.yugao.2021030213,{{ rule }} # 节奏医生
 PROCESS-NAME,com.appchina.yugao.2021030903,{{ rule }} # 终极对抗：球场
@@ -440,6 +439,7 @@ PROCESS-NAME,com.headupgames.bridgeconstructor,{{ rule }} # 桥梁建造师
 PROCESS-NAME,com.headupgames.bridgeconstructormedieval,{{ rule }} # 桥梁建筑师：中世纪
 PROCESS-NAME,com.headupgames.bridgeconstructorplayground,{{ rule }} # 桥梁建筑师之游乐场
 PROCESS-NAME,com.hemispheregames.osmos,{{ rule }} # 星噬
+PROCESS-NAME,com.hermes.mk,{{ rule }} # 初音未来：缤纷舞台
 PROCESS-NAME,com.hermes.ygame1,{{ rule }} # 花亦山心之月
 PROCESS-NAME,com.herocraft.game.icerage,{{ rule }} # 愤怒冰球
 PROCESS-NAME,com.hg.aotl,{{ rule }} # 王牌战机
