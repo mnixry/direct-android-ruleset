@@ -536,7 +536,6 @@ payload:
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
-  - PROCESS-NAME,com.freeme.cloud.theme #最美主题
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
   - PROCESS-NAME,com.funinput.digit #数字尾巴
@@ -1598,6 +1597,7 @@ payload:
   - PROCESS-NAME,cuuca.sendfiles.Activity #汇分享
   - PROCESS-NAME,dongzheng.szkingdom.android.phone #掌证宝
   - PROCESS-NAME,droom.sleepIfUCan #使命闹钟Alarmy
+  - PROCESS-NAME,dttp.com.tupian.djg #动态壁纸
   - PROCESS-NAME,epson.print #Epson iPrint
   - PROCESS-NAME,fkg.client.side.activity #蜂狂购
   - PROCESS-NAME,flipboard.cn #红板报
