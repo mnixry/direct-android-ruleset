@@ -268,12 +268,10 @@ payload:
   - PROCESS-NAME,com.cmcm.cfwallpaper #元气桌面壁纸
   - PROCESS-NAME,com.cmri.universalapp #移动爱家
   - PROCESS-NAME,com.cmstop.zswz #掌上温州
-  - PROCESS-NAME,com.cn21.ecloud #天翼云盘
   - PROCESS-NAME,com.cnbizmedia.shangjie #商界
   - PROCESS-NAME,com.cns.mc.activity #中国新闻网
   - PROCESS-NAME,com.codoon.gps #咕咚
   - PROCESS-NAME,com.color.by.coloring.wallpaper.android #涂个壁纸
-  - PROCESS-NAME,com.corp21cn.mail189 #189邮箱
   - PROCESS-NAME,com.csii_qzbank #泉州银行
   - PROCESS-NAME,com.csii.hkb #汉口银行
   - PROCESS-NAME,com.csii.tianjin.mobilebank #天津银行
@@ -485,6 +483,7 @@ payload:
   - PROCESS-NAME,com.intel.voice #超级声音表情
   - PROCESS-NAME,com.intsig.BizCardReader #名片全能王
   - PROCESS-NAME,com.intsig.camscanner #扫描全能王
+  - PROCESS-NAME,com.iqinbao.android.songs #亲宝儿歌
   - PROCESS-NAME,com.irongroup #电话时间统计
   - PROCESS-NAME,com.iss.taianbank #泰安银行
   - PROCESS-NAME,com.istone.activity #邦购商城
@@ -534,6 +533,7 @@ payload:
   - PROCESS-NAME,com.kmxs.reader #七猫免费小说
   - PROCESS-NAME,com.komoxo.octopusime #章鱼输入法
   - PROCESS-NAME,com.koudai.weishop #微店店长版
+  - PROCESS-NAME,com.kuaidi.cx #查快递物流
   - PROCESS-NAME,com.kuaikan.comic #快看漫画
   - PROCESS-NAME,com.kuangxiang.novel #欢乐书客
   - PROCESS-NAME,com.kugou.android #酷狗音乐

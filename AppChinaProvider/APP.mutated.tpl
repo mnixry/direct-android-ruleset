@@ -267,12 +267,10 @@ PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity,{{ rule }} # 掌上生活
 PROCESS-NAME,com.cmcm.cfwallpaper,{{ rule }} # 元气桌面壁纸
 PROCESS-NAME,com.cmri.universalapp,{{ rule }} # 移动爱家
 PROCESS-NAME,com.cmstop.zswz,{{ rule }} # 掌上温州
-PROCESS-NAME,com.cn21.ecloud,{{ rule }} # 天翼云盘
 PROCESS-NAME,com.cnbizmedia.shangjie,{{ rule }} # 商界
 PROCESS-NAME,com.cns.mc.activity,{{ rule }} # 中国新闻网
 PROCESS-NAME,com.codoon.gps,{{ rule }} # 咕咚
 PROCESS-NAME,com.color.by.coloring.wallpaper.android,{{ rule }} # 涂个壁纸
-PROCESS-NAME,com.corp21cn.mail189,{{ rule }} # 189邮箱
 PROCESS-NAME,com.csii_qzbank,{{ rule }} # 泉州银行
 PROCESS-NAME,com.csii.hkb,{{ rule }} # 汉口银行
 PROCESS-NAME,com.csii.tianjin.mobilebank,{{ rule }} # 天津银行
@@ -483,6 +481,7 @@ PROCESS-NAME,com.inditex.zara,{{ rule }} # ZARA
 PROCESS-NAME,com.intel.voice,{{ rule }} # 超级声音表情
 PROCESS-NAME,com.intsig.BizCardReader,{{ rule }} # 名片全能王
 PROCESS-NAME,com.intsig.camscanner,{{ rule }} # 扫描全能王
+PROCESS-NAME,com.iqinbao.android.songs,{{ rule }} # 亲宝儿歌
 PROCESS-NAME,com.irongroup,{{ rule }} # 电话时间统计
 PROCESS-NAME,com.iss.taianbank,{{ rule }} # 泰安银行
 PROCESS-NAME,com.istone.activity,{{ rule }} # 邦购商城
@@ -532,6 +531,7 @@ PROCESS-NAME,com.kkycs.component,{{ rule }} # 美化小组件
 PROCESS-NAME,com.kmxs.reader,{{ rule }} # 七猫免费小说
 PROCESS-NAME,com.komoxo.octopusime,{{ rule }} # 章鱼输入法
 PROCESS-NAME,com.koudai.weishop,{{ rule }} # 微店店长版
+PROCESS-NAME,com.kuaidi.cx,{{ rule }} # 查快递物流
 PROCESS-NAME,com.kuaikan.comic,{{ rule }} # 快看漫画
 PROCESS-NAME,com.kuangxiang.novel,{{ rule }} # 欢乐书客
 PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐

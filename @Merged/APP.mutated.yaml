@@ -372,14 +372,12 @@ payload:
   - PROCESS-NAME,com.cmri.universalapp #移动爱家
   - PROCESS-NAME,com.cmschina.stock #招商证券
   - PROCESS-NAME,com.cmstop.zswz #掌上温州
-  - PROCESS-NAME,com.cn21.ecloud #天翼云盘
   - PROCESS-NAME,com.cnbizmedia.shangjie #商界
   - PROCESS-NAME,com.cns.mc.activity #中国新闻网
   - PROCESS-NAME,com.codoon.gps #咕咚
   - PROCESS-NAME,com.color.by.coloring.wallpaper.android #涂个壁纸
   - PROCESS-NAME,com.comic.manhuatai #漫画台
   - PROCESS-NAME,com.cooby.news #华人头条
-  - PROCESS-NAME,com.corp21cn.mail189 #189邮箱
   - PROCESS-NAME,com.cpic.sxbxxe #太平洋保险
   - PROCESS-NAME,com.crv.wanjia #华润万家
   - PROCESS-NAME,com.cs_credit_bank #发现精彩
@@ -452,6 +450,7 @@ payload:
   - PROCESS-NAME,com.duoduo.child.story #儿歌多多
   - PROCESS-NAME,com.duokan.phone.remotecontroller #万能遥控
   - PROCESS-NAME,com.duokan.reader #多看
+  - PROCESS-NAME,com.duorong.smarttool #时光序
   - PROCESS-NAME,com.duowan.kiwi #虎牙直播
   - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.dute.dutenews #读特
@@ -728,6 +727,7 @@ payload:
   - PROCESS-NAME,com.intsig.camscanner #扫描全能王
   - PROCESS-NAME,com.iodkols.onekeylockscreen #一键锁屏
   - PROCESS-NAME,com.iqilu.ksd #闪电新闻
+  - PROCESS-NAME,com.iqinbao.android.songs #亲宝儿歌
   - PROCESS-NAME,com.iqiyi.acg #爱奇艺叭嗒
   - PROCESS-NAME,com.iqiyi.qixiu #奇秀
   - PROCESS-NAME,com.irongroup #电话时间统计
@@ -810,6 +810,7 @@ payload:
   - PROCESS-NAME,com.koudai.recorder #手机录音管家
   - PROCESS-NAME,com.koudai.weidian.buyer #微店
   - PROCESS-NAME,com.koudai.weishop #微店店长版
+  - PROCESS-NAME,com.kuaidi.cx #查快递物流
   - PROCESS-NAME,com.kuaiduizuoye.scan #快对AI
   - PROCESS-NAME,com.kuaikan.comic #快看漫画
   - PROCESS-NAME,com.kuaishou.nebula #快手极速版
@@ -1147,7 +1148,6 @@ payload:
   - PROCESS-NAME,com.shuqu.banyan #榕树贷款
   - PROCESS-NAME,com.shusheng.JoJoRead #叫叫
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
-  - PROCESS-NAME,com.shyz.toutiao #清理大师
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.VDisk #新浪微盘
