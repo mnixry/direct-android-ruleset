@@ -682,6 +682,7 @@ PROCESS-NAME,com.huxiu,{{ rule }} # 虎嗅
 PROCESS-NAME,com.huxiupro,{{ rule }} # 妙投
 PROCESS-NAME,com.huyun.ybb,{{ rule }} # 运帮帮
 PROCESS-NAME,com.hw.okm,{{ rule }} # 二三里
+PROCESS-NAME,com.hxak.liangongbao,{{ rule }} # 链工宝
 PROCESS-NAME,com.hyhy.view,{{ rule }} # 掌上天津
 PROCESS-NAME,com.i61.draw.live,{{ rule }} # 画啦啦美术课堂
 PROCESS-NAME,com.ibike.publicbicycle.activity,{{ rule }} # 永安行
@@ -835,7 +836,6 @@ PROCESS-NAME,com.lanjingren.ivwen,{{ rule }} # 美篇
 PROCESS-NAME,com.laoyuegou.android,{{ rule }} # 捞月狗
 PROCESS-NAME,com.lazymc.smstoemail,{{ rule }} # 我的信
 PROCESS-NAME,com.lcworld.haiwainet,{{ rule }} # 海客新闻
-PROCESS-NAME,com.lcworld.oasismedical,{{ rule }} # 泓华医疗
 PROCESS-NAME,com.le123.ysdq,{{ rule }} # 影视大全
 PROCESS-NAME,com.lechuan.mdwz,{{ rule }} # 米读极速版
 PROCESS-NAME,com.lechuan.midunovel,{{ rule }} # 米读小说
@@ -1202,7 +1202,7 @@ PROCESS-NAME,com.snda.wifilocating,{{ rule }} # WiFi万能钥匙
 PROCESS-NAME,com.soft.blued,{{ rule }} # Blued
 PROCESS-NAME,com.sohu.infonews,{{ rule }} # 搜狐资讯
 PROCESS-NAME,com.sohu.inputmethod.sogou,{{ rule }} # 搜狗输入法
-PROCESS-NAME,com.sohu.mail.client.cordova,{{ rule }} # 搜狐闪电邮
+PROCESS-NAME,com.sohu.mail.client.cordova,{{ rule }} # 搜狐邮箱
 PROCESS-NAME,com.sohu.newsclient,{{ rule }} # 搜狐新闻
 PROCESS-NAME,com.sohu.sohuvideo,{{ rule }} # 搜狐视频
 PROCESS-NAME,com.sohu.tv,{{ rule }} # 搜狐视频Pad
