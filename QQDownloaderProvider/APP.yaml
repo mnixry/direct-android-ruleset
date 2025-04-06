@@ -87,7 +87,7 @@ payload:
   - PROCESS-NAME,com.android.bankabc #农行掌上银行
   - PROCESS-NAME,com.android.chrome #谷歌浏览器Google Chrome
   - PROCESS-NAME,com.android.dazhihui #大智慧
-  - PROCESS-NAME,com.android.haitong #海通e海通财
+  - PROCESS-NAME,com.android.haitong #国泰海通通财
   - PROCESS-NAME,com.android.icredit #企查查
   - PROCESS-NAME,com.android.tutuerge #兔兔儿歌
   - PROCESS-NAME,com.android.vending #Google Play Store
@@ -301,7 +301,7 @@ payload:
   - PROCESS-NAME,com.gstarmc.android #CAD看图王
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
-  - PROCESS-NAME,com.guotai.dazhihui #国泰君安君弘
+  - PROCESS-NAME,com.guotai.dazhihui #国泰海通君弘
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
   - PROCESS-NAME,com.haier.uhome.uplus #海尔智家
   - PROCESS-NAME,com.haixiu.ui #嗨秀直播

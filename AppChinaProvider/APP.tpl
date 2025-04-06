@@ -138,7 +138,6 @@ PROCESS-NAME,com.appchina.anpai.2019071601,{{ rule }} # 鸟类壁纸
 PROCESS-NAME,com.appchina.anpai.2020052601,{{ rule }} # Gear浏览器
 PROCESS-NAME,com.appchina.anpai.20210203002,{{ rule }} # 什么时辰 - 生辰文字时钟小组件Widgets
 PROCESS-NAME,com.appchina.anpai.20210203003,{{ rule }} # 什么时间 - 翻转时钟桌面小组件Widget
-PROCESS-NAME,com.appchina.anpai.2021100803,{{ rule }} # 猫咪锁屏提醒-每天将待办任务展示到壁纸上
 PROCESS-NAME,com.appcina.anpai.2019080818,{{ rule }} # 克拉壁纸
 PROCESS-NAME,com.appcina.anpai.2019090601,{{ rule }} # 壁纸制作:Livfe - 动态壁纸制作&视频壁纸
 PROCESS-NAME,com.appcina.anpai.2019092705,{{ rule }} # 星座运势-十二星座每日运势小组件
@@ -214,7 +213,6 @@ PROCESS-NAME,com.benqu.wuta,{{ rule }} # 无他相机
 PROCESS-NAME,com.bigwinepot.nwdn,{{ rule }} # 你我当年AI照片修复
 PROCESS-NAME,com.bilibili.studio,{{ rule }} # 必剪
 PROCESS-NAME,com.biligyar.izdax,{{ rule }} # izdax翻译
-PROCESS-NAME,com.bizhi.picturexx,{{ rule }} # 垃圾清理高手
 PROCESS-NAME,com.bjbyhd.voiceback,{{ rule }} # 保益悦听
 PROCESS-NAME,com.bjsy.xiangsubz,{{ rule }} # 像素壁纸
 PROCESS-NAME,com.blink.academy.nomo,{{ rule }} # NOMO CAM
@@ -376,6 +374,7 @@ PROCESS-NAME,com.gamestar.perfectpiano,{{ rule }} # 完美钢琴
 PROCESS-NAME,com.gamestar.pianoperfect,{{ rule }} # 随身乐队
 PROCESS-NAME,com.ganji.android,{{ rule }} # 赶集直招
 PROCESS-NAME,com.gaoping.makewallpaper,{{ rule }} # 动态壁纸制作
+PROCESS-NAME,com.gator.mm,{{ rule }} # 美女图集大全
 PROCESS-NAME,com.gau.go.launcherex.theme.droidglass,{{ rule }} # 玻璃主题包
 PROCESS-NAME,com.gbcom.gwifi.school,{{ rule }} # GiWiFi校园助手
 PROCESS-NAME,com.geihui,{{ rule }} # 给惠网
@@ -679,6 +678,7 @@ PROCESS-NAME,com.pplive.androidphone,{{ rule }} # PP视频
 PROCESS-NAME,com.pplive.androidphone.sport,{{ rule }} # PP体育
 PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer
 PROCESS-NAME,com.qdnews.qd,{{ rule }} # 青岛新闻
+PROCESS-NAME,com.qfmwwjq.ycsswdt,{{ rule }} # 免费歌曲大全
 PROCESS-NAME,com.qiaola.desktop,{{ rule }} # 动态壁纸精灵
 PROCESS-NAME,com.qidian.QDReader,{{ rule }} # 起点读书
 PROCESS-NAME,com.qihoo.browser,{{ rule }} # 360浏览器

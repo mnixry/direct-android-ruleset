@@ -138,7 +138,6 @@ payload:
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
   - PROCESS-NAME,com.appchina.anpai.20210203002 #什么时辰 - 生辰文字时钟小组件Widgets
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
-  - PROCESS-NAME,com.appchina.anpai.2021100803 #猫咪锁屏提醒-每天将待办任务展示到壁纸上
   - PROCESS-NAME,com.appcina.anpai.2019080818 #克拉壁纸
   - PROCESS-NAME,com.appcina.anpai.2019090601 #壁纸制作:Livfe - 动态壁纸制作&视频壁纸
   - PROCESS-NAME,com.appcina.anpai.2019092705 #星座运势-十二星座每日运势小组件
@@ -214,7 +213,6 @@ payload:
   - PROCESS-NAME,com.bigwinepot.nwdn #你我当年AI照片修复
   - PROCESS-NAME,com.bilibili.studio #必剪
   - PROCESS-NAME,com.biligyar.izdax #izdax翻译
-  - PROCESS-NAME,com.bizhi.picturexx #垃圾清理高手
   - PROCESS-NAME,com.bjbyhd.voiceback #保益悦听
   - PROCESS-NAME,com.bjsy.xiangsubz #像素壁纸
   - PROCESS-NAME,com.blink.academy.nomo #NOMO CAM
@@ -376,6 +374,7 @@ payload:
   - PROCESS-NAME,com.gamestar.pianoperfect #随身乐队
   - PROCESS-NAME,com.ganji.android #赶集直招
   - PROCESS-NAME,com.gaoping.makewallpaper #动态壁纸制作
+  - PROCESS-NAME,com.gator.mm #美女图集大全
   - PROCESS-NAME,com.gau.go.launcherex.theme.droidglass #玻璃主题包
   - PROCESS-NAME,com.gbcom.gwifi.school #GiWiFi校园助手
   - PROCESS-NAME,com.geihui #给惠网
@@ -679,6 +678,7 @@ payload:
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
   - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
+  - PROCESS-NAME,com.qfmwwjq.ycsswdt #免费歌曲大全
   - PROCESS-NAME,com.qiaola.desktop #动态壁纸精灵
   - PROCESS-NAME,com.qidian.QDReader #起点读书
   - PROCESS-NAME,com.qihoo.browser #360浏览器

@@ -87,7 +87,7 @@ PROCESS-NAME,com.android.app.quanmama,{{ rule }} # 券妈妈优惠券
 PROCESS-NAME,com.android.bankabc,{{ rule }} # 农行掌上银行
 PROCESS-NAME,com.android.chrome,{{ rule }} # 谷歌浏览器Google Chrome
 PROCESS-NAME,com.android.dazhihui,{{ rule }} # 大智慧
-PROCESS-NAME,com.android.haitong,{{ rule }} # 海通e海通财
+PROCESS-NAME,com.android.haitong,{{ rule }} # 国泰海通通财
 PROCESS-NAME,com.android.icredit,{{ rule }} # 企查查
 PROCESS-NAME,com.android.tutuerge,{{ rule }} # 兔兔儿歌
 PROCESS-NAME,com.android.vending,{{ rule }} # Google Play Store
@@ -301,7 +301,7 @@ PROCESS-NAME,com.greentree.android,{{ rule }} # 格林
 PROCESS-NAME,com.gstarmc.android,{{ rule }} # CAD看图王
 PROCESS-NAME,com.gtgj.view,{{ rule }} # 高铁管家
 PROCESS-NAME,com.guosen.android,{{ rule }} # 国信金太阳
-PROCESS-NAME,com.guotai.dazhihui,{{ rule }} # 国泰君安君弘
+PROCESS-NAME,com.guotai.dazhihui,{{ rule }} # 国泰海通君弘
 PROCESS-NAME,com.gwsoft.imusic.controller,{{ rule }} # 爱音乐
 PROCESS-NAME,com.haier.uhome.uplus,{{ rule }} # 海尔智家
 PROCESS-NAME,com.haixiu.ui,{{ rule }} # 嗨秀直播
