@@ -158,7 +158,6 @@ PROCESS-NAME,com.changba,{{ rule }} # 唱吧
 PROCESS-NAME,com.chaoxing.mobile,{{ rule }} # 学习通
 PROCESS-NAME,com.chaozh.iReaderFree,{{ rule }} # 掌阅
 PROCESS-NAME,com.chebada,{{ rule }} # 巴士管家
-PROCESS-NAME,com.chenyang.wzzyy,{{ rule }} # 文字转语音
 PROCESS-NAME,com.chinalife.ebz,{{ rule }} # 中国人寿寿险
 PROCESS-NAME,com.chinamobile.contacts.im,{{ rule }} # 和通讯录
 PROCESS-NAME,com.chinamobile.mcloud,{{ rule }} # 中国移动云盘
@@ -452,6 +451,7 @@ PROCESS-NAME,com.lalamove.huolala.client,{{ rule }} # 货拉拉
 PROCESS-NAME,com.lanjinger.choiassociatedpress,{{ rule }} # 财联社
 PROCESS-NAME,com.lanjingren.ivwen,{{ rule }} # 美篇
 PROCESS-NAME,com.laoyuegou.android,{{ rule }} # 捞月狗
+PROCESS-NAME,com.larus.nova,{{ rule }} # 豆包
 PROCESS-NAME,com.le123.ysdq,{{ rule }} # 影视大全
 PROCESS-NAME,com.lechuan.mdwz,{{ rule }} # 米读极速版
 PROCESS-NAME,com.lechuan.midunovel,{{ rule }} # 米读小说
