@@ -295,7 +295,6 @@ PROCESS-NAME,com.deyi.client,{{ rule }} # 得意生活
 PROCESS-NAME,com.DHgate.seller.android,{{ rule }} # 敦煌网商户
 PROCESS-NAME,com.dianping.v1,{{ rule }} # 大众点评
 PROCESS-NAME,com.diershoubing.erbing,{{ rule }} # 二柄
-PROCESS-NAME,com.dingniu.wallpaper,{{ rule }} # 4k动态壁纸
 PROCESS-NAME,com.dingYZ.dingyzwater,{{ rule }} # 微脉水印相机
 PROCESS-NAME,com.dipiapp.pcall,{{ rule }} # 嘀嗒网络电话
 PROCESS-NAME,com.djbox.product,{{ rule }} # DJ音乐盒
@@ -566,7 +565,7 @@ PROCESS-NAME,com.liuzb.moodiary,{{ rule }} # 心情日记本
 PROCESS-NAME,com.ljmobile.zlj.rom.release,{{ rule }} # 授权管理软件搬家
 PROCESS-NAME,com.llspace.pupu,{{ rule }} # 平行世界
 PROCESS-NAME,com.lltskb.lltskb,{{ rule }} # 路路通
-PROCESS-NAME,com.lofter.android,{{ rule }} # LOFTER
+PROCESS-NAME,com.lofter.android,{{ rule }} # 网易LOFTER
 PROCESS-NAME,com.lokinfo.android.gamemarket.mmshow,{{ rule }} # 95秀
 PROCESS-NAME,com.lolaage.tbulu.tools,{{ rule }} # 两步路户外助手
 PROCESS-NAME,com.lovebizhi.wallpaper,{{ rule }} # 爱壁纸_桌面锁屏
@@ -1057,6 +1056,7 @@ PROCESS-NAME,tt.lt.tt,{{ rule }} # 聊天漂流瓶
 PROCESS-NAME,tv.acfundanmaku.video,{{ rule }} # AcFun
 PROCESS-NAME,tv.danmaku.bili,{{ rule }} # 哔哩哔哩
 PROCESS-NAME,tv.pps.mobile,{{ rule }} # 爱奇艺随刻
+PROCESS-NAME,tv.yinhua.main,{{ rule }} # 音画
 PROCESS-NAME,us.pinguo.april_collage,{{ rule }} # 拼图酱
 PROCESS-NAME,vStudio.Android.Camera360,{{ rule }} # 相机360
 PROCESS-NAME,vz.com,{{ rule }} # 飞常准

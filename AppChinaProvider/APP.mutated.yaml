@@ -295,7 +295,6 @@ payload:
   - PROCESS-NAME,com.DHgate.seller.android #敦煌网商户
   - PROCESS-NAME,com.dianping.v1 #大众点评
   - PROCESS-NAME,com.diershoubing.erbing #二柄
-  - PROCESS-NAME,com.dingniu.wallpaper #4k动态壁纸
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
   - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
   - PROCESS-NAME,com.djbox.product #DJ音乐盒
@@ -566,7 +565,7 @@ payload:
   - PROCESS-NAME,com.ljmobile.zlj.rom.release #授权管理软件搬家
   - PROCESS-NAME,com.llspace.pupu #平行世界
   - PROCESS-NAME,com.lltskb.lltskb #路路通
-  - PROCESS-NAME,com.lofter.android #LOFTER
+  - PROCESS-NAME,com.lofter.android #网易LOFTER
   - PROCESS-NAME,com.lokinfo.android.gamemarket.mmshow #95秀
   - PROCESS-NAME,com.lolaage.tbulu.tools #两步路户外助手
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸_桌面锁屏
@@ -1057,6 +1056,7 @@ payload:
   - PROCESS-NAME,tv.acfundanmaku.video #AcFun
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
   - PROCESS-NAME,tv.pps.mobile #爱奇艺随刻
+  - PROCESS-NAME,tv.yinhua.main #音画
   - PROCESS-NAME,us.pinguo.april_collage #拼图酱
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准

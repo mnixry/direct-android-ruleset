@@ -420,7 +420,6 @@ payload:
   - PROCESS-NAME,com.diershoubing.erbing #二柄
   - PROCESS-NAME,com.digitalgd.dgyss #粤省事
   - PROCESS-NAME,com.dingchebao #订车宝
-  - PROCESS-NAME,com.dingniu.wallpaper #4k动态壁纸
   - PROCESS-NAME,com.dingtai.wxhn.activity #新湖南
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
   - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
@@ -1694,6 +1693,7 @@ payload:
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
   - PROCESS-NAME,tv.pps.mobile #爱奇艺随刻
   - PROCESS-NAME,tv.yilan.howto.app #好兔视频
+  - PROCESS-NAME,tv.yinhua.main #音画
   - PROCESS-NAME,tv.yixia.bobo #波波视频
   - PROCESS-NAME,us.pinguo.april_collage #拼图酱
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
