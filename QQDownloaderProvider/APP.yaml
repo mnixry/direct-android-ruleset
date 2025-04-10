@@ -322,7 +322,6 @@ payload:
   - PROCESS-NAME,com.hicorenational.antifraud #国家反诈中心
   - PROCESS-NAME,com.hipu.yidian #一点资讯
   - PROCESS-NAME,com.hlg.daydaytobusiness #稿定设计
-  - PROCESS-NAME,com.holyblade.cloud.platform #蘑菇云游
   - PROCESS-NAME,com.homelink.android #链家
   - PROCESS-NAME,com.hong.chenranse #情趣淘成人购物商城
   - PROCESS-NAME,com.hongju.aishang #情趣店
@@ -671,6 +670,7 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.drinks #宝宝甜品店
   - PROCESS-NAME,com.sinyee.babybus.food #中华美食
   - PROCESS-NAME,com.sinyee.babybus.kindergarten #宝宝欢乐教室
+  - PROCESS-NAME,com.sinyee.babybus.number #宝宝玩数字
   - PROCESS-NAME,com.sinyee.babybus.recommendapp #宝宝巴士
   - PROCESS-NAME,com.sinyee.babybus.shopping #宝宝超市
   - PROCESS-NAME,com.sinyee.babybus.talk2kiki #宝宝巴士奇妙屋
