@@ -19,7 +19,7 @@ payload:
   - PROCESS-NAME,cn.chinabus.main #8684实时公交
   - PROCESS-NAME,cn.cj.pe #139邮箱
   - PROCESS-NAME,cn.cntv #央视影音
-  - PROCESS-NAME,cn.cntvhd #央视影音HD-新闻体育人文影视高清
+  - PROCESS-NAME,cn.cntvhd #央视影音HD
   - PROCESS-NAME,cn.cntvnews #央视新闻
   - PROCESS-NAME,cn.colorv #彩视
   - PROCESS-NAME,cn.com.enorth.jinyun #津云
@@ -360,7 +360,7 @@ payload:
   - PROCESS-NAME,com.font #写字先生
   - PROCESS-NAME,com.founder.qujing #掌上曲靖
   - PROCESS-NAME,com.founder.zhanjiang #湛江云媒
-  - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸-超清主题桌面大全
+  - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
   - PROCESS-NAME,com.frozenape.tempo #移动节拍器 Metronome Tempo
   - PROCESS-NAME,com.fullgoal.android #富国富钱包
