@@ -229,7 +229,7 @@ PROCESS-NAME,com.bz.ziti.diy,{{ rule }} # wallpaper壁纸大全
 PROCESS-NAME,com.caijing,{{ rule }} # 财经杂志
 PROCESS-NAME,com.caing.news,{{ rule }} # 财新
 PROCESS-NAME,com.caishi.cronus,{{ rule }} # 唔哩头条
-PROCESS-NAME,com.camera.retroarg,{{ rule }} # Dazz复古相机拍照
+PROCESS-NAME,com.camera.retroarg,{{ rule }} # DZ复古胶片相机
 PROCESS-NAME,com.campmobile.snowcamera,{{ rule }} # B612咔叽
 PROCESS-NAME,com.capelabs.leyou,{{ rule }} # 乐友
 PROCESS-NAME,com.cat.readall,{{ rule }} # 悟空浏览器

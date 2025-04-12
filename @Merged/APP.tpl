@@ -310,7 +310,7 @@ PROCESS-NAME,com.cainiao.wireless,{{ rule }} # 菜鸟
 PROCESS-NAME,com.cainiu.lawyer365,{{ rule }} # 律师365
 PROCESS-NAME,com.cairh.khapp.dbzq.xmlqdl,{{ rule }} # 东北证券股票开户
 PROCESS-NAME,com.caishi.cronus,{{ rule }} # 唔哩头条
-PROCESS-NAME,com.camera.retroarg,{{ rule }} # Dazz复古相机拍照
+PROCESS-NAME,com.camera.retroarg,{{ rule }} # DZ复古胶片相机
 PROCESS-NAME,com.campmobile.snowcamera,{{ rule }} # B612咔叽
 PROCESS-NAME,com.capelabs.leyou,{{ rule }} # 乐友
 PROCESS-NAME,com.cat.readall,{{ rule }} # 悟空浏览器
@@ -507,7 +507,7 @@ PROCESS-NAME,com.fc.management,{{ rule }} # 文件编辑器
 PROCESS-NAME,com.feiteng.lieyou,{{ rule }} # 猎游
 PROCESS-NAME,com.felink.foregroundpaper,{{ rule }} # 羞兔全局壁纸
 PROCESS-NAME,com.fenbi.android.gaozhong,{{ rule }} # 猿题库
-PROCESS-NAME,com.fenbi.android.leo,{{ rule }} # 小猿口算
+PROCESS-NAME,com.fenbi.android.leo,{{ rule }} # 小猿AI
 PROCESS-NAME,com.fenbi.android.servant,{{ rule }} # 粉笔
 PROCESS-NAME,com.fenbi.android.solar,{{ rule }} # 小猿搜题
 PROCESS-NAME,com.fenqile.fenqile,{{ rule }} # 分期乐

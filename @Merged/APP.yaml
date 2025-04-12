@@ -310,7 +310,7 @@ payload:
   - PROCESS-NAME,com.cainiu.lawyer365 #律师365
   - PROCESS-NAME,com.cairh.khapp.dbzq.xmlqdl #东北证券股票开户
   - PROCESS-NAME,com.caishi.cronus #唔哩头条
-  - PROCESS-NAME,com.camera.retroarg #Dazz复古相机拍照
+  - PROCESS-NAME,com.camera.retroarg #DZ复古胶片相机
   - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
   - PROCESS-NAME,com.capelabs.leyou #乐友
   - PROCESS-NAME,com.cat.readall #悟空浏览器
@@ -507,7 +507,7 @@ payload:
   - PROCESS-NAME,com.feiteng.lieyou #猎游
   - PROCESS-NAME,com.felink.foregroundpaper #羞兔全局壁纸
   - PROCESS-NAME,com.fenbi.android.gaozhong #猿题库
-  - PROCESS-NAME,com.fenbi.android.leo #小猿口算
+  - PROCESS-NAME,com.fenbi.android.leo #小猿AI
   - PROCESS-NAME,com.fenbi.android.servant #粉笔
   - PROCESS-NAME,com.fenbi.android.solar #小猿搜题
   - PROCESS-NAME,com.fenqile.fenqile #分期乐

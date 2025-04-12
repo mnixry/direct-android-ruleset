@@ -255,7 +255,7 @@ PROCESS-NAME,com.fanlitaolianmengw,{{ rule }} # 返利淘联盟
 PROCESS-NAME,com.fanlwgaoylmengw,{{ rule }} # 返利高佣联盟
 PROCESS-NAME,com.fc.management,{{ rule }} # 文件编辑器
 PROCESS-NAME,com.fenbi.android.gaozhong,{{ rule }} # 猿题库
-PROCESS-NAME,com.fenbi.android.leo,{{ rule }} # 小猿口算
+PROCESS-NAME,com.fenbi.android.leo,{{ rule }} # 小猿AI
 PROCESS-NAME,com.fenbi.android.servant,{{ rule }} # 粉笔
 PROCESS-NAME,com.fenbi.android.solar,{{ rule }} # 小猿搜题
 PROCESS-NAME,com.fenqile.fenqile,{{ rule }} # 分期乐
