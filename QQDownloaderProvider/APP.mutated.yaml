@@ -700,6 +700,7 @@ payload:
   - PROCESS-NAME,com.suddenfix.customer #闪电修
   - PROCESS-NAME,com.suning.mobile.ebuy #苏宁易购
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
+  - PROCESS-NAME,com.suteng.zzss480 #趣拿
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
   - PROCESS-NAME,com.szyy2106.pdfscanner #扫描王PDF
@@ -979,7 +980,6 @@ payload:
   - PROCESS-NAME,org.fungo.fungolive #天天电视直播
   - PROCESS-NAME,org.zywx.wbpalmstar.widgetone.uexaaagg10001 #安全守护
   - PROCESS-NAME,protect.eye #护眼宝
-  - PROCESS-NAME,qzyd.speed.nethelper #中国移动福建
   - PROCESS-NAME,shengang.szkingdom.android.phone #申港证券
   - PROCESS-NAME,sina.mobile.tianqitong #天气通
   - PROCESS-NAME,software.ecenter.study #状元共享课堂
