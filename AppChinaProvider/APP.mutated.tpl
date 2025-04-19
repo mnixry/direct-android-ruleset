@@ -727,7 +727,7 @@ PROCESS-NAME,com.shuqi.controller,{{ rule }} # 书旗小说
 PROCESS-NAME,com.shyltts,{{ rule }} # 读短信来电报姓名
 PROCESS-NAME,com.si.wallpapersi,{{ rule }} # 最美免费壁纸秀
 PROCESS-NAME,com.sina.news,{{ rule }} # 新浪新闻
-PROCESS-NAME,com.sina.VDisk,{{ rule }} # 新浪微盘
+PROCESS-NAME,com.sina.VDisk,{{ rule }} # 微盘
 PROCESS-NAME,com.sina.weibo,{{ rule }} # 微博
 PROCESS-NAME,com.sina.weibog3,{{ rule }} # 微博移动版
 PROCESS-NAME,com.sing.client,{{ rule }} # 5sing音乐

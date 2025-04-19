@@ -727,7 +727,7 @@ payload:
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.si.wallpapersi #最美免费壁纸秀
   - PROCESS-NAME,com.sina.news #新浪新闻
-  - PROCESS-NAME,com.sina.VDisk #新浪微盘
+  - PROCESS-NAME,com.sina.VDisk #微盘
   - PROCESS-NAME,com.sina.weibo #微博
   - PROCESS-NAME,com.sina.weibog3 #微博移动版
   - PROCESS-NAME,com.sing.client #5sing音乐
