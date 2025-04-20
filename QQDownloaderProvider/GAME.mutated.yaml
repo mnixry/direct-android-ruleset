@@ -9,7 +9,6 @@ payload:
   - PROCESS-NAME,com.airmpoint.spider.yyb #蜘蛛纸牌经典
   - PROCESS-NAME,com.aswind.libdesktoppet #桌面萌宠
   - PROCESS-NAME,com.bbqstudio.bbqq.yyb #野蛮人大作战
-  - PROCESS-NAME,com.bdapps.antistressball #快清理粘液模拟器
   - PROCESS-NAME,com.bftuolaji.yyb #边锋拖拉机精简版
   - PROCESS-NAME,com.brianbaek.popstar #消灭星星全新版
   - PROCESS-NAME,com.bruce.bestidiom #成语拼拼拼
@@ -38,6 +37,7 @@ payload:
   - PROCESS-NAME,com.happyelements.AndroidAnimal.qq #开心消消乐
   - PROCESS-NAME,com.happyelements.AndroidClover.www #海滨消消乐
   - PROCESS-NAME,com.htwoplayers.srjjc #双人竞技场
+  - PROCESS-NAME,com.huanshouluhy.book #幻兽录
   - PROCESS-NAME,com.hytc.hxsg2 #汉风幻想三国OL
   - PROCESS-NAME,com.hzdx.fkzdx #疯狂找东西
   - PROCESS-NAME,com.imangi.templerun2 #神庙逃亡2
@@ -197,7 +197,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.angellegion #女神星球
   - PROCESS-NAME,com.tencent.tmgp.aoshilongcheng #傲世龙城
   - PROCESS-NAME,com.tencent.tmgp.aotu #凹凸世界
-  - PROCESS-NAME,com.tencent.tmgp.aresvirus2 #阿瑞斯病毒2
   - PROCESS-NAME,com.tencent.tmgp.arrowio #弓箭手大作战
   - PROCESS-NAME,com.tencent.tmgp.atmlegend2 #奥特曼传奇英雄2
   - PROCESS-NAME,com.tencent.tmgp.awlzw #阿瓦隆之王
@@ -749,6 +748,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tqwzfx #台球王者
   - PROCESS-NAME,com.tencent.tmgp.tqzhuojimajiang #大眼捉鸡麻将
   - PROCESS-NAME,com.tencent.tmgp.trssj #塔瑞斯世界
+  - PROCESS-NAME,com.tencent.tmgp.tsjyyz #天使纪元
   - PROCESS-NAME,com.tencent.tmgp.tssy #塔防三国志II
   - PROCESS-NAME,com.tencent.tmgp.tstl #天龙八部手游（新武当）
   - PROCESS-NAME,com.tencent.tmgp.tszr.shengmiao #吞食之刃
@@ -815,6 +815,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wszg #万乘之国
   - PROCESS-NAME,com.tencent.tmgp.wtcm.yzgame #元尊
   - PROCESS-NAME,com.tencent.tmgp.wuxia #天涯明月刀手游
+  - PROCESS-NAME,com.tencent.tmgp.wxmj #无限梦境
   - PROCESS-NAME,com.tencent.tmgp.wxwy #万象物语
   - PROCESS-NAME,com.tencent.tmgp.wzxx #王者修仙
   - PROCESS-NAME,com.tencent.tmgp.xblr #新不良人（第六季独家）
@@ -856,7 +857,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ycdml #异尘：达米拉
   - PROCESS-NAME,com.tencent.tmgp.ycxjjjc #仙境竞技场
   - PROCESS-NAME,com.tencent.tmgp.ydcsly #一刀传世
-  - PROCESS-NAME,com.tencent.tmgp.ydgame.twzwtwo #塔王之王2
   - PROCESS-NAME,com.tencent.tmgp.ydxh.cnchess #象棋黄金版
   - PROCESS-NAME,com.tencent.tmgp.ydxh.superblock #俄罗斯方块大战
   - PROCESS-NAME,com.tencent.tmgp.ygdhk #勇敢的哈克
