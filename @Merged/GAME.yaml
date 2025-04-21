@@ -168,6 +168,7 @@ payload:
   - PROCESS-NAME,com.batteryacid.highwayrider #高速骑士
   - PROCESS-NAME,com.batteryacid.jamcity #街头篮球
   - PROCESS-NAME,com.bbqstudio.bbqq.yyb #野蛮人大作战
+  - PROCESS-NAME,com.bdapps.antistressball #快清理粘液模拟器
   - PROCESS-NAME,com.bdc.nh #末日浩劫
   - PROCESS-NAME,com.bestcoolfungamesfreegamecreation.gogogoat #山羊跳跃免费版
   - PROCESS-NAME,com.bf.hbxz_mg #滑板小子
@@ -984,6 +985,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.angellegion #女神星球
   - PROCESS-NAME,com.tencent.tmgp.aoshilongcheng #傲世龙城
   - PROCESS-NAME,com.tencent.tmgp.aotu #凹凸世界
+  - PROCESS-NAME,com.tencent.tmgp.aresvirus2 #阿瑞斯病毒2
   - PROCESS-NAME,com.tencent.tmgp.arrowio #弓箭手大作战
   - PROCESS-NAME,com.tencent.tmgp.atmlegend2 #奥特曼传奇英雄2
   - PROCESS-NAME,com.tencent.tmgp.awlzw #阿瓦隆之王
@@ -1239,7 +1241,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.jlsyln #九灵神域
   - PROCESS-NAME,com.tencent.tmgp.jltx #逐鹿三国之君临天下
   - PROCESS-NAME,com.tencent.tmgp.jlxxljlb #精灵消消乐（精灵版）
-  - PROCESS-NAME,com.tencent.tmgp.jmlzj #姬魔恋战纪
   - PROCESS-NAME,com.tencent.tmgp.jnbg2 #纪念碑谷2
   - PROCESS-NAME,com.tencent.tmgp.jpzmg #极品芝麻官
   - PROCESS-NAME,com.tencent.tmgp.jsxwsy #绝世仙王
@@ -1550,13 +1551,11 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tttq #天天台球
   - PROCESS-NAME,com.tencent.tmgp.ttwgd #天天玩掼蛋
   - PROCESS-NAME,com.tencent.tmgp.ttwq #腾讯围棋
-  - PROCESS-NAME,com.tencent.tmgp.turnipboy #大头菜菜历险记
   - PROCESS-NAME,com.tencent.tmgp.twltcqly #龙腾传奇
   - PROCESS-NAME,com.tencent.tmgp.twrxhjly #热血合击
   - PROCESS-NAME,com.tencent.tmgp.twyscq #原始传奇
   - PROCESS-NAME,com.tencent.tmgp.twzmwsly #斩魔无双
   - PROCESS-NAME,com.tencent.tmgp.twzyzrly #自由之刃
-  - PROCESS-NAME,com.tencent.tmgp.twzzjhly #自在江湖
   - PROCESS-NAME,com.tencent.tmgp.tx #天下
   - PROCESS-NAME,com.tencent.tmgp.ty.jyxcl #解忧小村落
   - PROCESS-NAME,com.tencent.tmgp.tydoudizhu #途游斗地主（比赛版）
@@ -1736,6 +1735,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.zqdwj #足球大玩家
   - PROCESS-NAME,com.tencent.tmgp.zsmyqst #命运骑士团
   - PROCESS-NAME,com.tencent.tmgp.ztgame.fir #征途2
+  - PROCESS-NAME,com.tencent.tmgp.ztgame.wzzt #王者征途
   - PROCESS-NAME,com.tencent.tmgp.ztgame.yszt #原始征途
   - PROCESS-NAME,com.tencent.tmgp.zulong.drc #龙族：卡塞尔之门
   - PROCESS-NAME,com.tencent.tmgp.zushi #最强祖师
