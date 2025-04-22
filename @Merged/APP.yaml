@@ -793,7 +793,6 @@ payload:
   - PROCESS-NAME,com.jyyx.fuli #九妖游戏
   - PROCESS-NAME,com.jzyd.coupon #省钱快报
   - PROCESS-NAME,com.jzzs.ParentsHelper #安全教育平台
-  - PROCESS-NAME,com.kangluoer.tomato #知富美聊
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kdbzyjz20 #口袋壁纸
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
@@ -1018,7 +1017,7 @@ payload:
   - PROCESS-NAME,com.oupeng.mini.android #欧朋浏览器
   - PROCESS-NAME,com.ovital.ovitalMap #奥维互动地图
   - PROCESS-NAME,com.p1.mobile.putong #探探
-  - PROCESS-NAME,com.paem #平安担保
+  - PROCESS-NAME,com.paem #平安融易
   - PROCESS-NAME,com.paic.yl.health #好福利
   - PROCESS-NAME,com.paic.zhifu.wallet.activity #壹钱包
   - PROCESS-NAME,com.pcpop.popapk #hao网址大全
@@ -1131,6 +1130,7 @@ payload:
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
   - PROCESS-NAME,com.shenghuoquan #生活圈
   - PROCESS-NAME,com.shengqianyxlmw #省钱优选联盟
+  - PROCESS-NAME,com.shensu.jmb #金苗宝
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
   - PROCESS-NAME,com.shfy.voice #和平吃鸡变声器
   - PROCESS-NAME,com.shinyv.cnr #云听
