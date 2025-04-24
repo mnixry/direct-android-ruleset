@@ -523,6 +523,7 @@ payload:
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kdbzyjz20 #口袋壁纸
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
+  - PROCESS-NAME,com.keyue.widget #百变桌面小组件
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
   - PROCESS-NAME,com.kingsoft.android.cat #玲珑密保锁
@@ -566,7 +567,7 @@ payload:
   - PROCESS-NAME,com.ljmobile.zlj.rom.release #授权管理软件搬家
   - PROCESS-NAME,com.llspace.pupu #平行世界
   - PROCESS-NAME,com.lltskb.lltskb #路路通
-  - PROCESS-NAME,com.lofter.android #LOFTER
+  - PROCESS-NAME,com.lofter.android #网易LOFTER
   - PROCESS-NAME,com.lokinfo.android.gamemarket.mmshow #95秀
   - PROCESS-NAME,com.lolaage.tbulu.tools #两步路户外助手
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸_桌面锁屏
@@ -1060,7 +1061,6 @@ payload:
   - PROCESS-NAME,tv.acfundanmaku.video #AcFun
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
   - PROCESS-NAME,tv.pps.mobile #爱奇艺随刻
-  - PROCESS-NAME,tv.yinhua.main #音画
   - PROCESS-NAME,us.pinguo.april_collage #拼图酱
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准

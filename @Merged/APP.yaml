@@ -795,6 +795,7 @@ payload:
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kdbzyjz20 #口袋壁纸
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
+  - PROCESS-NAME,com.keyue.widget #百变桌面小组件
   - PROCESS-NAME,com.king.weather #天气王
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
@@ -1129,7 +1130,6 @@ payload:
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
   - PROCESS-NAME,com.shenghuoquan #生活圈
   - PROCESS-NAME,com.shengqianyxlmw #省钱优选联盟
-  - PROCESS-NAME,com.shensu.jmb #金苗宝
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
   - PROCESS-NAME,com.shfy.voice #和平吃鸡变声器
   - PROCESS-NAME,com.shinyv.cnr #云听
@@ -1262,6 +1262,7 @@ payload:
   - PROCESS-NAME,com.taobao.trip #飞猪旅行
   - PROCESS-NAME,com.taoche.qctt #汽车头条
   - PROCESS-NAME,com.taoguba.app #淘股吧
+  - PROCESS-NAME,com.taomibaw #返利赚钱联盟
   - PROCESS-NAME,com.taou.maimai #脉脉
   - PROCESS-NAME,com.taowuyou.tbk #淘无忧
   - PROCESS-NAME,com.tdx.AndroidNew #通达信
@@ -1694,7 +1695,6 @@ payload:
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
   - PROCESS-NAME,tv.pps.mobile #爱奇艺随刻
   - PROCESS-NAME,tv.yilan.howto.app #好兔视频
-  - PROCESS-NAME,tv.yinhua.main #音画
   - PROCESS-NAME,tv.yixia.bobo #波波视频
   - PROCESS-NAME,us.pinguo.april_collage #拼图酱
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
