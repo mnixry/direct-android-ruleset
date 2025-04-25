@@ -136,7 +136,6 @@ payload:
   - PROCESS-NAME,com.appbyme.app71974 #编织人生论坛
   - PROCESS-NAME,com.appchina.anpai.2019071601 #鸟类壁纸
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
-  - PROCESS-NAME,com.appchina.anpai.20210203002 #什么时辰 - 生辰文字时钟小组件Widgets
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
   - PROCESS-NAME,com.appcina.anpai.2019080818 #克拉壁纸
   - PROCESS-NAME,com.appcina.anpai.2019090601 #壁纸制作:Livfe - 动态壁纸制作&视频壁纸
@@ -348,6 +347,7 @@ payload:
   - PROCESS-NAME,com.fanhuan #返还网
   - PROCESS-NAME,com.fanli.android.apps #返利
   - PROCESS-NAME,com.fbx.handwriteime #手写输入法
+  - PROCESS-NAME,com.fd.ptu #P图软件
   - PROCESS-NAME,com.feiteng.lieyou #猎游
   - PROCESS-NAME,com.felink.foregroundpaper #羞兔全局壁纸
   - PROCESS-NAME,com.fenbi.android.gaozhong #猿题库
@@ -387,6 +387,7 @@ payload:
   - PROCESS-NAME,com.gopro.smarty #GoPro Quik
   - PROCESS-NAME,com.gorgeous.lite #轻颜
   - PROCESS-NAME,com.goseet.VidTrim #视频剪辑
+  - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.gpslh.baidumap #物联在线
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
   - PROCESS-NAME,com.growing.topwidgets #万能小组件 Top Widgets
@@ -477,6 +478,7 @@ payload:
   - PROCESS-NAME,com.immomo.momo #MOMO陌陌
   - PROCESS-NAME,com.imusic.iting #爱听
   - PROCESS-NAME,com.inditex.zara #ZARA
+  - PROCESS-NAME,com.infinite.score #乐其爱乐谱
   - PROCESS-NAME,com.intel.voice #超级声音表情
   - PROCESS-NAME,com.intsig.BizCardReader #名片全能王
   - PROCESS-NAME,com.intsig.camscanner #扫描全能王
@@ -523,7 +525,6 @@ payload:
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kdbzyjz20 #口袋壁纸
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
-  - PROCESS-NAME,com.keyue.widget #百变桌面小组件
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
   - PROCESS-NAME,com.kingsoft.android.cat #玲珑密保锁

@@ -596,7 +596,6 @@ PROCESS-NAME,com.quanmai.findu,{{ rule }} # 饭友
 PROCESS-NAME,com.quark.browser,{{ rule }} # 夸克
 PROCESS-NAME,com.Qunar,{{ rule }} # 去哪儿旅行
 PROCESS-NAME,com.qzone,{{ rule }} # QQ空间
-PROCESS-NAME,com.renren.mobile.android,{{ rule }} # 人人直播
 PROCESS-NAME,com.renrendai.haohuan,{{ rule }} # 好分期
 PROCESS-NAME,com.renxing.xys,{{ rule }} # 性用社
 PROCESS-NAME,com.rong.fastloan,{{ rule }} # 时光分期
@@ -632,6 +631,7 @@ PROCESS-NAME,com.shangfang.gylm,{{ rule }} # 高佣联盟
 PROCESS-NAME,com.shangshaban.zhaopin.activity,{{ rule }} # 上啥班
 PROCESS-NAME,com.shenghuoquan,{{ rule }} # 生活圈
 PROCESS-NAME,com.shengqianyxlmw,{{ rule }} # 省钱优选联盟
+PROCESS-NAME,com.shensu.jmb,{{ rule }} # 金苗宝
 PROCESS-NAME,com.shfy.voice,{{ rule }} # 和平吃鸡变声器
 PROCESS-NAME,com.shiyue.fensigou,{{ rule }} # 粉丝福利购
 PROCESS-NAME,com.shizhuang.duapp,{{ rule }} # 得物

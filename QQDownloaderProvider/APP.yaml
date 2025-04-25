@@ -607,7 +607,6 @@ payload:
   - PROCESS-NAME,com.quark.browser #夸克
   - PROCESS-NAME,com.Qunar #去哪儿旅行
   - PROCESS-NAME,com.qzone #QQ空间
-  - PROCESS-NAME,com.renren.mobile.android #人人直播
   - PROCESS-NAME,com.renrendai.haohuan #好分期
   - PROCESS-NAME,com.renxing.xys #性用社
   - PROCESS-NAME,com.rong.fastloan #时光分期
@@ -643,6 +642,7 @@ payload:
   - PROCESS-NAME,com.shangshaban.zhaopin.activity #上啥班
   - PROCESS-NAME,com.shenghuoquan #生活圈
   - PROCESS-NAME,com.shengqianyxlmw #省钱优选联盟
+  - PROCESS-NAME,com.shensu.jmb #金苗宝
   - PROCESS-NAME,com.shfy.voice #和平吃鸡变声器
   - PROCESS-NAME,com.shiyue.fensigou #粉丝福利购
   - PROCESS-NAME,com.shizhuang.duapp #得物

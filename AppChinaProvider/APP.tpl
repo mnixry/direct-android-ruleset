@@ -136,7 +136,6 @@ PROCESS-NAME,com.app.yujiasuxingji,{{ rule }} # 壁纸大全
 PROCESS-NAME,com.appbyme.app71974,{{ rule }} # 编织人生论坛
 PROCESS-NAME,com.appchina.anpai.2019071601,{{ rule }} # 鸟类壁纸
 PROCESS-NAME,com.appchina.anpai.2020052601,{{ rule }} # Gear浏览器
-PROCESS-NAME,com.appchina.anpai.20210203002,{{ rule }} # 什么时辰 - 生辰文字时钟小组件Widgets
 PROCESS-NAME,com.appchina.anpai.20210203003,{{ rule }} # 什么时间 - 翻转时钟桌面小组件Widget
 PROCESS-NAME,com.appcina.anpai.2019080818,{{ rule }} # 克拉壁纸
 PROCESS-NAME,com.appcina.anpai.2019090601,{{ rule }} # 壁纸制作:Livfe - 动态壁纸制作&视频壁纸
@@ -348,6 +347,7 @@ PROCESS-NAME,com.fanghuoyun.im,{{ rule }} # 防火云
 PROCESS-NAME,com.fanhuan,{{ rule }} # 返还网
 PROCESS-NAME,com.fanli.android.apps,{{ rule }} # 返利
 PROCESS-NAME,com.fbx.handwriteime,{{ rule }} # 手写输入法
+PROCESS-NAME,com.fd.ptu,{{ rule }} # P图软件
 PROCESS-NAME,com.feiteng.lieyou,{{ rule }} # 猎游
 PROCESS-NAME,com.felink.foregroundpaper,{{ rule }} # 羞兔全局壁纸
 PROCESS-NAME,com.fenbi.android.gaozhong,{{ rule }} # 猿题库
@@ -387,6 +387,7 @@ PROCESS-NAME,com.goodluck.qianming,{{ rule }} # 一句心情签名
 PROCESS-NAME,com.gopro.smarty,{{ rule }} # GoPro Quik
 PROCESS-NAME,com.gorgeous.lite,{{ rule }} # 轻颜
 PROCESS-NAME,com.goseet.VidTrim,{{ rule }} # 视频剪辑
+PROCESS-NAME,com.gozap.chouti,{{ rule }} # 抽屉
 PROCESS-NAME,com.gpslh.baidumap,{{ rule }} # 物联在线
 PROCESS-NAME,com.greenpoint.android.mc10086.activity,{{ rule }} # 中国移动
 PROCESS-NAME,com.growing.topwidgets,{{ rule }} # 万能小组件 Top Widgets
@@ -477,6 +478,7 @@ PROCESS-NAME,com.imgo.pad,{{ rule }} # 芒果TV HD
 PROCESS-NAME,com.immomo.momo,{{ rule }} # MOMO陌陌
 PROCESS-NAME,com.imusic.iting,{{ rule }} # 爱听
 PROCESS-NAME,com.inditex.zara,{{ rule }} # ZARA
+PROCESS-NAME,com.infinite.score,{{ rule }} # 乐其爱乐谱
 PROCESS-NAME,com.intel.voice,{{ rule }} # 超级声音表情
 PROCESS-NAME,com.intsig.BizCardReader,{{ rule }} # 名片全能王
 PROCESS-NAME,com.intsig.camscanner,{{ rule }} # 扫描全能王
@@ -523,7 +525,6 @@ PROCESS-NAME,com.jxedt,{{ rule }} # 驾校一点通
 PROCESS-NAME,com.kankanews.kankanxinwen,{{ rule }} # 看看新闻
 PROCESS-NAME,com.kdbzyjz20,{{ rule }} # 口袋壁纸
 PROCESS-NAME,com.kevinstudio.test,{{ rule }} # 转盘做决定
-PROCESS-NAME,com.keyue.widget,{{ rule }} # 百变桌面小组件
 PROCESS-NAME,com.Kingdee.Express,{{ rule }} # 快递100
 PROCESS-NAME,com.kingsoft,{{ rule }} # 金山词霸
 PROCESS-NAME,com.kingsoft.android.cat,{{ rule }} # 玲珑密保锁
