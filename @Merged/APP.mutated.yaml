@@ -105,6 +105,7 @@ payload:
   - PROCESS-NAME,cn.mucang.drunkremind.android #小猪二手车
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
   - PROCESS-NAME,cn.nanjingshuoyu.iclock #一键锁屏iclock主题
+  - PROCESS-NAME,cn.net.iwave.zoo #元气开开
   - PROCESS-NAME,cn.ninegame.gamemanager #九游
   - PROCESS-NAME,cn.okek.chexingwuyou #车行无忧
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
@@ -214,7 +215,7 @@ payload:
   - PROCESS-NAME,com.appsys.goodname #易经起名取名
   - PROCESS-NAME,com.apyxjypu.qyxn #夜色夜聊
   - PROCESS-NAME,com.ataaw.tianyi #天翼生活
-  - PROCESS-NAME,com.autohome.usedcar #二手车之家
+  - PROCESS-NAME,com.autohome.usedcar #二手车之家-看车选车买车卖车
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.avatar.kungfufinance #功夫财经
   - PROCESS-NAME,com.babycloud.hanju #韩小圈
@@ -797,6 +798,7 @@ payload:
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kdbzyjz20 #口袋壁纸
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
+  - PROCESS-NAME,com.keyue.widget #百变桌面小组件
   - PROCESS-NAME,com.king.weather #天气王
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
@@ -1240,7 +1242,6 @@ payload:
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
   - PROCESS-NAME,com.sunying.booster #光影
   - PROCESS-NAME,com.superlib #超星移动图书馆
-  - PROCESS-NAME,com.suteng.zzss480 #趣拿
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
@@ -1650,7 +1651,6 @@ payload:
   - PROCESS-NAME,net.ask123.mima96 #密码酷
   - PROCESS-NAME,net.bontec.wxqd.activity #爱青岛
   - PROCESS-NAME,net.cmoaciopm.sgsdict #三国杀大典
-  - PROCESS-NAME,net.hua.hua.a3dlivewallpaper #4D动态壁纸
   - PROCESS-NAME,net.joydao.radio #听听广播
   - PROCESS-NAME,net.joydao.spring2011 #祝福短信
   - PROCESS-NAME,net.kdnet.club #凯迪网

@@ -105,6 +105,7 @@ PROCESS-NAME,cn.mucang.android.qichetoutiao,{{ rule }} # 车友头条
 PROCESS-NAME,cn.mucang.drunkremind.android,{{ rule }} # 小猪二手车
 PROCESS-NAME,cn.myhug.baobao,{{ rule }} # 抱抱直播
 PROCESS-NAME,cn.nanjingshuoyu.iclock,{{ rule }} # 一键锁屏iclock主题
+PROCESS-NAME,cn.net.iwave.zoo,{{ rule }} # 元气开开
 PROCESS-NAME,cn.ninegame.gamemanager,{{ rule }} # 九游
 PROCESS-NAME,cn.okek.chexingwuyou,{{ rule }} # 车行无忧
 PROCESS-NAME,cn.opda.a.phonoalbumshoushou,{{ rule }} # 百度手机卫士
@@ -214,7 +215,7 @@ PROCESS-NAME,com.appstarry.beauty.widget,{{ rule }} # 小组件桌面美化
 PROCESS-NAME,com.appsys.goodname,{{ rule }} # 易经起名取名
 PROCESS-NAME,com.apyxjypu.qyxn,{{ rule }} # 夜色夜聊
 PROCESS-NAME,com.ataaw.tianyi,{{ rule }} # 天翼生活
-PROCESS-NAME,com.autohome.usedcar,{{ rule }} # 二手车之家
+PROCESS-NAME,com.autohome.usedcar,{{ rule }} # 二手车之家-看车选车买车卖车
 PROCESS-NAME,com.autonavi.minimap,{{ rule }} # 高德地图
 PROCESS-NAME,com.avatar.kungfufinance,{{ rule }} # 功夫财经
 PROCESS-NAME,com.babycloud.hanju,{{ rule }} # 韩小圈
@@ -797,6 +798,7 @@ PROCESS-NAME,com.kangluoer.tomato,{{ rule }} # 知富美聊
 PROCESS-NAME,com.kankanews.kankanxinwen,{{ rule }} # 看看新闻
 PROCESS-NAME,com.kdbzyjz20,{{ rule }} # 口袋壁纸
 PROCESS-NAME,com.kevinstudio.test,{{ rule }} # 转盘做决定
+PROCESS-NAME,com.keyue.widget,{{ rule }} # 百变桌面小组件
 PROCESS-NAME,com.king.weather,{{ rule }} # 天气王
 PROCESS-NAME,com.Kingdee.Express,{{ rule }} # 快递100
 PROCESS-NAME,com.kingsoft,{{ rule }} # 金山词霸
@@ -1240,7 +1242,6 @@ PROCESS-NAME,com.suning.mobile.ebuy,{{ rule }} # 苏宁易购
 PROCESS-NAME,com.suning.mobile.epa,{{ rule }} # 星图金融
 PROCESS-NAME,com.sunying.booster,{{ rule }} # 光影
 PROCESS-NAME,com.superlib,{{ rule }} # 超星移动图书馆
-PROCESS-NAME,com.suteng.zzss480,{{ rule }} # 趣拿
 PROCESS-NAME,com.swlvrm.anwsi,{{ rule }} # 蜜桃主题壁纸
 PROCESS-NAME,com.sxm.farpoolcar,{{ rule }} # 拼车
 PROCESS-NAME,com.sxm.yiwei,{{ rule }} # 一喂顺风车
@@ -1650,7 +1651,6 @@ PROCESS-NAME,my.PCamera,{{ rule }} # POCO相机
 PROCESS-NAME,net.ask123.mima96,{{ rule }} # 密码酷
 PROCESS-NAME,net.bontec.wxqd.activity,{{ rule }} # 爱青岛
 PROCESS-NAME,net.cmoaciopm.sgsdict,{{ rule }} # 三国杀大典
-PROCESS-NAME,net.hua.hua.a3dlivewallpaper,{{ rule }} # 4D动态壁纸
 PROCESS-NAME,net.joydao.radio,{{ rule }} # 听听广播
 PROCESS-NAME,net.joydao.spring2011,{{ rule }} # 祝福短信
 PROCESS-NAME,net.kdnet.club,{{ rule }} # 凯迪网
