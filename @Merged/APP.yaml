@@ -154,7 +154,6 @@ payload:
   - PROCESS-NAME,com.ainemo.dragoon #小鱼易连
   - PROCESS-NAME,com.aipai.android #爱拍
   - PROCESS-NAME,com.aipai.paidashi #拍大师
-  - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alensw.PhoneArea #QC 归属地
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
@@ -247,6 +246,7 @@ payload:
   - PROCESS-NAME,com.baihe #百合网
   - PROCESS-NAME,com.baijiu.bizhi.sjbixiaz #Wallpaper
   - PROCESS-NAME,com.baijiu.bizhi.zhutidaq #主题
+  - PROCESS-NAME,com.baile.shanduo #闪聊闪约
   - PROCESS-NAME,com.bananavideo.atqb #香焦视频
   - PROCESS-NAME,com.bank #黄河银行
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
@@ -775,6 +775,7 @@ payload:
   - PROCESS-NAME,com.johong.jiaxiaobaodian #驾校宝
   - PROCESS-NAME,com.join.android.app.mgsim.wufun #悟饭游戏厅
   - PROCESS-NAME,com.jojoread.huiben #叫叫绘本
+  - PROCESS-NAME,com.jooan.qiaoanzhilian #乔安智联
   - PROCESS-NAME,com.jovetech.CloudSee.temp #云视通
   - PROCESS-NAME,com.joygo #忘忧围棋
   - PROCESS-NAME,com.joyintech.wise.seller #智慧商贸进销存
@@ -1572,7 +1573,6 @@ payload:
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
   - PROCESS-NAME,com.zhihu.daily.android #知乎日报
-  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.zhongdianhuike.app #众点惠客
   - PROCESS-NAME,com.zhubajie.client #猪八戒

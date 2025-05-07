@@ -124,12 +124,12 @@ PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082001,{{ rule }} # 足球大亨
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
 PROCESS-NAME,com.appchina.yugao.2020122302,{{ rule }} # Lo-Fi Room
+PROCESS-NAME,com.appchina.yugao.2021022505,{{ rule }} # 热血街‪篮‬
 PROCESS-NAME,com.appchina.yugao.2021030213,{{ rule }} # 节奏医生
 PROCESS-NAME,com.appchina.yugao.2021030903,{{ rule }} # 终极对抗：球场
 PROCESS-NAME,com.appchina.yugao.2021032402,{{ rule }} # 乒乓之怒
 PROCESS-NAME,com.appchina.yugao.2021032606,{{ rule }} # 我的安吉拉2
 PROCESS-NAME,com.appchina.yugao.2021051802,{{ rule }} # 珀加索斯梦幻之旅 
-PROCESS-NAME,com.appchina.yugao.2021051806,{{ rule }} # 马力欧高尔夫：超级冲冲冲 
 PROCESS-NAME,com.appchina.yugao.2021060103,{{ rule }} # NEEDY GIRL OVERDOSE
 PROCESS-NAME,com.appchina.yugao.2021062204,{{ rule }} # NBA NOW 21
 PROCESS-NAME,com.appchina.yugao.2021070511,{{ rule }} # 索尼克在2020东京奥运会
@@ -980,7 +980,6 @@ PROCESS-NAME,com.tencent.tmgp.android.ANMP.GloftDLCN,{{ rule }} # 萌龙大乱�
 PROCESS-NAME,com.tencent.tmgp.angellegion,{{ rule }} # 女神星球
 PROCESS-NAME,com.tencent.tmgp.aoshilongcheng,{{ rule }} # 傲世龙城
 PROCESS-NAME,com.tencent.tmgp.aotu,{{ rule }} # 凹凸世界
-PROCESS-NAME,com.tencent.tmgp.aresvirus2,{{ rule }} # 阿瑞斯病毒2
 PROCESS-NAME,com.tencent.tmgp.arrowio,{{ rule }} # 弓箭手大作战
 PROCESS-NAME,com.tencent.tmgp.atmlegend2,{{ rule }} # 奥特曼传奇英雄2
 PROCESS-NAME,com.tencent.tmgp.awlzw,{{ rule }} # 阿瓦隆之王
@@ -1002,7 +1001,6 @@ PROCESS-NAME,com.tencent.tmgp.bilibili.asharms,{{ rule }} # 灰烬战线
 PROCESS-NAME,com.tencent.tmgp.bilibili.bangdream,{{ rule }} # 梦想协奏曲！少女乐团派对！
 PROCESS-NAME,com.tencent.tmgp.bilibili.blhx,{{ rule }} # 碧蓝航线
 PROCESS-NAME,com.tencent.tmgp.bilibili.deadcells.mobile,{{ rule }} # 重生细胞
-PROCESS-NAME,com.tencent.tmgp.bilibili.excalibur,{{ rule }} # 依露希尔：星晓
 PROCESS-NAME,com.tencent.tmgp.bilibili.hunter3,{{ rule }} # 时空猎人3
 PROCESS-NAME,com.tencent.tmgp.bilibili.nslg,{{ rule }} # 三国：谋定天下
 PROCESS-NAME,com.tencent.tmgp.bilibili.overlord,{{ rule }} # 纳萨力克之王
@@ -1201,6 +1199,7 @@ PROCESS-NAME,com.tencent.tmgp.hjczjh,{{ rule }} # 豪杰成长计划
 PROCESS-NAME,com.tencent.tmgp.hjol,{{ rule }} # 红警OL
 PROCESS-NAME,com.tencent.tmgp.hldj,{{ rule }} # 欢乐对决
 PROCESS-NAME,com.tencent.tmgp.hlsgs,{{ rule }} # 欢乐三国杀
+PROCESS-NAME,com.tencent.tmgp.hlxxz,{{ rule }} # 幻灵修仙传
 PROCESS-NAME,com.tencent.tmgp.hmzqfy,{{ rule }} # 豪门足球风云
 PROCESS-NAME,com.tencent.tmgp.hnjysgfz,{{ rule }} # 上古纷争
 PROCESS-NAME,com.tencent.tmgp.hotta,{{ rule }} # 幻塔
@@ -1291,6 +1290,7 @@ PROCESS-NAME,com.tencent.tmgp.loyalsoft.godpets2,{{ rule }} # 神宠大作战2
 PROCESS-NAME,com.tencent.tmgp.ltgame.atmcard,{{ rule }} # 奥特曼王者传奇
 PROCESS-NAME,com.tencent.tmgp.ltxfd.yyb,{{ rule }} # 雷霆小分队
 PROCESS-NAME,com.tencent.tmgp.luobo4,{{ rule }} # 保卫萝卜4
+PROCESS-NAME,com.tencent.tmgp.luoliye,{{ rule }} # 叶罗丽
 PROCESS-NAME,com.tencent.tmgp.lv,{{ rule }} # 光与夜之恋
 PROCESS-NAME,com.tencent.tmgp.lwyqqsqz,{{ rule }} # 元气骑士前传
 PROCESS-NAME,com.tencent.tmgp.lxwz,{{ rule }} # 篮下王者
@@ -1392,7 +1392,6 @@ PROCESS-NAME,com.tencent.tmgp.qcfx.gyd,{{ rule }} # 孤月刀
 PROCESS-NAME,com.tencent.tmgp.qilong.warship,{{ rule }} # 战舰冲突
 PROCESS-NAME,com.tencent.tmgp.qinsmoon,{{ rule }} # 秦时明月卡牌版
 PROCESS-NAME,com.tencent.tmgp.qiwanhh,{{ rule }} # 航海纷争
-PROCESS-NAME,com.tencent.tmgp.qiyuan.ttzj,{{ rule }} # 泰坦之剑
 PROCESS-NAME,com.tencent.tmgp.qjnn,{{ rule }} # 奇迹暖暖
 PROCESS-NAME,com.tencent.tmgp.qjzjkp,{{ rule }} # 奇迹之剑
 PROCESS-NAME,com.tencent.tmgp.qlbt.cly,{{ rule }} # 器灵宝塔
@@ -1422,6 +1421,7 @@ PROCESS-NAME,com.tencent.tmgp.rshyzncq,{{ rule }} # 真牛传奇
 PROCESS-NAME,com.tencent.tmgp.rxcq,{{ rule }} # 热血传奇
 PROCESS-NAME,com.tencent.tmgp.rxjhbj,{{ rule }} # 热血江湖手游
 PROCESS-NAME,com.tencent.tmgp.rxsjkp,{{ rule }} # 热血神剑
+PROCESS-NAME,com.tencent.tmgp.rxxq.cly,{{ rule }} # 热血寻秦
 PROCESS-NAME,com.tencent.tmgp.s3.sgzzlb,{{ rule }} # 三国志·战略版
 PROCESS-NAME,com.tencent.tmgp.sanguobt,{{ rule }} # 攻城掠地（唯一正版）
 PROCESS-NAME,com.tencent.tmgp.sanguosha.mjz,{{ rule }} # 三国杀名将传
@@ -1495,6 +1495,7 @@ PROCESS-NAME,com.tencent.tmgp.supercell.clashroyale,{{ rule }} # 皇室战争
 PROCESS-NAME,com.tencent.tmgp.supercell.hayday,{{ rule }} # 卡通农场
 PROCESS-NAME,com.tencent.tmgp.supertractor,{{ rule }} # 拖拉机升级
 PROCESS-NAME,com.tencent.tmgp.survivedks,{{ rule }} # 活下去
+PROCESS-NAME,com.tencent.tmgp.swsh,{{ rule }} # 守卫山海
 PROCESS-NAME,com.tencent.tmgp.swzshg,{{ rule }} # 诸神皇冠
 PROCESS-NAME,com.tencent.tmgp.sxddc,{{ rule }} # 神仙道高清重制版
 PROCESS-NAME,com.tencent.tmgp.sxdthree,{{ rule }} # 神仙道3
@@ -1548,6 +1549,7 @@ PROCESS-NAME,com.tencent.tmgp.ttsanguo,{{ rule }} # 天天三国
 PROCESS-NAME,com.tencent.tmgp.tttq,{{ rule }} # 天天台球
 PROCESS-NAME,com.tencent.tmgp.ttwgd,{{ rule }} # 天天玩掼蛋
 PROCESS-NAME,com.tencent.tmgp.ttwq,{{ rule }} # 腾讯围棋
+PROCESS-NAME,com.tencent.tmgp.turnipboy,{{ rule }} # 大头菜菜历险记
 PROCESS-NAME,com.tencent.tmgp.twltcqly,{{ rule }} # 龙腾传奇
 PROCESS-NAME,com.tencent.tmgp.twrxhjly,{{ rule }} # 热血合击
 PROCESS-NAME,com.tencent.tmgp.twyscq,{{ rule }} # 原始传奇
@@ -1735,13 +1737,11 @@ PROCESS-NAME,com.tencent.tmgp.zoxun.lzddz,{{ rule }} # 赖子斗地主
 PROCESS-NAME,com.tencent.tmgp.zqdwj,{{ rule }} # 足球大玩家
 PROCESS-NAME,com.tencent.tmgp.zsmyqst,{{ rule }} # 命运骑士团
 PROCESS-NAME,com.tencent.tmgp.ztgame.fir,{{ rule }} # 征途2
-PROCESS-NAME,com.tencent.tmgp.ztgame.wzzt,{{ rule }} # 王者征途
 PROCESS-NAME,com.tencent.tmgp.ztgame.yszt,{{ rule }} # 原始征途
 PROCESS-NAME,com.tencent.tmgp.zulong.drc,{{ rule }} # 龙族：卡塞尔之门
 PROCESS-NAME,com.tencent.tmgp.zuqiuqzry,{{ rule }} # 全职荣耀
 PROCESS-NAME,com.tencent.tmgp.zushi,{{ rule }} # 最强祖师
 PROCESS-NAME,com.tencent.tmgp.zy.ddzjdb,{{ rule }} # 斗地主经典版
-PROCESS-NAME,com.tencent.tmpg.yzywl.hldjddz,{{ rule }} # 欢乐单机斗地主
 PROCESS-NAME,com.tencent.toaa,{{ rule }} # 黎明觉醒：生机
 PROCESS-NAME,com.tencent.WeFire,{{ rule }} # 全民突击
 PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界
@@ -1887,7 +1887,6 @@ PROCESS-NAME,com.yunbu.badmintonleague.iapppay,{{ rule }} # 羽毛球高高手
 PROCESS-NAME,com.yunbu.bubbleelfsaga1,{{ rule }} # 泡泡精灵传奇
 PROCESS-NAME,com.yunbu.pool3.chaos,{{ rule }} # 台球风云
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
-PROCESS-NAME,com.yyyp.cn,{{ rule }} # 有游有品
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
 PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2
@@ -2010,6 +2009,7 @@ PROCESS-NAME,se.modesty.spookening,{{ rule }} # 重生之地
 PROCESS-NAME,sggs.android.witchhouse,{{ rule }} # 魔女之家
 PROCESS-NAME,sts.pl,{{ rule }} # 口袋传奇
 PROCESS-NAME,syj.youngfhsher,{{ rule }} # 手机收音机
+PROCESS-NAME,uni.eamApp,{{ rule }} # 一码多识
 PROCESS-NAME,xyz.ymyapp.xbw.nearme.gamecenter,{{ rule }} # 小霸王
 PROCESS-NAME,zhtc.noscores.pmtianlongzhl,{{ rule }} # 口袋天龙的堕落
 {% endmacro %}

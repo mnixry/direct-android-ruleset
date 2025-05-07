@@ -77,7 +77,6 @@ PROCESS-NAME,com.achievo.vipshop,{{ rule }} # 唯品会
 PROCESS-NAME,com.adobe.reader,{{ rule }} # PDF阅读器 Adobe reader
 PROCESS-NAME,com.aikan,{{ rule }} # 免费小说大全
 PROCESS-NAME,com.airbnb.android,{{ rule }} # 爱彼迎
-PROCESS-NAME,com.airuniversa.control,{{ rule }} # 万能空调遥控器
 PROCESS-NAME,com.alibaba.ailabs.tg,{{ rule }} # 天猫精灵
 PROCESS-NAME,com.alibaba.android.rimet,{{ rule }} # 钉钉
 PROCESS-NAME,com.alibaba.wireless,{{ rule }} # 阿里巴巴
@@ -121,6 +120,7 @@ PROCESS-NAME,com.baidu.video,{{ rule }} # 百搜视频
 PROCESS-NAME,com.baidu.wenku,{{ rule }} # 百度文库
 PROCESS-NAME,com.baidu.yuedu,{{ rule }} # 百度阅读
 PROCESS-NAME,com.baihe,{{ rule }} # 百合网
+PROCESS-NAME,com.baile.shanduo,{{ rule }} # 闪聊闪约
 PROCESS-NAME,com.bananavideo.atqb,{{ rule }} # 香焦视频
 PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
 PROCESS-NAME,com.baojiazhijia.qichebaojia,{{ rule }} # 买车宝典
@@ -417,6 +417,7 @@ PROCESS-NAME,com.job.android,{{ rule }} # 前程无忧51Job
 PROCESS-NAME,com.johong.jiaxiaobaodian,{{ rule }} # 驾校宝
 PROCESS-NAME,com.join.android.app.mgsim.wufun,{{ rule }} # 悟饭游戏厅
 PROCESS-NAME,com.jojoread.huiben,{{ rule }} # 叫叫绘本
+PROCESS-NAME,com.jooan.qiaoanzhilian,{{ rule }} # 乔安智联
 PROCESS-NAME,com.joyshebao.joy,{{ rule }} # 查悦社保
 PROCESS-NAME,com.juejinchain.android,{{ rule }} # 掘金宝
 PROCESS-NAME,com.julanling.app,{{ rule }} # 安心记加班
@@ -945,7 +946,6 @@ PROCESS-NAME,com.zhenai.android,{{ rule }} # 珍爱
 PROCESS-NAME,com.zhibo.mm,{{ rule }} # 秘密直播
 PROCESS-NAME,com.zhichan.msmds,{{ rule }} # 买什么都省
 PROCESS-NAME,com.zhihu.android,{{ rule }} # 知乎
-PROCESS-NAME,com.zhinengremote.mohan,{{ rule }} # 空调智能遥控器+
 PROCESS-NAME,com.zhiyaolai.playschool,{{ rule }} # 锦鲤宇宙
 PROCESS-NAME,com.zhongdianhuike.app,{{ rule }} # 众点惠客
 PROCESS-NAME,com.ziipin.homeinn,{{ rule }} # 首旅如家

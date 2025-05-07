@@ -77,7 +77,6 @@ payload:
   - PROCESS-NAME,com.adobe.reader #PDF阅读器 Adobe reader
   - PROCESS-NAME,com.aikan #免费小说大全
   - PROCESS-NAME,com.airbnb.android #爱彼迎
-  - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
   - PROCESS-NAME,com.alibaba.wireless #阿里巴巴
@@ -121,6 +120,7 @@ payload:
   - PROCESS-NAME,com.baidu.wenku #百度文库
   - PROCESS-NAME,com.baidu.yuedu #百度阅读
   - PROCESS-NAME,com.baihe #百合网
+  - PROCESS-NAME,com.baile.shanduo #闪聊闪约
   - PROCESS-NAME,com.bananavideo.atqb #香焦视频
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
   - PROCESS-NAME,com.baojiazhijia.qichebaojia #买车宝典
@@ -417,6 +417,7 @@ payload:
   - PROCESS-NAME,com.johong.jiaxiaobaodian #驾校宝
   - PROCESS-NAME,com.join.android.app.mgsim.wufun #悟饭游戏厅
   - PROCESS-NAME,com.jojoread.huiben #叫叫绘本
+  - PROCESS-NAME,com.jooan.qiaoanzhilian #乔安智联
   - PROCESS-NAME,com.joyshebao.joy #查悦社保
   - PROCESS-NAME,com.juejinchain.android #掘金宝
   - PROCESS-NAME,com.julanling.app #安心记加班
@@ -945,7 +946,6 @@ payload:
   - PROCESS-NAME,com.zhibo.mm #秘密直播
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
-  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.zhongdianhuike.app #众点惠客
   - PROCESS-NAME,com.ziipin.homeinn #首旅如家

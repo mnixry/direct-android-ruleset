@@ -118,12 +118,12 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020082001 #足球大亨
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
+  - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
   - PROCESS-NAME,com.appchina.yugao.2021030903 #终极对抗：球场
   - PROCESS-NAME,com.appchina.yugao.2021032402 #乒乓之怒
   - PROCESS-NAME,com.appchina.yugao.2021032606 #我的安吉拉2
   - PROCESS-NAME,com.appchina.yugao.2021051802 #珀加索斯梦幻之旅 
-  - PROCESS-NAME,com.appchina.yugao.2021051806 #马力欧高尔夫：超级冲冲冲 
   - PROCESS-NAME,com.appchina.yugao.2021060103 #NEEDY GIRL OVERDOSE
   - PROCESS-NAME,com.appchina.yugao.2021062204 #NBA NOW 21
   - PROCESS-NAME,com.appchina.yugao.2021070511 #索尼克在2020东京奥运会
@@ -913,7 +913,6 @@ payload:
   - PROCESS-NAME,com.yunbu.badmintonleague.iapppay #羽毛球高高手
   - PROCESS-NAME,com.yunbu.pool3.chaos #台球风云
   - PROCESS-NAME,com.yymoon.lmrjvol #我的VR女友
-  - PROCESS-NAME,com.yyyp.cn #有游有品
   - PROCESS-NAME,com.zeptolab.cats.google #喵星大作战：国际版
   - PROCESS-NAME,com.zk.car.wipay #狂野飙车
   - PROCESS-NAME,com.ztgame.jl2 #街篮2
@@ -1032,6 +1031,7 @@ payload:
   - PROCESS-NAME,sggs.android.witchhouse #魔女之家
   - PROCESS-NAME,sts.pl #口袋传奇
   - PROCESS-NAME,syj.youngfhsher #手机收音机
+  - PROCESS-NAME,uni.eamApp #一码多识
   - PROCESS-NAME,zhtc.noscores.pmtianlongzhl #口袋天龙的堕落
   - PROCESS-NAME,com.alicom.smartdial
   - PROCESS-NAME,com.bilibili.app.in
