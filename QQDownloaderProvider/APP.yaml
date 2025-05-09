@@ -570,6 +570,7 @@ payload:
   - PROCESS-NAME,com.paic.yl.health #好福利
   - PROCESS-NAME,com.paic.zhifu.wallet.activity #壹钱包
   - PROCESS-NAME,com.pdmi.guangzhou.media #广州日报新花城
+  - PROCESS-NAME,com.pen.recorder #手机录音笔
   - PROCESS-NAME,com.people.health.doctor #人民好医生
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.phoenix.read #红果免费短剧
@@ -922,7 +923,6 @@ payload:
   - PROCESS-NAME,com.youdao.translator #有道翻译官
   - PROCESS-NAME,com.youku.crazytogether #来疯
   - PROCESS-NAME,com.youku.phone #优酷视频
-  - PROCESS-NAME,com.youloft.calendar #万年历
   - PROCESS-NAME,com.youxiang.soyoungapp #新氧医美
   - PROCESS-NAME,com.ysy.ayy #木鸟民宿
   - PROCESS-NAME,com.yuanli.recordingSoftware #录音软件

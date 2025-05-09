@@ -872,7 +872,6 @@ payload:
   - PROCESS-NAME,com.llspace.pupu #平行世界
   - PROCESS-NAME,com.lltskb.lltskb #路路通
   - PROCESS-NAME,com.lofter.android #网易LOFTER
-  - PROCESS-NAME,com.lokinfo.android.gamemarket.mmshow #95秀
   - PROCESS-NAME,com.lolaage.tbulu.tools #两步路户外助手
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸_桌面锁屏
   - PROCESS-NAME,com.lphtsccft #涨乐财富通
@@ -1025,6 +1024,7 @@ payload:
   - PROCESS-NAME,com.paic.zhifu.wallet.activity #壹钱包
   - PROCESS-NAME,com.pcpop.popapk #hao网址大全
   - PROCESS-NAME,com.pdmi.guangzhou.media #广州日报新花城
+  - PROCESS-NAME,com.pen.recorder #手机录音笔
   - PROCESS-NAME,com.people.health.doctor #人民好医生
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.perracolabs.tcc #Tiny Call Confirm

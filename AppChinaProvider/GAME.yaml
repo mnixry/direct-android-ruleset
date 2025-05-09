@@ -141,7 +141,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
   - PROCESS-NAME,com.appchina.yugao.2022020701 #奥林匹克运动会：北京2022
   - PROCESS-NAME,com.appchina.yugao.2022051001 #完美滑板 
-  - PROCESS-NAME,com.appchina.yugao.202406039 #热血美职篮
   - PROCESS-NAME,com.appsorama.kleptocats #小偷猫
   - PROCESS-NAME,com.aquiris.horizonchase #驶向天际 赛道解锁版
   - PROCESS-NAME,com.arbstudios.tikikartfree #提基卡丁车
@@ -811,6 +810,7 @@ payload:
   - PROCESS-NAME,com.tencent.pao #天天酷跑
   - PROCESS-NAME,com.tencent.peng #天天爱消除
   - PROCESS-NAME,com.tencent.qqgame #QQ游戏
+  - PROCESS-NAME,com.tencent.supernba2024 #热血美职篮
   - PROCESS-NAME,com.tencent.tako.muses #云裳羽衣
   - PROCESS-NAME,com.tencent.tmgp.cod #使命召唤手游
   - PROCESS-NAME,com.tencent.tmgp.kof98 #拳皇98终极之战OL
@@ -912,7 +912,6 @@ payload:
   - PROCESS-NAME,com.yuejunzhang.home #据点守卫
   - PROCESS-NAME,com.yuktek.laststandchs #背水一战
   - PROCESS-NAME,com.yymoon.lmrjvol #我的VR女友
-  - PROCESS-NAME,com.yyyp.cn #有游有品
   - PROCESS-NAME,com.zeptolab.cats.google #喵星大作战：国际版
   - PROCESS-NAME,com.zk.car.wipay #狂野飙车
   - PROCESS-NAME,com.ztgame.jl2 #街篮2
@@ -1031,4 +1030,5 @@ payload:
   - PROCESS-NAME,sggs.android.witchhouse #魔女之家
   - PROCESS-NAME,sts.pl #口袋传奇
   - PROCESS-NAME,syj.youngfhsher #手机收音机
+  - PROCESS-NAME,uni.eamApp #一码多识
   - PROCESS-NAME,zhtc.noscores.pmtianlongzhl #口袋天龙的堕落
