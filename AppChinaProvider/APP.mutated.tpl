@@ -52,7 +52,7 @@ PROCESS-NAME,cn.edu.zjicm.wordsnet_d,{{ rule }} # 知米背单词
 PROCESS-NAME,cn.emagsoftware.gamehall,{{ rule }} # 咪咕快游
 PROCESS-NAME,cn.emoney.level2,{{ rule }} # 益盟操盘手经典版
 PROCESS-NAME,cn.etouch.ecalendar,{{ rule }} # 中华万年历
-PROCESS-NAME,cn.fmsyjhgb,{{ rule }} # FM收音机广播-广播电台
+PROCESS-NAME,cn.fmsyjhgb,{{ rule }} # FM收音机广播
 PROCESS-NAME,cn.ghac.gha,{{ rule }} # 广汽本田
 PROCESS-NAME,cn.gogocity.suibian,{{ rule }} # 随便走
 PROCESS-NAME,cn.gzmovement,{{ rule }} # 动静新闻
@@ -64,7 +64,7 @@ PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
 PROCESS-NAME,cn.kaoshi100.view,{{ rule }} # 考试100
 PROCESS-NAME,cn.kuwo.kwmusichd,{{ rule }} # 酷我音乐HD
 PROCESS-NAME,cn.kuwo.player,{{ rule }} # 酷我音乐
-PROCESS-NAME,cn.kuwo.tingshu,{{ rule }} # 酷我听书
+PROCESS-NAME,cn.kuwo.tingshu,{{ rule }} # 酷我畅听
 PROCESS-NAME,cn.ledongli.ldl,{{ rule }} # 乐动力
 PROCESS-NAME,cn.longmaster.pengpeng,{{ rule }} # 语玩
 PROCESS-NAME,cn.lrapps.changliaocall,{{ rule }} # 畅聊网络电话
@@ -96,8 +96,8 @@ PROCESS-NAME,cn.zymk.comic,{{ rule }} # 知音漫客
 PROCESS-NAME,com.achievo.vipshop,{{ rule }} # 唯品会
 PROCESS-NAME,com.actionsmicro.ezcast,{{ rule }} # EZCast
 PROCESS-NAME,com.ada.desks,{{ rule }} # 安卓桌面
-PROCESS-NAME,com.admin.dingdongphone,{{ rule }} # 叮咚网络电话-虚拟电话软件
-PROCESS-NAME,com.admin.youyouphone,{{ rule }} # 优优电话-免费电话
+PROCESS-NAME,com.admin.dingdongphone,{{ rule }} # 叮咚网络电话
+PROCESS-NAME,com.admin.youyouphone,{{ rule }} # 优优电话
 PROCESS-NAME,com.adnonstop.mancamera2017,{{ rule }} # 型影
 PROCESS-NAME,com.advasoft.touchretouch,{{ rule }} # TouchRetouch
 PROCESS-NAME,com.afar.eleass,{{ rule }} # 电工专家
@@ -232,7 +232,7 @@ PROCESS-NAME,com.capelabs.leyou,{{ rule }} # 乐友
 PROCESS-NAME,com.cat.readall,{{ rule }} # 悟空浏览器
 PROCESS-NAME,com.cbnweekly,{{ rule }} # 第一财经杂志
 PROCESS-NAME,com.ccgs.sms,{{ rule }} # 短信群发助手
-PROCESS-NAME,com.cdcd.milv,{{ rule }} # 觅侣-语音视频恋爱交友
+PROCESS-NAME,com.cdcd.milv,{{ rule }} # 觅侣
 PROCESS-NAME,com.cdtv.app,{{ rule }} # 看度新闻
 PROCESS-NAME,com.cdv.video360,{{ rule }} # 云美摄
 PROCESS-NAME,com.ceic.app,{{ rule }} # 地震速报
@@ -322,7 +322,7 @@ PROCESS-NAME,com.eastmoney.android.tokyo,{{ rule }} # 财经圈子
 PROCESS-NAME,com.easy.wallpaper,{{ rule }} # 番茄动态壁纸
 PROCESS-NAME,com.ebnews,{{ rule }} # 亿邦
 PROCESS-NAME,com.eg.android.AlipayGphone,{{ rule }} # 支付宝
-PROCESS-NAME,com.ejnet.weathercamera,{{ rule }} # 天气相机-工作地点打卡
+PROCESS-NAME,com.ejnet.weathercamera,{{ rule }} # 天气相机
 PROCESS-NAME,com.ell.wallpaperell,{{ rule }} # 主题商店免费
 PROCESS-NAME,com.eno.android.cj.page,{{ rule }} # 长江e号
 PROCESS-NAME,com.eno.xyzq.page,{{ rule }} # 兴业证券优理宝
@@ -374,7 +374,7 @@ PROCESS-NAME,com.gau.go.launcherex.theme.droidglass,{{ rule }} # 玻璃主题包
 PROCESS-NAME,com.gbcom.gwifi.school,{{ rule }} # GiWiFi校园助手
 PROCESS-NAME,com.geihui,{{ rule }} # 给惠网
 PROCESS-NAME,com.gem.tastyfood,{{ rule }} # 食行生鲜
-PROCESS-NAME,com.ggeye.jiakao.api,{{ rule }} # 驾考通驾照考试宝典
+PROCESS-NAME,com.ggeye.jiakao.api,{{ rule }} # 驾考通驾照考试
 PROCESS-NAME,com.gifshow.kuaishou.bamboo,{{ rule }} # 快手创作者版
 PROCESS-NAME,com.glodon.drawingexplorer,{{ rule }} # CAD快速看图
 PROCESS-NAME,com.gongyinruixin,{{ rule }} # 工银瑞信基金
@@ -457,7 +457,7 @@ PROCESS-NAME,com.ichano.athome.avs,{{ rule }} # 掌上看家采集端
 PROCESS-NAME,com.ichano.athome.camera,{{ rule }} # 掌上看家
 PROCESS-NAME,com.iCitySuzhou.suzhou001,{{ rule }} # 引力播
 PROCESS-NAME,com.icoolme.android.weather,{{ rule }} # 最美天气
-PROCESS-NAME,com.id10000,{{ rule }} # ID
+PROCESS-NAME,com.id10000,{{ rule }} # 智企
 PROCESS-NAME,com.idotools.rings,{{ rule }} # 多多铃声
 PROCESS-NAME,com.ifanr.activitys,{{ rule }} # 爱范儿
 PROCESS-NAME,com.ifeimo.videoeditor,{{ rule }} # 视频剪辑大师
@@ -536,7 +536,7 @@ PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐
 PROCESS-NAME,com.kugou.android.ringtone,{{ rule }} # 酷狗铃声
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
 PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐HD
-PROCESS-NAME,com.kunpeng.babyting,{{ rule }} # 宝贝听听-睡前故事
+PROCESS-NAME,com.kunpeng.babyting,{{ rule }} # 宝贝听听
 PROCESS-NAME,com.kunpeng.bluefont,{{ rule }} # 字体下载极速版
 PROCESS-NAME,com.kwai.m2u,{{ rule }} # 一甜相机
 PROCESS-NAME,com.kwai.videoeditor,{{ rule }} # 快影
@@ -549,7 +549,7 @@ PROCESS-NAME,com.ledu.wbrowser,{{ rule }} # w浏览器
 PROCESS-NAME,com.leisu.sports,{{ rule }} # 雷速体育
 PROCESS-NAME,com.leixun.taofen8,{{ rule }} # 淘粉吧
 PROCESS-NAME,com.lemon.faceu,{{ rule }} # Faceu激萌
-PROCESS-NAME,com.lenovo.leos.cloud.sync,{{ rule }} # 云服务(原乐同步)
+PROCESS-NAME,com.lenovo.leos.cloud.sync,{{ rule }} # 联想乐云
 PROCESS-NAME,com.leqi.idpicture,{{ rule }} # 智能证件照
 PROCESS-NAME,com.letv.android.client,{{ rule }} # 乐视视频
 PROCESS-NAME,com.letv.android.client.pad,{{ rule }} # 乐视视频Pad
@@ -567,7 +567,7 @@ PROCESS-NAME,com.llspace.pupu,{{ rule }} # 平行世界
 PROCESS-NAME,com.lltskb.lltskb,{{ rule }} # 路路通
 PROCESS-NAME,com.lofter.android,{{ rule }} # LOFTER
 PROCESS-NAME,com.lolaage.tbulu.tools,{{ rule }} # 两步路户外助手
-PROCESS-NAME,com.lovebizhi.wallpaper,{{ rule }} # 爱壁纸_桌面锁屏
+PROCESS-NAME,com.lovebizhi.wallpaper,{{ rule }} # 爱壁纸
 PROCESS-NAME,com.lqh.love.comic,{{ rule }} # 爱动漫壁纸
 PROCESS-NAME,com.ls.sjdtbz,{{ rule }} # 手机动态壁纸
 PROCESS-NAME,com.lt.lighting,{{ rule }} # 来电闪光
@@ -586,7 +586,7 @@ PROCESS-NAME,com.meitu.meiyancamera,{{ rule }} # 美颜相机
 PROCESS-NAME,com.meitu.poster,{{ rule }} # 美图设计室
 PROCESS-NAME,com.meitu.wheecam,{{ rule }} # 潮自拍
 PROCESS-NAME,com.meitu.wink,{{ rule }} # Wink
-PROCESS-NAME,com.meixun.wnpet,{{ rule }} # 蜗牛桌宠- 桌面小组件
+PROCESS-NAME,com.meixun.wnpet,{{ rule }} # 蜗牛桌宠
 PROCESS-NAME,com.meizu.flyme.find,{{ rule }} # 查找手机
 PROCESS-NAME,com.melot.meshow,{{ rule }} # KK
 PROCESS-NAME,com.memory.me,{{ rule }} # 英语魔方秀
@@ -650,7 +650,7 @@ PROCESS-NAME,com.ninexiu.sixninexiu,{{ rule }} # 九秀直播
 PROCESS-NAME,com.niuguwang.stock,{{ rule }} # 牛股王股票
 PROCESS-NAME,com.njmizhilan.wallpaper,{{ rule }} # 神图主题
 PROCESS-NAME,com.njwry.zhuochong,{{ rule }} # 桌面宠物多多
-PROCESS-NAME,com.novv.resshare,{{ rule }} # 光点视频壁纸
+PROCESS-NAME,com.novv.resshare,{{ rule }} # 彩蛋视频壁纸
 PROCESS-NAME,com.ocj.oms.mobile,{{ rule }} # 东方购物
 PROCESS-NAME,com.octinn.birthdayplus,{{ rule }} # 生日管家
 PROCESS-NAME,com.oda_cad,{{ rule }} # CAD迷你看图
@@ -777,7 +777,7 @@ PROCESS-NAME,com.ssports.mobile.video,{{ rule }} # 爱奇艺体育
 PROCESS-NAME,com.starbucks.cn,{{ rule }} # 星巴克
 PROCESS-NAME,com.starsidea.vigorousicon,{{ rule }} # 元气图标
 PROCESS-NAME,com.stkj.dadieji,{{ rule }} # 音乐节奏大师
-PROCESS-NAME,com.storychina,{{ rule }} # 故事会
+PROCESS-NAME,com.storychina,{{ rule }} # 故事会纯阅版
 PROCESS-NAME,com.strawberry.cmbz,{{ rule }} # 草莓壁纸
 PROCESS-NAME,com.sun.quickpay,{{ rule }} # 神奇小部件
 PROCESS-NAME,com.suning.mobile.ebuy,{{ rule }} # 苏宁易购
@@ -822,7 +822,7 @@ PROCESS-NAME,com.tencent.token,{{ rule }} # QQ安全中心
 PROCESS-NAME,com.tencent.ttpic,{{ rule }} # 天天P图
 PROCESS-NAME,com.tencent.weishi,{{ rule }} # 腾讯微视
 PROCESS-NAME,com.tencent.zebra,{{ rule }} # 水印相机
-PROCESS-NAME,com.tgry.j7yr.rqtko,{{ rule }} # 壁纸素材库-壁纸
+PROCESS-NAME,com.tgry.j7yr.rqtko,{{ rule }} # 壁纸素材库
 PROCESS-NAME,com.themewallpaper.douping,{{ rule }} # 主题动态壁纸
 PROCESS-NAME,com.theotino.chinadaily,{{ rule }} # China Daily
 PROCESS-NAME,com.theotino.sztv,{{ rule }} # 无线苏州
@@ -937,7 +937,7 @@ PROCESS-NAME,com.yixia.videoeditor,{{ rule }} # 秒拍
 PROCESS-NAME,com.ylmf.androidclient,{{ rule }} # 115生活
 PROCESS-NAME,com.ymatou.seller,{{ rule }} # 洋码头扫货神器买手版
 PROCESS-NAME,com.ymatou.shop,{{ rule }} # 洋码头
-PROCESS-NAME,com.yoho,{{ rule }} # YOHO有货
+PROCESS-NAME,com.yoho,{{ rule }} # Yoho!Buy有货
 PROCESS-NAME,com.yoloho.dayima,{{ rule }} # 大姨妈
 PROCESS-NAME,com.yoosee,{{ rule }} # 有看头
 PROCESS-NAME,com.youba.barcode,{{ rule }} # 二维码扫描
@@ -980,7 +980,7 @@ PROCESS-NAME,com.zy.photo,{{ rule }} # 半糖
 PROCESS-NAME,com.zydsoft.acuherb,{{ rule }} # 中医辨证云
 PROCESS-NAME,com.zzu.sxm.chemical,{{ rule }} # 化学方程式
 PROCESS-NAME,ctrip.android.view,{{ rule }} # 携程旅行
-PROCESS-NAME,cuuca.sendfiles.Activity,{{ rule }} # 汇分享
+PROCESS-NAME,cuuca.sendfiles.Activity,{{ rule }} # 备份助手
 PROCESS-NAME,dongzheng.szkingdom.android.phone,{{ rule }} # 掌证宝
 PROCESS-NAME,droom.sleepIfUCan,{{ rule }} # 使命闹钟Alarmy
 PROCESS-NAME,epson.print,{{ rule }} # Epson iPrint
@@ -1028,7 +1028,7 @@ PROCESS-NAME,oms.mmc.app.almanac_inland,{{ rule }} # 老黄历万年历顺历
 PROCESS-NAME,oms.mmc.fortunetelling,{{ rule }} # 灵机
 PROCESS-NAME,one.hh.oneclient,{{ rule }} # 一个
 PROCESS-NAME,org.fungo.fungolive,{{ rule }} # 天天电视直播
-PROCESS-NAME,org.moegirl.moegirlview,{{ rule }} # 萌娘百科-万物皆可萌的百科全书
+PROCESS-NAME,org.moegirl.moegirlview,{{ rule }} # 萌娘百科
 PROCESS-NAME,org.mozilla.fennec_mylinux,{{ rule }} # 蚂蚁浏览器
 PROCESS-NAME,org.sojex.finance,{{ rule }} # 口袋贵金属
 PROCESS-NAME,org.sunapp.wenote,{{ rule }} # 微鹏

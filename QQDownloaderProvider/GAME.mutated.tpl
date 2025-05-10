@@ -97,6 +97,7 @@ PROCESS-NAME,com.qqgame.hlddz,{{ rule }} # 欢乐斗地主
 PROCESS-NAME,com.qqgame.mic,{{ rule }} # 英雄杀
 PROCESS-NAME,com.shengji.yyb,{{ rule }} # 升级80分
 PROCESS-NAME,com.sincetimes.fknsg,{{ rule }} # 放开那三国
+PROCESS-NAME,com.sincetimes.games.worldship,{{ rule }} # 战舰帝国
 PROCESS-NAME,com.sinyee.babybus.adventure,{{ rule }} # 奇妙逻辑启蒙
 PROCESS-NAME,com.sinyee.babybus.bumpercars,{{ rule }} # 奇妙碰碰车
 PROCESS-NAME,com.sinyee.babybus.careII,{{ rule }} # 照顾甜心妹妹
@@ -858,7 +859,6 @@ PROCESS-NAME,com.tencent.tmgp.ycxjjjc,{{ rule }} # 仙境竞技场
 PROCESS-NAME,com.tencent.tmgp.ydcsly,{{ rule }} # 一刀传世
 PROCESS-NAME,com.tencent.tmgp.ydxh.cnchess,{{ rule }} # 象棋黄金版
 PROCESS-NAME,com.tencent.tmgp.ydxh.superblock,{{ rule }} # 俄罗斯方块大战
-PROCESS-NAME,com.tencent.tmgp.ygdhk,{{ rule }} # 勇敢的哈克
 PROCESS-NAME,com.tencent.tmgp.yhhoa,{{ rule }} # 英魂之刃战略版
 PROCESS-NAME,com.tencent.tmgp.yhzxtwzw,{{ rule }} # 塔王之王
 PROCESS-NAME,com.tencent.tmgp.yhzz.huiyue,{{ rule }} # 永恒征战
