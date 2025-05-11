@@ -55,6 +55,7 @@ PROCESS-NAME,cn.etouch.ecalendar,{{ rule }} # 中华万年历
 PROCESS-NAME,cn.fmsyjhgb,{{ rule }} # FM收音机广播
 PROCESS-NAME,cn.ghac.gha,{{ rule }} # 广汽本田
 PROCESS-NAME,cn.gogocity.suibian,{{ rule }} # 随便走
+PROCESS-NAME,cn.guancha.app,{{ rule }} # 观察者网
 PROCESS-NAME,cn.gzmovement,{{ rule }} # 动静新闻
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
 PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
@@ -128,7 +129,6 @@ PROCESS-NAME,com.antutu.ABenchMark,{{ rule }} # 安兔兔评测
 PROCESS-NAME,com.apa.callshow,{{ rule }} # 嗨来电秀
 PROCESS-NAME,com.app.dzy.btchat,{{ rule }} # 蓝牙闲聊
 PROCESS-NAME,com.app.hero.ui,{{ rule }} # K歌达人
-PROCESS-NAME,com.app.meiyue,{{ rule }} # 魅约
 PROCESS-NAME,com.app.ymqzy,{{ rule }} # 动态壁纸秀场
 PROCESS-NAME,com.app.yujiasuxingji,{{ rule }} # 壁纸大全
 PROCESS-NAME,com.appbyme.app71974,{{ rule }} # 编织人生论坛
@@ -420,7 +420,6 @@ PROCESS-NAME,com.hkairlines.apps,{{ rule }} # 香港航空
 PROCESS-NAME,com.hkx.youandme,{{ rule }} # 情侣我和你
 PROCESS-NAME,com.hlg.daydaytobusiness,{{ rule }} # 稿定设计
 PROCESS-NAME,com.hmkx.zgjkj,{{ rule }} # 健康界
-PROCESS-NAME,com.hnzx.hnrb,{{ rule }} # 河南日报
 PROCESS-NAME,com.hoge.android.chinablue,{{ rule }} # 中国蓝新闻
 PROCESS-NAME,com.hoge.android.wuhan,{{ rule }} # 掌上武汉
 PROCESS-NAME,com.hoge.android.wuxiwireless,{{ rule }} # 无锡博报
@@ -661,7 +660,6 @@ PROCESS-NAME,com.oray.sunlogin,{{ rule }} # 向日葵远程控制
 PROCESS-NAME,com.oupeng.browser,{{ rule }} # 欧朋浏览器极速版
 PROCESS-NAME,com.oupeng.mini.android,{{ rule }} # 欧朋浏览器
 PROCESS-NAME,com.p1.mobile.putong,{{ rule }} # 探探
-PROCESS-NAME,com.paic.zhifu.wallet.activity,{{ rule }} # 壹钱包
 PROCESS-NAME,com.pcpop.popapk,{{ rule }} # hao网址大全
 PROCESS-NAME,com.peopledailychina.activity,{{ rule }} # 人民日报
 PROCESS-NAME,com.perracolabs.tcc,{{ rule }} # Tiny Call Confirm

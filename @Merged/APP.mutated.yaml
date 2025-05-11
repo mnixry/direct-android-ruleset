@@ -74,6 +74,7 @@ payload:
   - PROCESS-NAME,cn.gogocity.suibian #随便走
   - PROCESS-NAME,cn.gov.pbc.dcep #数字人民币
   - PROCESS-NAME,cn.gov.tax.its #个人所得税
+  - PROCESS-NAME,cn.guancha.app #观察者网
   - PROCESS-NAME,cn.gzmovement #动静新闻
   - PROCESS-NAME,cn.hsa.app #国家医保服务平台
   - PROCESS-NAME,cn.huntlaw.android #好律师
@@ -186,7 +187,6 @@ payload:
   - PROCESS-NAME,com.apa.callshow #嗨来电秀
   - PROCESS-NAME,com.app.dzy.btchat #蓝牙闲聊
   - PROCESS-NAME,com.app.hero.ui #K歌达人
-  - PROCESS-NAME,com.app.meiyue #魅约
   - PROCESS-NAME,com.app.ymqzy #动态壁纸秀场
   - PROCESS-NAME,com.app.yujiasuxingji #壁纸大全
   - PROCESS-NAME,com.appbyme.app71974 #编织人生论坛
@@ -623,7 +623,6 @@ payload:
   - PROCESS-NAME,com.hkx.youandme #情侣我和你
   - PROCESS-NAME,com.hlg.daydaytobusiness #稿定设计
   - PROCESS-NAME,com.hmkx.zgjkj #健康界
-  - PROCESS-NAME,com.hnzx.hnrb #河南日报
   - PROCESS-NAME,com.hoge.android.chinablue #中国蓝新闻
   - PROCESS-NAME,com.hoge.android.wuhan #掌上武汉
   - PROCESS-NAME,com.hoge.android.wuxiwireless #无锡博报

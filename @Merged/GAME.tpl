@@ -1004,6 +1004,7 @@ PROCESS-NAME,com.tencent.tmgp.bilibili.asharms,{{ rule }} # 灰烬战线
 PROCESS-NAME,com.tencent.tmgp.bilibili.bangdream,{{ rule }} # 梦想协奏曲！少女乐团派对！
 PROCESS-NAME,com.tencent.tmgp.bilibili.blhx,{{ rule }} # 碧蓝航线
 PROCESS-NAME,com.tencent.tmgp.bilibili.deadcells.mobile,{{ rule }} # 重生细胞
+PROCESS-NAME,com.tencent.tmgp.bilibili.excalibur,{{ rule }} # 依露希尔：星晓
 PROCESS-NAME,com.tencent.tmgp.bilibili.hunter3,{{ rule }} # 时空猎人3
 PROCESS-NAME,com.tencent.tmgp.bilibili.nslg,{{ rule }} # 三国：谋定天下
 PROCESS-NAME,com.tencent.tmgp.bilibili.overlord,{{ rule }} # 纳萨力克之王
@@ -1169,7 +1170,6 @@ PROCESS-NAME,com.tencent.tmgp.gbyx,{{ rule }} # 孤堡英雄
 PROCESS-NAME,com.tencent.tmgp.gcsgzh5,{{ rule }} # 攻城三国志
 PROCESS-NAME,com.tencent.tmgp.gg.jqrjdc,{{ rule }} # 机器人角斗场
 PROCESS-NAME,com.tencent.tmgp.gg.lostword,{{ rule }} # 东方归言录
-PROCESS-NAME,com.tencent.tmgp.gg.ozkcsj2,{{ rule }} # 欧洲卡车司机2
 PROCESS-NAME,com.tencent.tmgp.gg.ssnbb,{{ rule }} # 谁是你爸爸
 PROCESS-NAME,com.tencent.tmgp.glkj.lhcx01,{{ rule }} # 灵魂潮汐
 PROCESS-NAME,com.tencent.tmgp.gm.hs,{{ rule }} # 魂色
@@ -1220,7 +1220,6 @@ PROCESS-NAME,com.tencent.tmgp.hxmjl,{{ rule }} # 幻想名将录
 PROCESS-NAME,com.tencent.tmgp.hy.dwbxjs,{{ rule }} # 动物变形竞赛
 PROCESS-NAME,com.tencent.tmgp.hy.hcrdj,{{ rule }} # 火柴人对决
 PROCESS-NAME,com.tencent.tmgp.hy.hcrssyx,{{ rule }} # 火柴人绳索英雄
-PROCESS-NAME,com.tencent.tmgp.hy.kbnn,{{ rule }} # 恐怖奶奶
 PROCESS-NAME,com.tencent.tmgp.hy.mfqs,{{ rule }} # 木筏求生
 PROCESS-NAME,com.tencent.tmgp.hyhrl,{{ rule }} # 幻刃录
 PROCESS-NAME,com.tencent.tmgp.hymc,{{ rule }} # 荒野迷城
@@ -1532,6 +1531,7 @@ PROCESS-NAME,com.tencent.tmgp.tqbaohuang,{{ rule }} # 大眼保皇
 PROCESS-NAME,com.tencent.tmgp.tqfuzhoumajiang,{{ rule }} # 福州麻将
 PROCESS-NAME,com.tencent.tmgp.tqgouji,{{ rule }} # 大眼够级
 PROCESS-NAME,com.tencent.tmgp.tqguandan,{{ rule }} # 大眼掼蛋
+PROCESS-NAME,com.tencent.tmgp.tqpaodekuai,{{ rule }} # 大眼跑得快
 PROCESS-NAME,com.tencent.tmgp.tqshuangkou,{{ rule }} # 大眼双扣
 PROCESS-NAME,com.tencent.tmgp.tqwzfx,{{ rule }} # 台球王者
 PROCESS-NAME,com.tencent.tmgp.tqzhuojimajiang,{{ rule }} # 大眼捉鸡麻将
@@ -1647,6 +1647,7 @@ PROCESS-NAME,com.tencent.tmgp.ycxjjjc,{{ rule }} # 仙境竞技场
 PROCESS-NAME,com.tencent.tmgp.ydcsly,{{ rule }} # 一刀传世
 PROCESS-NAME,com.tencent.tmgp.ydxh.cnchess,{{ rule }} # 象棋黄金版
 PROCESS-NAME,com.tencent.tmgp.ydxh.superblock,{{ rule }} # 俄罗斯方块大战
+PROCESS-NAME,com.tencent.tmgp.ygdhk,{{ rule }} # 勇敢的哈克
 PROCESS-NAME,com.tencent.tmgp.yhhoa,{{ rule }} # 英魂之刃战略版
 PROCESS-NAME,com.tencent.tmgp.yhzxtwzw,{{ rule }} # 塔王之王
 PROCESS-NAME,com.tencent.tmgp.yhzz.huiyue,{{ rule }} # 永恒征战
@@ -1657,6 +1658,7 @@ PROCESS-NAME,com.tencent.tmgp.ylm,{{ rule }} # 御龙在天手游
 PROCESS-NAME,com.tencent.tmgp.yndssy,{{ rule }} # 异能都市
 PROCESS-NAME,com.tencent.tmgp.ynxy.fangzhou,{{ rule }} # 一念永恒：少年追梦
 PROCESS-NAME,com.tencent.tmgp.yokaverse.zzxy,{{ rule }} # 自在西游
+PROCESS-NAME,com.tencent.tmgp.yonghenglianmeng,{{ rule }} # 永恒联盟
 PROCESS-NAME,com.tencent.tmgp.yongyong.clx,{{ rule }} # 一梦江湖
 PROCESS-NAME,com.tencent.tmgp.yongyong.frxy,{{ rule }} # 非人学园
 PROCESS-NAME,com.tencent.tmgp.yongyong.mrzh,{{ rule }} # 明日之后
@@ -1686,7 +1688,6 @@ PROCESS-NAME,com.tencent.tmgp.yunbu.alicemergeland,{{ rule }} # 糖果精灵传�
 PROCESS-NAME,com.tencent.tmgp.yunbu.badmintonleague,{{ rule }} # 羽毛球高高手游戏软件 1.1.3023
 PROCESS-NAME,com.tencent.tmgp.yunbu.nonogram,{{ rule }} # 数独趣味闯关
 PROCESS-NAME,com.tencent.tmgp.yunbu.puppyblast,{{ rule }} # 甜点消消
-PROCESS-NAME,com.tencent.tmgp.yunbu.sniperhonor,{{ rule }} # 千纹时空
 PROCESS-NAME,com.tencent.tmgp.yuyoupoker101,{{ rule }} # 宇游麻将
 PROCESS-NAME,com.tencent.tmgp.yxwdzzjy,{{ rule }} # 魔法门之英雄无敌：战争纪元
 PROCESS-NAME,com.tencent.tmgp.yy.nbalqsj,{{ rule }} # 美职篮篮球世界
@@ -1741,6 +1742,7 @@ PROCESS-NAME,com.tencent.tmgp.zulong.drc,{{ rule }} # 龙族：卡塞尔之门
 PROCESS-NAME,com.tencent.tmgp.zuqiuqzry,{{ rule }} # 全职荣耀
 PROCESS-NAME,com.tencent.tmgp.zushi,{{ rule }} # 最强祖师
 PROCESS-NAME,com.tencent.tmgp.zy.ddzjdb,{{ rule }} # 斗地主经典版
+PROCESS-NAME,com.tencent.tmpg.yzywl.hldjddz,{{ rule }} # 欢乐单机斗地主
 PROCESS-NAME,com.tencent.toaa,{{ rule }} # 黎明觉醒：生机
 PROCESS-NAME,com.tencent.WeFire,{{ rule }} # 全民突击
 PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界
