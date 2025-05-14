@@ -155,6 +155,7 @@ PROCESS-NAME,com.aikan,{{ rule }} # 免费小说大全
 PROCESS-NAME,com.ainemo.dragoon,{{ rule }} # 小鱼易连
 PROCESS-NAME,com.aipai.android,{{ rule }} # 爱拍
 PROCESS-NAME,com.aipai.paidashi,{{ rule }} # 拍大师
+PROCESS-NAME,com.airuniversa.control,{{ rule }} # 万能空调遥控器
 PROCESS-NAME,com.alensw.PhoneArea,{{ rule }} # QC 归属地
 PROCESS-NAME,com.alibaba.ailabs.tg,{{ rule }} # 天猫精灵
 PROCESS-NAME,com.alibaba.android.rimet,{{ rule }} # 钉钉
@@ -164,7 +165,7 @@ PROCESS-NAME,com.alicom.smartdail,{{ rule }} # 阿里小号
 PROCESS-NAME,com.alimama.moon,{{ rule }} # 淘宝联盟
 PROCESS-NAME,com.alpha.lagouapk,{{ rule }} # 拉勾招聘
 PROCESS-NAME,com.ancda.parents,{{ rule }} # 掌心宝贝
-PROCESS-NAME,com.ancient.calendar,{{ rule }} # 老黄历
+PROCESS-NAME,com.ancient.calendar,{{ rule }} # 中农老黄历
 PROCESS-NAME,com.android.app.quanmama,{{ rule }} # 券妈妈优惠券
 PROCESS-NAME,com.android.autoAirPlaneMode,{{ rule }} # 自动飞行模式
 PROCESS-NAME,com.android.bankabc,{{ rule }} # 农行掌上银行
@@ -423,7 +424,7 @@ PROCESS-NAME,com.digitalgd.dgyss,{{ rule }} # 粤省事
 PROCESS-NAME,com.dingchebao,{{ rule }} # 订车宝
 PROCESS-NAME,com.dingtai.wxhn.activity,{{ rule }} # 新湖南
 PROCESS-NAME,com.dingYZ.dingyzwater,{{ rule }} # 微脉水印相机
-PROCESS-NAME,com.dipiapp.pcall,{{ rule }} # 嘀嗒网络电话
+PROCESS-NAME,com.dipiapp.pcall,{{ rule }} # 网络电话
 PROCESS-NAME,com.diyidan,{{ rule }} # 第一弹
 PROCESS-NAME,com.djbox.product,{{ rule }} # DJ音乐盒
 PROCESS-NAME,com.docin.zlibrary.ui.android,{{ rule }} # 豆丁书房
@@ -1001,7 +1002,6 @@ PROCESS-NAME,com.nice.main,{{ rule }} # nice
 PROCESS-NAME,com.nineteenlou.nineteenlou,{{ rule }} # 19楼
 PROCESS-NAME,com.ninexiu.sixninexiu,{{ rule }} # 九秀直播
 PROCESS-NAME,com.niuguwang.stock,{{ rule }} # 牛股王股票
-PROCESS-NAME,com.njh.biubiu,{{ rule }} # biubiu加速器
 PROCESS-NAME,com.njmizhilan.wallpaper,{{ rule }} # 神图主题
 PROCESS-NAME,com.njwry.zhuochong,{{ rule }} # 桌面宠物多多
 PROCESS-NAME,com.novv.resshare,{{ rule }} # 彩蛋视频壁纸
@@ -1050,7 +1050,7 @@ PROCESS-NAME,com.qihoo.browser,{{ rule }} # 360浏览器
 PROCESS-NAME,com.qihoo.camera,{{ rule }} # 360摄像机
 PROCESS-NAME,com.qihoo.cleandroid_cn,{{ rule }} # 360清理大师
 PROCESS-NAME,com.qihoo.contents,{{ rule }} # 360极速浏览器
-PROCESS-NAME,com.qihoo.loan,{{ rule }} # 奇富借条(原360借条)
+PROCESS-NAME,com.qihoo.loan,{{ rule }} # 奇富借条-原360借条
 PROCESS-NAME,com.qihoo.magic,{{ rule }} # 分身大师
 PROCESS-NAME,com.qihoo.qeditor,{{ rule }} # 快剪辑
 PROCESS-NAME,com.qihoo360.antilostwatch,{{ rule }} # 360儿童卫士

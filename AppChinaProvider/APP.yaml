@@ -295,7 +295,7 @@ payload:
   - PROCESS-NAME,com.dianping.v1 #大众点评
   - PROCESS-NAME,com.diershoubing.erbing #二柄
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
-  - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
+  - PROCESS-NAME,com.dipiapp.pcall #网络电话
   - PROCESS-NAME,com.djbox.product #DJ音乐盒
   - PROCESS-NAME,com.docin.zlibrary.ui.android #豆丁书房
   - PROCESS-NAME,com.dongqiudi.news #懂球帝

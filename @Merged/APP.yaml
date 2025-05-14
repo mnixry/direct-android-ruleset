@@ -155,6 +155,7 @@ payload:
   - PROCESS-NAME,com.ainemo.dragoon #小鱼易连
   - PROCESS-NAME,com.aipai.android #爱拍
   - PROCESS-NAME,com.aipai.paidashi #拍大师
+  - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alensw.PhoneArea #QC 归属地
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
@@ -164,7 +165,7 @@ payload:
   - PROCESS-NAME,com.alimama.moon #淘宝联盟
   - PROCESS-NAME,com.alpha.lagouapk #拉勾招聘
   - PROCESS-NAME,com.ancda.parents #掌心宝贝
-  - PROCESS-NAME,com.ancient.calendar #老黄历
+  - PROCESS-NAME,com.ancient.calendar #中农老黄历
   - PROCESS-NAME,com.android.app.quanmama #券妈妈优惠券
   - PROCESS-NAME,com.android.autoAirPlaneMode #自动飞行模式
   - PROCESS-NAME,com.android.bankabc #农行掌上银行
@@ -423,7 +424,7 @@ payload:
   - PROCESS-NAME,com.dingchebao #订车宝
   - PROCESS-NAME,com.dingtai.wxhn.activity #新湖南
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
-  - PROCESS-NAME,com.dipiapp.pcall #嘀嗒网络电话
+  - PROCESS-NAME,com.dipiapp.pcall #网络电话
   - PROCESS-NAME,com.diyidan #第一弹
   - PROCESS-NAME,com.djbox.product #DJ音乐盒
   - PROCESS-NAME,com.docin.zlibrary.ui.android #豆丁书房
@@ -1001,7 +1002,6 @@ payload:
   - PROCESS-NAME,com.nineteenlou.nineteenlou #19楼
   - PROCESS-NAME,com.ninexiu.sixninexiu #九秀直播
   - PROCESS-NAME,com.niuguwang.stock #牛股王股票
-  - PROCESS-NAME,com.njh.biubiu #biubiu加速器
   - PROCESS-NAME,com.njmizhilan.wallpaper #神图主题
   - PROCESS-NAME,com.njwry.zhuochong #桌面宠物多多
   - PROCESS-NAME,com.novv.resshare #彩蛋视频壁纸
@@ -1050,7 +1050,7 @@ payload:
   - PROCESS-NAME,com.qihoo.camera #360摄像机
   - PROCESS-NAME,com.qihoo.cleandroid_cn #360清理大师
   - PROCESS-NAME,com.qihoo.contents #360极速浏览器
-  - PROCESS-NAME,com.qihoo.loan #奇富借条(原360借条)
+  - PROCESS-NAME,com.qihoo.loan #奇富借条-原360借条
   - PROCESS-NAME,com.qihoo.magic #分身大师
   - PROCESS-NAME,com.qihoo.qeditor #快剪辑
   - PROCESS-NAME,com.qihoo360.antilostwatch #360儿童卫士

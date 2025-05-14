@@ -77,12 +77,13 @@ payload:
   - PROCESS-NAME,com.adobe.reader #PDF阅读器 Adobe reader
   - PROCESS-NAME,com.aikan #免费小说大全
   - PROCESS-NAME,com.airbnb.android #爱彼迎
+  - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
   - PROCESS-NAME,com.alibaba.wireless #阿里巴巴
   - PROCESS-NAME,com.alpha.lagouapk #拉勾招聘
   - PROCESS-NAME,com.ancda.parents #掌心宝贝
-  - PROCESS-NAME,com.ancient.calendar #老黄历
+  - PROCESS-NAME,com.ancient.calendar #中农老黄历
   - PROCESS-NAME,com.android.app.quanmama #券妈妈优惠券
   - PROCESS-NAME,com.android.bankabc #农行掌上银行
   - PROCESS-NAME,com.android.chrome #谷歌浏览器Google Chrome
@@ -558,7 +559,6 @@ payload:
   - PROCESS-NAME,com.nfdaily.nfplus #南方Plus
   - PROCESS-NAME,com.nice.main #nice
   - PROCESS-NAME,com.ninexiu.sixninexiu #九秀直播
-  - PROCESS-NAME,com.njh.biubiu #biubiu加速器
   - PROCESS-NAME,com.nxy.sc #四川农信手机银行
   - PROCESS-NAME,com.octinn.birthdayplus #生日管家
   - PROCESS-NAME,com.ophone.reader.ui #咪咕阅读
@@ -588,7 +588,7 @@ payload:
   - PROCESS-NAME,com.qihoo.appstore #360手机助手
   - PROCESS-NAME,com.qihoo.browser #360浏览器
   - PROCESS-NAME,com.qihoo.camera #360摄像机
-  - PROCESS-NAME,com.qihoo.loan #奇富借条(原360借条)
+  - PROCESS-NAME,com.qihoo.loan #奇富借条-原360借条
   - PROCESS-NAME,com.qihoo.magic #分身大师
   - PROCESS-NAME,com.qihoo360.antilostwatch #360儿童卫士
   - PROCESS-NAME,com.qihoo360.mobilesafe #360手机卫士

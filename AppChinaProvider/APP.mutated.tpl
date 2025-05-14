@@ -294,7 +294,7 @@ PROCESS-NAME,com.DHgate.seller.android,{{ rule }} # 敦煌网商户
 PROCESS-NAME,com.dianping.v1,{{ rule }} # 大众点评
 PROCESS-NAME,com.diershoubing.erbing,{{ rule }} # 二柄
 PROCESS-NAME,com.dingYZ.dingyzwater,{{ rule }} # 微脉水印相机
-PROCESS-NAME,com.dipiapp.pcall,{{ rule }} # 嘀嗒网络电话
+PROCESS-NAME,com.dipiapp.pcall,{{ rule }} # 网络电话
 PROCESS-NAME,com.djbox.product,{{ rule }} # DJ音乐盒
 PROCESS-NAME,com.docin.zlibrary.ui.android,{{ rule }} # 豆丁书房
 PROCESS-NAME,com.dongqiudi.news,{{ rule }} # 懂球帝
