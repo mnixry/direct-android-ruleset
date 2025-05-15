@@ -160,6 +160,7 @@ payload:
   - PROCESS-NAME,com.chinamobile.contacts.im #和通讯录
   - PROCESS-NAME,com.chinamobile.mcloud #中国移动云盘
   - PROCESS-NAME,com.chinamworld.bocmbci #中国银行
+  - PROCESS-NAME,com.chinamworld.main #中国建设银行
   - PROCESS-NAME,com.chinaso.toutiao #中国搜索
   - PROCESS-NAME,com.chinatelecom.bestpayclient #翼支付
   - PROCESS-NAME,com.chineseall.singlebook #中文书城
@@ -412,7 +413,6 @@ payload:
   - PROCESS-NAME,com.johong.jiaxiaobaodian #驾校宝
   - PROCESS-NAME,com.join.android.app.mgsim.wufun #悟饭游戏厅
   - PROCESS-NAME,com.jojoread.huiben #叫叫绘本
-  - PROCESS-NAME,com.jooan.qiaoanzhilian #乔安智联
   - PROCESS-NAME,com.joyshebao.joy #查悦社保
   - PROCESS-NAME,com.juejinchain.android #掘金宝
   - PROCESS-NAME,com.julanling.app #安心记加班
@@ -461,7 +461,6 @@ payload:
   - PROCESS-NAME,com.lemon.lv #剪映
   - PROCESS-NAME,com.lenovo.leos.cloud.sync #联想乐云
   - PROCESS-NAME,com.leqi.idpicture #智能证件照
-  - PROCESS-NAME,com.leqi.ProfessionalIDPhoto #专业证件照
   - PROCESS-NAME,com.lft.turn #导学号
   - PROCESS-NAME,com.lianjia.beike #贝壳找房
   - PROCESS-NAME,com.lietou.mishu #猎聘
@@ -635,7 +634,7 @@ payload:
   - PROCESS-NAME,com.shangshaban.zhaopin.activity #上啥班
   - PROCESS-NAME,com.shenghuoquan #生活圈
   - PROCESS-NAME,com.shengqianyxlmw #省钱优选联盟
-  - PROCESS-NAME,com.shfy.voice #和平吃鸡变声器
+  - PROCESS-NAME,com.shfy.voice #和平游戏变声器
   - PROCESS-NAME,com.shiyue.fensigou #粉丝福利购
   - PROCESS-NAME,com.shizhuang.duapp #得物
   - PROCESS-NAME,com.shoujiduoduo.dj #DJ多多
@@ -702,6 +701,7 @@ payload:
   - PROCESS-NAME,com.suddenfix.customer #闪电修
   - PROCESS-NAME,com.suning.mobile.ebuy #苏宁易购
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
+  - PROCESS-NAME,com.sup.android.superb #皮皮虾
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
   - PROCESS-NAME,com.szyy2106.pdfscanner #扫描王PDF
@@ -888,7 +888,7 @@ payload:
   - PROCESS-NAME,com.ygkj.chelaile.standard #车来了
   - PROCESS-NAME,com.ygxc.student #阳光学车
   - PROCESS-NAME,com.yiban1413.yiban #一伴婚恋专业版
-  - PROCESS-NAME,com.yibanlu.luck #同城知趣聊天
+  - PROCESS-NAME,com.yibanlu.luck #知趣聊天
   - PROCESS-NAME,com.yibasan.lizhifm #荔枝
   - PROCESS-NAME,com.yiche.autoeasy #易车
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
