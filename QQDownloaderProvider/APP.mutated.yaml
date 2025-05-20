@@ -155,6 +155,7 @@ payload:
   - PROCESS-NAME,com.changba #唱吧
   - PROCESS-NAME,com.chaoxing.mobile #学习通
   - PROCESS-NAME,com.chaozh.iReaderFree #掌阅
+  - PROCESS-NAME,com.chebada #巴士管家
   - PROCESS-NAME,com.chinalife.ebz #中国人寿寿险
   - PROCESS-NAME,com.chinamobile.contacts.im #和通讯录
   - PROCESS-NAME,com.chinamobile.mcloud #中国移动云盘
@@ -345,7 +346,6 @@ payload:
   - PROCESS-NAME,com.hundsun.stockwinner.cyqh #创元期货
   - PROCESS-NAME,com.hundsun.stockwinner.gdzq #光大证券金阳光
   - PROCESS-NAME,com.hundsun.stockwinner.gtjaqh #国泰君安期货经典版
-  - PROCESS-NAME,com.hundsun.stockwinner.haqh #华安期货e通
   - PROCESS-NAME,com.hundsun.stockwinner.paqh #平安期货
   - PROCESS-NAME,com.hundsun.stockwinner.yhqh #银河期货专业版
   - PROCESS-NAME,com.hundsun.winner.pazq #平安证券
@@ -729,7 +729,7 @@ payload:
   - PROCESS-NAME,com.tencent.gamehelper.pg #和平营地
   - PROCESS-NAME,com.tencent.gamehelper.smoba #王者营地
   - PROCESS-NAME,com.tencent.gamehelper.speed #掌上飞车
-  - PROCESS-NAME,com.tencent.gamereva #腾讯先锋（云游戏）
+  - PROCESS-NAME,com.tencent.gamereva #腾讯先锋
   - PROCESS-NAME,com.tencent.igame #王者人生
   - PROCESS-NAME,com.tencent.karaoke #全民K歌
   - PROCESS-NAME,com.tencent.map #腾讯地图

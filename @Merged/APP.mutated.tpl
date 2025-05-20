@@ -333,6 +333,7 @@ PROCESS-NAME,com.changshuo.ui,{{ rule }} # 畅说108
 PROCESS-NAME,com.chaoxing.mobile,{{ rule }} # 学习通
 PROCESS-NAME,com.chaozh.iReaderFree,{{ rule }} # 掌阅
 PROCESS-NAME,com.chaozh.iReaderFree15,{{ rule }} # 爱读掌阅
+PROCESS-NAME,com.chebada,{{ rule }} # 巴士管家
 PROCESS-NAME,com.chenai.eyes,{{ rule }} # 夜间模式
 PROCESS-NAME,com.chinaamc.MainActivityAMC,{{ rule }} # 华夏基金管家
 PROCESS-NAME,com.chinaamc.mfbh.amcActivity,{{ rule }} # 华夏活期通
@@ -667,7 +668,6 @@ PROCESS-NAME,com.hunantv.imgo.activity,{{ rule }} # 芒果TV
 PROCESS-NAME,com.hundsun.stockwinner.cyqh,{{ rule }} # 创元期货
 PROCESS-NAME,com.hundsun.stockwinner.gdzq,{{ rule }} # 光大证券金阳光
 PROCESS-NAME,com.hundsun.stockwinner.gtjaqh,{{ rule }} # 国泰君安期货经典版
-PROCESS-NAME,com.hundsun.stockwinner.haqh,{{ rule }} # 华安期货e通
 PROCESS-NAME,com.hundsun.stockwinner.paqh,{{ rule }} # 平安期货
 PROCESS-NAME,com.hundsun.stockwinner.yhqh,{{ rule }} # 银河期货专业版
 PROCESS-NAME,com.hundsun.winner.pazq,{{ rule }} # 平安证券
@@ -1276,7 +1276,7 @@ PROCESS-NAME,com.tencent.gamehelper.nz,{{ rule }} # 逆战助手
 PROCESS-NAME,com.tencent.gamehelper.pg,{{ rule }} # 和平营地
 PROCESS-NAME,com.tencent.gamehelper.smoba,{{ rule }} # 王者营地
 PROCESS-NAME,com.tencent.gamehelper.speed,{{ rule }} # 掌上飞车
-PROCESS-NAME,com.tencent.gamereva,{{ rule }} # 腾讯先锋（云游戏）
+PROCESS-NAME,com.tencent.gamereva,{{ rule }} # 腾讯先锋
 PROCESS-NAME,com.tencent.igame,{{ rule }} # 王者人生
 PROCESS-NAME,com.tencent.karaoke,{{ rule }} # 全民K歌
 PROCESS-NAME,com.tencent.map,{{ rule }} # 腾讯地图

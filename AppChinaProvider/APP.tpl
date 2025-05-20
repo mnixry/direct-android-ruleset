@@ -16,7 +16,6 @@ PROCESS-NAME,cn.amazon.mShop.android,{{ rule }} # 亚马逊购物
 PROCESS-NAME,cn.banshenggua.aichang,{{ rule }} # 爱唱
 PROCESS-NAME,cn.bdqn.pictureview,{{ rule }} # 手机图库
 PROCESS-NAME,cn.buding.martin,{{ rule }} # 微车
-PROCESS-NAME,cn.chinabus.main,{{ rule }} # 8684实时公交
 PROCESS-NAME,cn.cj.pe,{{ rule }} # 139邮箱
 PROCESS-NAME,cn.cntv,{{ rule }} # 央视影音
 PROCESS-NAME,cn.cntvhd,{{ rule }} # 央视影音HD
