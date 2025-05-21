@@ -74,6 +74,7 @@ payload:
   - PROCESS-NAME,cn.gogocity.suibian #随便走
   - PROCESS-NAME,cn.gov.pbc.dcep #数字人民币
   - PROCESS-NAME,cn.gov.tax.its #个人所得税
+  - PROCESS-NAME,cn.guancha.app #观察者网
   - PROCESS-NAME,cn.gzmovement #动静新闻
   - PROCESS-NAME,cn.hsa.app #国家医保服务平台
   - PROCESS-NAME,cn.huntlaw.android #好律师
@@ -110,7 +111,6 @@ payload:
   - PROCESS-NAME,cn.okek.chexingwuyou #车行无忧
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
   - PROCESS-NAME,cn.poco.jane #简拼
-  - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
   - PROCESS-NAME,cn.shengmimi.callshow #视频铃声
   - PROCESS-NAME,cn.shengmitech.intelllock #锁屏
@@ -333,7 +333,6 @@ payload:
   - PROCESS-NAME,com.chaoxing.mobile #学习通
   - PROCESS-NAME,com.chaozh.iReaderFree #掌阅
   - PROCESS-NAME,com.chaozh.iReaderFree15 #爱读掌阅
-  - PROCESS-NAME,com.chebada #巴士管家
   - PROCESS-NAME,com.chenai.eyes #夜间模式
   - PROCESS-NAME,com.chinaamc.MainActivityAMC #华夏基金管家
   - PROCESS-NAME,com.chinaamc.mfbh.amcActivity #华夏活期通
@@ -404,6 +403,7 @@ payload:
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器智能计算
   - PROCESS-NAME,com.ddsm.didu #Didu
+  - PROCESS-NAME,com.ddwallpaperang.wallpaper #图图乐
   - PROCESS-NAME,com.ddyhq.youhuiquan #优惠券
   - PROCESS-NAME,com.dealmoon.android #北美省钱快报
   - PROCESS-NAME,com.dedao.juvenile #少年得到
@@ -567,7 +567,7 @@ payload:
   - PROCESS-NAME,com.gopro.smarty #GoPro Quik
   - PROCESS-NAME,com.gorgeous.lite #轻颜
   - PROCESS-NAME,com.goseet.VidTrim #视频剪辑
-  - PROCESS-NAME,com.gotokeep.keep #Keep
+  - PROCESS-NAME,com.gotokeep.keep #Keep - AI 运动教练
   - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.gpslh.baidumap #物联在线
   - PROCESS-NAME,com.greenline.guahao #微医
@@ -622,7 +622,6 @@ payload:
   - PROCESS-NAME,com.hkx.youandme #情侣我和你
   - PROCESS-NAME,com.hlg.daydaytobusiness #稿定设计
   - PROCESS-NAME,com.hmkx.zgjkj #健康界
-  - PROCESS-NAME,com.hnzx.hnrb #河南日报
   - PROCESS-NAME,com.hoge.android.chinablue #中国蓝新闻
   - PROCESS-NAME,com.hoge.android.wuhan #掌上武汉
   - PROCESS-NAME,com.hoge.android.wuxiwireless #无锡博报
@@ -1343,7 +1342,7 @@ payload:
   - PROCESS-NAME,com.truckhome.bbs #卡车之家
   - PROCESS-NAME,com.truedian.dragon #微购相册
   - PROCESS-NAME,com.tsf.shell.widget.message #TSF 信息小部件
-  - PROCESS-NAME,com.tttci.tik #提词器
+  - PROCESS-NAME,com.tttci.tik #提客AI提词器
   - PROCESS-NAME,com.tudou.android #土豆
   - PROCESS-NAME,com.tujia.hotel #途家民宿
   - PROCESS-NAME,com.tuniu.app.ui #途牛旅游
@@ -1502,6 +1501,7 @@ payload:
   - PROCESS-NAME,com.yiche.price #易车汽车报价
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
   - PROCESS-NAME,com.yigequanquanqq.app #一个圈圈
+  - PROCESS-NAME,com.yigusjgh.daoshuri #一古倒计时
   - PROCESS-NAME,com.yingyonghui.market #应用汇
   - PROCESS-NAME,com.yinliang.simple_desktop #超极简桌面
   - PROCESS-NAME,com.yipiao #智行火车票
@@ -1602,7 +1602,6 @@ payload:
   - PROCESS-NAME,gov.pianzong.androidnga #NGA玩家社区
   - PROCESS-NAME,gyjf.alfdcyj.ooo #囧次元
   - PROCESS-NAME,gz.lifesense.weidong #乐心健康
-  - PROCESS-NAME,gzjm.nybz.kids #奶油桌面壁纸
   - PROCESS-NAME,gzry.mxbz.ihauh #魔秀桌面壁纸
   - PROCESS-NAME,hbyc.china.medical.view #壹生
   - PROCESS-NAME,hg.zp.ui #天眼新闻
