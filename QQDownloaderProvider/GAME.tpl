@@ -214,6 +214,7 @@ PROCESS-NAME,com.tencent.tmgp.bilibili.asharms,{{ rule }} # 灰烬战线
 PROCESS-NAME,com.tencent.tmgp.bilibili.bangdream,{{ rule }} # 梦想协奏曲！少女乐团派对！
 PROCESS-NAME,com.tencent.tmgp.bilibili.blhx,{{ rule }} # 碧蓝航线
 PROCESS-NAME,com.tencent.tmgp.bilibili.deadcells.mobile,{{ rule }} # 重生细胞
+PROCESS-NAME,com.tencent.tmgp.bilibili.excalibur,{{ rule }} # 依露希尔：星晓
 PROCESS-NAME,com.tencent.tmgp.bilibili.hunter3,{{ rule }} # 时空猎人3
 PROCESS-NAME,com.tencent.tmgp.bilibili.nslg,{{ rule }} # 三国：谋定天下
 PROCESS-NAME,com.tencent.tmgp.bilibili.overlord,{{ rule }} # 纳萨力克之王
@@ -363,7 +364,6 @@ PROCESS-NAME,com.tencent.tmgp.fxyx.mzc,{{ rule }} # 猫之城
 PROCESS-NAME,com.tencent.tmgp.fyd,{{ rule }} # 枫叶岛
 PROCESS-NAME,com.tencent.tmgp.fzdl,{{ rule }} # 风之大陆
 PROCESS-NAME,com.tencent.tmgp.fzgd.ssfh,{{ rule }} # 盛世芳华
-PROCESS-NAME,com.tencent.tmgp.fzyzh.yzx,{{ rule }} # 放置与召唤
 PROCESS-NAME,com.tencent.tmgp.g12000128,{{ rule }} # 航海王-启航
 PROCESS-NAME,com.tencent.tmgp.g13001230,{{ rule }} # 敢达决战
 PROCESS-NAME,com.tencent.tmgp.g13002010,{{ rule }} # 灌篮高手 正版授权手游

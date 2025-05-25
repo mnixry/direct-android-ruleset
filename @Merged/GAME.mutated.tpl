@@ -337,6 +337,7 @@ PROCESS-NAME,com.fdgentertainment.bananakong,{{ rule }} # 香蕉金刚
 PROCESS-NAME,com.fdgentertainment.paperama,{{ rule }} # 智慧折纸
 PROCESS-NAME,com.fds.infiniteflight,{{ rule }} # 无限试飞
 PROCESS-NAME,com.feelingtouch.strikeforce2,{{ rule }} # 特警：止战之殇
+PROCESS-NAME,com.feitian.JiChangApp,{{ rule }} # 天工机场
 PROCESS-NAME,com.fengeek.f002,{{ rule }} # fiil+
 PROCESS-NAME,com.fengguo.wpjz.yingyongbao,{{ rule }} # 王牌机战
 PROCESS-NAME,com.fengyun.qiqijww,{{ rule }} # 奇奇抓娃娃
@@ -1002,6 +1003,7 @@ PROCESS-NAME,com.tencent.tmgp.bilibili.asharms,{{ rule }} # 灰烬战线
 PROCESS-NAME,com.tencent.tmgp.bilibili.bangdream,{{ rule }} # 梦想协奏曲！少女乐团派对！
 PROCESS-NAME,com.tencent.tmgp.bilibili.blhx,{{ rule }} # 碧蓝航线
 PROCESS-NAME,com.tencent.tmgp.bilibili.deadcells.mobile,{{ rule }} # 重生细胞
+PROCESS-NAME,com.tencent.tmgp.bilibili.excalibur,{{ rule }} # 依露希尔：星晓
 PROCESS-NAME,com.tencent.tmgp.bilibili.hunter3,{{ rule }} # 时空猎人3
 PROCESS-NAME,com.tencent.tmgp.bilibili.nslg,{{ rule }} # 三国：谋定天下
 PROCESS-NAME,com.tencent.tmgp.bilibili.overlord,{{ rule }} # 纳萨力克之王
@@ -1151,7 +1153,6 @@ PROCESS-NAME,com.tencent.tmgp.fxyx.mzc,{{ rule }} # 猫之城
 PROCESS-NAME,com.tencent.tmgp.fyd,{{ rule }} # 枫叶岛
 PROCESS-NAME,com.tencent.tmgp.fzdl,{{ rule }} # 风之大陆
 PROCESS-NAME,com.tencent.tmgp.fzgd.ssfh,{{ rule }} # 盛世芳华
-PROCESS-NAME,com.tencent.tmgp.fzyzh.yzx,{{ rule }} # 放置与召唤
 PROCESS-NAME,com.tencent.tmgp.g12000128,{{ rule }} # 航海王-启航
 PROCESS-NAME,com.tencent.tmgp.g13001230,{{ rule }} # 敢达决战
 PROCESS-NAME,com.tencent.tmgp.g13002010,{{ rule }} # 灌篮高手 正版授权手游
@@ -1882,7 +1883,6 @@ PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yunbu.arcadepool.tencent,{{ rule }} # 街机台球大师游戏软件V1.0
 PROCESS-NAME,com.yunbu.bubbleelfsaga1,{{ rule }} # 泡泡精灵传奇
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
-PROCESS-NAME,com.yyyp.cn,{{ rule }} # 有游有品
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
 PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2

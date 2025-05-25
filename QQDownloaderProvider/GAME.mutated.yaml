@@ -214,6 +214,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.bilibili.bangdream #梦想协奏曲！少女乐团派对！
   - PROCESS-NAME,com.tencent.tmgp.bilibili.blhx #碧蓝航线
   - PROCESS-NAME,com.tencent.tmgp.bilibili.deadcells.mobile #重生细胞
+  - PROCESS-NAME,com.tencent.tmgp.bilibili.excalibur #依露希尔：星晓
   - PROCESS-NAME,com.tencent.tmgp.bilibili.hunter3 #时空猎人3
   - PROCESS-NAME,com.tencent.tmgp.bilibili.nslg #三国：谋定天下
   - PROCESS-NAME,com.tencent.tmgp.bilibili.overlord #纳萨力克之王
@@ -363,7 +364,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.fyd #枫叶岛
   - PROCESS-NAME,com.tencent.tmgp.fzdl #风之大陆
   - PROCESS-NAME,com.tencent.tmgp.fzgd.ssfh #盛世芳华
-  - PROCESS-NAME,com.tencent.tmgp.fzyzh.yzx #放置与召唤
   - PROCESS-NAME,com.tencent.tmgp.g12000128 #航海王-启航
   - PROCESS-NAME,com.tencent.tmgp.g13001230 #敢达决战
   - PROCESS-NAME,com.tencent.tmgp.g13002010 #灌篮高手 正版授权手游
