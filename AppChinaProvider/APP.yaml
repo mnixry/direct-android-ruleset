@@ -55,6 +55,7 @@ payload:
   - PROCESS-NAME,cn.fmsyjhgb #FM收音机广播
   - PROCESS-NAME,cn.ghac.gha #广汽本田
   - PROCESS-NAME,cn.gogocity.suibian #随便走
+  - PROCESS-NAME,cn.guancha.app #观察者网
   - PROCESS-NAME,cn.gzmovement #动静新闻
   - PROCESS-NAME,cn.ibabyzone.music #胎教盒子
   - PROCESS-NAME,cn.itheme.tech #手机主题
@@ -598,7 +599,6 @@ payload:
   - PROCESS-NAME,com.microsoft.emmx #Edge
   - PROCESS-NAME,com.microsoft.office.officehub #Microsoft 365 (Office)
   - PROCESS-NAME,com.microsoft.skydrive #OneDrive
-  - PROCESS-NAME,com.miercnnew.app #米尔军事
   - PROCESS-NAME,com.mimikko.mimikkoui #兽耳助手
   - PROCESS-NAME,com.minitools.miniwidget #心动主题壁纸
   - PROCESS-NAME,com.mishangwo #迷上我
