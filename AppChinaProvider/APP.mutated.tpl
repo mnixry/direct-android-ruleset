@@ -799,7 +799,7 @@ PROCESS-NAME,com.taou.maimai,{{ rule }} # 脉脉
 PROCESS-NAME,com.tdx.AndroidNew,{{ rule }} # 通达信
 PROCESS-NAME,com.telecom.video,{{ rule }} # 天翼超高清
 PROCESS-NAME,com.tencent.androidqqmail,{{ rule }} # QQ邮箱
-PROCESS-NAME,com.tencent.gallerymanager,{{ rule }} # 腾讯相册管家
+PROCESS-NAME,com.tencent.gallerymanager,{{ rule }} # 相册管家
 PROCESS-NAME,com.tencent.gamehelper.smoba,{{ rule }} # 王者营地
 PROCESS-NAME,com.tencent.map,{{ rule }} # 腾讯地图
 PROCESS-NAME,com.tencent.mm,{{ rule }} # 微信

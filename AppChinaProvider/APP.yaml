@@ -804,7 +804,7 @@ payload:
   - PROCESS-NAME,com.tdx.AndroidNew #通达信
   - PROCESS-NAME,com.telecom.video #天翼超高清
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
-  - PROCESS-NAME,com.tencent.gallerymanager #腾讯相册管家
+  - PROCESS-NAME,com.tencent.gallerymanager #相册管家
   - PROCESS-NAME,com.tencent.gamehelper.smoba #王者营地
   - PROCESS-NAME,com.tencent.map #腾讯地图
   - PROCESS-NAME,com.tencent.mm #微信
