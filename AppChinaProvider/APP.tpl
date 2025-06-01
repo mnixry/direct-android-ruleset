@@ -52,7 +52,6 @@ PROCESS-NAME,cn.edu.zjicm.wordsnet_d,{{ rule }} # 知米背单词
 PROCESS-NAME,cn.emagsoftware.gamehall,{{ rule }} # 咪咕快游
 PROCESS-NAME,cn.emoney.level2,{{ rule }} # 益盟操盘手经典版
 PROCESS-NAME,cn.etouch.ecalendar,{{ rule }} # 中华万年历
-PROCESS-NAME,cn.fmsyjhgb,{{ rule }} # FM收音机广播
 PROCESS-NAME,cn.ghac.gha,{{ rule }} # 广汽本田
 PROCESS-NAME,cn.gogocity.suibian,{{ rule }} # 随便走
 PROCESS-NAME,cn.guancha.app,{{ rule }} # 观察者网
@@ -643,7 +642,6 @@ PROCESS-NAME,com.netease.newsreader.activity,{{ rule }} # 网易新闻
 PROCESS-NAME,com.netease.pris,{{ rule }} # 网易云阅读
 PROCESS-NAME,com.netease.vopen,{{ rule }} # 网易公开课
 PROCESS-NAME,com.netease.xyqcbg,{{ rule }} # 梦幻藏宝阁
-PROCESS-NAME,com.new_qdqss.activity,{{ rule }} # 掌上青岛
 PROCESS-NAME,com.newstar.zybbname,{{ rule }} # 宝宝生辰起名取名
 PROCESS-NAME,com.nfdaily.nfplus,{{ rule }} # 南方Plus
 PROCESS-NAME,com.nice.main,{{ rule }} # nice

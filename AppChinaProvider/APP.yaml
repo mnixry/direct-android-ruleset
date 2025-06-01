@@ -52,7 +52,6 @@ payload:
   - PROCESS-NAME,cn.emagsoftware.gamehall #咪咕快游
   - PROCESS-NAME,cn.emoney.level2 #益盟操盘手经典版
   - PROCESS-NAME,cn.etouch.ecalendar #中华万年历
-  - PROCESS-NAME,cn.fmsyjhgb #FM收音机广播
   - PROCESS-NAME,cn.ghac.gha #广汽本田
   - PROCESS-NAME,cn.gogocity.suibian #随便走
   - PROCESS-NAME,cn.guancha.app #观察者网
@@ -643,7 +642,6 @@ payload:
   - PROCESS-NAME,com.netease.pris #网易云阅读
   - PROCESS-NAME,com.netease.vopen #网易公开课
   - PROCESS-NAME,com.netease.xyqcbg #梦幻藏宝阁
-  - PROCESS-NAME,com.new_qdqss.activity #掌上青岛
   - PROCESS-NAME,com.newstar.zybbname #宝宝生辰起名取名
   - PROCESS-NAME,com.nfdaily.nfplus #南方Plus
   - PROCESS-NAME,com.nice.main #nice
