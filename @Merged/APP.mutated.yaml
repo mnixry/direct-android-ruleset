@@ -111,7 +111,6 @@ payload:
   - PROCESS-NAME,cn.poco.jane #简拼
   - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
-  - PROCESS-NAME,cn.shengmimi.callshow #视频铃声
   - PROCESS-NAME,cn.shengmitech.intelllock #锁屏
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
@@ -1646,6 +1645,7 @@ payload:
   - PROCESS-NAME,net.ask123.mima96 #密码酷
   - PROCESS-NAME,net.bontec.wxqd.activity #爱青岛
   - PROCESS-NAME,net.cmoaciopm.sgsdict #三国杀大典
+  - PROCESS-NAME,net.hua.hua.a3dlivewallpaper #4D动态壁纸
   - PROCESS-NAME,net.joydao.radio #听听广播
   - PROCESS-NAME,net.joydao.spring2011 #祝福短信
   - PROCESS-NAME,net.kdnet.club #凯迪网

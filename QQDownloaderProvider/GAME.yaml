@@ -379,7 +379,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.galasports.totalfootball #最佳球会
   - PROCESS-NAME,com.tencent.tmgp.game.jianwuqk #剑舞乾坤
   - PROCESS-NAME,com.tencent.tmgp.gbits.atm #问道
-  - PROCESS-NAME,com.tencent.tmgp.gbyx #孤堡英雄
   - PROCESS-NAME,com.tencent.tmgp.gcsgzh5 #攻城三国志
   - PROCESS-NAME,com.tencent.tmgp.gg.jqrjdc #机器人角斗场
   - PROCESS-NAME,com.tencent.tmgp.gg.lostword #东方归言录
@@ -516,6 +515,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.madhero #暴走英雄坛
   - PROCESS-NAME,com.tencent.tmgp.majiangall #全番单机麻将
   - PROCESS-NAME,com.tencent.tmgp.manggo.xwdsh #向往的生活
+  - PROCESS-NAME,com.tencent.tmgp.maobu.gdzz2unity #最后的勇者
   - PROCESS-NAME,com.tencent.tmgp.maplem #冒险岛：枫之传说
   - PROCESS-NAME,com.tencent.tmgp.matrix #盲盒派对
   - PROCESS-NAME,com.tencent.tmgp.mds #真三国快打
@@ -544,7 +544,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mt2r #我叫MT2
   - PROCESS-NAME,com.tencent.tmgp.mt4 #我叫MT4
   - PROCESS-NAME,com.tencent.tmgp.mtlbb #天龙3D
-  - PROCESS-NAME,com.tencent.tmgp.mw5k #小小五千年
   - PROCESS-NAME,com.tencent.tmgp.mxdlmdyz #冒险岛：联盟的意志
   - PROCESS-NAME,com.tencent.tmgp.mxtyln #梦想桃源
   - PROCESS-NAME,com.tencent.tmgp.mxw3ol #冒险王3OL
@@ -748,7 +747,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tqfuzhoumajiang #福州麻将
   - PROCESS-NAME,com.tencent.tmgp.tqgouji #大眼够级
   - PROCESS-NAME,com.tencent.tmgp.tqguandan #大眼掼蛋
-  - PROCESS-NAME,com.tencent.tmgp.tqshengji #大眼升级
   - PROCESS-NAME,com.tencent.tmgp.tqshuangkou #大眼双扣
   - PROCESS-NAME,com.tencent.tmgp.tqwzfx #台球王者
   - PROCESS-NAME,com.tencent.tmgp.tqzhuojimajiang #大眼捉鸡麻将
@@ -790,6 +788,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wansuiye #叫我万岁爷
   - PROCESS-NAME,com.tencent.tmgp.warofempire #大帝国征服者
   - PROCESS-NAME,com.tencent.tmgp.wckj.zljz #逐鹿九州
+  - PROCESS-NAME,com.tencent.tmgp.wdmp #我的门派
   - PROCESS-NAME,com.tencent.tmgp.wdqy #我的起源
   - PROCESS-NAME,com.tencent.tmgp.wdsj666 #我的世界：移动版
   - PROCESS-NAME,com.tencent.tmgp.wdsm #我的使命
@@ -863,6 +862,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ydcsly #一刀传世
   - PROCESS-NAME,com.tencent.tmgp.ydxh.cnchess #象棋黄金版
   - PROCESS-NAME,com.tencent.tmgp.ydxh.superblock #俄罗斯方块大战
+  - PROCESS-NAME,com.tencent.tmgp.ygdhk #勇敢的哈克
   - PROCESS-NAME,com.tencent.tmgp.yhhoa #英魂之刃战略版
   - PROCESS-NAME,com.tencent.tmgp.yhzx #云海之下
   - PROCESS-NAME,com.tencent.tmgp.yhzz.huiyue #永恒征战
