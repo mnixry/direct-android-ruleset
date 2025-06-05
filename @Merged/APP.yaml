@@ -50,7 +50,6 @@ payload:
   - PROCESS-NAME,cn.com.spdb.mobilebank.per #浦发手机银行
   - PROCESS-NAME,cn.com.tx.chat.android #天下网
   - PROCESS-NAME,cn.com.tyfon.sun.xhrrac9 #泰丰艺术商城
-  - PROCESS-NAME,cn.com.wiisoft.contacts #灵动来电海报
   - PROCESS-NAME,cn.com.wiisoft.skin #灵动主题皮肤
   - PROCESS-NAME,cn.com.zjol #潮新闻
   - PROCESS-NAME,cn.dahebao #顶端新闻
@@ -210,6 +209,7 @@ payload:
   - PROCESS-NAME,com.appstarry.beauty.widget #小组件桌面美化
   - PROCESS-NAME,com.appsys.goodname #易经起名取名
   - PROCESS-NAME,com.apyxjypu.qyxn #夜色夜聊
+  - PROCESS-NAME,com.artifact.hypnosis #催眠神器
   - PROCESS-NAME,com.ataaw.tianyi #天翼生活
   - PROCESS-NAME,com.autohome.usedcar #二手车之家-看车选车买车卖车
   - PROCESS-NAME,com.autonavi.minimap #高德地图
@@ -332,7 +332,6 @@ payload:
   - PROCESS-NAME,com.chaozh.iReaderFree15 #爱读掌阅
   - PROCESS-NAME,com.chebada #巴士管家
   - PROCESS-NAME,com.chenai.eyes #夜间模式
-  - PROCESS-NAME,com.chenyang.wzzyy #文字转语音
   - PROCESS-NAME,com.chinaamc.MainActivityAMC #华夏基金管家
   - PROCESS-NAME,com.chinaamc.mfbh.amcActivity #华夏活期通
   - PROCESS-NAME,com.chinablue.tv #Z视介
@@ -501,6 +500,7 @@ payload:
   - PROCESS-NAME,com.fanlwgaoylmengw #返利高佣联盟
   - PROCESS-NAME,com.fbx.handwriteime #手写输入法
   - PROCESS-NAME,com.fc.management #文件编辑器
+  - PROCESS-NAME,com.fd.ptu #P图软件
   - PROCESS-NAME,com.feiteng.lieyou #猎游
   - PROCESS-NAME,com.felink.foregroundpaper #羞兔全局壁纸
   - PROCESS-NAME,com.fenbi.android.gaozhong #猿题库
@@ -832,7 +832,6 @@ payload:
   - PROCESS-NAME,com.larus.nova #豆包
   - PROCESS-NAME,com.lazymc.smstoemail #我的信
   - PROCESS-NAME,com.lcworld.haiwainet #海客新闻
-  - PROCESS-NAME,com.lcworld.oasismedical #泓华医疗
   - PROCESS-NAME,com.le123.ysdq #影视大全
   - PROCESS-NAME,com.lechuan.mdwz #米读极速版
   - PROCESS-NAME,com.lechuan.midunovel #米读小说

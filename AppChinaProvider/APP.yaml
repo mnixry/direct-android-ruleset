@@ -38,7 +38,6 @@ payload:
   - PROCESS-NAME,cn.com.sina.sports #新浪体育
   - PROCESS-NAME,cn.com.spdb.mobilebank.per #浦发银行
   - PROCESS-NAME,cn.com.tx.chat.android #天下网
-  - PROCESS-NAME,cn.com.wiisoft.contacts #灵动来电海报
   - PROCESS-NAME,cn.com.wiisoft.skin #灵动主题皮肤
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.damai #大麦
@@ -344,6 +343,7 @@ payload:
   - PROCESS-NAME,com.fanhuan #返还网
   - PROCESS-NAME,com.fanli.android.apps #返利
   - PROCESS-NAME,com.fbx.handwriteime #手写输入法
+  - PROCESS-NAME,com.fd.ptu #P图软件
   - PROCESS-NAME,com.feiteng.lieyou #猎游
   - PROCESS-NAME,com.felink.foregroundpaper #羞兔全局壁纸
   - PROCESS-NAME,com.fenbi.android.gaozhong #猿题库
