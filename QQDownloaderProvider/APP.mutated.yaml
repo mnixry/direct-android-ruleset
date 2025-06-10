@@ -657,7 +657,6 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.drinks #宝宝甜品店
   - PROCESS-NAME,com.sinyee.babybus.food #中华美食
   - PROCESS-NAME,com.sinyee.babybus.kindergarten #宝宝欢乐教室
-  - PROCESS-NAME,com.sinyee.babybus.number #宝宝玩数字
   - PROCESS-NAME,com.sinyee.babybus.recommendapp #宝宝巴士
   - PROCESS-NAME,com.sinyee.babybus.shopping #宝宝超市
   - PROCESS-NAME,com.sinyee.babybus.talk2kiki #宝宝巴士奇妙屋
@@ -951,6 +950,7 @@ payload:
   - PROCESS-NAME,comm.cchong.BloodAssistant #体检宝手机测血压视力心率
   - PROCESS-NAME,ctrip.android.view #携程旅行
   - PROCESS-NAME,fkg.client.side.activity #蜂狂购
+  - PROCESS-NAME,flipboard.cn #红板报
   - PROCESS-NAME,fm.qingting.qtradio #蜻蜓FM
   - PROCESS-NAME,gz.lifesense.weidong #乐心健康
   - PROCESS-NAME,hg.zp.ui #天眼新闻
