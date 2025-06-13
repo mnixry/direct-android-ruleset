@@ -363,7 +363,7 @@ payload:
   - PROCESS-NAME,com.galaxy.stock #中国银河证券
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
   - PROCESS-NAME,com.gamestar.pianoperfect #随身乐队
-  - PROCESS-NAME,com.ganji.android #赶集直招
+  - PROCESS-NAME,com.ganji.android #赶集招聘
   - PROCESS-NAME,com.gaoping.makewallpaper #动态壁纸制作
   - PROCESS-NAME,com.gator.mm #美女图集大全
   - PROCESS-NAME,com.gau.go.launcherex.theme.droidglass #玻璃主题包
@@ -560,7 +560,7 @@ payload:
   - PROCESS-NAME,com.ljmobile.zlj.rom.release #授权管理软件搬家
   - PROCESS-NAME,com.llspace.pupu #平行世界
   - PROCESS-NAME,com.lltskb.lltskb #路路通
-  - PROCESS-NAME,com.lofter.android #LOFTER
+  - PROCESS-NAME,com.lofter.android #网易LOFTER
   - PROCESS-NAME,com.lolaage.tbulu.tools #两步路户外助手
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸
   - PROCESS-NAME,com.lqh.love.comic #爱动漫壁纸
@@ -580,7 +580,7 @@ payload:
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
-  - PROCESS-NAME,com.meitu.wink #Meitu Wink
+  - PROCESS-NAME,com.meitu.wink #Wink
   - PROCESS-NAME,com.meixun.wnpet #蜗牛桌宠
   - PROCESS-NAME,com.meizu.flyme.find #查找手机
   - PROCESS-NAME,com.melot.meshow #KK
@@ -880,7 +880,7 @@ payload:
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
-  - PROCESS-NAME,com.xdf.recite #新东方乐词背单词
+  - PROCESS-NAME,com.xdf.recite #新东方乐词
   - PROCESS-NAME,com.xdtech.news.greatriver #江西新闻
   - PROCESS-NAME,com.xfplay.play #影音先锋
   - PROCESS-NAME,com.xhey.xcamera #今日水印相机

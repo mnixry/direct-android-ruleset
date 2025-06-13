@@ -538,7 +538,7 @@ payload:
   - PROCESS-NAME,com.gameabc.zhanqiAndroid #战旗直播
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
   - PROCESS-NAME,com.gamestar.pianoperfect #随身乐队
-  - PROCESS-NAME,com.ganji.android #赶集直招
+  - PROCESS-NAME,com.ganji.android #赶集招聘
   - PROCESS-NAME,com.ganji.android.haoche_c #瓜子二手车
   - PROCESS-NAME,com.gaoping.makewallpaper #动态壁纸制作
   - PROCESS-NAME,com.gaotu100.superclass #高途
@@ -785,6 +785,7 @@ payload:
   - PROCESS-NAME,com.jx.safebrowser #安全浏览器
   - PROCESS-NAME,com.jxedt #驾校一点通
   - PROCESS-NAME,com.jy.recorder #录屏精灵
+  - PROCESS-NAME,com.jyyx.fuli #九妖游戏
   - PROCESS-NAME,com.jzyd.coupon #省钱快报
   - PROCESS-NAME,com.jzzs.ParentsHelper #安全教育平台
   - PROCESS-NAME,com.kangluoer.tomato #知富美聊
@@ -902,7 +903,7 @@ payload:
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-AI换装
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
-  - PROCESS-NAME,com.meitu.wink #Meitu Wink
+  - PROCESS-NAME,com.meitu.wink #Wink
   - PROCESS-NAME,com.meixun.wnpet #蜗牛桌宠
   - PROCESS-NAME,com.meizu.flyme.find #查找手机
   - PROCESS-NAME,com.melot.meshow #KK
@@ -950,6 +951,7 @@ payload:
   - PROCESS-NAME,com.mxr.dreambook #4D书城
   - PROCESS-NAME,com.mxtech.videoplayer.ad #MX 播放器
   - PROCESS-NAME,com.my.browserplus #浏览器加
+  - PROCESS-NAME,com.mybank.android.phone #网商银行
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
   - PROCESS-NAME,com.mygolbs.mybuswz #我看行
   - PROCESS-NAME,com.mymoney #随手记
@@ -1120,7 +1122,6 @@ payload:
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
   - PROCESS-NAME,com.shenghuoquan #生活圈
   - PROCESS-NAME,com.shengqianyxlmw #省钱优选联盟
-  - PROCESS-NAME,com.shensu.jmb #金苗宝
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
   - PROCESS-NAME,com.shfy.voice #和平游戏变声器
   - PROCESS-NAME,com.shinyv.cnr #云听
@@ -1231,7 +1232,6 @@ payload:
   - PROCESS-NAME,com.sunying.booster #光影
   - PROCESS-NAME,com.sup.android.superb #皮皮虾
   - PROCESS-NAME,com.superlib #超星移动图书馆
-  - PROCESS-NAME,com.suteng.zzss480 #趣拿
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
@@ -1424,7 +1424,7 @@ payload:
   - PROCESS-NAME,com.wudaokou.hippo #盒马
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xcsc.tdxapp #湘财证券
-  - PROCESS-NAME,com.xdf.recite #新东方乐词背单词
+  - PROCESS-NAME,com.xdf.recite #新东方乐词
   - PROCESS-NAME,com.xdtech.news.greatriver #江西新闻
   - PROCESS-NAME,com.xfplay.play #影音先锋
   - PROCESS-NAME,com.xhey.xcamera #今日水印相机
@@ -1564,7 +1564,6 @@ payload:
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
   - PROCESS-NAME,com.zhihu.daily.android #知乎日报
-  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.zhongdianhuike.app #众点惠客
   - PROCESS-NAME,com.zhubajie.client #猪八戒
