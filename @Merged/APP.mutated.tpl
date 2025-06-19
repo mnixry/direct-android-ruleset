@@ -369,6 +369,7 @@ PROCESS-NAME,com.codoon.gps,{{ rule }} # 咕咚
 PROCESS-NAME,com.color.by.coloring.wallpaper.android,{{ rule }} # 涂个壁纸
 PROCESS-NAME,com.comic.manhuatai,{{ rule }} # 漫画台
 PROCESS-NAME,com.cooby.news,{{ rule }} # 华人头条
+PROCESS-NAME,com.cooker.food,{{ rule }} # 美食
 PROCESS-NAME,com.cpic.sxbxxe,{{ rule }} # 太平洋保险
 PROCESS-NAME,com.creditwealth.client,{{ rule }} # 宜优选
 PROCESS-NAME,com.crv.wanjia,{{ rule }} # 华润万家
@@ -1297,7 +1298,6 @@ PROCESS-NAME,com.tencent.token,{{ rule }} # QQ安全中心
 PROCESS-NAME,com.tencent.transfer,{{ rule }} # 换机助手
 PROCESS-NAME,com.tencent.ttpic,{{ rule }} # 天天P图
 PROCESS-NAME,com.tencent.weishi,{{ rule }} # 腾讯微视
-PROCESS-NAME,com.tencent.wemeet.app,{{ rule }} # 腾讯会议
 PROCESS-NAME,com.tencent.weread,{{ rule }} # 微信读书
 PROCESS-NAME,com.tencent.wework,{{ rule }} # 企业微信
 PROCESS-NAME,com.tencent.zebra,{{ rule }} # 水印相机
