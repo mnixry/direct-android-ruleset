@@ -274,7 +274,7 @@ payload:
   - PROCESS-NAME,com.dangdang.reader #当当云阅读
   - PROCESS-NAME,com.danielstudio.app.wowtu #煎蛋
   - PROCESS-NAME,com.daofeng.zuhaowan #租号玩
-  - PROCESS-NAME,com.daqo.wallpaper #酷划壁纸大全
+  - PROCESS-NAME,com.daqo.wallpaper #多多壁纸铃声
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
   - PROCESS-NAME,com.ddsm.didu #Didu
   - PROCESS-NAME,com.ddwallpaperang.wallpaper #图图乐
@@ -610,7 +610,6 @@ payload:
   - PROCESS-NAME,com.msg.schedule #定时信息
   - PROCESS-NAME,com.mt.mtxx.mtxx #美图秀秀
   - PROCESS-NAME,com.mtime #时光网
-  - PROCESS-NAME,com.mx.browser #傲游浏览器
   - PROCESS-NAME,com.mxr.dreambook #4D书城
   - PROCESS-NAME,com.mxtech.videoplayer.ad #MX 播放器
   - PROCESS-NAME,com.my.browserplus #浏览器加
