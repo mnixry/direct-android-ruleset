@@ -953,7 +953,7 @@ PROCESS-NAME,com.ziipin.homeinn,{{ rule }} # 首旅如家
 PROCESS-NAME,com.zl.fqbao,{{ rule }} # 招联金融
 PROCESS-NAME,com.zmlearn.course.am,{{ rule }} # 掌门1对1辅导
 PROCESS-NAME,com.zsyj.wallpaper,{{ rule }} # 动态壁纸
-PROCESS-NAME,com.zuoyebang.airclass,{{ rule }} # 作业帮直播课
+PROCESS-NAME,com.zuoyebang.airclass,{{ rule }} # 一课
 PROCESS-NAME,com.zxscnew,{{ rule }} # 中信证券
 PROCESS-NAME,com.zybang.parent,{{ rule }} # 作业帮口算
 PROCESS-NAME,com.zyhd.voice,{{ rule }} # 语音包变声器

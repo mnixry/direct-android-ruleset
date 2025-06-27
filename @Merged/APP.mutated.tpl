@@ -1576,7 +1576,7 @@ PROCESS-NAME,com.zol.android,{{ rule }} # 中关村在线
 PROCESS-NAME,com.zongheng.reader,{{ rule }} # 纵横小说
 PROCESS-NAME,com.zsyj.trans,{{ rule }} # 全局透明壁纸
 PROCESS-NAME,com.zsyj.wallpaper,{{ rule }} # 动态壁纸
-PROCESS-NAME,com.zuoyebang.airclass,{{ rule }} # 作业帮直播课
+PROCESS-NAME,com.zuoyebang.airclass,{{ rule }} # 一课
 PROCESS-NAME,com.zxscnew,{{ rule }} # 中信证券
 PROCESS-NAME,com.zy.photo,{{ rule }} # 半糖
 PROCESS-NAME,com.zybang.parent,{{ rule }} # 作业帮口算

@@ -942,7 +942,7 @@ payload:
   - PROCESS-NAME,com.zl.fqbao #招联金融
   - PROCESS-NAME,com.zmlearn.course.am #掌门1对1辅导
   - PROCESS-NAME,com.zsyj.wallpaper #动态壁纸
-  - PROCESS-NAME,com.zuoyebang.airclass #作业帮直播课
+  - PROCESS-NAME,com.zuoyebang.airclass #一课
   - PROCESS-NAME,com.zxscnew #中信证券
   - PROCESS-NAME,com.zybang.parent #作业帮口算
   - PROCESS-NAME,com.zyhd.voice #语音包变声器
