@@ -110,7 +110,6 @@ payload:
   - PROCESS-NAME,cn.poco.jane #简拼
   - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
-  - PROCESS-NAME,cn.shengmimi.callshow #视频铃声
   - PROCESS-NAME,cn.shengmitech.intelllock #锁屏
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
@@ -846,6 +845,7 @@ payload:
   - PROCESS-NAME,com.letv.letvshop #乐视商城
   - PROCESS-NAME,com.lezhi.mythcall #北瓜电话
   - PROCESS-NAME,com.lft.turn #导学号
+  - PROCESS-NAME,com.lhzzbl.dmbzdq #动漫壁纸
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
   - PROCESS-NAME,com.lianjia.beike #贝壳找房
   - PROCESS-NAME,com.liba.android #篱笆社区
