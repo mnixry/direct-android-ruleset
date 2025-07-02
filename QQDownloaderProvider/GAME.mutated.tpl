@@ -186,7 +186,6 @@ PROCESS-NAME,com.tencent.tmaoe,{{ rule }} # 重返帝国
 PROCESS-NAME,com.tencent.tmgp.aceracer,{{ rule }} # 王牌竞速
 PROCESS-NAME,com.tencent.tmgp.afshqz,{{ rule }} # 水浒Q传手游
 PROCESS-NAME,com.tencent.tmgp.ahlhsyjy,{{ rule }} # 神域纪元
-PROCESS-NAME,com.tencent.tmgp.ahlhzmsl,{{ rule }} # 织梦森林
 PROCESS-NAME,com.tencent.tmgp.ahzc.shengdu,{{ rule }} # 暗黑之城
 PROCESS-NAME,com.tencent.tmgp.aligames.kybc,{{ rule }} # 狂野飙车9：竞速传奇
 PROCESS-NAME,com.tencent.tmgp.aligames.sgzhxdl,{{ rule }} # 三国志幻想大陆
@@ -556,6 +555,7 @@ PROCESS-NAME,com.tencent.tmgp.mtlbb,{{ rule }} # 天龙3D
 PROCESS-NAME,com.tencent.tmgp.mxdlmdyz,{{ rule }} # 冒险岛：联盟的意志
 PROCESS-NAME,com.tencent.tmgp.mxtyln,{{ rule }} # 梦想桃源
 PROCESS-NAME,com.tencent.tmgp.mxxfd,{{ rule }} # 冒险小分队
+PROCESS-NAME,com.tencent.tmgp.my.yyb,{{ rule }} # 魔域口袋版
 PROCESS-NAME,com.tencent.tmgp.myhero,{{ rule }} # 我的勇者
 PROCESS-NAME,com.tencent.tmgp.myrzx.meizu,{{ rule }} # 牧羊人之心
 PROCESS-NAME,com.tencent.tmgp.myshzg,{{ rule }} # 云上城之歌
@@ -924,7 +924,6 @@ PROCESS-NAME,com.tencent.tmgp.zdsd.emmj,{{ rule }} # 恶魔秘境
 PROCESS-NAME,com.tencent.tmgp.zggames.cxmft,{{ rule }} # 创想魔法团
 PROCESS-NAME,com.tencent.tmgp.zgjjhd,{{ rule }} # 最高警戒
 PROCESS-NAME,com.tencent.tmgp.zhanjian2,{{ rule }} # 战舰少女
-PROCESS-NAME,com.tencent.tmgp.zhanlangii.flychessadventure,{{ rule }} # 飞行棋大冒险
 PROCESS-NAME,com.tencent.tmgp.zhanlangii.wuziqi,{{ rule }} # 五子棋对战
 PROCESS-NAME,com.tencent.tmgp.zhanlangii.xqdz,{{ rule }} # 象棋对战
 PROCESS-NAME,com.tencent.tmgp.zhaohe2,{{ rule }} # 召唤与合成2

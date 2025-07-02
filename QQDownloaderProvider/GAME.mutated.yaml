@@ -186,7 +186,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.aceracer #王牌竞速
   - PROCESS-NAME,com.tencent.tmgp.afshqz #水浒Q传手游
   - PROCESS-NAME,com.tencent.tmgp.ahlhsyjy #神域纪元
-  - PROCESS-NAME,com.tencent.tmgp.ahlhzmsl #织梦森林
   - PROCESS-NAME,com.tencent.tmgp.ahzc.shengdu #暗黑之城
   - PROCESS-NAME,com.tencent.tmgp.aligames.kybc #狂野飙车9：竞速传奇
   - PROCESS-NAME,com.tencent.tmgp.aligames.sgzhxdl #三国志幻想大陆
@@ -556,6 +555,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mxdlmdyz #冒险岛：联盟的意志
   - PROCESS-NAME,com.tencent.tmgp.mxtyln #梦想桃源
   - PROCESS-NAME,com.tencent.tmgp.mxxfd #冒险小分队
+  - PROCESS-NAME,com.tencent.tmgp.my.yyb #魔域口袋版
   - PROCESS-NAME,com.tencent.tmgp.myhero #我的勇者
   - PROCESS-NAME,com.tencent.tmgp.myrzx.meizu #牧羊人之心
   - PROCESS-NAME,com.tencent.tmgp.myshzg #云上城之歌
@@ -924,7 +924,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.zggames.cxmft #创想魔法团
   - PROCESS-NAME,com.tencent.tmgp.zgjjhd #最高警戒
   - PROCESS-NAME,com.tencent.tmgp.zhanjian2 #战舰少女
-  - PROCESS-NAME,com.tencent.tmgp.zhanlangii.flychessadventure #飞行棋大冒险
   - PROCESS-NAME,com.tencent.tmgp.zhanlangii.wuziqi #五子棋对战
   - PROCESS-NAME,com.tencent.tmgp.zhanlangii.xqdz #象棋对战
   - PROCESS-NAME,com.tencent.tmgp.zhaohe2 #召唤与合成2
