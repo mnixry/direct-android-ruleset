@@ -894,6 +894,7 @@ payload:
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meet.pianolearn #钢琴教练
   - PROCESS-NAME,com.meetstudio.app.Zither #魔幻古筝
+  - PROCESS-NAME,com.meichu.food.release #烘培厨房
   - PROCESS-NAME,com.meitu.makeup #美妆相机
   - PROCESS-NAME,com.meitu.meipaimv #美拍
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-AI换装
@@ -1325,7 +1326,7 @@ payload:
   - PROCESS-NAME,com.tonghuashun.stocktrade.gtjaqh #国泰君安掌上期货
   - PROCESS-NAME,com.tongzhuo.tongzhuogame #同桌派对
   - PROCESS-NAME,com.topgether.sixfoot #六只脚
-  - PROCESS-NAME,com.touchtv.touchtv #触电新闻
+  - PROCESS-NAME,com.touchtv.touchtv #粤TV
   - PROCESS-NAME,com.towords #拓词
   - PROCESS-NAME,com.traffic.handtrafficbible #四川电信
   - PROCESS-NAME,com.translate.english #英语翻译君
@@ -1563,7 +1564,6 @@ payload:
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
   - PROCESS-NAME,com.zhihu.daily.android #知乎日报
-  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.zhongdianhuike.app #众点惠客
   - PROCESS-NAME,com.zhubajie.client #猪八戒
