@@ -902,7 +902,6 @@ PROCESS-NAME,com.xinhang.mobileclient,{{ rule }} # 中国移动河南
 PROCESS-NAME,com.xinli.fm,{{ rule }} # 心理Fm
 PROCESS-NAME,com.xinshuru.inputmethod,{{ rule }} # 手心输入法
 PROCESS-NAME,com.xinyu210.enchdictionary,{{ rule }} # 英汉词典
-PROCESS-NAME,com.xnbzxbk,{{ rule }} # 宣宝仙女壁纸
 PROCESS-NAME,com.xs.fm,{{ rule }} # 番茄畅听
 PROCESS-NAME,com.xt.retouch,{{ rule }} # 醒图
 PROCESS-NAME,com.xtuone.android.syllabus,{{ rule }} # 超级课程表
