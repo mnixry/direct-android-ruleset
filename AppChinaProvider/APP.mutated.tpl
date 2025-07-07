@@ -606,7 +606,6 @@ PROCESS-NAME,com.mt.mtxx.mtxx,{{ rule }} # 美图秀秀
 PROCESS-NAME,com.mtime,{{ rule }} # 时光网
 PROCESS-NAME,com.music.qishui,{{ rule }} # 汽水铃声
 PROCESS-NAME,com.mxr.dreambook,{{ rule }} # 4D书城
-PROCESS-NAME,com.mxtech.videoplayer.ad,{{ rule }} # MX 播放器
 PROCESS-NAME,com.my.browserplus,{{ rule }} # 浏览器加
 PROCESS-NAME,com.mygolbs.mybus,{{ rule }} # 掌上公交
 PROCESS-NAME,com.mygolbs.mybuswz,{{ rule }} # 我看行
