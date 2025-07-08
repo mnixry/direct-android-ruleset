@@ -188,7 +188,6 @@ payload:
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
   - PROCESS-NAME,com.appcina.anpai.2019080818 #克拉壁纸
-  - PROCESS-NAME,com.appcina.anpai.2019090601 #壁纸制作:Livfe - 动态壁纸制作&视频壁纸
   - PROCESS-NAME,com.appcina.anpai.2019092705 #星座运势-十二星座每日运势小组件
   - PROCESS-NAME,com.appcina.anpai.2019092902 #落格输入法
   - PROCESS-NAME,com.appcina.anpai.2019112101 #Artpaper：有 1,300 多张艺术画壁纸可每日更换
@@ -486,6 +485,7 @@ payload:
   - PROCESS-NAME,com.excelliance.dualaid #双开助手微分身版
   - PROCESS-NAME,com.ezen.ehshig #egshig
   - PROCESS-NAME,com.ezg.camper #约你游
+  - PROCESS-NAME,com.facetech.konfast #轻音社极速版
   - PROCESS-NAME,com.faloo.BookReader4Android #飞卢小说
   - PROCESS-NAME,com.fangdai.fdjsq #房贷计算器
   - PROCESS-NAME,com.fanghe.makepaper #桌面时钟锁屏
@@ -591,7 +591,7 @@ payload:
   - PROCESS-NAME,com.happylife.multimedia.image #相片集
   - PROCESS-NAME,com.happyteam.dubbingshow #配音秀
   - PROCESS-NAME,com.hazq.huiying.android #华安证券
-  - PROCESS-NAME,com.hcc.app #捷信金融
+  - PROCESS-NAME,com.hcc.app #京东消费金融
   - PROCESS-NAME,com.hcyh.scanner #扫描仪全能王
   - PROCESS-NAME,com.heiyan.reader #黑岩阅读
   - PROCESS-NAME,com.hellotalk #HelloTalk
@@ -1047,6 +1047,7 @@ payload:
   - PROCESS-NAME,com.qihoo360.mobilesafe #360手机卫士
   - PROCESS-NAME,com.qihuo.changjiang #长江期货开户交易
   - PROCESS-NAME,com.qihuo.yinhe #银河期货开户交易
+  - PROCESS-NAME,com.qiku.os.show #欧思奇主题
   - PROCESS-NAME,com.qilesoft.en.eights #英语口语8000句
   - PROCESS-NAME,com.qima.kdt #有赞微商城
   - PROCESS-NAME,com.qinhe.ispeak #IS语音
@@ -1059,7 +1060,7 @@ payload:
   - PROCESS-NAME,com.qiyi.video.reader #爱奇艺小说
   - PROCESS-NAME,com.qlscupgrade #中泰齐富通
   - PROCESS-NAME,com.qq.ac.android #腾讯动漫
-  - PROCESS-NAME,com.qq.qcloud #微云
+  - PROCESS-NAME,com.qq.qcloud #腾讯微云
   - PROCESS-NAME,com.qq.reader #QQ阅读
   - PROCESS-NAME,com.qsmy.walkmonkey #步多多
   - PROCESS-NAME,com.qtx.qtxty #球天下体育
@@ -1374,7 +1375,6 @@ payload:
   - PROCESS-NAME,com.vivo.easyshare #互传
   - PROCESS-NAME,com.vivo.space #vivo 官网
   - PROCESS-NAME,com.voibook.voicebook #音书
-  - PROCESS-NAME,com.wa.wallpaperon #手机主题多多
   - PROCESS-NAME,com.wacai365 #挖财记账
   - PROCESS-NAME,com.wakeup.howear #Wearfit Pro
   - PROCESS-NAME,com.wakeyoga.wakeyoga #Wake瑜伽
@@ -1512,7 +1512,7 @@ payload:
   - PROCESS-NAME,com.ylmf.androidclient #115生活
   - PROCESS-NAME,com.ymatou.seller #洋码头扫货神器买手版
   - PROCESS-NAME,com.ymatou.shop #洋码头
-  - PROCESS-NAME,com.yoho #YohoBuy有货
+  - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youba.barcode #二维码扫描

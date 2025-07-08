@@ -314,7 +314,7 @@ payload:
   - PROCESS-NAME,com.haodf.android #好大夫在线
   - PROCESS-NAME,com.happyteam.dubbingshow #配音秀
   - PROCESS-NAME,com.hazq.huiying.android #华安证券
-  - PROCESS-NAME,com.hcc.app #捷信金融
+  - PROCESS-NAME,com.hcc.app #京东消费金融
   - PROCESS-NAME,com.hcyh.scanner #扫描仪全能王
   - PROCESS-NAME,com.helplove.shbf #社会扶贫
   - PROCESS-NAME,com.hexin.plat.android #同花顺
@@ -601,7 +601,7 @@ payload:
   - PROCESS-NAME,com.qiyi.video.reader #爱奇艺小说
   - PROCESS-NAME,com.qlscupgrade #中泰齐富通
   - PROCESS-NAME,com.qq.ac.android #腾讯动漫
-  - PROCESS-NAME,com.qq.qcloud #微云
+  - PROCESS-NAME,com.qq.qcloud #腾讯微云
   - PROCESS-NAME,com.qq.reader #QQ阅读
   - PROCESS-NAME,com.qsmy.walkmonkey #步多多
   - PROCESS-NAME,com.qtx.qtxty #球天下体育
@@ -913,7 +913,7 @@ payload:
   - PROCESS-NAME,com.yixia.videoeditor #秒拍
   - PROCESS-NAME,com.yiyou.ga #TT语音
   - PROCESS-NAME,com.yjs.android #应届生求职
-  - PROCESS-NAME,com.yoho #YohoBuy有货
+  - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youcheyihou.iyourautobee #车小蜂

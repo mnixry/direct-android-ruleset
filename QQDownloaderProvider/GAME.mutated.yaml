@@ -71,7 +71,7 @@ payload:
   - PROCESS-NAME,com.martian.RoomEscape18.tx #密室逃脱18移动迷城
   - PROCESS-NAME,com.martian.RoomEscape22.tx #密室逃脱22海上惊魂
   - PROCESS-NAME,com.martian.RoomEscape24.tx #密室逃脱24末日危机
-  - PROCESS-NAME,com.md.fhl #诗词飞花令
+  - PROCESS-NAME,com.md.fhl #古诗词飞花令
   - PROCESS-NAME,com.mfp.jelly.yingyongbao #宾果消消消
   - PROCESS-NAME,com.miHoYo.hkrpg #崩坏：星穹铁道
   - PROCESS-NAME,com.miHoYo.HSoDv22144.tencent #崩坏学园2
@@ -278,7 +278,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.com.mtmc.game.tiaoqi #聚吧跳棋
   - PROCESS-NAME,com.tencent.tmgp.com.outfit7.talkingtomgoldrun #汤姆猫跑酷
   - PROCESS-NAME,com.tencent.tmgp.com.sdgs.yyb #商道高手
-  - PROCESS-NAME,com.tencent.tmgp.com.tencent.cjtqds.onem #超级台球大师
   - PROCESS-NAME,com.tencent.tmgp.com.tencent.tmgp.bog2 #古魂
   - PROCESS-NAME,com.tencent.tmgp.com.tencent.tmgp.jsqq.alsp #爱琳诗篇
   - PROCESS-NAME,com.tencent.tmgp.com.tencent.tmgp.yunbu.pool3 #台球风云游戏软件 V1.0.0
@@ -469,6 +468,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.jwt.zqb #劲舞时代
   - PROCESS-NAME,com.tencent.tmgp.jx3m #剑网3指尖江湖
   - PROCESS-NAME,com.tencent.tmgp.jxqy #新剑侠情缘
+  - PROCESS-NAME,com.tencent.tmgp.jywwsg #无畏三国
   - PROCESS-NAME,com.tencent.tmgp.jzlj #矩阵临界：失控边缘
   - PROCESS-NAME,com.tencent.tmgp.kaayou.daye #大冶打拱
   - PROCESS-NAME,com.tencent.tmgp.kaopu.jzpaj #决战！平安京
@@ -772,7 +772,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.twltcqly #龙腾传奇
   - PROCESS-NAME,com.tencent.tmgp.twrxhjly #热血合击
   - PROCESS-NAME,com.tencent.tmgp.twyscq #原始传奇
-  - PROCESS-NAME,com.tencent.tmgp.twzmwsly #斩魔无双
   - PROCESS-NAME,com.tencent.tmgp.twzzjhly #自在江湖
   - PROCESS-NAME,com.tencent.tmgp.tx #天下
   - PROCESS-NAME,com.tencent.tmgp.txsgsj #三国世界
