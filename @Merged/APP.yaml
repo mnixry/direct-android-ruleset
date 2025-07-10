@@ -188,7 +188,6 @@ payload:
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
   - PROCESS-NAME,com.appcina.anpai.2019080818 #克拉壁纸
-  - PROCESS-NAME,com.appcina.anpai.2019090601 #壁纸制作:Livfe - 动态壁纸制作&视频壁纸
   - PROCESS-NAME,com.appcina.anpai.2019092705 #星座运势-十二星座每日运势小组件
   - PROCESS-NAME,com.appcina.anpai.2019092902 #落格输入法
   - PROCESS-NAME,com.appcina.anpai.2019112101 #Artpaper：有 1,300 多张艺术画壁纸可每日更换
@@ -1067,6 +1066,7 @@ payload:
   - PROCESS-NAME,com.quanleimu.activity #百姓网
   - PROCESS-NAME,com.quanmai.findu #饭友
   - PROCESS-NAME,com.quark.browser #夸克
+  - PROCESS-NAME,com.quartet.piano #弹弹钢琴
   - PROCESS-NAME,com.Qunar #去哪儿旅行
   - PROCESS-NAME,com.quvideo.slideplus #小影记
   - PROCESS-NAME,com.quvideo.xiaoying #小影
@@ -1090,6 +1090,7 @@ payload:
   - PROCESS-NAME,com.sand.airdroid #AirDroid
   - PROCESS-NAME,com.sangdh #3G网络电话
   - PROCESS-NAME,com.sankuai.meituan #美团
+  - PROCESS-NAME,com.sankuai.meituan.dispatch.crowdsource #美团众包
   - PROCESS-NAME,com.sankuai.meituan.meituanwaimaibusiness #美团外卖商家版
   - PROCESS-NAME,com.sankuai.meituan.merchant #美团开店宝
   - PROCESS-NAME,com.sankuai.meituan.takeoutnew #美团外卖
@@ -1564,7 +1565,6 @@ payload:
   - PROCESS-NAME,com.zhichan.msmds #买什么都省
   - PROCESS-NAME,com.zhihu.android #知乎
   - PROCESS-NAME,com.zhihu.daily.android #知乎日报
-  - PROCESS-NAME,com.zhinengremote.mohan #空调智能遥控器+
   - PROCESS-NAME,com.zhiyaolai.playschool #锦鲤宇宙
   - PROCESS-NAME,com.zhongdianhuike.app #众点惠客
   - PROCESS-NAME,com.zhubajie.client #猪八戒
