@@ -102,7 +102,7 @@ payload:
   - PROCESS-NAME,cn.mucang.android.qichetoutiao #车友头条
   - PROCESS-NAME,cn.mucang.drunkremind.android #小猪二手车
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
-  - PROCESS-NAME,cn.nanjingshuoyu.iclock #一键锁屏iclock主题
+  - PROCESS-NAME,cn.nanjingshuoyu.iclock #一键锁屏
   - PROCESS-NAME,cn.net.iwave.zoo #元气开开
   - PROCESS-NAME,cn.ninegame.gamemanager #九游
   - PROCESS-NAME,cn.okek.chexingwuyou #车行无忧
