@@ -1032,7 +1032,6 @@ PROCESS-NAME,com.qclianai.com,{{ rule }} # 全城恋爱
 PROCESS-NAME,com.qdnews.qd,{{ rule }} # 青岛新闻
 PROCESS-NAME,com.qdruotu.app,{{ rule }} # 若途旅行
 PROCESS-NAME,com.qfmwwjq.ycsswdt,{{ rule }} # 免费歌曲大全
-PROCESS-NAME,com.qiaola.desktop,{{ rule }} # 动态壁纸精灵
 PROCESS-NAME,com.qidian.QDReader,{{ rule }} # 起点读书
 PROCESS-NAME,com.qihoo.appstore,{{ rule }} # 360手机助手
 PROCESS-NAME,com.qihoo.browser,{{ rule }} # 360浏览器
@@ -1699,6 +1698,7 @@ PROCESS-NAME,wshifu.app.android,{{ rule }} # 万师傅企业版
 PROCESS-NAME,yiqi.bazi,{{ rule }} # 易奇文化
 PROCESS-NAME,ysykzheng.hotlauncher,{{ rule }} # 热门启动器
 PROCESS-NAME,yyc.xk,{{ rule }} # 星空视频壁纸
+PROCESS-NAME,zhuomian.com.bizhi.fhsdj,{{ rule }} # 桌面壁纸
 PROCESS-NAME,zuo.sai.che,{{ rule }} # 全民跑车
 PROCESS-NAME,zzll.cn.com.trader,{{ rule }} # 彼彼省家
 {% endmacro %}

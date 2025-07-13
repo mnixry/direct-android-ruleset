@@ -661,7 +661,6 @@ payload:
   - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qfmwwjq.ycsswdt #免费歌曲大全
-  - PROCESS-NAME,com.qiaola.desktop #动态壁纸精灵
   - PROCESS-NAME,com.qidian.QDReader #起点读书
   - PROCESS-NAME,com.qihoo.browser #360浏览器
   - PROCESS-NAME,com.qihoo.camera #360摄像机
@@ -1057,6 +1056,7 @@ payload:
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
+  - PROCESS-NAME,zhuomian.com.bizhi.fhsdj #桌面壁纸
   - PROCESS-NAME,zuo.sai.che #全民跑车
   - PROCESS-NAME,com.alicom.smartdial
   - PROCESS-NAME,com.bilibili.app.in

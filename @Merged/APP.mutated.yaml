@@ -1032,7 +1032,6 @@ payload:
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qdruotu.app #若途旅行
   - PROCESS-NAME,com.qfmwwjq.ycsswdt #免费歌曲大全
-  - PROCESS-NAME,com.qiaola.desktop #动态壁纸精灵
   - PROCESS-NAME,com.qidian.QDReader #起点读书
   - PROCESS-NAME,com.qihoo.appstore #360手机助手
   - PROCESS-NAME,com.qihoo.browser #360浏览器
@@ -1699,6 +1698,7 @@ payload:
   - PROCESS-NAME,yiqi.bazi #易奇文化
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
+  - PROCESS-NAME,zhuomian.com.bizhi.fhsdj #桌面壁纸
   - PROCESS-NAME,zuo.sai.che #全民跑车
   - PROCESS-NAME,zzll.cn.com.trader #彼彼省家
   - PROCESS-NAME,com.alicom.smartdial
