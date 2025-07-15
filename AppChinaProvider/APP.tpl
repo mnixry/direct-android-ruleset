@@ -56,7 +56,7 @@ PROCESS-NAME,cn.gogocity.suibian,{{ rule }} # 随便走
 PROCESS-NAME,cn.guancha.app,{{ rule }} # 观察者网
 PROCESS-NAME,cn.gzmovement,{{ rule }} # 动静新闻
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
-PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
+PROCESS-NAME,cn.itheme.tech,{{ rule }} # 主题壁纸MJ图标更换器
 PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 魔图精灵
 PROCESS-NAME,cn.jjpengcheng.wallpaper,{{ rule }} # 动态壁纸
 PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
@@ -136,7 +136,6 @@ PROCESS-NAME,com.appcina.anpai.2019092902,{{ rule }} # 落格输入法
 PROCESS-NAME,com.appcina.anpai.2019112101,{{ rule }} # Artpaper：有 1,300 多张艺术画壁纸可每日更换
 PROCESS-NAME,com.appcina.anpai.2019112901,{{ rule }} # Hola Px - 我的专属精选壁纸专家
 PROCESS-NAME,com.appcina.anpai.2019122013,{{ rule }} # WLPPR - background wallpapers
-PROCESS-NAME,com.appcina.anpai.2019122604,{{ rule }} # LiveFun - 自定义动态壁纸
 PROCESS-NAME,com.appcina.anpai.2020010306,{{ rule }} # 无相 - 原生化浏览器
 PROCESS-NAME,com.appcina.anpai.2020011202,{{ rule }} # Berkanan Messenger
 PROCESS-NAME,com.appcina.anpai.2020011602,{{ rule }} # 我的同事-职场熟人社交
@@ -329,6 +328,7 @@ PROCESS-NAME,com.example.administrator.searchpicturetool,{{ rule }} # 搜图神�
 PROCESS-NAME,com.example.mp3editor,{{ rule }} # MP3剪辑器
 PROCESS-NAME,com.example.raccoon.dialogwidget,{{ rule }} # 万象小组件
 PROCESS-NAME,com.ezen.ehshig,{{ rule }} # egshig
+PROCESS-NAME,com.facetech.konfast,{{ rule }} # 轻音社极速版
 PROCESS-NAME,com.faloo.BookReader4Android,{{ rule }} # 飞卢小说
 PROCESS-NAME,com.fanghe.makepaper,{{ rule }} # 桌面时钟锁屏
 PROCESS-NAME,com.fanghuoyun.im,{{ rule }} # 防火云
@@ -674,6 +674,7 @@ PROCESS-NAME,com.qihoo.contents,{{ rule }} # 360极速浏览器
 PROCESS-NAME,com.qihoo.qeditor,{{ rule }} # 快剪辑
 PROCESS-NAME,com.qihoo360.mobilesafe,{{ rule }} # 360手机卫士
 PROCESS-NAME,com.qiku.os.show,{{ rule }} # 欧思奇主题
+PROCESS-NAME,com.qiku.os.wallpaper,{{ rule }} # 百变壁纸
 PROCESS-NAME,com.qilesoft.en.eights,{{ rule }} # 英语口语8000句
 PROCESS-NAME,com.qima.kdt,{{ rule }} # 有赞微商城
 PROCESS-NAME,com.qisi.freepaper,{{ rule }} # 免费壁纸大全
@@ -925,7 +926,6 @@ PROCESS-NAME,com.yiche.autoeasy,{{ rule }} # 易车
 PROCESS-NAME,com.yiche.price,{{ rule }} # 易车汽车报价
 PROCESS-NAME,com.yidian.xiaomi,{{ rule }} # 一点新闻资讯
 PROCESS-NAME,com.yigequanquanqq.app,{{ rule }} # 一个圈圈
-PROCESS-NAME,com.yinliang.simple_desktop,{{ rule }} # 超极简桌面
 PROCESS-NAME,com.yipiao,{{ rule }} # 智行火车票
 PROCESS-NAME,com.yiruike.sodacn.android,{{ rule }} # 甜盐相机
 PROCESS-NAME,com.yitong.mbank,{{ rule }} # 江苏·农商行

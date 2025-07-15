@@ -63,7 +63,7 @@ PROCESS-NAME,cn.wps.moffice_eng,{{ rule }} # WPS Office
 PROCESS-NAME,cn.xiaochuankeji.tieba,{{ rule }} # 最右
 PROCESS-NAME,cn.xiaochuankeji.zuiyouLite,{{ rule }} # 皮皮搞笑
 PROCESS-NAME,cn.xuexi.android,{{ rule }} # 学习强国
-PROCESS-NAME,cn.yonghui.hyd,{{ rule }} # 永辉生活
+PROCESS-NAME,cn.yonghui.hyd,{{ rule }} # 永辉线上超市
 PROCESS-NAME,cn.youth.news,{{ rule }} # 中青看点
 PROCESS-NAME,co.runner.app,{{ rule }} # 悦跑圈
 PROCESS-NAME,co.welab.wolaidai,{{ rule }} # 我来数科

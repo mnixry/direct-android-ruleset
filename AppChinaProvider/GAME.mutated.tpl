@@ -62,6 +62,7 @@ PROCESS-NAME,com.animocabrands.google.Musici,{{ rule }} # 节奏星球
 PROCESS-NAME,com.animocacollective.google.catdefense,{{ rule }} # 猫骑士VS大恶龙
 PROCESS-NAME,com.ansangha.drdriving,{{ rule }} # 主驾驶
 PROCESS-NAME,com.aperto.wrc,{{ rule }} # 世界拉力赛
+PROCESS-NAME,com.appchina.yugao.2016081803,{{ rule }} # 拳击鱼
 PROCESS-NAME,com.appchina.yugao.2016082601,{{ rule }} # 合金拳头：城市统治者
 PROCESS-NAME,com.appchina.yugao.2016091402,{{ rule }} # 摇头拳击
 PROCESS-NAME,com.appchina.yugao.2016091901,{{ rule }} # 神姫PROJECT
@@ -320,6 +321,7 @@ PROCESS-NAME,com.fdgentertainment.bananakong,{{ rule }} # 香蕉金刚
 PROCESS-NAME,com.fdgentertainment.paperama,{{ rule }} # 智慧折纸
 PROCESS-NAME,com.fds.infiniteflight,{{ rule }} # 无限试飞
 PROCESS-NAME,com.feelingtouch.strikeforce2,{{ rule }} # 特警：止战之殇
+PROCESS-NAME,com.feitian.JiChangApp,{{ rule }} # 天工机场
 PROCESS-NAME,com.fengeek.f002,{{ rule }} # fiil+
 PROCESS-NAME,com.feralinteractive.rometw,{{ rule }} # 罗马：全面战争
 PROCESS-NAME,com.fgol.sharkfree2,{{ rule }} # 嗜血狂鲨2
@@ -504,7 +506,6 @@ PROCESS-NAME,com.kiloo.subwaysurf,{{ rule }} # 地铁跑酷
 PROCESS-NAME,com.king.farmheroessaga,{{ rule }} # Farm Heroes Saga
 PROCESS-NAME,com.kleientertainment.doNotStarveShipwrecked,{{ rule }} # 饥荒：海难
 PROCESS-NAME,com.knight.union.yyh,{{ rule }} # 元气骑士
-PROCESS-NAME,com.knit.zylt,{{ rule }} # 致远轮胎商城
 PROCESS-NAME,com.kuaihidjplay.product,{{ rule }} # 快嗨DJ
 PROCESS-NAME,com.kugou.viper,{{ rule }} # VIPER HiFi
 PROCESS-NAME,com.kumagames.highschoolsimulator2018,{{ rule }} # 高校模拟2018
@@ -544,7 +545,6 @@ PROCESS-NAME,com.mediocre.smashhit,{{ rule }} # 急速冲击
 PROCESS-NAME,com.meetfuture.cooldrum,{{ rule }} # 酷架子鼓
 PROCESS-NAME,com.melesta.coffeeshop,{{ rule }} # 我的咖啡厅 - 世界餐厅游戏
 PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator,{{ rule }} # 校园女生模拟器
-PROCESS-NAME,com.meuni.app,{{ rule }} # 元校
 PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2,{{ rule }} # 泡泡女巫传奇2
 PROCESS-NAME,com.miga.mypets,{{ rule }} # 米加小镇:宠物
 PROCESS-NAME,com.miga.mystore,{{ rule }} # 米加小镇:商店
@@ -718,7 +718,6 @@ PROCESS-NAME,com.sega.soccer,{{ rule }} # 足球经理2020 移动版
 PROCESS-NAME,com.sega.sonic1,{{ rule }} # 刺猬索尼克历险记
 PROCESS-NAME,com.seleuco.mame4all.snowbros,{{ rule }} # 雪人兄弟
 PROCESS-NAME,com.seventeenbullets.android.island,{{ rule }} # 天堂岛
-PROCESS-NAME,com.sggame.qmxjd.and,{{ rule }} # 全明星激斗
 PROCESS-NAME,com.shandagames.shelter.yyh,{{ rule }} # 辐射：避难所Online
 PROCESS-NAME,com.shinybox.smash,{{ rule }} # 勇闯地下城
 PROCESS-NAME,com.shockland.autoball,{{ rule }} # 汽车足球
@@ -915,6 +914,7 @@ PROCESS-NAME,com.YouXin.SunnyPuppiesTW,{{ rule }} # 晴天小狗
 PROCESS-NAME,com.yuejunzhang.home,{{ rule }} # 据点守卫
 PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
+PROCESS-NAME,com.yyyp.cn,{{ rule }} # 有游有品
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
 PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2

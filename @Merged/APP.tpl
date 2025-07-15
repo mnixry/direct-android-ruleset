@@ -77,7 +77,7 @@ PROCESS-NAME,cn.hsa.app,{{ rule }} # 国家医保服务平台
 PROCESS-NAME,cn.huntlaw.android,{{ rule }} # 好律师
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
 PROCESS-NAME,cn.ishansong,{{ rule }} # 闪送
-PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
+PROCESS-NAME,cn.itheme.tech,{{ rule }} # 主题壁纸MJ图标更换器
 PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 魔图精灵
 PROCESS-NAME,cn.jjpengcheng.wallpaper,{{ rule }} # 动态壁纸
 PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
@@ -124,7 +124,7 @@ PROCESS-NAME,cn.xiaochuankeji.tieba,{{ rule }} # 最右
 PROCESS-NAME,cn.xiaochuankeji.zuiyouLite,{{ rule }} # 皮皮搞笑
 PROCESS-NAME,cn.xmcall.haige,{{ rule }} # 嗨鸽
 PROCESS-NAME,cn.xuexi.android,{{ rule }} # 学习强国
-PROCESS-NAME,cn.yonghui.hyd,{{ rule }} # 永辉生活
+PROCESS-NAME,cn.yonghui.hyd,{{ rule }} # 永辉线上超市
 PROCESS-NAME,cn.youth.news,{{ rule }} # 中青看点
 PROCESS-NAME,cn.zepeto.main,{{ rule }} # 崽崽ZEPETO
 PROCESS-NAME,cn.zhangyoukeji.browser.jisou,{{ rule }} # 极搜浏览器
@@ -193,7 +193,6 @@ PROCESS-NAME,com.appcina.anpai.2019092902,{{ rule }} # 落格输入法
 PROCESS-NAME,com.appcina.anpai.2019112101,{{ rule }} # Artpaper：有 1,300 多张艺术画壁纸可每日更换
 PROCESS-NAME,com.appcina.anpai.2019112901,{{ rule }} # Hola Px - 我的专属精选壁纸专家
 PROCESS-NAME,com.appcina.anpai.2019122013,{{ rule }} # WLPPR - background wallpapers
-PROCESS-NAME,com.appcina.anpai.2019122604,{{ rule }} # LiveFun - 自定义动态壁纸
 PROCESS-NAME,com.appcina.anpai.2020010306,{{ rule }} # 无相 - 原生化浏览器
 PROCESS-NAME,com.appcina.anpai.2020011202,{{ rule }} # Berkanan Messenger
 PROCESS-NAME,com.appcina.anpai.2020011602,{{ rule }} # 我的同事-职场熟人社交
@@ -485,6 +484,7 @@ PROCESS-NAME,com.excean.masaid,{{ rule }} # 微分身版
 PROCESS-NAME,com.excelliance.dualaid,{{ rule }} # 双开助手微分身版
 PROCESS-NAME,com.ezen.ehshig,{{ rule }} # egshig
 PROCESS-NAME,com.ezg.camper,{{ rule }} # 约你游
+PROCESS-NAME,com.facetech.konfast,{{ rule }} # 轻音社极速版
 PROCESS-NAME,com.faloo.BookReader4Android,{{ rule }} # 飞卢小说
 PROCESS-NAME,com.fangdai.fdjsq,{{ rule }} # 房贷计算器
 PROCESS-NAME,com.fanghe.makepaper,{{ rule }} # 桌面时钟锁屏
@@ -1046,6 +1046,7 @@ PROCESS-NAME,com.qihoo360.mobilesafe,{{ rule }} # 360手机卫士
 PROCESS-NAME,com.qihuo.changjiang,{{ rule }} # 长江期货开户交易
 PROCESS-NAME,com.qihuo.yinhe,{{ rule }} # 银河期货开户交易
 PROCESS-NAME,com.qiku.os.show,{{ rule }} # 欧思奇主题
+PROCESS-NAME,com.qiku.os.wallpaper,{{ rule }} # 百变壁纸
 PROCESS-NAME,com.qilesoft.en.eights,{{ rule }} # 英语口语8000句
 PROCESS-NAME,com.qima.kdt,{{ rule }} # 有赞微商城
 PROCESS-NAME,com.qinhe.ispeak,{{ rule }} # IS语音
@@ -1498,7 +1499,6 @@ PROCESS-NAME,com.yidian.xiaomi,{{ rule }} # 一点新闻资讯
 PROCESS-NAME,com.yigequanquanqq.app,{{ rule }} # 一个圈圈
 PROCESS-NAME,com.yigusjgh.daoshuri,{{ rule }} # 一古倒计时
 PROCESS-NAME,com.yingyonghui.market,{{ rule }} # 应用汇
-PROCESS-NAME,com.yinliang.simple_desktop,{{ rule }} # 超极简桌面
 PROCESS-NAME,com.yipiao,{{ rule }} # 智行火车票
 PROCESS-NAME,com.yiruike.sodacn.android,{{ rule }} # 甜盐相机
 PROCESS-NAME,com.yitantech.gaigai,{{ rule }} # 比心
