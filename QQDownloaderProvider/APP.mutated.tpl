@@ -594,7 +594,7 @@ PROCESS-NAME,com.qq.reader,{{ rule }} # QQ阅读
 PROCESS-NAME,com.qsmy.walkmonkey,{{ rule }} # 步多多
 PROCESS-NAME,com.qtx.qtxty,{{ rule }} # 球天下体育
 PROCESS-NAME,com.quanleimu.activity,{{ rule }} # 百姓网
-PROCESS-NAME,com.quanmai.findu,{{ rule }} # 饭友
+PROCESS-NAME,com.quanmai.findu,{{ rule }} # 友趣
 PROCESS-NAME,com.quark.browser,{{ rule }} # 夸克
 PROCESS-NAME,com.Qunar,{{ rule }} # 去哪儿旅行
 PROCESS-NAME,com.qzone,{{ rule }} # QQ空间

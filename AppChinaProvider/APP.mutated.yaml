@@ -424,6 +424,7 @@ payload:
   - PROCESS-NAME,com.htffund.mobile.ec.ui #汇添富现金宝
   - PROCESS-NAME,com.htinns #华住会
   - PROCESS-NAME,com.huaban.android #花瓣
+  - PROCESS-NAME,com.huajiao #花椒直播
   - PROCESS-NAME,com.hualongxiang #化龙巷
   - PROCESS-NAME,com.huankaifa.tpjwz #图片加文字
   - PROCESS-NAME,com.huanqiu.news #环球时报
@@ -435,7 +436,6 @@ payload:
   - PROCESS-NAME,com.hujiang.hjclass #沪江网校
   - PROCESS-NAME,com.hunantv.imgo.activity #芒果TV
   - PROCESS-NAME,com.hundsun.winner.pazq #平安证券
-  - PROCESS-NAME,com.hupu.games #虎扑
   - PROCESS-NAME,com.hupu.shihuo #识货
   - PROCESS-NAME,com.huxiu #虎嗅
   - PROCESS-NAME,com.hyhy.view #掌上天津

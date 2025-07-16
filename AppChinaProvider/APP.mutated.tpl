@@ -424,6 +424,7 @@ PROCESS-NAME,com.hsbank.mobilebank,{{ rule }} # 徽商银行
 PROCESS-NAME,com.htffund.mobile.ec.ui,{{ rule }} # 汇添富现金宝
 PROCESS-NAME,com.htinns,{{ rule }} # 华住会
 PROCESS-NAME,com.huaban.android,{{ rule }} # 花瓣
+PROCESS-NAME,com.huajiao,{{ rule }} # 花椒直播
 PROCESS-NAME,com.hualongxiang,{{ rule }} # 化龙巷
 PROCESS-NAME,com.huankaifa.tpjwz,{{ rule }} # 图片加文字
 PROCESS-NAME,com.huanqiu.news,{{ rule }} # 环球时报
@@ -435,7 +436,6 @@ PROCESS-NAME,com.hujiang.dict,{{ rule }} # 沪江小D词典
 PROCESS-NAME,com.hujiang.hjclass,{{ rule }} # 沪江网校
 PROCESS-NAME,com.hunantv.imgo.activity,{{ rule }} # 芒果TV
 PROCESS-NAME,com.hundsun.winner.pazq,{{ rule }} # 平安证券
-PROCESS-NAME,com.hupu.games,{{ rule }} # 虎扑
 PROCESS-NAME,com.hupu.shihuo,{{ rule }} # 识货
 PROCESS-NAME,com.huxiu,{{ rule }} # 虎嗅
 PROCESS-NAME,com.hyhy.view,{{ rule }} # 掌上天津
