@@ -313,7 +313,6 @@ payload:
   - PROCESS-NAME,com.ebnews #亿邦
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
   - PROCESS-NAME,com.ejnet.weathercamera #天气相机
-  - PROCESS-NAME,com.ell.wallpaperell #主题商店免费
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
   - PROCESS-NAME,com.enotary.cloud #公证云
