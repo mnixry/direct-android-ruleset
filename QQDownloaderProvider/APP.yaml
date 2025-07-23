@@ -253,7 +253,6 @@ payload:
   - PROCESS-NAME,com.excean.masaid #微分身版
   - PROCESS-NAME,com.excelliance.dualaid #双开助手微分身版
   - PROCESS-NAME,com.ezg.camper #约你游
-  - PROCESS-NAME,com.fangdai.fdjsq #房贷计算器
   - PROCESS-NAME,com.fanli.android.apps #返利
   - PROCESS-NAME,com.fanlitaolianmengw #返利淘联盟
   - PROCESS-NAME,com.fanlwgaoylmengw #返利高佣联盟
@@ -278,6 +277,7 @@ payload:
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.funshion.video.mobile #风行视频
+  - PROCESS-NAME,com.galaxy.stock #中国银河证券
   - PROCESS-NAME,com.gameabc.zhanqiAndroid #战旗直播
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
   - PROCESS-NAME,com.ganji.android #赶集招聘
