@@ -110,7 +110,6 @@ PROCESS-NAME,cn.opda.a.phonoalbumshoushou,{{ rule }} # 百度手机卫士
 PROCESS-NAME,cn.poco.jane,{{ rule }} # 简拼
 PROCESS-NAME,cn.rainbow.westore,{{ rule }} # 天虹
 PROCESS-NAME,cn.samsclub.app,{{ rule }} # 山姆会员商店
-PROCESS-NAME,cn.shengmitech.intelllock,{{ rule }} # 锁屏
 PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
 PROCESS-NAME,cn.soulapp.android,{{ rule }} # Soul
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
@@ -1102,7 +1101,7 @@ PROCESS-NAME,com.sdu.didi.gsui,{{ rule }} # 滴滴车主
 PROCESS-NAME,com.sdu.didi.psnger,{{ rule }} # 滴滴出行
 PROCESS-NAME,com.sec.android.app.shealth,{{ rule }} # 三星健康
 PROCESS-NAME,com.sec.android.easyMover,{{ rule }} # S 换机助手
-PROCESS-NAME,com.secoo,{{ rule }} # 寺库
+PROCESS-NAME,com.secoo,{{ rule }} # 寺库奢侈品
 PROCESS-NAME,com.seebaby,{{ rule }} # 掌通家园
 PROCESS-NAME,com.seetong.app.seetong,{{ rule }} # Seetong
 PROCESS-NAME,com.seewo.easicare.pro,{{ rule }} # 班级优化大师
@@ -1632,7 +1631,6 @@ PROCESS-NAME,long.xian.wallpaper,{{ rule }} # 免费主题商店
 PROCESS-NAME,longbin.helloworld,{{ rule }} # 计算管家
 PROCESS-NAME,mark.via,{{ rule }} # Via
 PROCESS-NAME,me.chunyu.ChunyuDoctor,{{ rule }} # 春雨医生
-PROCESS-NAME,me.ele,{{ rule }} # 饿了么
 PROCESS-NAME,me.ele.napos,{{ rule }} # 饿了么商家版
 PROCESS-NAME,me.iweek.rili,{{ rule }} # 生活日历
 PROCESS-NAME,me.suncloud.marrymemo,{{ rule }} # 婚礼纪
@@ -1700,6 +1698,7 @@ PROCESS-NAME,weicom.yi.wallpaper,{{ rule }} # 免费主题壁纸
 PROCESS-NAME,wind.deposit,{{ rule }} # 万得基金
 PROCESS-NAME,windinfo.android,{{ rule }} # Wind金融终端
 PROCESS-NAME,wshifu.app.android,{{ rule }} # 万师傅企业版
+PROCESS-NAME,xxyygr.wdzm.jdkffnb,{{ rule }} # 我的桌面
 PROCESS-NAME,yiqi.bazi,{{ rule }} # 易奇文化
 PROCESS-NAME,ysykzheng.hotlauncher,{{ rule }} # 热门启动器
 PROCESS-NAME,yyc.xk,{{ rule }} # 星空视频壁纸

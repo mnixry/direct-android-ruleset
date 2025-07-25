@@ -110,7 +110,6 @@ payload:
   - PROCESS-NAME,cn.poco.jane #简拼
   - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
-  - PROCESS-NAME,cn.shengmitech.intelllock #锁屏
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.tianya.light #天涯社区
@@ -1102,7 +1101,7 @@ payload:
   - PROCESS-NAME,com.sdu.didi.psnger #滴滴出行
   - PROCESS-NAME,com.sec.android.app.shealth #三星健康
   - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
-  - PROCESS-NAME,com.secoo #寺库
+  - PROCESS-NAME,com.secoo #寺库奢侈品
   - PROCESS-NAME,com.seebaby #掌通家园
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.seewo.easicare.pro #班级优化大师
@@ -1632,7 +1631,6 @@ payload:
   - PROCESS-NAME,longbin.helloworld #计算管家
   - PROCESS-NAME,mark.via #Via
   - PROCESS-NAME,me.chunyu.ChunyuDoctor #春雨医生
-  - PROCESS-NAME,me.ele #饿了么
   - PROCESS-NAME,me.ele.napos #饿了么商家版
   - PROCESS-NAME,me.iweek.rili #生活日历
   - PROCESS-NAME,me.suncloud.marrymemo #婚礼纪
@@ -1700,6 +1698,7 @@ payload:
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,wshifu.app.android #万师傅企业版
+  - PROCESS-NAME,xxyygr.wdzm.jdkffnb #我的桌面
   - PROCESS-NAME,yiqi.bazi #易奇文化
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸

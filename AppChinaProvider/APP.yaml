@@ -77,7 +77,6 @@ payload:
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
   - PROCESS-NAME,cn.poco.jane #简拼
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
-  - PROCESS-NAME,cn.shengmitech.intelllock #锁屏
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.tianya.light #天涯社区
   - PROCESS-NAME,cn.vcinema.cinema #南瓜电影
@@ -1058,6 +1057,7 @@ payload:
   - PROCESS-NAME,weicom.yi.wallpaper #免费主题壁纸
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
+  - PROCESS-NAME,xxyygr.wdzm.jdkffnb #我的桌面
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
   - PROCESS-NAME,zhuomian.com.bizhi.fhsdj #桌面壁纸

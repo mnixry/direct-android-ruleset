@@ -274,7 +274,6 @@ PROCESS-NAME,com.free_ride_pin.yiwei,{{ rule }} # 汽车票
 PROCESS-NAME,com.free_ride.yiwei,{{ rule }} # 顺风车
 PROCESS-NAME,com.free.compass,{{ rule }} # 免费指南针
 PROCESS-NAME,com.funshion.video.mobile,{{ rule }} # 风行视频
-PROCESS-NAME,com.galaxy.stock,{{ rule }} # 中国银河证券
 PROCESS-NAME,com.gameabc.zhanqiAndroid,{{ rule }} # 战旗直播
 PROCESS-NAME,com.gamestar.perfectpiano,{{ rule }} # 完美钢琴
 PROCESS-NAME,com.ganji.android,{{ rule }} # 赶集招聘
@@ -616,6 +615,7 @@ PROCESS-NAME,com.sdu.didi.gsui,{{ rule }} # 滴滴车主
 PROCESS-NAME,com.sdu.didi.psnger,{{ rule }} # 滴滴出行
 PROCESS-NAME,com.sec.android.app.shealth,{{ rule }} # 三星健康
 PROCESS-NAME,com.sec.android.easyMover,{{ rule }} # S 换机助手
+PROCESS-NAME,com.secoo,{{ rule }} # 寺库奢侈品
 PROCESS-NAME,com.seebaby,{{ rule }} # 掌通家园
 PROCESS-NAME,com.seetong.app.seetong,{{ rule }} # Seetong
 PROCESS-NAME,com.seewo.easicare.pro,{{ rule }} # 班级优化大师
@@ -842,6 +842,7 @@ PROCESS-NAME,com.wuba,{{ rule }} # 58同城
 PROCESS-NAME,com.wuba.zhuanzhuan,{{ rule }} # 转转
 PROCESS-NAME,com.wudaokou.hippo,{{ rule }} # 盒马
 PROCESS-NAME,com.xcsc.tdxapp,{{ rule }} # 湘财证券
+PROCESS-NAME,com.xfplay.play,{{ rule }} # 影音先锋
 PROCESS-NAME,com.xhey.xcamera,{{ rule }} # 今日水印相机
 PROCESS-NAME,com.xhqb.app,{{ rule }} # 小花钱包
 PROCESS-NAME,com.xiachufang,{{ rule }} # 下厨房
@@ -969,7 +970,6 @@ PROCESS-NAME,jiaxiaobaodian.app.good,{{ rule }} # 驾校宝典
 PROCESS-NAME,kehuo.app.good,{{ rule }} # 驾考宝典客货车
 PROCESS-NAME,llbt.ccb.lnga,{{ rule }} # 辽事通
 PROCESS-NAME,me.chunyu.ChunyuDoctor,{{ rule }} # 春雨医生
-PROCESS-NAME,me.ele,{{ rule }} # 饿了么
 PROCESS-NAME,me.ele.napos,{{ rule }} # 饿了么商家版
 PROCESS-NAME,me.iweek.rili,{{ rule }} # 生活日历
 PROCESS-NAME,me.suncloud.marrymemo,{{ rule }} # 婚礼纪

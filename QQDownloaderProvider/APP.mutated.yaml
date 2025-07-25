@@ -274,7 +274,6 @@ payload:
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.free.compass #免费指南针
   - PROCESS-NAME,com.funshion.video.mobile #风行视频
-  - PROCESS-NAME,com.galaxy.stock #中国银河证券
   - PROCESS-NAME,com.gameabc.zhanqiAndroid #战旗直播
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
   - PROCESS-NAME,com.ganji.android #赶集招聘
@@ -616,6 +615,7 @@ payload:
   - PROCESS-NAME,com.sdu.didi.psnger #滴滴出行
   - PROCESS-NAME,com.sec.android.app.shealth #三星健康
   - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
+  - PROCESS-NAME,com.secoo #寺库奢侈品
   - PROCESS-NAME,com.seebaby #掌通家园
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.seewo.easicare.pro #班级优化大师
@@ -842,6 +842,7 @@ payload:
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
   - PROCESS-NAME,com.wudaokou.hippo #盒马
   - PROCESS-NAME,com.xcsc.tdxapp #湘财证券
+  - PROCESS-NAME,com.xfplay.play #影音先锋
   - PROCESS-NAME,com.xhey.xcamera #今日水印相机
   - PROCESS-NAME,com.xhqb.app #小花钱包
   - PROCESS-NAME,com.xiachufang #下厨房
@@ -969,7 +970,6 @@ payload:
   - PROCESS-NAME,kehuo.app.good #驾考宝典客货车
   - PROCESS-NAME,llbt.ccb.lnga #辽事通
   - PROCESS-NAME,me.chunyu.ChunyuDoctor #春雨医生
-  - PROCESS-NAME,me.ele #饿了么
   - PROCESS-NAME,me.ele.napos #饿了么商家版
   - PROCESS-NAME,me.iweek.rili #生活日历
   - PROCESS-NAME,me.suncloud.marrymemo #婚礼纪

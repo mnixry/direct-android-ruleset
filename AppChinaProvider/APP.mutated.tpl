@@ -76,7 +76,6 @@ PROCESS-NAME,cn.okek.chexingwuyou,{{ rule }} # 车行无忧
 PROCESS-NAME,cn.opda.a.phonoalbumshoushou,{{ rule }} # 百度手机卫士
 PROCESS-NAME,cn.poco.jane,{{ rule }} # 简拼
 PROCESS-NAME,cn.samsclub.app,{{ rule }} # 山姆会员商店
-PROCESS-NAME,cn.shengmitech.intelllock,{{ rule }} # 锁屏
 PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
 PROCESS-NAME,cn.vcinema.cinema,{{ rule }} # 南瓜电影
@@ -1053,6 +1052,7 @@ PROCESS-NAME,vz.com,{{ rule }} # 飞常准
 PROCESS-NAME,weicom.yi.wallpaper,{{ rule }} # 免费主题壁纸
 PROCESS-NAME,wind.deposit,{{ rule }} # 万得基金
 PROCESS-NAME,windinfo.android,{{ rule }} # Wind金融终端
+PROCESS-NAME,xxyygr.wdzm.jdkffnb,{{ rule }} # 我的桌面
 PROCESS-NAME,ysykzheng.hotlauncher,{{ rule }} # 热门启动器
 PROCESS-NAME,yyc.xk,{{ rule }} # 星空视频壁纸
 PROCESS-NAME,zhuomian.com.bizhi.fhsdj,{{ rule }} # 桌面壁纸

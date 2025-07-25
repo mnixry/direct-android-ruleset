@@ -110,9 +110,9 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020030906 #NBA 2K21
   - PROCESS-NAME,com.appchina.yugao.2020031602 #节奏空间 
   - PROCESS-NAME,com.appchina.yugao.2020032002 #勇气与荣耀 
+  - PROCESS-NAME,com.appchina.yugao.2020040301 #手办模拟战
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
   - PROCESS-NAME,com.appchina.yugao.2020051206 #银翼计划
-  - PROCESS-NAME,com.appchina.yugao.2020051208 #Play With Kizami
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
   - PROCESS-NAME,com.appchina.yugao.2020062805 #足球在线4移动版
   - PROCESS-NAME,com.appchina.yugao.2020070312 #足球俱乐部经理 2021
@@ -120,6 +120,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020080310 #娃娃计划
   - PROCESS-NAME,com.appchina.yugao.2020080705 #地下足球经理人2
   - PROCESS-NAME,com.appchina.yugao.2020082001 #足球大亨
+  - PROCESS-NAME,com.appchina.yugao.2020102801 #笼中窥梦
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
@@ -456,7 +457,6 @@ payload:
   - PROCESS-NAME,com.highvoltagesoftware.levamp #古怪吸血鬼 金币修改版
   - PROCESS-NAME,com.hnjc.dl #多锐
   - PROCESS-NAME,com.hogames.bussimulator #公交车模拟2016
-  - PROCESS-NAME,com.hoodinn.hgame.gdqs #孤胆骑士
   - PROCESS-NAME,com.hotheadgames.google.free.rawspace #佣兵之战2084
   - PROCESS-NAME,com.hotheadgames.google.free.valor #佣兵之战
   - PROCESS-NAME,com.hyperbeard.adorablehome #萌宅物语
@@ -506,7 +506,6 @@ payload:
   - PROCESS-NAME,com.king.farmheroessaga #Farm Heroes Saga
   - PROCESS-NAME,com.kleientertainment.doNotStarveShipwrecked #饥荒：海难
   - PROCESS-NAME,com.knight.union.yyh #元气骑士
-  - PROCESS-NAME,com.knit.zylt #致远轮胎商城
   - PROCESS-NAME,com.kuaihidjplay.product #快嗨DJ
   - PROCESS-NAME,com.kugou.viper #VIPER HiFi
   - PROCESS-NAME,com.kumagames.highschoolsimulator2018 #高校模拟2018
@@ -915,6 +914,7 @@ payload:
   - PROCESS-NAME,com.yuejunzhang.home #据点守卫
   - PROCESS-NAME,com.yuktek.laststandchs #背水一战
   - PROCESS-NAME,com.yymoon.lmrjvol #我的VR女友
+  - PROCESS-NAME,com.yyyp.cn #有游有品
   - PROCESS-NAME,com.zeptolab.cats.google #喵星大作战：国际版
   - PROCESS-NAME,com.zk.car.wipay #狂野飙车
   - PROCESS-NAME,com.ztgame.jl2 #街篮2
