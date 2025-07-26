@@ -394,7 +394,6 @@ payload:
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器智能计算
   - PROCESS-NAME,com.ddsm.didu #Didu
-  - PROCESS-NAME,com.ddwallpaperang.wallpaper #图图乐
   - PROCESS-NAME,com.ddyhq.youhuiquan #优惠券
   - PROCESS-NAME,com.dealmoon.android #北美省钱快报
   - PROCESS-NAME,com.dedao.juvenile #少年得到
@@ -1425,6 +1424,7 @@ payload:
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
   - PROCESS-NAME,com.wudaokou.hippo #盒马
+  - PROCESS-NAME,com.wydesk.topzj #Desktop桌面小组件
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xcsc.tdxapp #湘财证券
   - PROCESS-NAME,com.xdf.recite #新东方乐词

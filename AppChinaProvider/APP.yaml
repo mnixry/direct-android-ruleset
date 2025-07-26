@@ -271,7 +271,6 @@ payload:
   - PROCESS-NAME,com.daqo.wallpaper #多多壁纸铃声
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
   - PROCESS-NAME,com.ddsm.didu #Didu
-  - PROCESS-NAME,com.ddwallpaperang.wallpaper #图图乐
   - PROCESS-NAME,com.dealmoon.android #北美省钱快报
   - PROCESS-NAME,com.desktop.pendant #银河壁纸多多
   - PROCESS-NAME,com.devuni.flashlight #超级手电筒
@@ -881,6 +880,7 @@ payload:
   - PROCESS-NAME,com.wondertek.paper #澎湃新闻
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
+  - PROCESS-NAME,com.wydesk.topzj #Desktop桌面小组件
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xdf.recite #新东方乐词
   - PROCESS-NAME,com.xdtech.news.greatriver #江西新闻
