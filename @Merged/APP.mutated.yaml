@@ -1236,6 +1236,7 @@ payload:
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
   - PROCESS-NAME,com.sxm.farpoolcar #拼车
   - PROCESS-NAME,com.sxm.yiwei #一喂顺风车
+  - PROCESS-NAME,com.synology.DSfile #DS file
   - PROCESS-NAME,com.sywg.stock #申万宏源高端
   - PROCESS-NAME,com.szeureka.camerasrc #联趣拍摄遥控器
   - PROCESS-NAME,com.szqd.dialer #神指拨号
@@ -1424,7 +1425,6 @@ payload:
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
   - PROCESS-NAME,com.wudaokou.hippo #盒马
-  - PROCESS-NAME,com.wydesk.topzj #Desktop桌面小组件
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xcsc.tdxapp #湘财证券
   - PROCESS-NAME,com.xdf.recite #新东方乐词
@@ -1557,6 +1557,7 @@ payload:
   - PROCESS-NAME,com.zd.meta #元气桌面宠物
   - PROCESS-NAME,com.zenmen.palmchat #连信
   - PROCESS-NAME,com.zerone.hidesktop #我的桌面iScreen
+  - PROCESS-NAME,com.zhangbingdev.jimei #集美美图
   - PROCESS-NAME,com.zhangdan.app #51信用卡管家
   - PROCESS-NAME,com.zhanlang.dailyscreen #天天录屏
   - PROCESS-NAME,com.zhaopin.social #智联招聘

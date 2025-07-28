@@ -697,7 +697,6 @@ payload:
   - PROCESS-NAME,com.sanya.xinxiulive #Bei贝
   - PROCESS-NAME,com.scanning #二维码与条形码
   - PROCESS-NAME,com.sdu.didi.psnger #滴滴出行
-  - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
   - PROCESS-NAME,com.secoo #寺库
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.sevenmmobile #7M足球实时比分
@@ -774,6 +773,7 @@ payload:
   - PROCESS-NAME,com.sunying.booster #光影
   - PROCESS-NAME,com.superlib #超星移动图书馆
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
+  - PROCESS-NAME,com.synology.DSfile #DS file
   - PROCESS-NAME,com.sywg.stock #申万宏源高端
   - PROCESS-NAME,com.szeureka.camerasrc #联趣拍摄遥控器
   - PROCESS-NAME,com.szqd.dialer #神指拨号
@@ -875,7 +875,6 @@ payload:
   - PROCESS-NAME,com.wondertek.paper #澎湃新闻
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
-  - PROCESS-NAME,com.wydesk.topzj #Desktop桌面小组件
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xdf.recite #新东方乐词
   - PROCESS-NAME,com.xdtech.news.greatriver #江西新闻
@@ -951,6 +950,7 @@ payload:
   - PROCESS-NAME,com.zbx.ct.tvzhibo #手机电视高清直播
   - PROCESS-NAME,com.zd.meta #元气桌面宠物
   - PROCESS-NAME,com.zerone.hidesktop #我的桌面iScreen
+  - PROCESS-NAME,com.zhangbingdev.jimei #集美美图
   - PROCESS-NAME,com.zhangdan.app #51信用卡管家
   - PROCESS-NAME,com.zhanlang.dailyscreen #天天录屏
   - PROCESS-NAME,com.zhaopin.social #智联招聘
