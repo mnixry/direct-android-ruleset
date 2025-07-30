@@ -136,7 +136,6 @@ payload:
   - PROCESS-NAME,com.appcina.anpai.2019122013 #WLPPR - background wallpapers
   - PROCESS-NAME,com.appcina.anpai.2020010306 #无相 - 原生化浏览器
   - PROCESS-NAME,com.appcina.anpai.2020011202 #Berkanan Messenger
-  - PROCESS-NAME,com.appcina.anpai.2020011602 #我的同事-职场熟人社交
   - PROCESS-NAME,com.appshare.android.ilisten #口袋故事
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
@@ -172,7 +171,6 @@ payload:
   - PROCESS-NAME,com.baihe #百合网
   - PROCESS-NAME,com.baijiu.bizhi.sjbixiaz #Wallpaper
   - PROCESS-NAME,com.baijiu.bizhi.zhutidaq #主题
-  - PROCESS-NAME,com.bank #黄河银行
   - PROCESS-NAME,com.baoear.baoer #宝耳
   - PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq #科技之光-宝软3D主题
   - PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD #古剑奇谭之风晴雪-3D桌面主题
@@ -212,6 +210,7 @@ payload:
   - PROCESS-NAME,com.caijing #财经杂志
   - PROCESS-NAME,com.caing.news #财新
   - PROCESS-NAME,com.caishi.cronus #唔哩头条
+  - PROCESS-NAME,com.call.myyb #满意网络电话
   - PROCESS-NAME,com.camera.retroarg #DZ复古胶片相机
   - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
   - PROCESS-NAME,com.capelabs.leyou #乐友
