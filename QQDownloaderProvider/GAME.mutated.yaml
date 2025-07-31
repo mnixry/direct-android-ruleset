@@ -236,6 +236,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.breezegirl #神行少女
   - PROCESS-NAME,com.tencent.tmgp.cahxxc #长安幻想
   - PROCESS-NAME,com.tencent.tmgp.caishen #财神十三张
+  - PROCESS-NAME,com.tencent.tmgp.caohua.dgqzywm #帝国：权杖与文明
   - PROCESS-NAME,com.tencent.tmgp.carrot2 #保卫萝卜2
   - PROCESS-NAME,com.tencent.tmgp.carrot3dj #保卫萝卜3
   - PROCESS-NAME,com.tencent.tmgp.catstudio.moegirlcafe2 #餐厅萌物语
@@ -458,7 +459,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.javgame.lsj #来升级
   - PROCESS-NAME,com.tencent.tmgp.jdzmj #中至赣牌圈
   - PROCESS-NAME,com.tencent.tmgp.jhyywx #江湖悠悠
-  - PROCESS-NAME,com.tencent.tmgp.jielan2 #街篮2
   - PROCESS-NAME,com.tencent.tmgp.jjxm #新仙魔九界
   - PROCESS-NAME,com.tencent.tmgp.jjzd #机甲战队
   - PROCESS-NAME,com.tencent.tmgp.jltx #逐鹿三国之君临天下
@@ -661,7 +661,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sdsysdk #圣斗士星矢：正义传说
   - PROCESS-NAME,com.tencent.tmgp.sdxl #神雕侠侣
   - PROCESS-NAME,com.tencent.tmgp.sdyxz #射雕英雄传手游
-  - PROCESS-NAME,com.tencent.tmgp.seal #征途-9周年
+  - PROCESS-NAME,com.tencent.tmgp.seal #征途
   - PROCESS-NAME,com.tencent.tmgp.seasun.jxqy0 #剑侠情缘·零
   - PROCESS-NAME,com.tencent.tmgp.seasun.jxsj3 #剑侠世界3
   - PROCESS-NAME,com.tencent.tmgp.seasun.jxsjorg #剑侠世界：起源
