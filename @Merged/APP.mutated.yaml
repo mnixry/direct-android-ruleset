@@ -176,7 +176,6 @@ payload:
   - PROCESS-NAME,com.ants360.yicamera #小蚁摄像机
   - PROCESS-NAME,com.antutu.ABenchMark #安兔兔评测
   - PROCESS-NAME,com.anwei.meivliao #美V聊天
-  - PROCESS-NAME,com.apa.callshow #嗨来电秀
   - PROCESS-NAME,com.app.dzy.btchat #蓝牙闲聊
   - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.app.ymqzy #动态壁纸秀场
@@ -761,6 +760,7 @@ payload:
   - PROCESS-NAME,com.joyshebao.joy #查悦社保
   - PROCESS-NAME,com.jsbc.lznews #荔枝新闻
   - PROCESS-NAME,com.jsmcc #中国移动江苏
+  - PROCESS-NAME,com.jsqc.mevcbsag #白桃动态壁纸
   - PROCESS-NAME,com.jtjsb.ldb #来电宝软件
   - PROCESS-NAME,com.jtjsb.yymms #智能应用密码锁
   - PROCESS-NAME,com.juejinchain.android #掘金宝
