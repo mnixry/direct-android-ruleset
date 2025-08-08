@@ -115,7 +115,6 @@ payload:
   - PROCESS-NAME,com.baidu.wenku #百度文库
   - PROCESS-NAME,com.baidu.yuedu #百度阅读
   - PROCESS-NAME,com.baihe #百合网
-  - PROCESS-NAME,com.baile.shanduo #闪聊闪约
   - PROCESS-NAME,com.bananavideo.atqb #香焦视频
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
   - PROCESS-NAME,com.baojiazhijia.qichebaojia #买车宝典
@@ -376,6 +375,7 @@ payload:
   - PROCESS-NAME,com.imaginer.yunji #云集
   - PROCESS-NAME,com.immomo.momo #MOMO陌陌
   - PROCESS-NAME,com.imusic.iting #爱听
+  - PROCESS-NAME,com.infinitus.bupm #无限极
   - PROCESS-NAME,com.infothinker.gzmetro #广州地铁官方APP
   - PROCESS-NAME,com.insurance.agency #亲亲小保
   - PROCESS-NAME,com.intsig.BizCardReader #名片全能王
@@ -489,7 +489,7 @@ payload:
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meichu.food.release #烘培厨房
   - PROCESS-NAME,com.meitu.meipaimv #美拍
-  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-AI换装
+  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
   - PROCESS-NAME,com.melot.meshow #KK
@@ -875,7 +875,7 @@ payload:
   - PROCESS-NAME,com.xingluo.mpa #魔力相册
   - PROCESS-NAME,com.xinhu.futures #新湖期货开户交易
   - PROCESS-NAME,com.xinyongfei.xyf #信用飞
-  - PROCESS-NAME,com.xiongmaoqiming.quming #熊猫起名
+  - PROCESS-NAME,com.xiongmaoqiming.quming #真熊猫起名
   - PROCESS-NAME,com.xiuyuan.phonelive #秀员
   - PROCESS-NAME,com.xiwei.logistics #运满满司机
   - PROCESS-NAME,com.xiwei.logistics.consignor #运满满货主
