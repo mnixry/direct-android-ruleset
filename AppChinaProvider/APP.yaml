@@ -56,7 +56,7 @@ payload:
   - PROCESS-NAME,cn.guancha.app #观察者网
   - PROCESS-NAME,cn.gzmovement #动静新闻
   - PROCESS-NAME,cn.ibabyzone.music #胎教盒子
-  - PROCESS-NAME,cn.itheme.tech #主题壁纸MJ图标更换器
+  - PROCESS-NAME,cn.itheme.tech #手机主题
   - PROCESS-NAME,cn.jingling.motu.photowonder #魔图精灵
   - PROCESS-NAME,cn.jjpengcheng.wallpaper #动态壁纸
   - PROCESS-NAME,cn.jsb.china #江苏银行
@@ -300,6 +300,7 @@ payload:
   - PROCESS-NAME,com.dx.x1myapplication #电销外呼电话
   - PROCESS-NAME,com.dzwww.sd.android #海报新闻
   - PROCESS-NAME,com.eastday.listen_news #翱翔
+  - PROCESS-NAME,com.eastedge.zhuzhounews #掌上株洲
   - PROCESS-NAME,com.eastmoney.android.berlin #东方财富
   - PROCESS-NAME,com.eastmoney.android.fund #天天基金
   - PROCESS-NAME,com.eastmoney.android.tokyo #财经圈子
@@ -538,7 +539,6 @@ payload:
   - PROCESS-NAME,com.letv.android.client.pad #乐视视频Pad
   - PROCESS-NAME,com.letv.letvshop #乐视商城
   - PROCESS-NAME,com.lezhi.mythcall #北瓜电话
-  - PROCESS-NAME,com.lhzzbl.dmbzdq #动漫壁纸
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
   - PROCESS-NAME,com.liba.android #篱笆社区
   - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
@@ -879,6 +879,7 @@ payload:
   - PROCESS-NAME,com.wondertek.paper #澎湃新闻
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
+  - PROCESS-NAME,com.wuhquantuo.ringtonedaquanfree #铃声大全免费版
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xcs.ttwallpaper #奇趣壁纸
   - PROCESS-NAME,com.xdf.recite #新东方乐词
@@ -972,6 +973,7 @@ payload:
   - PROCESS-NAME,com.zsyj.wallpaper #熊猫动态壁纸
   - PROCESS-NAME,com.zy.photo #半糖
   - PROCESS-NAME,com.zydsoft.acuherb #中医辨证云
+  - PROCESS-NAME,com.zz.callshow.fireglare #火炫来电秀
   - PROCESS-NAME,com.zzu.sxm.chemical #化学方程式
   - PROCESS-NAME,ctrip.android.view #携程旅行
   - PROCESS-NAME,cuuca.sendfiles.Activity #备份助手
@@ -983,7 +985,6 @@ payload:
   - PROCESS-NAME,gov.pianzong.androidnga #NGA玩家社区
   - PROCESS-NAME,gyjf.alfdcyj.ooo #囧次元
   - PROCESS-NAME,gzjm.nybz.kids #奶油桌面壁纸
-  - PROCESS-NAME,gzry.mxbz.ihauh #魔秀桌面壁纸
   - PROCESS-NAME,hbyc.china.medical.view #壹生
   - PROCESS-NAME,howbuy.android.palmfund #好买基金
   - PROCESS-NAME,howbuy.android.piggy #储蓄罐
@@ -1042,7 +1043,6 @@ payload:
   - PROCESS-NAME,smskb.com #盛名时刻表
   - PROCESS-NAME,sogou.mobile.explorer #搜狗浏览器极速版
   - PROCESS-NAME,sr.daiv.alls.ko #基础韩语口语
-  - PROCESS-NAME,ssdk.xkbz.gzgy #星空壁纸
   - PROCESS-NAME,tool.music.ringtonemaker #铃声制作MP3编辑器
   - PROCESS-NAME,ts.NetTraffic #网速流量监测
   - PROCESS-NAME,tt.lt.tt #聊天漂流瓶
@@ -1056,6 +1056,7 @@ payload:
   - PROCESS-NAME,weicom.yi.wallpaper #免费主题壁纸
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
+  - PROCESS-NAME,xhing.pqoen.uthjg #国漫桌面壁纸
   - PROCESS-NAME,xxyygr.wdzm.jdkffnb #我的桌面
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
