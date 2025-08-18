@@ -198,6 +198,7 @@ payload:
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器智能计算
   - PROCESS-NAME,com.ddyhq.youhuiquan #优惠券
   - PROCESS-NAME,com.dedao.juvenile #少年得到
+  - PROCESS-NAME,com.deepseek.chat #DeepSeek
   - PROCESS-NAME,com.devuni.flashlight #超级手电筒
   - PROCESS-NAME,com.dewmobile.kuaiya #快牙
   - PROCESS-NAME,com.dida.help #滴答滴
@@ -564,7 +565,6 @@ payload:
   - PROCESS-NAME,com.pplive.androidphone #PP视频
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
   - PROCESS-NAME,com.private.safe #私密保险箱
-  - PROCESS-NAME,com.prompt.lines #提词器大师
   - PROCESS-NAME,com.qclianai.com #全城恋爱
   - PROCESS-NAME,com.qdruotu.app #若途旅行
   - PROCESS-NAME,com.qidian.QDReader #起点读书
