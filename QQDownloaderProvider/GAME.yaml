@@ -272,6 +272,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.co.zjhy #创世战车
   - PROCESS-NAME,com.tencent.tmgp.cocos.sicmj #四川麻将
   - PROCESS-NAME,com.tencent.tmgp.cod #使命召唤手游
+  - PROCESS-NAME,com.tencent.tmgp.codev #无畏契约：源能行动
   - PROCESS-NAME,com.tencent.tmgp.cokqq #列王的纷争
   - PROCESS-NAME,com.tencent.tmgp.cokutau.jls #将灵说
   - PROCESS-NAME,com.tencent.tmgp.com.chorusworldwide.theroomone #未上锁的房间
@@ -321,7 +322,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.dldl.qidian #新斗罗大陆
   - PROCESS-NAME,com.tencent.tmgp.dldlhsdjsy #斗罗大陆：魂师对决
   - PROCESS-NAME,com.tencent.tmgp.dldlwyly #斗罗大陆
-  - PROCESS-NAME,com.tencent.tmgp.dlfsz.shengdu #斗罗封神传
   - PROCESS-NAME,com.tencent.tmgp.dljh.shlk #斗笠江湖
   - PROCESS-NAME,com.tencent.tmgp.dmxy2024 #数码宝贝：源码
   - PROCESS-NAME,com.tencent.tmgp.dnf #地下城与勇士：起源
@@ -970,7 +970,6 @@ payload:
   - PROCESS-NAME,com.ultron.crimaster #侦探联盟
   - PROCESS-NAME,com.uqee.lying.maingame #卧龙吟-手机版
   - PROCESS-NAME,com.ustwo.monumentvalleyzz #纪念碑谷
-  - PROCESS-NAME,com.voza.dsqw.doguest #你比我猜
   - PROCESS-NAME,com.wedobest.HD1010 #罗斯方块
   - PROCESS-NAME,com.wedobest.hdxy #同桌大作战
   - PROCESS-NAME,com.wedobest.llk #连连看

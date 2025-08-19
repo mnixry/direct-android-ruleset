@@ -1063,6 +1063,7 @@ PROCESS-NAME,com.tencent.tmgp.cn.ro,{{ rule }} # 仙境传说：新启航
 PROCESS-NAME,com.tencent.tmgp.co.zjhy,{{ rule }} # 创世战车
 PROCESS-NAME,com.tencent.tmgp.cocos.sicmj,{{ rule }} # 四川麻将
 PROCESS-NAME,com.tencent.tmgp.cod,{{ rule }} # 使命召唤手游
+PROCESS-NAME,com.tencent.tmgp.codev,{{ rule }} # 无畏契约：源能行动
 PROCESS-NAME,com.tencent.tmgp.cokqq,{{ rule }} # 列王的纷争
 PROCESS-NAME,com.tencent.tmgp.cokutau.jls,{{ rule }} # 将灵说
 PROCESS-NAME,com.tencent.tmgp.com.chorusworldwide.theroomone,{{ rule }} # 未上锁的房间
@@ -1112,7 +1113,6 @@ PROCESS-NAME,com.tencent.tmgp.djsy,{{ rule }} # 妄想山海
 PROCESS-NAME,com.tencent.tmgp.dldl.qidian,{{ rule }} # 新斗罗大陆
 PROCESS-NAME,com.tencent.tmgp.dldlhsdjsy,{{ rule }} # 斗罗大陆：魂师对决
 PROCESS-NAME,com.tencent.tmgp.dldlwyly,{{ rule }} # 斗罗大陆
-PROCESS-NAME,com.tencent.tmgp.dlfsz.shengdu,{{ rule }} # 斗罗封神传
 PROCESS-NAME,com.tencent.tmgp.dljh.shlk,{{ rule }} # 斗笠江湖
 PROCESS-NAME,com.tencent.tmgp.dmxy2024,{{ rule }} # 数码宝贝：源码
 PROCESS-NAME,com.tencent.tmgp.dnf,{{ rule }} # 地下城与勇士：起源
@@ -1827,7 +1827,6 @@ PROCESS-NAME,com.volvapps.google.rts,{{ rule }} # 黑色行动
 PROCESS-NAME,com.volvapps.rts2dex,{{ rule }} # 二战争锋II
 PROCESS-NAME,com.volvogroup.transporters,{{ rule }} # 变形车
 PROCESS-NAME,com.voolean.abschool,{{ rule }} # 被遗弃的中学
-PROCESS-NAME,com.voza.dsqw.doguest,{{ rule }} # 你比我猜
 PROCESS-NAME,com.VS.FlourishingEmpires,{{ rule }} # 繁荣的帝国
 PROCESS-NAME,com.VS.SteelAndFlesh2,{{ rule }} # 钢铁之躯2：新大陆
 PROCESS-NAME,com.WaldschratStudios.CarDriveATSuperParkour,{{ rule }} # 汽车驾驶

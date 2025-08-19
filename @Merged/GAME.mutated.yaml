@@ -1063,6 +1063,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.co.zjhy #创世战车
   - PROCESS-NAME,com.tencent.tmgp.cocos.sicmj #四川麻将
   - PROCESS-NAME,com.tencent.tmgp.cod #使命召唤手游
+  - PROCESS-NAME,com.tencent.tmgp.codev #无畏契约：源能行动
   - PROCESS-NAME,com.tencent.tmgp.cokqq #列王的纷争
   - PROCESS-NAME,com.tencent.tmgp.cokutau.jls #将灵说
   - PROCESS-NAME,com.tencent.tmgp.com.chorusworldwide.theroomone #未上锁的房间
@@ -1112,7 +1113,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.dldl.qidian #新斗罗大陆
   - PROCESS-NAME,com.tencent.tmgp.dldlhsdjsy #斗罗大陆：魂师对决
   - PROCESS-NAME,com.tencent.tmgp.dldlwyly #斗罗大陆
-  - PROCESS-NAME,com.tencent.tmgp.dlfsz.shengdu #斗罗封神传
   - PROCESS-NAME,com.tencent.tmgp.dljh.shlk #斗笠江湖
   - PROCESS-NAME,com.tencent.tmgp.dmxy2024 #数码宝贝：源码
   - PROCESS-NAME,com.tencent.tmgp.dnf #地下城与勇士：起源
@@ -1827,7 +1827,6 @@ payload:
   - PROCESS-NAME,com.volvapps.rts2dex #二战争锋II
   - PROCESS-NAME,com.volvogroup.transporters #变形车
   - PROCESS-NAME,com.voolean.abschool #被遗弃的中学
-  - PROCESS-NAME,com.voza.dsqw.doguest #你比我猜
   - PROCESS-NAME,com.VS.FlourishingEmpires #繁荣的帝国
   - PROCESS-NAME,com.VS.SteelAndFlesh2 #钢铁之躯2：新大陆
   - PROCESS-NAME,com.WaldschratStudios.CarDriveATSuperParkour #汽车驾驶

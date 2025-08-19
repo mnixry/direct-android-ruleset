@@ -122,7 +122,6 @@ payload:
   - PROCESS-NAME,com.app.dzy.btchat #蓝牙闲聊
   - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.app.ymqzy #动态壁纸秀场
-  - PROCESS-NAME,com.app.yujiasuxingji #壁纸大全
   - PROCESS-NAME,com.appbyme.app71974 #编织人生论坛
   - PROCESS-NAME,com.appchina.anpai.2019071601 #鸟类壁纸
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
@@ -698,6 +697,7 @@ payload:
   - PROCESS-NAME,com.secoo #寺库
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.sevenmmobile #7M足球实时比分
+  - PROCESS-NAME,com.sevenpig.wallpaper #猪猪壁纸
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
   - PROCESS-NAME,com.shangc.tiennews #石榴云
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸

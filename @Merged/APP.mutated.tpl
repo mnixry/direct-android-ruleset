@@ -178,7 +178,6 @@ PROCESS-NAME,com.antutu.ABenchMark,{{ rule }} # 安兔兔评测
 PROCESS-NAME,com.app.dzy.btchat,{{ rule }} # 蓝牙闲聊
 PROCESS-NAME,com.app.hero.ui,{{ rule }} # K歌达人
 PROCESS-NAME,com.app.ymqzy,{{ rule }} # 动态壁纸秀场
-PROCESS-NAME,com.app.yujiasuxingji,{{ rule }} # 壁纸大全
 PROCESS-NAME,com.appbyme.app71974,{{ rule }} # 编织人生论坛
 PROCESS-NAME,com.appchina.anpai.2019071601,{{ rule }} # 鸟类壁纸
 PROCESS-NAME,com.appchina.anpai.2020052601,{{ rule }} # Gear浏览器
@@ -1106,6 +1105,7 @@ PROCESS-NAME,com.seetong.app.seetong,{{ rule }} # Seetong
 PROCESS-NAME,com.seewo.easicare.pro,{{ rule }} # 班级优化大师
 PROCESS-NAME,com.sender.yiwei,{{ rule }} # 一喂宠物托运
 PROCESS-NAME,com.sevenmmobile,{{ rule }} # 7M足球实时比分
+PROCESS-NAME,com.sevenpig.wallpaper,{{ rule }} # 猪猪壁纸
 PROCESS-NAME,com.sevenplus.chinascience,{{ rule }} # 科普中国
 PROCESS-NAME,com.sf.activity,{{ rule }} # 顺丰速运
 PROCESS-NAME,com.sgcc.wsgw.cn,{{ rule }} # 网上国网
