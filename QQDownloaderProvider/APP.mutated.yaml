@@ -140,7 +140,6 @@ payload:
   - PROCESS-NAME,com.ccb.longjiLife #建行生活
   - PROCESS-NAME,com.cctv.caijing #央视财经
   - PROCESS-NAME,com.cctv.yangshipin.app.androidp #央视频
-  - PROCESS-NAME,com.cdb.app #充电加速器
   - PROCESS-NAME,com.cdv.video360 #云美摄
   - PROCESS-NAME,com.cebbank.mobile.cemb #光大银行
   - PROCESS-NAME,com.cffex.htqh #海通期货期海通行
@@ -565,6 +564,7 @@ payload:
   - PROCESS-NAME,com.pplive.androidphone #PP视频
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
   - PROCESS-NAME,com.private.safe #私密保险箱
+  - PROCESS-NAME,com.prompt.lines #提词器大师
   - PROCESS-NAME,com.qclianai.com #全城恋爱
   - PROCESS-NAME,com.qdruotu.app #若途旅行
   - PROCESS-NAME,com.qidian.QDReader #起点读书

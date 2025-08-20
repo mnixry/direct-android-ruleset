@@ -57,6 +57,7 @@ payload:
   - PROCESS-NAME,cn.ibabyzone.music #胎教盒子
   - PROCESS-NAME,cn.itheme.tech #手机主题
   - PROCESS-NAME,cn.jingling.motu.photowonder #魔图精灵
+  - PROCESS-NAME,cn.jinkun.omnitheme #万能免费主题组件
   - PROCESS-NAME,cn.jjpengcheng.wallpaper #动态壁纸
   - PROCESS-NAME,cn.jsb.china #江苏银行
   - PROCESS-NAME,cn.kaoshi100.view #考试100
@@ -697,7 +698,6 @@ payload:
   - PROCESS-NAME,com.secoo #寺库
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.sevenmmobile #7M足球实时比分
-  - PROCESS-NAME,com.sevenpig.wallpaper #猪猪壁纸
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
   - PROCESS-NAME,com.shangc.tiennews #石榴云
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
@@ -941,7 +941,7 @@ payload:
   - PROCESS-NAME,com.yuexiang.wallpaper #悦享动态壁纸
   - PROCESS-NAME,com.yumei.game.engine.ui.client #玩股成金
   - PROCESS-NAME,com.yunlan.unlock.dewdropunlock #3D水滴-随变锁屏
-  - PROCESS-NAME,com.yunlian.wewe #微微电话
+  - PROCESS-NAME,com.yunlian.wewe #微微网络电话
   - PROCESS-NAME,com.ywallpaper.ddztbz #多多主题壁纸
   - PROCESS-NAME,com.yx #有信
   - PROCESS-NAME,com.yy.android.udbsec #YY安全中心
