@@ -264,6 +264,7 @@ PROCESS-NAME,com.focusgene.findme,{{ rule }} # 真我
 PROCESS-NAME,com.folder.management,{{ rule }} # 文件夹管家
 PROCESS-NAME,com.fombo.wallpaper,{{ rule }} # 高清动态壁纸大全
 PROCESS-NAME,com.forms,{{ rule }} # 缤纷生活
+PROCESS-NAME,com.fosung.lighthouse,{{ rule }} # 灯塔党建在线
 PROCESS-NAME,com.foundao.bjnews,{{ rule }} # 新京报
 PROCESS-NAME,com.foundao.xinhua_android,{{ rule }} # 新华网
 PROCESS-NAME,com.foundersc.app.xf,{{ rule }} # 小方
@@ -284,7 +285,6 @@ PROCESS-NAME,com.gh.gamecenter,{{ rule }} # 光环助手
 PROCESS-NAME,com.giiso.jinantimes,{{ rule }} # 新黄河
 PROCESS-NAME,com.gioct.weather,{{ rule }} # 天气预报
 PROCESS-NAME,com.glodon.drawingexplorer,{{ rule }} # CAD快速看图
-PROCESS-NAME,com.gome.eshopnew,{{ rule }} # 国美
 PROCESS-NAME,com.gomejr.icash,{{ rule }} # 美易借钱
 PROCESS-NAME,com.goodtech.tq,{{ rule }} # 更云天气预报
 PROCESS-NAME,com.gorgeous.lite,{{ rule }} # 轻颜

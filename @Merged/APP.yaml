@@ -506,6 +506,7 @@ payload:
   - PROCESS-NAME,com.fombo.wallpaper #高清动态壁纸大全
   - PROCESS-NAME,com.font #写字先生
   - PROCESS-NAME,com.forms #缤纷生活
+  - PROCESS-NAME,com.fosung.lighthouse #灯塔党建在线
   - PROCESS-NAME,com.foundao.bjnews #新京报
   - PROCESS-NAME,com.foundao.xinhua_android #新华网
   - PROCESS-NAME,com.founder.qujing #掌上曲靖
@@ -545,7 +546,6 @@ payload:
   - PROCESS-NAME,com.giiso.jinantimes #新黄河
   - PROCESS-NAME,com.gioct.weather #天气预报
   - PROCESS-NAME,com.glodon.drawingexplorer #CAD快速看图
-  - PROCESS-NAME,com.gome.eshopnew #国美
   - PROCESS-NAME,com.gomejr.icash #美易借钱
   - PROCESS-NAME,com.gongyinruixin #工银瑞信基金
   - PROCESS-NAME,com.gonlan.iplaymtg #旅法师营地
