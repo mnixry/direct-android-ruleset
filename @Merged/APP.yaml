@@ -149,6 +149,7 @@ payload:
   - PROCESS-NAME,com.ahnews.newsclient #中安新闻
   - PROCESS-NAME,com.aikan #免费小说大全
   - PROCESS-NAME,com.ainemo.dragoon #小鱼易连
+  - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alensw.PhoneArea #QC 归属地
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
@@ -186,7 +187,6 @@ payload:
   - PROCESS-NAME,com.appchina.anpai.2020052601 #Gear浏览器
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
   - PROCESS-NAME,com.appcina.anpai.2019080818 #克拉壁纸
-  - PROCESS-NAME,com.appcina.anpai.2019092705 #星座运势-十二星座每日运势小组件
   - PROCESS-NAME,com.appcina.anpai.2019092902 #落格输入法
   - PROCESS-NAME,com.appcina.anpai.2019112101 #Artpaper：有 1,300 多张艺术画壁纸可每日更换
   - PROCESS-NAME,com.appcina.anpai.2019112901 #Hola Px - 我的专属精选壁纸专家
@@ -619,7 +619,6 @@ payload:
   - PROCESS-NAME,com.hoge.android.wuxiwireless #无锡博报
   - PROCESS-NAME,com.homelink.android #链家
   - PROCESS-NAME,com.honeymoon.stone.jean.poweredit #图片编辑工具
-  - PROCESS-NAME,com.hong.chenranse #情趣淘成人购物商城
   - PROCESS-NAME,com.honghesoft.calligrapher #大书法家
   - PROCESS-NAME,com.hongju.aishang #情趣店
   - PROCESS-NAME,com.hongren.ui #红人直播
@@ -781,6 +780,7 @@ payload:
   - PROCESS-NAME,com.jyyx.fuli #九妖游戏
   - PROCESS-NAME,com.jzyd.coupon #省钱快报
   - PROCESS-NAME,com.jzzs.ParentsHelper #安全教育平台
+  - PROCESS-NAME,com.kangluoer.tomato #知富美聊
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kekeclient_ #可可英语
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
@@ -1146,7 +1146,6 @@ payload:
   - PROCESS-NAME,com.shulantech.video #视频转换压缩
   - PROCESS-NAME,com.shunlian.app #顺联动力
   - PROCESS-NAME,com.shuqi.controller #书旗小说
-  - PROCESS-NAME,com.shuqu.banyan #榕树贷款
   - PROCESS-NAME,com.shusheng.JoJoRead #叫叫
   - PROCESS-NAME,com.shyltts #读短信来电报姓名
   - PROCESS-NAME,com.sichuanol.cbgc #川观新闻
@@ -1277,7 +1276,7 @@ payload:
   - PROCESS-NAME,com.tencent.gamehelper.smoba #王者营地
   - PROCESS-NAME,com.tencent.gamehelper.speed #掌上飞车
   - PROCESS-NAME,com.tencent.gamereva #腾讯先锋
-  - PROCESS-NAME,com.tencent.hunyuan.app.chat #腾讯元宝-DeepSeek R1联网、满血上线
+  - PROCESS-NAME,com.tencent.hunyuan.app.chat #腾讯元宝-「DeepSeek+」智能新体验
   - PROCESS-NAME,com.tencent.igame #王者人生
   - PROCESS-NAME,com.tencent.karaoke #全民K歌
   - PROCESS-NAME,com.tencent.map #腾讯地图
@@ -1500,6 +1499,7 @@ payload:
   - PROCESS-NAME,com.ygkj.chelaile.standard #车来了
   - PROCESS-NAME,com.ygxc.student #阳光学车
   - PROCESS-NAME,com.yiban1413.yiban #一伴婚恋专业版
+  - PROCESS-NAME,com.yibanlu.luck #知趣聊天
   - PROCESS-NAME,com.yibasan.lizhifm #荔枝
   - PROCESS-NAME,com.yicai.news #第一财经
   - PROCESS-NAME,com.yiche.autoeasy #易车
@@ -1606,6 +1606,7 @@ payload:
   - PROCESS-NAME,fm.qingting.qtradio #蜻蜓FM
   - PROCESS-NAME,gov.pianzong.androidnga #NGA玩家社区
   - PROCESS-NAME,gyjf.alfdcyj.ooo #囧次元
+  - PROCESS-NAME,gyjf.ppztbz.com #皮皮壁纸
   - PROCESS-NAME,gz.lifesense.weidong #乐心健康
   - PROCESS-NAME,gzjm.nybz.kids #奶油桌面壁纸
   - PROCESS-NAME,hbyc.china.medical.view #壹生

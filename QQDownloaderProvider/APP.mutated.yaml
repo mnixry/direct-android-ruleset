@@ -75,6 +75,7 @@ payload:
   - PROCESS-NAME,com.achievo.vipshop #唯品会
   - PROCESS-NAME,com.adobe.reader #PDF阅读器 Adobe reader
   - PROCESS-NAME,com.aikan #免费小说大全
+  - PROCESS-NAME,com.airuniversa.control #万能空调遥控器
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
   - PROCESS-NAME,com.alibaba.wireless #阿里巴巴
@@ -323,7 +324,6 @@ payload:
   - PROCESS-NAME,com.hisense.ms.fly2tv #海信爱家
   - PROCESS-NAME,com.hlg.daydaytobusiness #稿定设计
   - PROCESS-NAME,com.homelink.android #链家
-  - PROCESS-NAME,com.hong.chenranse #情趣淘成人购物商城
   - PROCESS-NAME,com.hongju.aishang #情趣店
   - PROCESS-NAME,com.hongren.ui #红人直播
   - PROCESS-NAME,com.HotelZhiDing.zhiding365 #直订
@@ -418,6 +418,7 @@ payload:
   - PROCESS-NAME,com.jyyx.fuli #九妖游戏
   - PROCESS-NAME,com.jzyd.coupon #省钱快报
   - PROCESS-NAME,com.jzzs.ParentsHelper #安全教育平台
+  - PROCESS-NAME,com.kangluoer.tomato #知富美聊
   - PROCESS-NAME,com.kekeclient_ #可可英语
   - PROCESS-NAME,com.king.weather #天气王
   - PROCESS-NAME,com.Kingdee.Express #快递100
@@ -653,7 +654,6 @@ payload:
   - PROCESS-NAME,com.shulantech.video #视频转换压缩
   - PROCESS-NAME,com.shunlian.app #顺联动力
   - PROCESS-NAME,com.shuqi.controller #书旗小说
-  - PROCESS-NAME,com.shuqu.banyan #榕树贷款
   - PROCESS-NAME,com.shusheng.JoJoRead #叫叫
   - PROCESS-NAME,com.sina.news #新浪新闻
   - PROCESS-NAME,com.sina.weibo #微博
@@ -730,7 +730,7 @@ payload:
   - PROCESS-NAME,com.tencent.gamehelper.smoba #王者营地
   - PROCESS-NAME,com.tencent.gamehelper.speed #掌上飞车
   - PROCESS-NAME,com.tencent.gamereva #腾讯先锋
-  - PROCESS-NAME,com.tencent.hunyuan.app.chat #腾讯元宝-DeepSeek R1联网、满血上线
+  - PROCESS-NAME,com.tencent.hunyuan.app.chat #腾讯元宝-「DeepSeek+」智能新体验
   - PROCESS-NAME,com.tencent.igame #王者人生
   - PROCESS-NAME,com.tencent.karaoke #全民K歌
   - PROCESS-NAME,com.tencent.map #腾讯地图
@@ -888,6 +888,7 @@ payload:
   - PROCESS-NAME,com.ygkj.chelaile.standard #车来了
   - PROCESS-NAME,com.ygxc.student #阳光学车
   - PROCESS-NAME,com.yiban1413.yiban #一伴婚恋专业版
+  - PROCESS-NAME,com.yibanlu.luck #知趣聊天
   - PROCESS-NAME,com.yibasan.lizhifm #荔枝
   - PROCESS-NAME,com.yiche.autoeasy #易车
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
@@ -908,7 +909,6 @@ payload:
   - PROCESS-NAME,com.youcheyihou.iyourautobee #车小蜂
   - PROCESS-NAME,com.youcheyihou.iyoursuv #有车以后
   - PROCESS-NAME,com.youdao.dict #网易有道词典
-  - PROCESS-NAME,com.youdao.note #有道云笔记
   - PROCESS-NAME,com.youdao.translator #有道翻译官
   - PROCESS-NAME,com.youku.crazytogether #来疯
   - PROCESS-NAME,com.youku.phone #优酷视频

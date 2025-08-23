@@ -128,7 +128,6 @@ PROCESS-NAME,com.appchina.anpai.2019071601,{{ rule }} # 鸟类壁纸
 PROCESS-NAME,com.appchina.anpai.2020052601,{{ rule }} # Gear浏览器
 PROCESS-NAME,com.appchina.anpai.20210203003,{{ rule }} # 什么时间 - 翻转时钟桌面小组件Widget
 PROCESS-NAME,com.appcina.anpai.2019080818,{{ rule }} # 克拉壁纸
-PROCESS-NAME,com.appcina.anpai.2019092705,{{ rule }} # 星座运势-十二星座每日运势小组件
 PROCESS-NAME,com.appcina.anpai.2019092902,{{ rule }} # 落格输入法
 PROCESS-NAME,com.appcina.anpai.2019112101,{{ rule }} # Artpaper：有 1,300 多张艺术画壁纸可每日更换
 PROCESS-NAME,com.appcina.anpai.2019112901,{{ rule }} # Hola Px - 我的专属精选壁纸专家
@@ -978,6 +977,7 @@ PROCESS-NAME,flipboard.cn,{{ rule }} # 红板报
 PROCESS-NAME,fm.qingting.qtradio,{{ rule }} # 蜻蜓FM
 PROCESS-NAME,gov.pianzong.androidnga,{{ rule }} # NGA玩家社区
 PROCESS-NAME,gyjf.alfdcyj.ooo,{{ rule }} # 囧次元
+PROCESS-NAME,gyjf.ppztbz.com,{{ rule }} # 皮皮壁纸
 PROCESS-NAME,gzjm.nybz.kids,{{ rule }} # 奶油桌面壁纸
 PROCESS-NAME,hbyc.china.medical.view,{{ rule }} # 壹生
 PROCESS-NAME,howbuy.android.palmfund,{{ rule }} # 好买基金
