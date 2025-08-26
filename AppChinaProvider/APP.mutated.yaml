@@ -168,6 +168,7 @@ payload:
   - PROCESS-NAME,com.baihe #百合网
   - PROCESS-NAME,com.baijiu.bizhi.sjbixiaz #Wallpaper
   - PROCESS-NAME,com.baijiu.bizhi.zhutidaq #主题
+  - PROCESS-NAME,com.bank #黄河银行
   - PROCESS-NAME,com.baoear.baoer #宝耳
   - PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq #科技之光-宝软3D主题
   - PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD #古剑奇谭之风晴雪-3D桌面主题
@@ -242,6 +243,7 @@ payload:
   - PROCESS-NAME,com.cleanmaster.mguard_cn #猎豹清理大师
   - PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity #掌上生活
   - PROCESS-NAME,com.cmcm.cfwallpaper #元气桌面壁纸
+  - PROCESS-NAME,com.cmri.universalapp #移动爱家
   - PROCESS-NAME,com.cmstop.zswz #掌上温州
   - PROCESS-NAME,com.cnbizmedia.shangjie #商界
   - PROCESS-NAME,com.cns.mc.activity #中国新闻网
@@ -564,6 +566,7 @@ payload:
   - PROCESS-NAME,com.meitu.meipaimv #美拍
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
   - PROCESS-NAME,com.meitu.poster #美图设计室
+  - PROCESS-NAME,com.meitu.wheecam #潮自拍
   - PROCESS-NAME,com.meitu.wink #Wink
   - PROCESS-NAME,com.meixun.wnpet #蜗牛桌宠
   - PROCESS-NAME,com.meizu.flyme.find #查找手机
@@ -915,7 +918,6 @@ payload:
   - PROCESS-NAME,com.yiche.autoeasy #易车
   - PROCESS-NAME,com.yiche.price #易车汽车报价
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
-  - PROCESS-NAME,com.yigequanquanqq.app #一个圈圈
   - PROCESS-NAME,com.yipiao #智行火车票
   - PROCESS-NAME,com.yiruike.sodacn.android #甜盐相机
   - PROCESS-NAME,com.yitong.mbank #江苏·农商行
