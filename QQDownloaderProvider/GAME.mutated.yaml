@@ -91,6 +91,7 @@ payload:
   - PROCESS-NAME,com.ourgame.mahjong.danji #单机麻将-开心版
   - PROCESS-NAME,com.outfit7.mytalkingangelafree #我的安吉拉
   - PROCESS-NAME,com.outfit7.mytalkingtomfree #我的汤姆猫
+  - PROCESS-NAME,com.outfit7.talkingtomjetski.tencent #汤姆猫的摩托艇
   - PROCESS-NAME,com.outfit7.talkingtompool #汤姆猫水上乐园
   - PROCESS-NAME,com.papegames.lysk.cn #恋与深空
   - PROCESS-NAME,com.pdragon.chess #国际象棋
@@ -149,7 +150,6 @@ payload:
   - PROCESS-NAME,com.tencent.gnyx.putonghua #普通话小镇
   - PROCESS-NAME,com.tencent.gnyx.tqxs #星火筑梦人
   - PROCESS-NAME,com.tencent.gnyx.ttd #碳碳岛
-  - PROCESS-NAME,com.tencent.gris #格莉斯的旅程
   - PROCESS-NAME,com.tencent.guandansy #大掼蛋（腾讯）
   - PROCESS-NAME,com.tencent.gwgo #一起来捉妖
   - PROCESS-NAME,com.tencent.hhw #航海王：壮志雄心
@@ -827,7 +827,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xcdphz #跑胡子
   - PROCESS-NAME,com.tencent.tmgp.xdsw.Aoe #指尖帝国
   - PROCESS-NAME,com.tencent.tmgp.xhxdmbj #盗墓笔记
-  - PROCESS-NAME,com.tencent.tmgp.xhy.wjmt #我叫MT英雄杀
   - PROCESS-NAME,com.tencent.tmgp.xianjianshijie.cmge #仙剑世界
   - PROCESS-NAME,com.tencent.tmgp.xinhuluwa #葫芦娃
   - PROCESS-NAME,com.tencent.tmgp.xishanju.mysy #魔域手游
