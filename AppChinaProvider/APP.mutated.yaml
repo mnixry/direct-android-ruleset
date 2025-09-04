@@ -336,7 +336,6 @@ payload:
   - PROCESS-NAME,com.font #写字先生
   - PROCESS-NAME,com.founder.qujing #掌上曲靖
   - PROCESS-NAME,com.founder.zhanjiang #湛江云媒
-  - PROCESS-NAME,com.foxconn.ichat #讯小通
   - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸
   - PROCESS-NAME,com.freebird.zsp.DailyAccounting #日常记账
   - PROCESS-NAME,com.freeme.lockscreen.levect #杂志锁屏
@@ -771,6 +770,7 @@ payload:
   - PROCESS-NAME,com.superlib #超星移动图书馆
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
   - PROCESS-NAME,com.synology.DSfile #DS file
+  - PROCESS-NAME,com.systechn.intercom #iLifestyle
   - PROCESS-NAME,com.sywg.stock #申万宏源高端
   - PROCESS-NAME,com.szeureka.camerasrc #联趣拍摄遥控器
   - PROCESS-NAME,com.szqd.dialer #神指拨号
@@ -922,6 +922,7 @@ payload:
   - PROCESS-NAME,com.ylmf.androidclient #115生活
   - PROCESS-NAME,com.ymatou.seller #洋码头扫货神器买手版
   - PROCESS-NAME,com.ymatou.shop #洋码头
+  - PROCESS-NAME,com.yn.wallpaper.cheese #奶酪壁纸
   - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
@@ -989,7 +990,6 @@ payload:
   - PROCESS-NAME,jp.ne.neko.freewing.PinYinImePlus #中文拼音输入法 加强版
   - PROCESS-NAME,jyeoo.app.ystudy #菁优网
   - PROCESS-NAME,lf.example.wubi #五笔反查
-  - PROCESS-NAME,lhyp.xuno.xynb #炫拍
   - PROCESS-NAME,lhypg.bnq.zbnh #包子漫画
   - PROCESS-NAME,long.xian.wallpaper #免费主题商店
   - PROCESS-NAME,longbin.helloworld #计算管家
