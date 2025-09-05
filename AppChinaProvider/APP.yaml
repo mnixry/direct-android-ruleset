@@ -199,7 +199,6 @@ payload:
   - PROCESS-NAME,com.boohee.one #薄荷健康
   - PROCESS-NAME,com.bp.androidesk #主题壁纸
   - PROCESS-NAME,com.brains.byzmnew #益智脑筋急转弯大全
-  - PROCESS-NAME,com.brid.wallpaper.two #小鸟壁纸
   - PROCESS-NAME,com.browser2345 #2345浏览器
   - PROCESS-NAME,com.budejie.www #百思漂流瓶
   - PROCESS-NAME,com.businessvalue.android.app #钛媒体
@@ -308,6 +307,7 @@ payload:
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
   - PROCESS-NAME,com.enotary.cloud #公证云
   - PROCESS-NAME,com.esbook.reader #宜搜小说
+  - PROCESS-NAME,com.essdcbz.nyxx #多彩壁纸
   - PROCESS-NAME,com.estrongs.android.pop #ES文件浏览器
   - PROCESS-NAME,com.eusoft.eudic #欧路词典
   - PROCESS-NAME,com.eusoft.frhelper #法语助手
@@ -497,7 +497,6 @@ payload:
   - PROCESS-NAME,com.jsmcc #中国移动江苏
   - PROCESS-NAME,com.jsqc.mevcbsag #白桃动态壁纸
   - PROCESS-NAME,com.jtjsb.ldb #来电宝软件
-  - PROCESS-NAME,com.jtjsb.yymms #智能应用密码锁
   - PROCESS-NAME,com.julanling.app #安心记加班
   - PROCESS-NAME,com.jx.fastbrowser #高速浏览器
   - PROCESS-NAME,com.jx.minibrowser #极速浏览器
@@ -530,7 +529,6 @@ payload:
   - PROCESS-NAME,com.leisu.sports #雷速体育
   - PROCESS-NAME,com.leixun.taofen8 #淘粉吧
   - PROCESS-NAME,com.lemon.faceu #Faceu激萌
-  - PROCESS-NAME,com.lenovo.leos.cloud.sync #联想乐云
   - PROCESS-NAME,com.leqi.idpicture #智能证件照
   - PROCESS-NAME,com.letv.android.client #乐视视频
   - PROCESS-NAME,com.letv.android.client.pad #乐视视频Pad
@@ -698,6 +696,7 @@ payload:
   - PROCESS-NAME,com.sanya.xinxiulive #Bei贝
   - PROCESS-NAME,com.scanning #二维码与条形码
   - PROCESS-NAME,com.sdu.didi.psnger #滴滴出行
+  - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
   - PROCESS-NAME,com.secoo #寺库
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.sevenmmobile #7M足球实时比分
@@ -964,6 +963,7 @@ payload:
   - PROCESS-NAME,com.zhutisp.sdbzcm #主题商店免费
   - PROCESS-NAME,com.ziipin.softkeyboard #Badam维语输入法
   - PROCESS-NAME,com.ziipin.softkeyboard.kazakh #Kazakhsha Kirgizwshi
+  - PROCESS-NAME,com.zj.callshow.lingxing #零星来电秀
   - PROCESS-NAME,com.zol.android #中关村在线
   - PROCESS-NAME,com.zongheng.reader #纵横小说
   - PROCESS-NAME,com.zsyj.trans #全局透明壁纸
