@@ -22,6 +22,7 @@ payload:
   - PROCESS-NAME,cn.com.njxmxbank.mbank #南银法巴消金
   - PROCESS-NAME,cn.com.pansky.sxzgyl #陕西社会保险
   - PROCESS-NAME,cn.com.qlwb.qiluyidian #齐鲁壹点
+  - PROCESS-NAME,cn.com.sina.finance #新浪财经
   - PROCESS-NAME,cn.com.sina.sports #新浪体育
   - PROCESS-NAME,cn.com.spdb.mobilebank.per #浦发手机银行
   - PROCESS-NAME,cn.com.zjol #潮新闻
@@ -160,7 +161,6 @@ payload:
   - PROCESS-NAME,com.chipsea.btcontrol #OKOK
   - PROCESS-NAME,com.cib.cibmb #兴业银行
   - PROCESS-NAME,com.cib.xyk #兴业生活
-  - PROCESS-NAME,com.citiccard.mobilebank #中信银行动卡空间
   - PROCESS-NAME,com.cleanmaster.mguard_cn #猎豹清理大师
   - PROCESS-NAME,com.cloudpower.netsale.activity #中国人保
   - PROCESS-NAME,com.clov4r.android.nil #MoboPlayer
@@ -779,7 +779,6 @@ payload:
   - PROCESS-NAME,com.tongchengpzhl.com #同城品质婚恋
   - PROCESS-NAME,com.tonghuashun.stocktrade.gtjaqh #国泰君安掌上期货
   - PROCESS-NAME,com.tongzhuo.tongzhuogame #同桌派对
-  - PROCESS-NAME,com.touchtv.touchtv #粤TV
   - PROCESS-NAME,com.translate.english #英语翻译君
   - PROCESS-NAME,com.trip.housekeeper #日程管家
   - PROCESS-NAME,com.tripadvisor.tripadvisor.daodao #Tripadvisor猫途鹰
@@ -798,6 +797,7 @@ payload:
   - PROCESS-NAME,com.umetrip.android.msky.app #航旅纵横
   - PROCESS-NAME,com.unionpay #云闪付
   - PROCESS-NAME,com.universal.compass #全能指南针
+  - PROCESS-NAME,com.universal.control #万能遥控器—+
   - PROCESS-NAME,com.ushaqi.zhuishushenqi #追书神器
   - PROCESS-NAME,com.uxin.usedcar #优信二手车
   - PROCESS-NAME,com.v2gogo.project #百姓关注
@@ -859,6 +859,7 @@ payload:
   - PROCESS-NAME,com.xiaomi.hm.health #Zepp Life
   - PROCESS-NAME,com.xiaomi.mico #小爱音箱
   - PROCESS-NAME,com.xiaomi.mitv.phone.tvassistant #小米电视助手
+  - PROCESS-NAME,com.xiaomi.router #小米路由器  MiWiFi
   - PROCESS-NAME,com.xiaomi.shop #小米商城
   - PROCESS-NAME,com.xiaomi.smarthome #米家
   - PROCESS-NAME,com.xiaomi.youpin #小米有品
@@ -958,7 +959,6 @@ payload:
   - PROCESS-NAME,com.zybang.parent #作业帮口算
   - PROCESS-NAME,com.zyhd.voice #语音包变声器
   - PROCESS-NAME,com.zzw.october #志愿汇
-  - PROCESS-NAME,comm.cchong.BloodAssistant #体检宝手机测血压视力心率
   - PROCESS-NAME,consumer.ttpc.com.consumer #天天拍车
   - PROCESS-NAME,ctrip.android.view #携程旅行
   - PROCESS-NAME,fkg.client.side.activity #蜂狂购

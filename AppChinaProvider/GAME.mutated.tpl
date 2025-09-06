@@ -24,7 +24,6 @@ PROCESS-NAME,cento.n1.lib,{{ rule }} # 100地牢
 PROCESS-NAME,cn.badminton.tw,{{ rule }} # 羽毛球 3D
 PROCESS-NAME,cn.jj,{{ rule }} # JJ斗地主
 PROCESS-NAME,cn.koogame.Fish,{{ rule }} # 愤怒的小鱼HD
-PROCESS-NAME,cn.ss911.android,{{ rule }} # 推理学院
 PROCESS-NAME,com.abocado.blueberry,{{ rule }} # 猫咪幼儿园
 PROCESS-NAME,com.aceviral.ag2,{{ rule }} # 愤怒的老奶奶2
 PROCESS-NAME,com.aceviral.agr,{{ rule }} # 愤怒老太大赛车
@@ -242,6 +241,7 @@ PROCESS-NAME,com.deadmage.shadowblade.paid,{{ rule }} # 暗影之刃
 PROCESS-NAME,com.deadstrike.ds,{{ rule }} # 绝命狙杀3D
 PROCESS-NAME,com.dedalord.runningfred,{{ rule }} # 弗雷德狂奔
 PROCESS-NAME,com.DefaultCompany.heimalouxiangsutest,{{ rule }} # 黑神话像素版
+PROCESS-NAME,com.Defender3,{{ rule }} # 守卫者3
 PROCESS-NAME,com.dekovir2.abreaker,{{ rule }} # 冰雕爆破者
 PROCESS-NAME,com.demagogstudio.golfclubwasteland,{{ rule }} # 高尔夫俱乐部：荒野
 PROCESS-NAME,com.demiurgestudios.irvinelive1,{{ rule }} # 干掉机器人

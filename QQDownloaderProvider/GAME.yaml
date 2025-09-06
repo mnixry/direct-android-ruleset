@@ -688,7 +688,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.shzshx.atm #奥特曼：超时空英雄
   - PROCESS-NAME,com.tencent.tmgp.sichuan #蜀山四川麻将
   - PROCESS-NAME,com.tencent.tmgp.sjzt.ingames #圣境之塔
-  - PROCESS-NAME,com.tencent.tmgp.skgame #太空杀
   - PROCESS-NAME,com.tencent.tmgp.skysgame.xyqy #逍遥情缘
   - PROCESS-NAME,com.tencent.tmgp.sm #创造与魔法
   - PROCESS-NAME,com.tencent.tmgp.smdl.qy #神魔大陆
@@ -729,9 +728,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tdj #天地劫：幽城再临
   - PROCESS-NAME,com.tencent.tmgp.tew #变形金刚：地球之战
   - PROCESS-NAME,com.tencent.tmgp.tfjl #塔防精灵
-  - PROCESS-NAME,com.tencent.tmgp.tfzhs.caohua #塔防镇魂师
   - PROCESS-NAME,com.tencent.tmgp.tgfml2 #太古封魔录2
-  - PROCESS-NAME,com.tencent.tmgp.tgsgsy #铁杆三国
   - PROCESS-NAME,com.tencent.tmgp.tiancity.blackbeacon #黑色信标
   - PROCESS-NAME,com.tencent.tmgp.tiancity.dom #战争与文明
   - PROCESS-NAME,com.tencent.tmgp.tianmashikong.qj #全民奇迹
@@ -744,6 +741,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tmsk.qj3 #全民奇迹2
   - PROCESS-NAME,com.tencent.tmgp.tom #猫和老鼠
   - PROCESS-NAME,com.tencent.tmgp.tong.lcgame #归龙潮
+  - PROCESS-NAME,com.tencent.tmgp.tongchengmajiang #同城麻将游戏软件v1.0
   - PROCESS-NAME,com.tencent.tmgp.tqbaohuang #大眼保皇
   - PROCESS-NAME,com.tencent.tmgp.tqfuzhoumajiang #福州麻将
   - PROCESS-NAME,com.tencent.tmgp.tqgouji #大眼够级
