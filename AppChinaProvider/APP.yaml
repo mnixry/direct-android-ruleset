@@ -317,10 +317,8 @@ payload:
   - PROCESS-NAME,com.example.mp3editor #MP3剪辑器
   - PROCESS-NAME,com.example.raccoon.dialogwidget #万象小组件
   - PROCESS-NAME,com.ezen.ehshig #egshig
-  - PROCESS-NAME,com.facetech.konfast #轻音社极速版
   - PROCESS-NAME,com.faloo.BookReader4Android #飞卢小说
   - PROCESS-NAME,com.fanghe.makepaper #桌面时钟锁屏
-  - PROCESS-NAME,com.fanghuoyun.im #防火云
   - PROCESS-NAME,com.fanhuan #返还网
   - PROCESS-NAME,com.fanli.android.apps #返利
   - PROCESS-NAME,com.fbx.handwriteime #手写输入法
@@ -373,6 +371,7 @@ payload:
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
+  - PROCESS-NAME,com.gxlp.childsong #儿歌故事宝宝启蒙大全
   - PROCESS-NAME,com.gzrcb.mobilebank #广州农商银行
   - PROCESS-NAME,com.haidilao #海底捞
   - PROCESS-NAME,com.haitao #55海淘
@@ -597,6 +596,7 @@ payload:
   - PROCESS-NAME,com.music.qishui #汽水铃声
   - PROCESS-NAME,com.mxr.dreambook #4D书城
   - PROCESS-NAME,com.my.browserplus #浏览器加
+  - PROCESS-NAME,com.mydananjing.app #我的大蓝鲸
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
   - PROCESS-NAME,com.mygolbs.mybuswz #我看行
   - PROCESS-NAME,com.mymoney #随手记
