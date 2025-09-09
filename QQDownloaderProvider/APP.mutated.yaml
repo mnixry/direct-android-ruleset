@@ -131,12 +131,12 @@ payload:
   - PROCESS-NAME,com.browser2345 #2345浏览器
   - PROCESS-NAME,com.btime.bjtime #北京时间
   - PROCESS-NAME,com.budejie.www #百思漂流瓶
-  - PROCESS-NAME,com.bullet.subway #掌上地铁
   - PROCESS-NAME,com.c2vl.kgamebox #狼人杀
   - PROCESS-NAME,com.caineng.app #才能网
   - PROCESS-NAME,com.cainiao.wireless #菜鸟
   - PROCESS-NAME,com.cainiu.lawyer365 #律师365
   - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
+  - PROCESS-NAME,com.cat.readall #悟空浏览器
   - PROCESS-NAME,com.cctv.caijing #央视财经
   - PROCESS-NAME,com.cctv.yangshipin.app.androidp #央视频
   - PROCESS-NAME,com.cdv.video360 #云美摄
@@ -238,6 +238,7 @@ payload:
   - PROCESS-NAME,com.easy.wallpaper #番茄动态壁纸
   - PROCESS-NAME,com.ebank.creditcard #阳光惠生活
   - PROCESS-NAME,com.ecitic.bank.mobile #中信银行
+  - PROCESS-NAME,com.edujia.weimai #微脉圈
   - PROCESS-NAME,com.eduyun.app.factory.ykt #智慧中小学
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
   - PROCESS-NAME,com.emperor.flashlight #手电王
@@ -570,7 +571,6 @@ payload:
   - PROCESS-NAME,com.ppdai.loan #拍拍贷借款
   - PROCESS-NAME,com.pplive.androidphone #PP视频
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
-  - PROCESS-NAME,com.private.safe #私密保险箱
   - PROCESS-NAME,com.prompt.lines #提词器大师
   - PROCESS-NAME,com.qb.qtranslator #腾讯翻译君
   - PROCESS-NAME,com.qclianai.com #全城恋爱
