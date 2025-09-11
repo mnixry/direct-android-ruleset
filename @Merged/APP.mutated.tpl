@@ -143,6 +143,7 @@ PROCESS-NAME,com.advasoft.touchretouch,{{ rule }} # TouchRetouch
 PROCESS-NAME,com.afar.eleass,{{ rule }} # 电工专家
 PROCESS-NAME,com.aheading.news.lanzhourb,{{ rule }} # 奔流新闻
 PROCESS-NAME,com.ahnews.newsclient,{{ rule }} # 中安新闻
+PROCESS-NAME,com.ai.marki,{{ rule }} # 马克水印相机
 PROCESS-NAME,com.aikan,{{ rule }} # 免费小说大全
 PROCESS-NAME,com.ainemo.dragoon,{{ rule }} # 小鱼易连
 PROCESS-NAME,com.alensw.PhoneArea,{{ rule }} # QC 归属地
@@ -280,7 +281,6 @@ PROCESS-NAME,com.by.butter.camera,{{ rule }} # 黄油相机
 PROCESS-NAME,com.bz.xiu,{{ rule }} # 壁纸秀秀
 PROCESS-NAME,com.c2vl.kgamebox,{{ rule }} # 狼人杀
 PROCESS-NAME,com.caijing,{{ rule }} # 财经杂志
-PROCESS-NAME,com.caineng.app,{{ rule }} # 才能网
 PROCESS-NAME,com.caing.news,{{ rule }} # 财新
 PROCESS-NAME,com.cainiao.wireless,{{ rule }} # 菜鸟
 PROCESS-NAME,com.cainiu.lawyer365,{{ rule }} # 律师365
@@ -293,6 +293,7 @@ PROCESS-NAME,com.cbnweekly,{{ rule }} # 第一财经杂志
 PROCESS-NAME,com.ccgs.sms,{{ rule }} # 短信群发助手
 PROCESS-NAME,com.cctv.caijing,{{ rule }} # 央视财经
 PROCESS-NAME,com.cctv.yangshipin.app.androidp,{{ rule }} # 央视频
+PROCESS-NAME,com.cdb.app,{{ rule }} # 充电加速器
 PROCESS-NAME,com.cdcd.milv,{{ rule }} # 觅侣
 PROCESS-NAME,com.cdtv.app,{{ rule }} # 看度新闻
 PROCESS-NAME,com.cdv.video360,{{ rule }} # 云美摄
@@ -447,6 +448,7 @@ PROCESS-NAME,com.easy.wallpaper,{{ rule }} # 番茄动态壁纸
 PROCESS-NAME,com.ebank.creditcard,{{ rule }} # 阳光惠生活
 PROCESS-NAME,com.ebnews,{{ rule }} # 亿邦
 PROCESS-NAME,com.ecitic.bank.mobile,{{ rule }} # 中信银行
+PROCESS-NAME,com.edujia.weimai,{{ rule }} # 微脉圈
 PROCESS-NAME,com.eduyun.app.factory.ykt,{{ rule }} # 智慧中小学
 PROCESS-NAME,com.eg.android.AlipayGphone,{{ rule }} # 支付宝
 PROCESS-NAME,com.ejnet.weathercamera,{{ rule }} # 天气相机
@@ -691,7 +693,6 @@ PROCESS-NAME,com.iflytek.inputmethod,{{ rule }} # 讯飞输入法
 PROCESS-NAME,com.iflytek.ringdiyclient,{{ rule }} # 酷音铃声
 PROCESS-NAME,com.iflytek.womusicclient,{{ rule }} # 联通视频彩铃
 PROCESS-NAME,com.ifreetalk.ftalk,{{ rule }} # 派派
-PROCESS-NAME,com.ihaozhuo.youjiankang,{{ rule }} # 优健康
 PROCESS-NAME,com.ihg.apps.android,{{ rule }} # IHG洲际酒店集团及优悦会
 PROCESS-NAME,com.ihope.hbdt,{{ rule }} # 冀时
 PROCESS-NAME,com.ihuman.recite,{{ rule }} # 万词王
@@ -1088,7 +1089,6 @@ PROCESS-NAME,com.rong.fastloan,{{ rule }} # 时光分期
 PROCESS-NAME,com.rong360.app,{{ rule }} # 融360
 PROCESS-NAME,com.ruanmei.ithome,{{ rule }} # IT之家
 PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影视大全看看
-PROCESS-NAME,com.runbey.ybjk,{{ rule }} # 元贝驾考
 PROCESS-NAME,com.saida.sjkd.xk,{{ rule }} # 享看
 PROCESS-NAME,com.sainti.eduread,{{ rule }} # 出口成章
 PROCESS-NAME,com.samoyed.credit,{{ rule }} # 省呗
@@ -1602,6 +1602,7 @@ PROCESS-NAME,ctrip.android.view,{{ rule }} # 携程旅行
 PROCESS-NAME,cuuca.sendfiles.Activity,{{ rule }} # 备份助手
 PROCESS-NAME,dongzheng.szkingdom.android.phone,{{ rule }} # 掌证宝
 PROCESS-NAME,droom.sleepIfUCan,{{ rule }} # 使命闹钟Alarmy
+PROCESS-NAME,enfc.metro,{{ rule }} # 亿通行
 PROCESS-NAME,epson.print,{{ rule }} # Epson iPrint
 PROCESS-NAME,fkg.client.side.activity,{{ rule }} # 蜂狂购
 PROCESS-NAME,flipboard.cn,{{ rule }} # 红板报

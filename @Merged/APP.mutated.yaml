@@ -143,6 +143,7 @@ payload:
   - PROCESS-NAME,com.afar.eleass #电工专家
   - PROCESS-NAME,com.aheading.news.lanzhourb #奔流新闻
   - PROCESS-NAME,com.ahnews.newsclient #中安新闻
+  - PROCESS-NAME,com.ai.marki #马克水印相机
   - PROCESS-NAME,com.aikan #免费小说大全
   - PROCESS-NAME,com.ainemo.dragoon #小鱼易连
   - PROCESS-NAME,com.alensw.PhoneArea #QC 归属地
@@ -280,7 +281,6 @@ payload:
   - PROCESS-NAME,com.bz.xiu #壁纸秀秀
   - PROCESS-NAME,com.c2vl.kgamebox #狼人杀
   - PROCESS-NAME,com.caijing #财经杂志
-  - PROCESS-NAME,com.caineng.app #才能网
   - PROCESS-NAME,com.caing.news #财新
   - PROCESS-NAME,com.cainiao.wireless #菜鸟
   - PROCESS-NAME,com.cainiu.lawyer365 #律师365
@@ -293,6 +293,7 @@ payload:
   - PROCESS-NAME,com.ccgs.sms #短信群发助手
   - PROCESS-NAME,com.cctv.caijing #央视财经
   - PROCESS-NAME,com.cctv.yangshipin.app.androidp #央视频
+  - PROCESS-NAME,com.cdb.app #充电加速器
   - PROCESS-NAME,com.cdcd.milv #觅侣
   - PROCESS-NAME,com.cdtv.app #看度新闻
   - PROCESS-NAME,com.cdv.video360 #云美摄
@@ -447,6 +448,7 @@ payload:
   - PROCESS-NAME,com.ebank.creditcard #阳光惠生活
   - PROCESS-NAME,com.ebnews #亿邦
   - PROCESS-NAME,com.ecitic.bank.mobile #中信银行
+  - PROCESS-NAME,com.edujia.weimai #微脉圈
   - PROCESS-NAME,com.eduyun.app.factory.ykt #智慧中小学
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
   - PROCESS-NAME,com.ejnet.weathercamera #天气相机
@@ -691,7 +693,6 @@ payload:
   - PROCESS-NAME,com.iflytek.ringdiyclient #酷音铃声
   - PROCESS-NAME,com.iflytek.womusicclient #联通视频彩铃
   - PROCESS-NAME,com.ifreetalk.ftalk #派派
-  - PROCESS-NAME,com.ihaozhuo.youjiankang #优健康
   - PROCESS-NAME,com.ihg.apps.android #IHG洲际酒店集团及优悦会
   - PROCESS-NAME,com.ihope.hbdt #冀时
   - PROCESS-NAME,com.ihuman.recite #万词王
@@ -1088,7 +1089,6 @@ payload:
   - PROCESS-NAME,com.rong360.app #融360
   - PROCESS-NAME,com.ruanmei.ithome #IT之家
   - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
-  - PROCESS-NAME,com.runbey.ybjk #元贝驾考
   - PROCESS-NAME,com.saida.sjkd.xk #享看
   - PROCESS-NAME,com.sainti.eduread #出口成章
   - PROCESS-NAME,com.samoyed.credit #省呗
@@ -1602,6 +1602,7 @@ payload:
   - PROCESS-NAME,cuuca.sendfiles.Activity #备份助手
   - PROCESS-NAME,dongzheng.szkingdom.android.phone #掌证宝
   - PROCESS-NAME,droom.sleepIfUCan #使命闹钟Alarmy
+  - PROCESS-NAME,enfc.metro #亿通行
   - PROCESS-NAME,epson.print #Epson iPrint
   - PROCESS-NAME,fkg.client.side.activity #蜂狂购
   - PROCESS-NAME,flipboard.cn #红板报
