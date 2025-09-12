@@ -116,7 +116,6 @@ payload:
   - PROCESS-NAME,com.baidu.yuedu #百度阅读
   - PROCESS-NAME,com.baihe #百合网
   - PROCESS-NAME,com.baile.shanduo #闪聊闪约
-  - PROCESS-NAME,com.bananavideo.atqb #香焦视频
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
   - PROCESS-NAME,com.baoyun.babycloud #口袋宝宝
   - PROCESS-NAME,com.battery.guard #电池卫士
@@ -211,7 +210,6 @@ payload:
   - PROCESS-NAME,com.dingtai.wxhn.activity #新湖南
   - PROCESS-NAME,com.dingYZ.dingyzwater #微脉水印相机
   - PROCESS-NAME,com.dinoenglish.yyb #E英语宝
-  - PROCESS-NAME,com.diyidan #第一弹
   - PROCESS-NAME,com.dongfanghn.com #Only婚恋
   - PROCESS-NAME,com.dongqiudi.news #懂球帝
   - PROCESS-NAME,com.douban.frodo #豆瓣
@@ -343,6 +341,7 @@ payload:
   - PROCESS-NAME,com.huawei.smarthome #智慧生活
   - PROCESS-NAME,com.huitouche.android.app #省省原省省回头车
   - PROCESS-NAME,com.huluxia.gametools #葫芦侠
+  - PROCESS-NAME,com.hunantv.imgo.activity #芒果TV
   - PROCESS-NAME,com.hundsun.stockwinner.cyqh #创元期货
   - PROCESS-NAME,com.hundsun.stockwinner.gdzq #光大证券金阳光
   - PROCESS-NAME,com.hundsun.stockwinner.gtjaqh #国泰君安期货经典版
@@ -483,6 +482,7 @@ payload:
   - PROCESS-NAME,com.macrovideo.v380pro #V380 Pro
   - PROCESS-NAME,com.magicpoint.mobile.bank #重庆农商行
   - PROCESS-NAME,com.maihan.tredian #淘最热点
+  - PROCESS-NAME,com.maipu.tourist #小鹿导游
   - PROCESS-NAME,com.maka.app #MAKA设计
   - PROCESS-NAME,com.mampod.ergedd #儿歌点点
   - PROCESS-NAME,com.mandian.android.dongdong #动动计步器
@@ -597,6 +597,7 @@ payload:
   - PROCESS-NAME,com.qihuo.yinhe #银河期货开户交易
   - PROCESS-NAME,com.qimingzz.qm #宝宝起名取名
   - PROCESS-NAME,com.qinhe.ispeak #IS语音
+  - PROCESS-NAME,com.qiouou.app #七鸥鸥
   - PROCESS-NAME,com.qiyi.video #爱奇艺
   - PROCESS-NAME,com.qiyi.video.child #爱奇艺奇巴布
   - PROCESS-NAME,com.qiyi.video.lite #爱奇艺极速版
@@ -834,7 +835,6 @@ payload:
   - PROCESS-NAME,com.wodan.xianshijian #兼客兼职
   - PROCESS-NAME,com.wodi.who #玩吧
   - PROCESS-NAME,com.wondertek.miguaikan #咪咕视频爱看版
-  - PROCESS-NAME,com.wondertek.paper #澎湃新闻
   - PROCESS-NAME,com.woqu.attendance #喔趣考勤
   - PROCESS-NAME,com.words.english #英语单词君
   - PROCESS-NAME,com.work.clock #起床闹铃

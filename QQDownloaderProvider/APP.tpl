@@ -116,7 +116,6 @@ PROCESS-NAME,com.baidu.wenku,{{ rule }} # 百度文库
 PROCESS-NAME,com.baidu.yuedu,{{ rule }} # 百度阅读
 PROCESS-NAME,com.baihe,{{ rule }} # 百合网
 PROCESS-NAME,com.baile.shanduo,{{ rule }} # 闪聊闪约
-PROCESS-NAME,com.bananavideo.atqb,{{ rule }} # 香焦视频
 PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
 PROCESS-NAME,com.baoyun.babycloud,{{ rule }} # 口袋宝宝
 PROCESS-NAME,com.battery.guard,{{ rule }} # 电池卫士
@@ -211,7 +210,6 @@ PROCESS-NAME,com.dingchebao,{{ rule }} # 订车宝
 PROCESS-NAME,com.dingtai.wxhn.activity,{{ rule }} # 新湖南
 PROCESS-NAME,com.dingYZ.dingyzwater,{{ rule }} # 微脉水印相机
 PROCESS-NAME,com.dinoenglish.yyb,{{ rule }} # E英语宝
-PROCESS-NAME,com.diyidan,{{ rule }} # 第一弹
 PROCESS-NAME,com.dongfanghn.com,{{ rule }} # Only婚恋
 PROCESS-NAME,com.dongqiudi.news,{{ rule }} # 懂球帝
 PROCESS-NAME,com.douban.frodo,{{ rule }} # 豆瓣
@@ -343,6 +341,7 @@ PROCESS-NAME,com.huawei.search,{{ rule }} # 智慧搜索
 PROCESS-NAME,com.huawei.smarthome,{{ rule }} # 智慧生活
 PROCESS-NAME,com.huitouche.android.app,{{ rule }} # 省省原省省回头车
 PROCESS-NAME,com.huluxia.gametools,{{ rule }} # 葫芦侠
+PROCESS-NAME,com.hunantv.imgo.activity,{{ rule }} # 芒果TV
 PROCESS-NAME,com.hundsun.stockwinner.cyqh,{{ rule }} # 创元期货
 PROCESS-NAME,com.hundsun.stockwinner.gdzq,{{ rule }} # 光大证券金阳光
 PROCESS-NAME,com.hundsun.stockwinner.gtjaqh,{{ rule }} # 国泰君安期货经典版
@@ -483,6 +482,7 @@ PROCESS-NAME,com.macrovideo.v380,{{ rule }} # V380
 PROCESS-NAME,com.macrovideo.v380pro,{{ rule }} # V380 Pro
 PROCESS-NAME,com.magicpoint.mobile.bank,{{ rule }} # 重庆农商行
 PROCESS-NAME,com.maihan.tredian,{{ rule }} # 淘最热点
+PROCESS-NAME,com.maipu.tourist,{{ rule }} # 小鹿导游
 PROCESS-NAME,com.maka.app,{{ rule }} # MAKA设计
 PROCESS-NAME,com.mampod.ergedd,{{ rule }} # 儿歌点点
 PROCESS-NAME,com.mandian.android.dongdong,{{ rule }} # 动动计步器
@@ -597,6 +597,7 @@ PROCESS-NAME,com.qihuo.guangda,{{ rule }} # 光大期货e开户
 PROCESS-NAME,com.qihuo.yinhe,{{ rule }} # 银河期货开户交易
 PROCESS-NAME,com.qimingzz.qm,{{ rule }} # 宝宝起名取名
 PROCESS-NAME,com.qinhe.ispeak,{{ rule }} # IS语音
+PROCESS-NAME,com.qiouou.app,{{ rule }} # 七鸥鸥
 PROCESS-NAME,com.qiyi.video,{{ rule }} # 爱奇艺
 PROCESS-NAME,com.qiyi.video.child,{{ rule }} # 爱奇艺奇巴布
 PROCESS-NAME,com.qiyi.video.lite,{{ rule }} # 爱奇艺极速版
@@ -834,7 +835,6 @@ PROCESS-NAME,com.wm.dmall,{{ rule }} # 多点
 PROCESS-NAME,com.wodan.xianshijian,{{ rule }} # 兼客兼职
 PROCESS-NAME,com.wodi.who,{{ rule }} # 玩吧
 PROCESS-NAME,com.wondertek.miguaikan,{{ rule }} # 咪咕视频爱看版
-PROCESS-NAME,com.wondertek.paper,{{ rule }} # 澎湃新闻
 PROCESS-NAME,com.woqu.attendance,{{ rule }} # 喔趣考勤
 PROCESS-NAME,com.words.english,{{ rule }} # 英语单词君
 PROCESS-NAME,com.work.clock,{{ rule }} # 起床闹铃

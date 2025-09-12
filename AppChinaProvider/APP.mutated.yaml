@@ -72,7 +72,6 @@ payload:
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
-  - PROCESS-NAME,cn.nanjingshuoyu.iclock #一键锁屏
   - PROCESS-NAME,cn.okek.chexingwuyou #车行无忧
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
   - PROCESS-NAME,cn.poco.jane #简拼
@@ -279,7 +278,6 @@ payload:
   - PROCESS-NAME,com.douban.radio #豆瓣FM
   - PROCESS-NAME,com.douguo.recipe #豆果美食
   - PROCESS-NAME,com.dp.android.elong #艺龙旅行
-  - PROCESS-NAME,com.dphfvp.memcpdhsf #实况live动态壁纸
   - PROCESS-NAME,com.dragon.read #番茄免费小说
   - PROCESS-NAME,com.dragonfly.wallpaper #蜻蜓壁纸
   - PROCESS-NAME,com.droidpiggy.weiqi #围棋宝典
@@ -370,7 +368,6 @@ payload:
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
-  - PROCESS-NAME,com.gxlp.childsong #儿歌故事宝宝启蒙大全
   - PROCESS-NAME,com.gzrcb.mobilebank #广州农商银行
   - PROCESS-NAME,com.haidilao #海底捞
   - PROCESS-NAME,com.haitao #55海淘
@@ -681,6 +678,7 @@ payload:
   - PROCESS-NAME,com.redrcd.ylxf #云岭先锋
   - PROCESS-NAME,com.renren.mobile.android #人人直播
   - PROCESS-NAME,com.roamingsoft.manager #WiFi连接管理器
+  - PROCESS-NAME,com.rs.callshow.intimate #知心来电秀
   - PROCESS-NAME,com.ruanmei.ithome #IT之家
   - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
   - PROCESS-NAME,com.saida.sjkd.xk #享看
@@ -850,6 +848,7 @@ payload:
   - PROCESS-NAME,com.videogo #萤石云视频
   - PROCESS-NAME,com.voibook.voicebook #音书
   - PROCESS-NAME,com.wacai365 #挖财记账
+  - PROCESS-NAME,com.wallpaperman.app #壁纸君
   - PROCESS-NAME,com.wallstreetcn.news #华尔街见闻
   - PROCESS-NAME,com.wandafilm.app #万达电影
   - PROCESS-NAME,com.wander.android.wallpaper #元气壁纸
@@ -964,6 +963,7 @@ payload:
   - PROCESS-NAME,com.zsyj.wallpaper #熊猫动态壁纸
   - PROCESS-NAME,com.zydsoft.acuherb #中医辨证云
   - PROCESS-NAME,com.zzu.sxm.chemical #化学方程式
+  - PROCESS-NAME,cszy.wdtk.dntkbz #我的图库
   - PROCESS-NAME,ctrip.android.view #携程旅行
   - PROCESS-NAME,cuuca.sendfiles.Activity #备份助手
   - PROCESS-NAME,dongzheng.szkingdom.android.phone #掌证宝

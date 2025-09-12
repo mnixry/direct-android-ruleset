@@ -729,6 +729,7 @@ PROCESS-NAME,com.sigmagame.imonster,{{ rule }} # Bulu Monster
 PROCESS-NAME,com.sigmateam.alienshootermobile.free,{{ rule }} # 孤胆枪手免费版
 PROCESS-NAME,com.sincetimes.games.worldship.yyh,{{ rule }} # 战舰帝国
 PROCESS-NAME,com.sinyee.babybus.cars,{{ rule }} # 宝宝爱交通工具
+PROCESS-NAME,com.sinyee.babybus.motion,{{ rule }} # 奇妙运动日记
 PROCESS-NAME,com.siqi.tank,{{ rule }} # 90坦克大战(经典版)
 PROCESS-NAME,com.sixwaves.strikefleetomega,{{ rule }} # 防御舰队
 PROCESS-NAME,com.skgames.trafficracer,{{ rule }} # 公路赛车手
@@ -908,7 +909,6 @@ PROCESS-NAME,com.xhtt.app.fzjh.yyh,{{ rule }} # 放置江湖
 PROCESS-NAME,com.xiaoao.car3d4,{{ rule }} # 3D终极狂飙4
 PROCESS-NAME,com.xiaokui.koi,{{ rule }} # 女神成长计划
 PROCESS-NAME,com.yixiu.pokemon_shkzhg,{{ rule }} # 口袋妖怪:时空之战歌
-PROCESS-NAME,com.yjk.yjkapp,{{ rule }} # 壹邦
 PROCESS-NAME,com.yofijoy.wdmp,{{ rule }} # 我的门派
 PROCESS-NAME,com.YouXin.SunnyPuppies,{{ rule }} # 晴天小狗
 PROCESS-NAME,com.YouXin.SunnyPuppiesTW,{{ rule }} # 晴天小狗
