@@ -401,6 +401,7 @@ payload:
   - PROCESS-NAME,com.gameshell.busparking3d #3D巴士停车
   - PROCESS-NAME,com.gamesourcestudio.carbonwarfarefree #碳素战争
   - PROCESS-NAME,com.gamevil.cartoonwars.gunner.global #卡通战争：枪手
+  - PROCESS-NAME,com.gbits.atm.leiting #问道
   - PROCESS-NAME,com.gc.activity #魔塔2012
   - PROCESS-NAME,com.gi.talkinggarfield #会说话的加菲猫
   - PROCESS-NAME,com.gi.talkingprincesa #会说话的公主
@@ -647,7 +648,6 @@ payload:
   - PROCESS-NAME,com.pinsmedical.pinsdoctor #嘉医有品医生版
   - PROCESS-NAME,com.pixel.gun3d #像素枪 3D(便携版)
   - PROCESS-NAME,com.pixelbite.Repulze #未来派赛车中文版
-  - PROCESS-NAME,com.pixelcattlegames.bloodcards #血牌
   - PROCESS-NAME,com.pixelsontoast.impossibleroad #不可思议之路
   - PROCESS-NAME,com.pixonic.wwr #机甲战队
   - PROCESS-NAME,com.PlausibleConcept.BadNorthFull #绝境北方

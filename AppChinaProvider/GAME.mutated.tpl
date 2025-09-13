@@ -401,6 +401,7 @@ PROCESS-NAME,com.games2win.parkingfrenzy,{{ rule }} # 停车场狂潮
 PROCESS-NAME,com.gameshell.busparking3d,{{ rule }} # 3D巴士停车
 PROCESS-NAME,com.gamesourcestudio.carbonwarfarefree,{{ rule }} # 碳素战争
 PROCESS-NAME,com.gamevil.cartoonwars.gunner.global,{{ rule }} # 卡通战争：枪手
+PROCESS-NAME,com.gbits.atm.leiting,{{ rule }} # 问道
 PROCESS-NAME,com.gc.activity,{{ rule }} # 魔塔2012
 PROCESS-NAME,com.gi.talkinggarfield,{{ rule }} # 会说话的加菲猫
 PROCESS-NAME,com.gi.talkingprincesa,{{ rule }} # 会说话的公主
@@ -647,7 +648,6 @@ PROCESS-NAME,com.pikpok.rua2,{{ rule }} # 进击的独角兽2
 PROCESS-NAME,com.pinsmedical.pinsdoctor,{{ rule }} # 嘉医有品医生版
 PROCESS-NAME,com.pixel.gun3d,{{ rule }} # 像素枪 3D(便携版)
 PROCESS-NAME,com.pixelbite.Repulze,{{ rule }} # 未来派赛车中文版
-PROCESS-NAME,com.pixelcattlegames.bloodcards,{{ rule }} # 血牌
 PROCESS-NAME,com.pixelsontoast.impossibleroad,{{ rule }} # 不可思议之路
 PROCESS-NAME,com.pixonic.wwr,{{ rule }} # 机甲战队
 PROCESS-NAME,com.PlausibleConcept.BadNorthFull,{{ rule }} # 绝境北方
