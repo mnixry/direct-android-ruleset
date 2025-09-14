@@ -205,7 +205,6 @@ payload:
   - PROCESS-NAME,com.caijing #财经杂志
   - PROCESS-NAME,com.caing.news #财新
   - PROCESS-NAME,com.caishi.cronus #唔哩头条
-  - PROCESS-NAME,com.call.myyb #满意网络电话
   - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
   - PROCESS-NAME,com.capelabs.leyou #乐友
   - PROCESS-NAME,com.cat.readall #悟空浏览器
@@ -1011,6 +1010,7 @@ payload:
   - PROCESS-NAME,net.joydao.spring2011 #祝福短信
   - PROCESS-NAME,net.kdnet.club #凯迪网
   - PROCESS-NAME,net.qihoo.launcher.widget.clockweather #360天气
+  - PROCESS-NAME,net.talk2all #Talk2all
   - PROCESS-NAME,net.xinhuamm.mainclient #新华社
   - PROCESS-NAME,net.yyasp.clothing #虚拟试衣间
   - PROCESS-NAME,net.zdsoft.zerobook_android #智人播客
