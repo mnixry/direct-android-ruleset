@@ -83,6 +83,7 @@ payload:
   - PROCESS-NAME,com.mindblocks.blocks.tencent #被尘封的故事
   - PROCESS-NAME,com.mizhongtech.qief #儿童益智切水果
   - PROCESS-NAME,com.mszmapp.detective #百变大侦探
+  - PROCESS-NAME,com.n1studio.empress #盛世天下
   - PROCESS-NAME,com.netease.lrs #狼人杀
   - PROCESS-NAME,com.netease.yhtj.gg #萤火突击
   - PROCESS-NAME,com.og.danjiddz #单机斗地主（开心版）
@@ -400,6 +401,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.gundambattle #敢达 争锋对决
   - PROCESS-NAME,com.tencent.tmgp.gw #口袋进化
   - PROCESS-NAME,com.tencent.tmgp.gzhgsgwdsh #三国：问鼎山河
+  - PROCESS-NAME,com.tencent.tmgp.gzjk.sjcs.yyb #水晶传说
   - PROCESS-NAME,com.tencent.tmgp.habby.archeroii #弓箭传说2
   - PROCESS-NAME,com.tencent.tmgp.habby.cnarchero.qq #弓箭传说
   - PROCESS-NAME,com.tencent.tmgp.habby.danke #弹壳特攻队
