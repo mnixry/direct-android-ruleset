@@ -667,7 +667,6 @@ payload:
   - PROCESS-NAME,com.icbc #中国工商银行
   - PROCESS-NAME,com.icbc.elife #工银e生活
   - PROCESS-NAME,com.icbc.emallmobile #融e购
-  - PROCESS-NAME,com.icbc.im #工银融e联
   - PROCESS-NAME,com.ichano.athome.avs #掌上看家采集端
   - PROCESS-NAME,com.ichano.athome.camera #掌上看家
   - PROCESS-NAME,com.ichinait.gbpassenger #首汽约车
@@ -1306,6 +1305,7 @@ payload:
   - PROCESS-NAME,com.tencent.zebra #水印相机
   - PROCESS-NAME,com.tgelec.aqsh #安全守护2
   - PROCESS-NAME,com.tgry.j7yr.rqtko #壁纸素材库
+  - PROCESS-NAME,com.themewallpaper.douping #主题动态壁纸
   - PROCESS-NAME,com.theotino.chinadaily #China Daily
   - PROCESS-NAME,com.theotino.sztv #无线苏州
   - PROCESS-NAME,com.thestore.main #1号会员店

@@ -527,7 +527,6 @@ payload:
   - PROCESS-NAME,com.jaekkl.forest #恐怖森林
   - PROCESS-NAME,com.JamGamesGmbH.SniperDuty.free #狙击使命：恐怖袭击
   - PROCESS-NAME,com.jgames.twos #挑战2048 中文版 数字益智游戏
-  - PROCESS-NAME,com.jiahui.lymj #南宁老友麻将
   - PROCESS-NAME,com.jibicat.jibiland.princesscastle #吉壁公主城堡
   - PROCESS-NAME,com.jiumijoy.simuniversity #我的大学
   - PROCESS-NAME,com.john.plasmasky #离子苍穹
@@ -607,7 +606,6 @@ payload:
   - PROCESS-NAME,com.mageeks.android.trucksim18 #欧洲重卡车模拟
   - PROCESS-NAME,com.mageeks.android.trucksimulatorpro2 #卡车模拟2
   - PROCESS-NAME,com.mageeks.android.trucksimulatorpro2016 #卡车模拟2016
-  - PROCESS-NAME,com.magene.onelapMatch #顽鹿竞技
   - PROCESS-NAME,com.magicflute.renjuworld #五林五子棋
   - PROCESS-NAME,com.magmamobile.game.EmpireConquest #帝国征服
   - PROCESS-NAME,com.martian.RoomEscape18.tx #密室逃脱18移动迷城
@@ -827,15 +825,15 @@ payload:
   - PROCESS-NAME,com.sincetimes.fknsg #放开那三国
   - PROCESS-NAME,com.sincetimes.games.worldship #战舰帝国
   - PROCESS-NAME,com.sincetimes.games.worldship.yyh #战舰帝国
-  - PROCESS-NAME,com.sinyee.babybus.adventure #奇妙逻辑启蒙-宝宝巴士脑力提升
+  - PROCESS-NAME,com.sinyee.babybus.adventure #奇妙逻辑启蒙
   - PROCESS-NAME,com.sinyee.babybus.bumpercars #奇妙碰碰车
   - PROCESS-NAME,com.sinyee.babybus.careII #照顾甜心妹妹
   - PROCESS-NAME,com.sinyee.babybus.cars #宝宝爱交通工具
   - PROCESS-NAME,com.sinyee.babybus.chef #宝宝小厨房
   - PROCESS-NAME,com.sinyee.babybus.coffee #奇妙咖啡餐厅
   - PROCESS-NAME,com.sinyee.babybus.cultivation #宝宝小牧场
-  - PROCESS-NAME,com.sinyee.babybus.delicacy #奇妙世界美食-萌娃变身料理大师
-  - PROCESS-NAME,com.sinyee.babybus.diner #宝宝早餐车-美食烹饪模拟餐厅
+  - PROCESS-NAME,com.sinyee.babybus.delicacy #奇妙世界美食
+  - PROCESS-NAME,com.sinyee.babybus.diner #宝宝早餐车
   - PROCESS-NAME,com.sinyee.babybus.dinosaurIII #奇妙恐龙科普
   - PROCESS-NAME,com.sinyee.babybus.factory #宝宝冰淇淋工厂
   - PROCESS-NAME,com.sinyee.babybus.findCha #宝宝来找茬
@@ -846,7 +844,7 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.kitchen #宝宝神奇厨房
   - PROCESS-NAME,com.sinyee.babybus.motion #奇妙运动日记
   - PROCESS-NAME,com.sinyee.babybus.princess #奇妙的专注力
-  - PROCESS-NAME,com.sinyee.babybus.restaurant #奇妙料理餐厅-儿童做饭烹饪美食
+  - PROCESS-NAME,com.sinyee.babybus.restaurant #奇妙料理餐厅
   - PROCESS-NAME,com.sinyee.babybus.snacks #宝宝手工零食
   - PROCESS-NAME,com.sinyee.babybus.soda #宝宝果汁商店
   - PROCESS-NAME,com.sinyee.babybus.spell #宝宝拼拼乐
@@ -1181,8 +1179,8 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.galasports.operablebasketball #美职篮巅峰对决
   - PROCESS-NAME,com.tencent.tmgp.galasports.totalfootball #最佳球会
   - PROCESS-NAME,com.tencent.tmgp.game.jianwuqk #剑舞乾坤
-  - PROCESS-NAME,com.tencent.tmgp.gamegou.fm #梦幻冠军足球
   - PROCESS-NAME,com.tencent.tmgp.gbits.atm #问道
+  - PROCESS-NAME,com.tencent.tmgp.gcsgzh5 #攻城三国志
   - PROCESS-NAME,com.tencent.tmgp.glkj.lhcx01 #灵魂潮汐
   - PROCESS-NAME,com.tencent.tmgp.glzp #桂林字牌手机版
   - PROCESS-NAME,com.tencent.tmgp.gm.hs #魂色
@@ -1231,6 +1229,8 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.huoyu.spidersolitaireclassic #经典蜘蛛纸牌
   - PROCESS-NAME,com.tencent.tmgp.hxjysy #火线精英
   - PROCESS-NAME,com.tencent.tmgp.hxmjl #幻想名将录
+  - PROCESS-NAME,com.tencent.tmgp.hy.ayzg1 #遨游中国1
+  - PROCESS-NAME,com.tencent.tmgp.hy.ayzg2 #遨游中国2
   - PROCESS-NAME,com.tencent.tmgp.hy.hcrdj #火柴人对决
   - PROCESS-NAME,com.tencent.tmgp.hy.hcrssyx #火柴人绳索英雄
   - PROCESS-NAME,com.tencent.tmgp.hy.hcrssyxz2 #火柴人绳索英雄传2
@@ -1238,6 +1238,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.hy.kbnn #恐怖奶奶
   - PROCESS-NAME,com.tencent.tmgp.hy.tksj #托卡世界
   - PROCESS-NAME,com.tencent.tmgp.hy.zjsc #终极赛车
+  - PROCESS-NAME,com.tencent.tmgp.hy.zsjsmn #真实驾驶模拟
   - PROCESS-NAME,com.tencent.tmgp.hymc #荒野迷城
   - PROCESS-NAME,com.tencent.tmgp.hyrjgd #荒野日记：孤岛
   - PROCESS-NAME,com.tencent.tmgp.idol2 #绝对演绎
@@ -1246,6 +1247,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ikillerss #推理学院
   - PROCESS-NAME,com.tencent.tmgp.iron #钢铁命令
   - PROCESS-NAME,com.tencent.tmgp.javgame.lsj #来升级
+  - PROCESS-NAME,com.tencent.tmgp.jbycmnq #车祸模拟器
   - PROCESS-NAME,com.tencent.tmgp.jdzmj #中至赣牌圈
   - PROCESS-NAME,com.tencent.tmgp.jhyywx #江湖悠悠
   - PROCESS-NAME,com.tencent.tmgp.jjxm #新仙魔九界
@@ -1342,6 +1344,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mozhigu #魔之谷游戏软件v1.0
   - PROCESS-NAME,com.tencent.tmgp.mqwgctx #攻城天下
   - PROCESS-NAME,com.tencent.tmgp.mqwsgzz #三国战争
+  - PROCESS-NAME,com.tencent.tmgp.mqyy #萌趣医院
   - PROCESS-NAME,com.tencent.tmgp.ms #漫威终极逆转
   - PROCESS-NAME,com.tencent.tmgp.mt2r #我叫MT2
   - PROCESS-NAME,com.tencent.tmgp.mt4 #我叫MT4
@@ -1584,9 +1587,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.uuapps.doudizhu #经典单机斗地主
   - PROCESS-NAME,com.tencent.tmgp.uuappsmajiang #经典单机麻将
   - PROCESS-NAME,com.tencent.tmgp.vlfcn #绿茵信仰
-  - PROCESS-NAME,com.tencent.tmgp.wali.jianxiashijie3D #剑侠世界
   - PROCESS-NAME,com.tencent.tmgp.wansuiye #叫我万岁爷
-  - PROCESS-NAME,com.tencent.tmgp.warofempire #大帝国征服者
   - PROCESS-NAME,com.tencent.tmgp.warship2 #舰指太平洋
   - PROCESS-NAME,com.tencent.tmgp.wckj.zljz #逐鹿九州
   - PROCESS-NAME,com.tencent.tmgp.wdmp #我的门派
@@ -1677,7 +1678,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.youzu.xdmbj #新盗墓笔记
   - PROCESS-NAME,com.tencent.tmgp.yqklnw #一千克拉女王
   - PROCESS-NAME,com.tencent.tmgp.yqqskp #元气骑士
-  - PROCESS-NAME,com.tencent.tmgp.yr.tetris #俄罗斯方块游戏
   - PROCESS-NAME,com.tencent.tmgp.yslzm #以闪亮之名
   - PROCESS-NAME,com.tencent.tmgp.ysymx #勇士与冒险
   - PROCESS-NAME,com.tencent.tmgp.yttlj #倚天屠龙记

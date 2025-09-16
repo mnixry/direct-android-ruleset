@@ -213,7 +213,6 @@ payload:
   - PROCESS-NAME,com.dongfanghn.com #Only婚恋
   - PROCESS-NAME,com.dongqiudi.news #懂球帝
   - PROCESS-NAME,com.douban.frodo #豆瓣
-  - PROCESS-NAME,com.douguo.recipe #豆果美食
   - PROCESS-NAME,com.doupin.show #来电秀
   - PROCESS-NAME,com.dp.android.elong #艺龙旅行
   - PROCESS-NAME,com.dragon.calendar #东方农历
@@ -365,7 +364,6 @@ payload:
   - PROCESS-NAME,com.iboxpay.minicashbox #钱盒商户通
   - PROCESS-NAME,com.icbc #中国工商银行
   - PROCESS-NAME,com.icbc.elife #工银e生活
-  - PROCESS-NAME,com.icbc.im #工银融e联
   - PROCESS-NAME,com.ichinait.gbpassenger #首汽约车
   - PROCESS-NAME,com.icoolme.android.weather #最美天气
   - PROCESS-NAME,com.ifeimo.audiorecord #录音大师
@@ -402,6 +400,7 @@ payload:
   - PROCESS-NAME,com.jianzhiku.zhongrenbang #众人帮
   - PROCESS-NAME,com.jiaoliuqu.peipei #恰聊
   - PROCESS-NAME,com.jiayuan #世纪佳缘
+  - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
   - PROCESS-NAME,com.jiliguala.niuwa #叽里呱啦
   - PROCESS-NAME,com.jin10 #金十数据
@@ -775,6 +774,7 @@ payload:
   - PROCESS-NAME,com.tingniu.audioclip #音频剪辑大师
   - PROCESS-NAME,com.tinmanarts.JoJoSherlock #叫叫识字
   - PROCESS-NAME,com.tiqiaa.icontrol #遥控精灵
+  - PROCESS-NAME,com.tmall.wireless #天猫
   - PROCESS-NAME,com.tmri.app.main #交管12123
   - PROCESS-NAME,com.tongcheng.android #同程旅行
   - PROCESS-NAME,com.tongchengpzhl.com #同城品质婚恋
