@@ -83,6 +83,7 @@ payload:
   - PROCESS-NAME,com.android.abustory #阿布睡前故事
   - PROCESS-NAME,com.android.app.quanmama #券妈妈优惠券
   - PROCESS-NAME,com.android.bankabc #农行掌上银行
+  - PROCESS-NAME,com.android.chrome #谷歌浏览器Google Chrome
   - PROCESS-NAME,com.android.dazhihui #大智慧
   - PROCESS-NAME,com.android.haitong #国泰海通通财
   - PROCESS-NAME,com.android.icredit #企查查
@@ -401,7 +402,6 @@ payload:
   - PROCESS-NAME,com.jianzhiku.zhongrenbang #众人帮
   - PROCESS-NAME,com.jiaoliuqu.peipei #恰聊
   - PROCESS-NAME,com.jiayuan #世纪佳缘
-  - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
   - PROCESS-NAME,com.jiliguala.niuwa #叽里呱啦
   - PROCESS-NAME,com.jin10 #金十数据

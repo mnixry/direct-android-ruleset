@@ -409,7 +409,6 @@ PROCESS-NAME,com.douban.radio,{{ rule }} # 豆瓣FM
 PROCESS-NAME,com.douguo.recipe,{{ rule }} # 豆果美食
 PROCESS-NAME,com.doupin.show,{{ rule }} # 来电秀
 PROCESS-NAME,com.dp.android.elong,{{ rule }} # 艺龙旅行
-PROCESS-NAME,com.dphfvp.memcpdhsf,{{ rule }} # 实况live动态壁纸
 PROCESS-NAME,com.dragon.calendar,{{ rule }} # 东方农历
 PROCESS-NAME,com.dragon.read,{{ rule }} # 番茄免费小说
 PROCESS-NAME,com.dragon.ringtone,{{ rule }} # 东方铃声
@@ -1596,6 +1595,7 @@ PROCESS-NAME,com.zyhd.voice,{{ rule }} # 语音包变声器
 PROCESS-NAME,com.zzu.sxm.chemical,{{ rule }} # 化学方程式
 PROCESS-NAME,com.zzw.october,{{ rule }} # 志愿汇
 PROCESS-NAME,consumer.ttpc.com.consumer,{{ rule }} # 天天拍车
+PROCESS-NAME,cszy.wdtk.dntkbz,{{ rule }} # 我的图库
 PROCESS-NAME,ctrip.android.view,{{ rule }} # 携程旅行
 PROCESS-NAME,cuuca.sendfiles.Activity,{{ rule }} # 备份助手
 PROCESS-NAME,dongzheng.szkingdom.android.phone,{{ rule }} # 掌证宝

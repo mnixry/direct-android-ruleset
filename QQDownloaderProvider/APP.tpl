@@ -83,6 +83,7 @@ PROCESS-NAME,com.ancient.calendar,{{ rule }} # 中农老黄历
 PROCESS-NAME,com.android.abustory,{{ rule }} # 阿布睡前故事
 PROCESS-NAME,com.android.app.quanmama,{{ rule }} # 券妈妈优惠券
 PROCESS-NAME,com.android.bankabc,{{ rule }} # 农行掌上银行
+PROCESS-NAME,com.android.chrome,{{ rule }} # 谷歌浏览器Google Chrome
 PROCESS-NAME,com.android.dazhihui,{{ rule }} # 大智慧
 PROCESS-NAME,com.android.haitong,{{ rule }} # 国泰海通通财
 PROCESS-NAME,com.android.icredit,{{ rule }} # 企查查
@@ -401,7 +402,6 @@ PROCESS-NAME,com.jianyou.swatch,{{ rule }} # 智能守护5
 PROCESS-NAME,com.jianzhiku.zhongrenbang,{{ rule }} # 众人帮
 PROCESS-NAME,com.jiaoliuqu.peipei,{{ rule }} # 恰聊
 PROCESS-NAME,com.jiayuan,{{ rule }} # 世纪佳缘
-PROCESS-NAME,com.jiemian.news,{{ rule }} # 界面新闻
 PROCESS-NAME,com.jifen.qukan,{{ rule }} # 趣头条
 PROCESS-NAME,com.jiliguala.niuwa,{{ rule }} # 叽里呱啦
 PROCESS-NAME,com.jin10,{{ rule }} # 金十数据

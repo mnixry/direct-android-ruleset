@@ -334,6 +334,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.dtszjwd222 #大天使之剑H5
   - PROCESS-NAME,com.tencent.tmgp.duige.hzw #花之舞
   - PROCESS-NAME,com.tencent.tmgp.dungeon22 #地下城堡2：黑暗觉醒
+  - PROCESS-NAME,com.tencent.tmgp.dungeon4 #地下城堡4：骑士与破碎编年史
   - PROCESS-NAME,com.tencent.tmgp.duole.chinachesshd #多乐中国象棋
   - PROCESS-NAME,com.tencent.tmgp.duole.duolemjhd #多乐麻将
   - PROCESS-NAME,com.tencent.tmgp.dustglobal.jianghu #这就是江湖
@@ -545,7 +546,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.modernship2 #现代海战
   - PROCESS-NAME,com.tencent.tmgp.molenew #摩尔庄园
   - PROCESS-NAME,com.tencent.tmgp.momoca.isekai2cn #异世界慢生活
-  - PROCESS-NAME,com.tencent.tmgp.mozhigu #魔之谷游戏软件v1.0
   - PROCESS-NAME,com.tencent.tmgp.mqwgctx #攻城天下
   - PROCESS-NAME,com.tencent.tmgp.mqwsgzz #三国战争
   - PROCESS-NAME,com.tencent.tmgp.mqyy #萌趣医院
@@ -674,7 +674,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sf3 #暗影格斗3
   - PROCESS-NAME,com.tencent.tmgp.sg3 #放开那三国3
   - PROCESS-NAME,com.tencent.tmgp.sgame #王者荣耀
-  - PROCESS-NAME,com.tencent.tmgp.sgcs #三国传说
   - PROCESS-NAME,com.tencent.tmgp.sgfx #曙光防线
   - PROCESS-NAME,com.tencent.tmgp.sgqyz #三国群英传-霸王之业
   - PROCESS-NAME,com.tencent.tmgp.sgqyzhhby #三国群英传：鸿鹄霸业
@@ -854,7 +853,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xynegyz #西游女儿国
   - PROCESS-NAME,com.tencent.tmgp.ycdml #异尘：达米拉
   - PROCESS-NAME,com.tencent.tmgp.ycf.herosland #英勇之地
-  - PROCESS-NAME,com.tencent.tmgp.ycxjjjc #仙境竞技场
   - PROCESS-NAME,com.tencent.tmgp.ydcsly #一刀传世
   - PROCESS-NAME,com.tencent.tmgp.yhzx #云海之下
   - PROCESS-NAME,com.tencent.tmgp.yhzz.huiyue #永恒征战

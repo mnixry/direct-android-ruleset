@@ -397,7 +397,6 @@ PROCESS-NAME,com.jianyou.swatch,{{ rule }} # 智能守护5
 PROCESS-NAME,com.jianzhiku.zhongrenbang,{{ rule }} # 众人帮
 PROCESS-NAME,com.jiaoliuqu.peipei,{{ rule }} # 恰聊
 PROCESS-NAME,com.jiayuan,{{ rule }} # 世纪佳缘
-PROCESS-NAME,com.jiemian.news,{{ rule }} # 界面新闻
 PROCESS-NAME,com.jifen.qukan,{{ rule }} # 趣头条
 PROCESS-NAME,com.jiliguala.niuwa,{{ rule }} # 叽里呱啦
 PROCESS-NAME,com.jin10,{{ rule }} # 金十数据
