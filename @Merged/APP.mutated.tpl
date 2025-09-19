@@ -1435,7 +1435,6 @@ PROCESS-NAME,com.xfplay.play,{{ rule }} # 影音先锋
 PROCESS-NAME,com.xhey.xcamera,{{ rule }} # 今日水印相机
 PROCESS-NAME,com.xhqb.app,{{ rule }} # 小花钱包
 PROCESS-NAME,com.xiachufang,{{ rule }} # 下厨房
-PROCESS-NAME,com.xiangha,{{ rule }} # 香哈菜谱
 PROCESS-NAME,com.xiangrikui.sixapp,{{ rule }} # 向日葵保险人
 PROCESS-NAME,com.xiaobanlong.main,{{ rule }} # 小伴龙
 PROCESS-NAME,com.xiaodao.jiemeng,{{ rule }} # 复真书法

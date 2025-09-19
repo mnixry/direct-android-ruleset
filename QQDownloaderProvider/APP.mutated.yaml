@@ -397,6 +397,7 @@ payload:
   - PROCESS-NAME,com.jianzhiku.zhongrenbang #众人帮
   - PROCESS-NAME,com.jiaoliuqu.peipei #恰聊
   - PROCESS-NAME,com.jiayuan #世纪佳缘
+  - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
   - PROCESS-NAME,com.jiliguala.niuwa #叽里呱啦
   - PROCESS-NAME,com.jin10 #金十数据
@@ -841,7 +842,6 @@ payload:
   - PROCESS-NAME,com.xhey.xcamera #今日水印相机
   - PROCESS-NAME,com.xhqb.app #小花钱包
   - PROCESS-NAME,com.xiachufang #下厨房
-  - PROCESS-NAME,com.xiangha #香哈菜谱
   - PROCESS-NAME,com.xiangrikui.sixapp #向日葵保险人
   - PROCESS-NAME,com.xiaobanlong.main #小伴龙
   - PROCESS-NAME,com.xiaodao.jiemeng #复真书法
