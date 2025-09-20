@@ -112,7 +112,6 @@ payload:
   - PROCESS-NAME,com.baidu.netdisk #百度网盘
   - PROCESS-NAME,com.baidu.searchbox #百度
   - PROCESS-NAME,com.baidu.searchbox.lite #百度极速版
-  - PROCESS-NAME,com.baidu.tieba #百度贴吧
   - PROCESS-NAME,com.baidu.video #百搜视频
   - PROCESS-NAME,com.baidu.wenku #百度文库
   - PROCESS-NAME,com.baidu.yuedu #百度阅读
@@ -810,6 +809,7 @@ payload:
   - PROCESS-NAME,com.video.clip #视频拼接王
   - PROCESS-NAME,com.videogo #萤石云视频
   - PROCESS-NAME,com.vivo.space #vivo 官网
+  - PROCESS-NAME,com.voice.dubbing #配音大师
   - PROCESS-NAME,com.wacai365 #挖财记账
   - PROCESS-NAME,com.wakeup.howear #Wearfit Pro
   - PROCESS-NAME,com.wakeyoga.wakeyoga #Wake瑜伽
