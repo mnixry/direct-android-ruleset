@@ -68,6 +68,7 @@ PROCESS-NAME,cn.kuwo.tingshu,{{ rule }} # 酷我畅听
 PROCESS-NAME,cn.ledongli.ldl,{{ rule }} # 乐动力
 PROCESS-NAME,cn.longmaster.pengpeng,{{ rule }} # 语玩
 PROCESS-NAME,cn.lrapps.changliaocall,{{ rule }} # 畅聊网络电话
+PROCESS-NAME,cn.lrapps.yitongcall,{{ rule }} # 易通网络电话
 PROCESS-NAME,cn.mama.activity,{{ rule }} # 妈妈网轻聊
 PROCESS-NAME,cn.mchina.mbrowser,{{ rule }} # 移联浏览器
 PROCESS-NAME,cn.mopon.film.xflh,{{ rule }} # 幸福看
@@ -276,7 +277,6 @@ PROCESS-NAME,com.douban.book.reader,{{ rule }} # 豆瓣阅读
 PROCESS-NAME,com.douban.radio,{{ rule }} # 豆瓣FM
 PROCESS-NAME,com.douguo.recipe,{{ rule }} # 豆果美食
 PROCESS-NAME,com.dp.android.elong,{{ rule }} # 艺龙旅行
-PROCESS-NAME,com.dphfvp.memcpdhsf,{{ rule }} # 实况live动态壁纸
 PROCESS-NAME,com.dragon.read,{{ rule }} # 番茄免费小说
 PROCESS-NAME,com.dragonfly.wallpaper,{{ rule }} # 蜻蜓壁纸
 PROCESS-NAME,com.droidpiggy.weiqi,{{ rule }} # 围棋宝典
@@ -681,6 +681,7 @@ PROCESS-NAME,com.rd.kx,{{ rule }} # 星剪
 PROCESS-NAME,com.redrcd.ylxf,{{ rule }} # 云岭先锋
 PROCESS-NAME,com.renren.mobile.android,{{ rule }} # 人人直播
 PROCESS-NAME,com.roamingsoft.manager,{{ rule }} # WiFi连接管理器
+PROCESS-NAME,com.rs.callshow.intimate,{{ rule }} # 知心来电秀
 PROCESS-NAME,com.ruanmei.ithome,{{ rule }} # IT之家
 PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影视大全看看
 PROCESS-NAME,com.saida.sjkd.xk,{{ rule }} # 享看
@@ -692,7 +693,7 @@ PROCESS-NAME,com.sanya.xinxiulive,{{ rule }} # Bei贝
 PROCESS-NAME,com.scanning,{{ rule }} # 二维码与条形码
 PROCESS-NAME,com.sdu.didi.psnger,{{ rule }} # 滴滴出行
 PROCESS-NAME,com.sec.android.easyMover,{{ rule }} # S 换机助手
-PROCESS-NAME,com.secoo,{{ rule }} # 寺库
+PROCESS-NAME,com.secoo,{{ rule }} # 寺库奢侈品
 PROCESS-NAME,com.seetong.app.seetong,{{ rule }} # Seetong
 PROCESS-NAME,com.sevenmmobile,{{ rule }} # 7M足球实时比分
 PROCESS-NAME,com.shanbay.sentence,{{ rule }} # 扇贝单词英语版

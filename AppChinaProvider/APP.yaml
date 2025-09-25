@@ -68,6 +68,7 @@ payload:
   - PROCESS-NAME,cn.ledongli.ldl #乐动力
   - PROCESS-NAME,cn.longmaster.pengpeng #语玩
   - PROCESS-NAME,cn.lrapps.changliaocall #畅聊网络电话
+  - PROCESS-NAME,cn.lrapps.yitongcall #易通网络电话
   - PROCESS-NAME,cn.mama.activity #妈妈网轻聊
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看
@@ -276,7 +277,6 @@ payload:
   - PROCESS-NAME,com.douban.radio #豆瓣FM
   - PROCESS-NAME,com.douguo.recipe #豆果美食
   - PROCESS-NAME,com.dp.android.elong #艺龙旅行
-  - PROCESS-NAME,com.dphfvp.memcpdhsf #实况live动态壁纸
   - PROCESS-NAME,com.dragon.read #番茄免费小说
   - PROCESS-NAME,com.dragonfly.wallpaper #蜻蜓壁纸
   - PROCESS-NAME,com.droidpiggy.weiqi #围棋宝典
@@ -681,6 +681,7 @@ payload:
   - PROCESS-NAME,com.redrcd.ylxf #云岭先锋
   - PROCESS-NAME,com.renren.mobile.android #人人直播
   - PROCESS-NAME,com.roamingsoft.manager #WiFi连接管理器
+  - PROCESS-NAME,com.rs.callshow.intimate #知心来电秀
   - PROCESS-NAME,com.ruanmei.ithome #IT之家
   - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
   - PROCESS-NAME,com.saida.sjkd.xk #享看
@@ -692,7 +693,7 @@ payload:
   - PROCESS-NAME,com.scanning #二维码与条形码
   - PROCESS-NAME,com.sdu.didi.psnger #滴滴出行
   - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
-  - PROCESS-NAME,com.secoo #寺库
+  - PROCESS-NAME,com.secoo #寺库奢侈品
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.sevenmmobile #7M足球实时比分
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
