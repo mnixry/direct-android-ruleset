@@ -32,6 +32,7 @@ payload:
   - PROCESS-NAME,cn.danatech.xingseapp #形色
   - PROCESS-NAME,cn.dxy.android.aspirin #丁香医生
   - PROCESS-NAME,cn.eclicks.drivingtest #车轮驾考通
+  - PROCESS-NAME,cn.eclicks.wzsearch #车轮
   - PROCESS-NAME,cn.egame.terminal.cloud5g #天翼云游戏
   - PROCESS-NAME,cn.emagsoftware.gamehall #咪咕快游
   - PROCESS-NAME,cn.etouch.ecalendar #中华万年历
@@ -310,7 +311,6 @@ payload:
   - PROCESS-NAME,com.happyteam.dubbingshow #配音秀
   - PROCESS-NAME,com.hazq.huiying.android #华安证券
   - PROCESS-NAME,com.hbrb.jiyun #冀云
-  - PROCESS-NAME,com.hcc.app #京东消费金融
   - PROCESS-NAME,com.hcyh.scanner #扫描仪全能王
   - PROCESS-NAME,com.helplove.shbf #社会扶贫
   - PROCESS-NAME,com.hexin.plat.android #同花顺
@@ -492,6 +492,7 @@ payload:
   - PROCESS-NAME,com.McDullpalm.bus #麦兜掌上公交
   - PROCESS-NAME,com.mediabox.voicechanger #安卓变声器
   - PROCESS-NAME,com.meelive.ingkee #映客直播
+  - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.meipaimv #美拍
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-3D手办
   - PROCESS-NAME,com.meitu.poster #美图设计室
@@ -904,7 +905,6 @@ payload:
   - PROCESS-NAME,com.ykqqyktto.jbcdd #空调遥控器
   - PROCESS-NAME,com.ymatou.shop #洋码头
   - PROCESS-NAME,com.ymt360.app.mass #一亩田
-  - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youcheyihou.iyourautobee #车小蜂

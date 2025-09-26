@@ -32,6 +32,7 @@ PROCESS-NAME,cn.damai,{{ rule }} # 大麦
 PROCESS-NAME,cn.danatech.xingseapp,{{ rule }} # 形色
 PROCESS-NAME,cn.dxy.android.aspirin,{{ rule }} # 丁香医生
 PROCESS-NAME,cn.eclicks.drivingtest,{{ rule }} # 车轮驾考通
+PROCESS-NAME,cn.eclicks.wzsearch,{{ rule }} # 车轮
 PROCESS-NAME,cn.egame.terminal.cloud5g,{{ rule }} # 天翼云游戏
 PROCESS-NAME,cn.emagsoftware.gamehall,{{ rule }} # 咪咕快游
 PROCESS-NAME,cn.etouch.ecalendar,{{ rule }} # 中华万年历
@@ -315,7 +316,6 @@ PROCESS-NAME,com.haodf.android,{{ rule }} # 好大夫在线
 PROCESS-NAME,com.happyteam.dubbingshow,{{ rule }} # 配音秀
 PROCESS-NAME,com.hazq.huiying.android,{{ rule }} # 华安证券
 PROCESS-NAME,com.hbrb.jiyun,{{ rule }} # 冀云
-PROCESS-NAME,com.hcc.app,{{ rule }} # 京东消费金融
 PROCESS-NAME,com.hcyh.scanner,{{ rule }} # 扫描仪全能王
 PROCESS-NAME,com.helplove.shbf,{{ rule }} # 社会扶贫
 PROCESS-NAME,com.hexin.plat.android,{{ rule }} # 同花顺
@@ -497,6 +497,7 @@ PROCESS-NAME,com.maxxipoint.android,{{ rule }} # 集享联盟
 PROCESS-NAME,com.McDullpalm.bus,{{ rule }} # 麦兜掌上公交
 PROCESS-NAME,com.mediabox.voicechanger,{{ rule }} # 安卓变声器
 PROCESS-NAME,com.meelive.ingkee,{{ rule }} # 映客直播
+PROCESS-NAME,com.meitianmeihuimtmh.app,{{ rule }} # 喵小盒
 PROCESS-NAME,com.meitu.meipaimv,{{ rule }} # 美拍
 PROCESS-NAME,com.meitu.meiyancamera,{{ rule }} # 美颜相机-3D手办
 PROCESS-NAME,com.meitu.poster,{{ rule }} # 美图设计室
@@ -913,7 +914,6 @@ PROCESS-NAME,com.yjs.android,{{ rule }} # 应届生求职
 PROCESS-NAME,com.ykqqyktto.jbcdd,{{ rule }} # 空调遥控器
 PROCESS-NAME,com.ymatou.shop,{{ rule }} # 洋码头
 PROCESS-NAME,com.ymt360.app.mass,{{ rule }} # 一亩田
-PROCESS-NAME,com.yoho,{{ rule }} # Yoho!Buy有货
 PROCESS-NAME,com.yoloho.dayima,{{ rule }} # 大姨妈
 PROCESS-NAME,com.yoosee,{{ rule }} # 有看头
 PROCESS-NAME,com.youcheyihou.iyourautobee,{{ rule }} # 车小蜂

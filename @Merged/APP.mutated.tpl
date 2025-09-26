@@ -411,6 +411,7 @@ PROCESS-NAME,com.douban.frodo,{{ rule }} # 豆瓣
 PROCESS-NAME,com.douban.radio,{{ rule }} # 豆瓣FM
 PROCESS-NAME,com.douguo.recipe,{{ rule }} # 豆果美食
 PROCESS-NAME,com.dp.android.elong,{{ rule }} # 艺龙旅行
+PROCESS-NAME,com.dphfvp.memcpdhsf,{{ rule }} # 实况live动态壁纸
 PROCESS-NAME,com.dragon.calendar,{{ rule }} # 东方农历
 PROCESS-NAME,com.dragon.read,{{ rule }} # 番茄免费小说
 PROCESS-NAME,com.dragon.ringtone,{{ rule }} # 东方铃声
@@ -581,7 +582,6 @@ PROCESS-NAME,com.happylife.multimedia.image,{{ rule }} # 相片集
 PROCESS-NAME,com.happyteam.dubbingshow,{{ rule }} # 配音秀
 PROCESS-NAME,com.hazq.huiying.android,{{ rule }} # 华安证券
 PROCESS-NAME,com.hbrb.jiyun,{{ rule }} # 冀云
-PROCESS-NAME,com.hcc.app,{{ rule }} # 京东消费金融
 PROCESS-NAME,com.hcyh.scanner,{{ rule }} # 扫描仪全能王
 PROCESS-NAME,com.heiyan.reader,{{ rule }} # 黑岩阅读
 PROCESS-NAME,com.hellotalk,{{ rule }} # HelloTalk
@@ -889,6 +889,7 @@ PROCESS-NAME,com.mediabox.voicechanger,{{ rule }} # 安卓变声器
 PROCESS-NAME,com.meelive.ingkee,{{ rule }} # 映客直播
 PROCESS-NAME,com.meet.pianolearn,{{ rule }} # 钢琴教练
 PROCESS-NAME,com.meetstudio.app.Zither,{{ rule }} # 魔幻古筝
+PROCESS-NAME,com.meitianmeihuimtmh.app,{{ rule }} # 喵小盒
 PROCESS-NAME,com.meitu.makeup,{{ rule }} # 美妆相机
 PROCESS-NAME,com.meitu.meipaimv,{{ rule }} # 美拍
 PROCESS-NAME,com.meitu.meiyancamera,{{ rule }} # 美颜相机-3D手办
@@ -1088,7 +1089,6 @@ PROCESS-NAME,com.renxing.xys,{{ rule }} # 性用社
 PROCESS-NAME,com.roamingsoft.manager,{{ rule }} # WiFi连接管理器
 PROCESS-NAME,com.rong.fastloan,{{ rule }} # 时光分期
 PROCESS-NAME,com.rong360.app,{{ rule }} # 融360
-PROCESS-NAME,com.rs.callshow.intimate,{{ rule }} # 知心来电秀
 PROCESS-NAME,com.ruanmei.ithome,{{ rule }} # IT之家
 PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影视大全看看
 PROCESS-NAME,com.saida.sjkd.xk,{{ rule }} # 享看

@@ -411,6 +411,7 @@ payload:
   - PROCESS-NAME,com.douban.radio #豆瓣FM
   - PROCESS-NAME,com.douguo.recipe #豆果美食
   - PROCESS-NAME,com.dp.android.elong #艺龙旅行
+  - PROCESS-NAME,com.dphfvp.memcpdhsf #实况live动态壁纸
   - PROCESS-NAME,com.dragon.calendar #东方农历
   - PROCESS-NAME,com.dragon.read #番茄免费小说
   - PROCESS-NAME,com.dragon.ringtone #东方铃声
@@ -581,7 +582,6 @@ payload:
   - PROCESS-NAME,com.happyteam.dubbingshow #配音秀
   - PROCESS-NAME,com.hazq.huiying.android #华安证券
   - PROCESS-NAME,com.hbrb.jiyun #冀云
-  - PROCESS-NAME,com.hcc.app #京东消费金融
   - PROCESS-NAME,com.hcyh.scanner #扫描仪全能王
   - PROCESS-NAME,com.heiyan.reader #黑岩阅读
   - PROCESS-NAME,com.hellotalk #HelloTalk
@@ -889,6 +889,7 @@ payload:
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meet.pianolearn #钢琴教练
   - PROCESS-NAME,com.meetstudio.app.Zither #魔幻古筝
+  - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.makeup #美妆相机
   - PROCESS-NAME,com.meitu.meipaimv #美拍
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-3D手办
@@ -1088,7 +1089,6 @@ payload:
   - PROCESS-NAME,com.roamingsoft.manager #WiFi连接管理器
   - PROCESS-NAME,com.rong.fastloan #时光分期
   - PROCESS-NAME,com.rong360.app #融360
-  - PROCESS-NAME,com.rs.callshow.intimate #知心来电秀
   - PROCESS-NAME,com.ruanmei.ithome #IT之家
   - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
   - PROCESS-NAME,com.saida.sjkd.xk #享看
