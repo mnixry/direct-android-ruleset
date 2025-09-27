@@ -889,10 +889,9 @@ payload:
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meet.pianolearn #钢琴教练
   - PROCESS-NAME,com.meetstudio.app.Zither #魔幻古筝
-  - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.makeup #美妆相机
   - PROCESS-NAME,com.meitu.meipaimv #美拍
-  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-3D手办
+  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.meitu.wheecam #潮自拍
   - PROCESS-NAME,com.meitu.wink #Wink
@@ -952,6 +951,7 @@ payload:
   - PROCESS-NAME,com.mymoney.sms #卡牛信用管家
   - PROCESS-NAME,com.myzaker.ZAKER_Phone #ZAKER
   - PROCESS-NAME,com.n_add.android #粉象生活
+  - PROCESS-NAME,com.nacai.bocai #花花直播
   - PROCESS-NAME,com.nade.ownerride #顺风车司机版
   - PROCESS-NAME,com.nade.tickowner #滴答滴出行司机端
   - PROCESS-NAME,com.naiyoubz.main #奶油桌面
@@ -1186,7 +1186,7 @@ payload:
   - PROCESS-NAME,com.skydh #SKY体验电话
   - PROCESS-NAME,com.skyplatanus.crucio #快点阅读
   - PROCESS-NAME,com.slanissue.apps.mobile.erge #贝瓦儿歌
-  - PROCESS-NAME,com.sloth.removelogo #视频去水印
+  - PROCESS-NAME,com.sloth.removelogo #视频去水印全能王
   - PROCESS-NAME,com.smallyin.musiceditor #音乐剪辑助手
   - PROCESS-NAME,com.smile.gifmaker #快手
   - PROCESS-NAME,com.smsf.iwallpaper #壁纸自定义
@@ -1366,7 +1366,6 @@ payload:
   - PROCESS-NAME,com.unionpay #云闪付
   - PROCESS-NAME,com.universal.compass #全能指南针
   - PROCESS-NAME,com.universal.control #万能遥控器—+
-  - PROCESS-NAME,com.uqwe.xmjs #兼小宝兼职
   - PROCESS-NAME,com.ushaqi.zhuishushenqi #追书神器
   - PROCESS-NAME,com.ushaqi.zhuishushenqi.adfree #追书神器免费版
   - PROCESS-NAME,com.uu #UU电话-UU网络电话
@@ -1441,6 +1440,7 @@ payload:
   - PROCESS-NAME,com.xhey.xcamera #今日水印相机
   - PROCESS-NAME,com.xhqb.app #小花钱包
   - PROCESS-NAME,com.xiachufang #下厨房
+  - PROCESS-NAME,com.xiangha #香哈菜谱
   - PROCESS-NAME,com.xiangrikui.sixapp #向日葵保险人
   - PROCESS-NAME,com.xiaobanlong.main #小伴龙
   - PROCESS-NAME,com.xiaodao.jiemeng #复真书法

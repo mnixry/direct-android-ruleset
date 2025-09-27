@@ -628,6 +628,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.qsroom1 #密室逃脱求生系列1极地冒险
   - PROCESS-NAME,com.tencent.tmgp.qtdl3d #抢滩登陆3D
   - PROCESS-NAME,com.tencent.tmgp.qxxy.cookingcity #小镇大厨
+  - PROCESS-NAME,com.tencent.tmgp.qy.qy2048 #2048新版
   - PROCESS-NAME,com.tencent.tmgp.qyfhl #群英风华录
   - PROCESS-NAME,com.tencent.tmgp.qygames.mddqz #梦的第七章
   - PROCESS-NAME,com.tencent.tmgp.qyj #青云诀
@@ -652,7 +653,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sbwpdk #随便跑得快
   - PROCESS-NAME,com.tencent.tmgp.scmjxzddnew #四川麻将（血战到底）
   - PROCESS-NAME,com.tencent.tmgp.sds #圣斗士星矢：重生
-  - PROCESS-NAME,com.tencent.tmgp.sdsbq #射雕
   - PROCESS-NAME,com.tencent.tmgp.sdsysdk #圣斗士星矢：正义传说
   - PROCESS-NAME,com.tencent.tmgp.sdxl #神雕侠侣
   - PROCESS-NAME,com.tencent.tmgp.sdyxz #射雕英雄传手游

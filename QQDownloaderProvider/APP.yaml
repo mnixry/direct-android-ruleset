@@ -497,9 +497,8 @@ payload:
   - PROCESS-NAME,com.McDullpalm.bus #麦兜掌上公交
   - PROCESS-NAME,com.mediabox.voicechanger #安卓变声器
   - PROCESS-NAME,com.meelive.ingkee #映客直播
-  - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.meipaimv #美拍
-  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机-3D手办
+  - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
   - PROCESS-NAME,com.meitu.poster #美图设计室
   - PROCESS-NAME,com.melot.meshow #KK
   - PROCESS-NAME,com.meta.box #233乐园
@@ -534,6 +533,7 @@ payload:
   - PROCESS-NAME,com.mymoney #随手记
   - PROCESS-NAME,com.mymoney.sms #卡牛信用管家
   - PROCESS-NAME,com.n_add.android #粉象生活
+  - PROCESS-NAME,com.nacai.bocai #花花直播
   - PROCESS-NAME,com.nade.ownerride #顺风车司机版
   - PROCESS-NAME,com.nade.tickowner #滴答滴出行司机端
   - PROCESS-NAME,com.nanyibang.nomi #男衣邦穿衣搭配
@@ -801,7 +801,6 @@ payload:
   - PROCESS-NAME,com.unionpay #云闪付
   - PROCESS-NAME,com.universal.compass #全能指南针
   - PROCESS-NAME,com.universal.control #万能遥控器—+
-  - PROCESS-NAME,com.uqwe.xmjs #兼小宝兼职
   - PROCESS-NAME,com.ushaqi.zhuishushenqi #追书神器
   - PROCESS-NAME,com.uxin.usedcar #优信二手车
   - PROCESS-NAME,com.v2gogo.project #百姓关注
@@ -852,6 +851,7 @@ payload:
   - PROCESS-NAME,com.xhey.xcamera #今日水印相机
   - PROCESS-NAME,com.xhqb.app #小花钱包
   - PROCESS-NAME,com.xiachufang #下厨房
+  - PROCESS-NAME,com.xiangha #香哈菜谱
   - PROCESS-NAME,com.xiangrikui.sixapp #向日葵保险人
   - PROCESS-NAME,com.xiaobanlong.main #小伴龙
   - PROCESS-NAME,com.xiaodao.jiemeng #复真书法
