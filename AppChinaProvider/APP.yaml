@@ -838,6 +838,7 @@ payload:
   - PROCESS-NAME,com.ucar.app #淘车车
   - PROCESS-NAME,com.UCMobile #UC浏览器
   - PROCESS-NAME,com.ucmobile.lite #UC浏览器极速版
+  - PROCESS-NAME,com.uletterx.imsdk #优信
   - PROCESS-NAME,com.umaman.laiyifen #来伊份社区购
   - PROCESS-NAME,com.ume.browser #微米浏览器
   - PROCESS-NAME,com.umetrip.android.msky.app #航旅纵横
@@ -1011,7 +1012,6 @@ payload:
   - PROCESS-NAME,net.joydao.spring2011 #祝福短信
   - PROCESS-NAME,net.kdnet.club #凯迪网
   - PROCESS-NAME,net.qihoo.launcher.widget.clockweather #360天气
-  - PROCESS-NAME,net.talk2all #Talk2all
   - PROCESS-NAME,net.xinhuamm.mainclient #新华社
   - PROCESS-NAME,net.yyasp.clothing #虚拟试衣间
   - PROCESS-NAME,net.zdsoft.zerobook_android #智人播客
