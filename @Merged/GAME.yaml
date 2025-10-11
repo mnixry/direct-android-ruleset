@@ -514,6 +514,7 @@ payload:
   - PROCESS-NAME,com.IMStudio.PocketRally #掌上拉力赛
   - PROCESS-NAME,com.indeed.golinks #弈客围棋
   - PROCESS-NAME,com.infinityvector.assolutoracing #绝对赛车
+  - PROCESS-NAME,com.inhe.meifa #美发预约
   - PROCESS-NAME,com.integer3d.dirtroadtrucker #3D泥路货车
   - PROCESS-NAME,com.InterServ.ApocalypseKnights #光之骑士
   - PROCESS-NAME,com.ironhidegames.android.kingdomrush #王国保卫战
@@ -678,7 +679,6 @@ payload:
   - PROCESS-NAME,com.netease.wotb #坦克世界闪击战
   - PROCESS-NAME,com.netease.wxzc #重装上阵
   - PROCESS-NAME,com.netease.x19 #我的世界：移动版
-  - PROCESS-NAME,com.netease.yhtj.gg #萤火突击
   - PROCESS-NAME,com.netflix.NGP.StreetFighterIVCE #街头霸王IV冠军版
   - PROCESS-NAME,com.nextgenreality.gunclub #枪支俱乐部2
   - PROCESS-NAME,com.nextgenreality.minimoto #迷你动力赛车
@@ -1027,7 +1027,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.caishen #财神十三张
   - PROCESS-NAME,com.tencent.tmgp.caohua.dgqzywm #帝国：权杖与文明
   - PROCESS-NAME,com.tencent.tmgp.carrot2 #保卫萝卜2
-  - PROCESS-NAME,com.tencent.tmgp.carrot3dj #保卫萝卜3
   - PROCESS-NAME,com.tencent.tmgp.catstudio.moegirlcafe2 #餐厅萌物语
   - PROCESS-NAME,com.tencent.tmgp.catstudio.nekostory #萌猫物语
   - PROCESS-NAME,com.tencent.tmgp.cdfml #伏魔录
@@ -1493,6 +1492,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.snsgz #少年三国志
   - PROCESS-NAME,com.tencent.tmgp.sparrowkwx2dx.maijie #楚天优游卡五星麻将
   - PROCESS-NAME,com.tencent.tmgp.speedmobile #QQ飞车
+  - PROCESS-NAME,com.tencent.tmgp.sqcdjz #三国群英传：策定九州
   - PROCESS-NAME,com.tencent.tmgp.sqhs #三千幻世
   - PROCESS-NAME,com.tencent.tmgp.ssjj.gbws #果宝无双
   - PROCESS-NAME,com.tencent.tmgp.ssjj.zmws #造梦无双
@@ -1508,7 +1508,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.supercell.clashofclans #部落冲突
   - PROCESS-NAME,com.tencent.tmgp.supercell.clashroyale #部落冲突：皇室战争
   - PROCESS-NAME,com.tencent.tmgp.supercell.hayday #卡通农场
-  - PROCESS-NAME,com.tencent.tmgp.supertractor #拖拉机升级
   - PROCESS-NAME,com.tencent.tmgp.survivedks #活下去
   - PROCESS-NAME,com.tencent.tmgp.swzshg #诸神皇冠
   - PROCESS-NAME,com.tencent.tmgp.sxddc #《神仙道》高清重制版
@@ -1625,7 +1624,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xjcspx #仙境传说：破晓
   - PROCESS-NAME,com.tencent.tmgp.xjqxz #仙剑奇侠传：新的开始
   - PROCESS-NAME,com.tencent.tmgp.xlwyln #驯龙物语
-  - PROCESS-NAME,com.tencent.tmgp.xm4399.nzxy #某某朝的女子乐坊
   - PROCESS-NAME,com.tencent.tmgp.xmcm #策马守天关
   - PROCESS-NAME,com.tencent.tmgp.xmxxxxl #消灭星星消消乐
   - PROCESS-NAME,com.tencent.tmgp.xncp #小南四川长牌
@@ -1887,7 +1885,6 @@ payload:
   - PROCESS-NAME,com.yunbu.arcadepool.tencent #街机台球大师游戏软件V1.0
   - PROCESS-NAME,com.yunbu.bubbleelfsaga1 #泡泡精灵传奇
   - PROCESS-NAME,com.yymoon.lmrjvol #我的VR女友
-  - PROCESS-NAME,com.yyyp.cn #有游有品
   - PROCESS-NAME,com.zeptolab.cats.google #喵星大作战：国际版
   - PROCESS-NAME,com.zhuoyukid.math #贝贝数学
   - PROCESS-NAME,com.zk.car.wipay #狂野飙车

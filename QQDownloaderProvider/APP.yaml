@@ -48,7 +48,6 @@ payload:
   - PROCESS-NAME,cn.mama.activity #妈妈网轻聊
   - PROCESS-NAME,cn.microants.merchants #义采宝义乌小商品批发网
   - PROCESS-NAME,cn.mimilive.xianyu #爆聊
-  - PROCESS-NAME,cn.net.iwave.zoo #元气开开
   - PROCESS-NAME,cn.ninegame.gamemanager #九游
   - PROCESS-NAME,cn.nokia.speedtest5g #speedtest5g
   - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
@@ -95,6 +94,7 @@ payload:
   - PROCESS-NAME,com.anjiu.buff.yingyongbao #BUFF手游
   - PROCESS-NAME,com.anjuke.android.app #安居客
   - PROCESS-NAME,com.antutu.ABenchMark #安兔兔评测
+  - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.appsys.goodname #易经起名取名
   - PROCESS-NAME,com.artifact.hypnosis #催眠神器
   - PROCESS-NAME,com.ataaw.tianyi #天翼生活

@@ -33,7 +33,6 @@ payload:
   - PROCESS-NAME,cn.com.gjzq.yjb.kh #佣金宝开户
   - PROCESS-NAME,cn.com.gxrb.client #广西云
   - PROCESS-NAME,cn.com.htjc.pay #电e宝
-  - PROCESS-NAME,cn.com.lzb.mobilebank.per #兰州银行
   - PROCESS-NAME,cn.com.modernmedia.businessweek #iBloomberg i商周
   - PROCESS-NAME,cn.com.modernmedia.modernlady #InStyle iLady
   - PROCESS-NAME,cn.com.nbd.nbdmobile #每日经济新闻
@@ -97,7 +96,6 @@ payload:
   - PROCESS-NAME,cn.mimilive.xianyu #爆聊
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
-  - PROCESS-NAME,cn.net.iwave.zoo #元气开开
   - PROCESS-NAME,cn.ninegame.gamemanager #九游
   - PROCESS-NAME,cn.nokia.speedtest5g #speedtest5g
   - PROCESS-NAME,cn.okek.chexingwuyou #车行无忧
@@ -449,6 +447,7 @@ payload:
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
   - PROCESS-NAME,com.ejnet.weathercamera #天气相机
   - PROCESS-NAME,com.emperor.flashlight #手电王
+  - PROCESS-NAME,com.eno.android #国海金探号
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
   - PROCESS-NAME,com.enotary.cloud #公证云
@@ -1602,7 +1601,6 @@ payload:
   - PROCESS-NAME,com.zybang.parent #作业帮口算
   - PROCESS-NAME,com.zydsoft.acuherb #中医辨证云
   - PROCESS-NAME,com.zyhd.voice #语音包变声器
-  - PROCESS-NAME,com.zz.voip #小鹿网络电话
   - PROCESS-NAME,com.zzu.sxm.chemical #化学方程式
   - PROCESS-NAME,com.zzw.october #志愿汇
   - PROCESS-NAME,consumer.ttpc.com.consumer #天天拍车
@@ -1706,6 +1704,7 @@ payload:
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准
   - PROCESS-NAME,weicom.yi.wallpaper #免费主题壁纸
+  - PROCESS-NAME,will.maixinx.com #脉信
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,wshifu.app.android #万师傅企业版
