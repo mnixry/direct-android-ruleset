@@ -54,6 +54,7 @@ payload:
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.daje.remoter #空调遥控器万能
   - PROCESS-NAME,cn.damai #大麦
+  - PROCESS-NAME,cn.danatech.xingseapp #形色
   - PROCESS-NAME,cn.dict.android.pro #海词词典
   - PROCESS-NAME,cn.dxy.android.aspirin #丁香医生
   - PROCESS-NAME,cn.dxy.idxyer #丁香园
@@ -565,7 +566,6 @@ payload:
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
   - PROCESS-NAME,com.gzfns.ecar #车e估企业版
   - PROCESS-NAME,com.gzrcb.mobilebank #广州农商银行
-  - PROCESS-NAME,com.haidilao #海底捞
   - PROCESS-NAME,com.haier.uhome.uplus #海尔智家
   - PROCESS-NAME,com.haitao #55海淘
   - PROCESS-NAME,com.haixiu.ui #嗨秀直播
@@ -879,7 +879,6 @@ payload:
   - PROCESS-NAME,com.market2345 #2345手机助手
   - PROCESS-NAME,com.marryu #MarryU相亲交友
   - PROCESS-NAME,com.master.camera #拍照大咖
-  - PROCESS-NAME,com.master.qrcode #闪电扫码大师
   - PROCESS-NAME,com.max.xiaoheihe #小黑盒
   - PROCESS-NAME,com.maxxipoint.android #集享联盟
   - PROCESS-NAME,com.McDullpalm.bus #麦兜掌上公交
@@ -1205,7 +1204,6 @@ payload:
   - PROCESS-NAME,com.soufun.app #房天下
   - PROCESS-NAME,com.spdbccc.app #浦大喜奔
   - PROCESS-NAME,com.speed.master #网络测速大师
-  - PROCESS-NAME,com.speed.qrcode.release #极速二维码
   - PROCESS-NAME,com.speedsoftware.rootexplorer #RE文件管理器
   - PROCESS-NAME,com.ss.android.article.lite #今日头条极速版
   - PROCESS-NAME,com.ss.android.article.news #今日头条
@@ -1394,6 +1392,7 @@ payload:
   - PROCESS-NAME,com.wangyin.payment #京东钱包
   - PROCESS-NAME,com.wanmeizhensuo.zhensuo #更美
   - PROCESS-NAME,com.waterfall.metronome #节拍器
+  - PROCESS-NAME,com.we.keyuan #微商码头
   - PROCESS-NAME,com.webank.wemoney #微众银行
   - PROCESS-NAME,com.weface.kksocialsecurity #看看生活
   - PROCESS-NAME,com.welove520.welove #微爱
@@ -1593,7 +1592,7 @@ payload:
   - PROCESS-NAME,com.zmlearn.course.am #掌门1对1辅导
   - PROCESS-NAME,com.zol.android #中关村在线
   - PROCESS-NAME,com.zongheng.reader #纵横小说
-  - PROCESS-NAME,com.zoomLink.androidApp #小夸搜剧-免费追剧短剧影视
+  - PROCESS-NAME,com.zoomLink.androidApp #小夸搜剧
   - PROCESS-NAME,com.zsyj.trans #全局透明壁纸
   - PROCESS-NAME,com.zsyj.wallpaper #熊猫动态壁纸
   - PROCESS-NAME,com.zuoyebang.airclass #一课

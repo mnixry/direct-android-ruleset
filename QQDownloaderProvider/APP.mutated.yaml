@@ -29,6 +29,7 @@ payload:
   - PROCESS-NAME,cn.com.zjol #潮新闻
   - PROCESS-NAME,cn.daje.remoter #空调遥控器万能
   - PROCESS-NAME,cn.damai #大麦
+  - PROCESS-NAME,cn.danatech.xingseapp #形色
   - PROCESS-NAME,cn.dxy.android.aspirin #丁香医生
   - PROCESS-NAME,cn.eclicks.drivingtest #车轮驾考通
   - PROCESS-NAME,cn.eclicks.wzsearch #车轮
@@ -484,7 +485,6 @@ payload:
   - PROCESS-NAME,com.market2345 #2345手机助手
   - PROCESS-NAME,com.marryu #MarryU相亲交友
   - PROCESS-NAME,com.master.camera #拍照大咖
-  - PROCESS-NAME,com.master.qrcode #闪电扫码大师
   - PROCESS-NAME,com.max.xiaoheihe #小黑盒
   - PROCESS-NAME,com.maxxipoint.android #集享联盟
   - PROCESS-NAME,com.McDullpalm.bus #麦兜掌上公交
@@ -678,7 +678,6 @@ payload:
   - PROCESS-NAME,com.songguoyhqw #赚钱联盟
   - PROCESS-NAME,com.spdbccc.app #浦大喜奔
   - PROCESS-NAME,com.speed.master #网络测速大师
-  - PROCESS-NAME,com.speed.qrcode.release #极速二维码
   - PROCESS-NAME,com.speedsoftware.rootexplorer #RE文件管理器
   - PROCESS-NAME,com.ss.android.article.lite #今日头条极速版
   - PROCESS-NAME,com.ss.android.article.news #今日头条
@@ -808,6 +807,7 @@ payload:
   - PROCESS-NAME,com.wandafilm.app #万达电影
   - PROCESS-NAME,com.wandoujia.phoenix2 #豌豆荚
   - PROCESS-NAME,com.wanmeizhensuo.zhensuo #更美
+  - PROCESS-NAME,com.we.keyuan #微商码头
   - PROCESS-NAME,com.webank.wemoney #微众银行
   - PROCESS-NAME,com.weface.kksocialsecurity #看看生活
   - PROCESS-NAME,com.welove520.welove #微爱
