@@ -73,6 +73,7 @@ payload:
   - PROCESS-NAME,com.lilithgames.xgame.android.cn #众神派对
   - PROCESS-NAME,com.longtu.oao #海龟汤
   - PROCESS-NAME,com.lutongnet.brainadventure.plugin #脑力大冒险
+  - PROCESS-NAME,com.magene.onelapMatch #顽鹿竞技
   - PROCESS-NAME,com.magicflute.renjuworld #五林五子棋
   - PROCESS-NAME,com.martian.RoomEscape18.tx #密室逃脱18移动迷城
   - PROCESS-NAME,com.martian.RoomEscape24.tx #密室逃脱24末日危机
@@ -159,7 +160,7 @@ payload:
   - PROCESS-NAME,com.tencent.JWX #傲世西游
   - PROCESS-NAME,com.tencent.KiHan #火影忍者
   - PROCESS-NAME,com.tencent.lastblade #末刀
-  - PROCESS-NAME,com.tencent.letsgo #元梦之星-黄油小熊联动
+  - PROCESS-NAME,com.tencent.letsgo #元梦之星-潮玩乐园赛季
   - PROCESS-NAME,com.tencent.letsgocoding #腾讯扣叮-元梦之星教育版
   - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
   - PROCESS-NAME,com.tencent.lszz #龙石战争
@@ -240,7 +241,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.caohua.dgqzywm #帝国：权杖与文明
   - PROCESS-NAME,com.tencent.tmgp.carrot2 #保卫萝卜2
   - PROCESS-NAME,com.tencent.tmgp.catstudio.moegirlcafe2 #餐厅萌物语
-  - PROCESS-NAME,com.tencent.tmgp.catstudio.nekostory #萌猫物语
   - PROCESS-NAME,com.tencent.tmgp.cdfml #伏魔录
   - PROCESS-NAME,com.tencent.tmgp.cf #穿越火线-枪战王者
   - PROCESS-NAME,com.tencent.tmgp.cfxf #超凡先锋
@@ -322,7 +322,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.dldlhsdjsy #斗罗大陆：魂师对决
   - PROCESS-NAME,com.tencent.tmgp.dldlwyly #斗罗大陆
   - PROCESS-NAME,com.tencent.tmgp.dljh.shlk #斗笠江湖
-  - PROCESS-NAME,com.tencent.tmgp.dmxy2024 #数码宝贝：源码
   - PROCESS-NAME,com.tencent.tmgp.dnf #地下城与勇士：起源
   - PROCESS-NAME,com.tencent.tmgp.dnh #龙与家园：时光
   - PROCESS-NAME,com.tencent.tmgp.dodjoy.hlwdzz #葫芦娃大作战

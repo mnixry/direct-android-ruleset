@@ -76,6 +76,7 @@ payload:
   - PROCESS-NAME,cn.poco.jane #简拼
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
   - PROCESS-NAME,cn.shuangshuangfei #找对象
+  - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.tianya.light #天涯社区
   - PROCESS-NAME,cn.vcinema.cinema #南瓜电影
   - PROCESS-NAME,cn.weli.sweet #CUCU
@@ -530,7 +531,6 @@ payload:
   - PROCESS-NAME,com.lezhi.mythcall #北瓜电话
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
   - PROCESS-NAME,com.liba.android #篱笆社区
-  - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
   - PROCESS-NAME,com.lingan.seeyou #美柚
   - PROCESS-NAME,com.linkiing.show #联客show
   - PROCESS-NAME,com.liulishuo.engzo #流利说-英语

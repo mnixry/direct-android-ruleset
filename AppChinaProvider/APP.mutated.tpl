@@ -75,6 +75,7 @@ PROCESS-NAME,cn.opda.a.phonoalbumshoushou,{{ rule }} # 百度手机卫士
 PROCESS-NAME,cn.poco.jane,{{ rule }} # 简拼
 PROCESS-NAME,cn.samsclub.app,{{ rule }} # 山姆会员商店
 PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
+PROCESS-NAME,cn.soulapp.android,{{ rule }} # Soul
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
 PROCESS-NAME,cn.vcinema.cinema,{{ rule }} # 南瓜电影
 PROCESS-NAME,cn.weli.sweet,{{ rule }} # CUCU
@@ -528,7 +529,6 @@ PROCESS-NAME,com.letv.letvshop,{{ rule }} # 乐视商城
 PROCESS-NAME,com.lezhi.mythcall,{{ rule }} # 北瓜电话
 PROCESS-NAME,com.lianaibiji.dev,{{ rule }} # 恋爱记
 PROCESS-NAME,com.liba.android,{{ rule }} # 篱笆社区
-PROCESS-NAME,com.linecorp.foodcamcn.android,{{ rule }} # Foodie
 PROCESS-NAME,com.lingan.seeyou,{{ rule }} # 美柚
 PROCESS-NAME,com.linkiing.show,{{ rule }} # 联客show
 PROCESS-NAME,com.liulishuo.engzo,{{ rule }} # 流利说-英语
