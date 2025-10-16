@@ -592,7 +592,6 @@ payload:
   - PROCESS-NAME,com.music.qishui #汽水铃声
   - PROCESS-NAME,com.mxr.dreambook #4D书城
   - PROCESS-NAME,com.my.browserplus #浏览器加
-  - PROCESS-NAME,com.mydananjing.app #我的大蓝鲸
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
   - PROCESS-NAME,com.mygolbs.mybuswz #我看行
   - PROCESS-NAME,com.mymoney #随手记
@@ -967,6 +966,7 @@ payload:
   - PROCESS-NAME,com.zsyj.trans #全局透明壁纸
   - PROCESS-NAME,com.zsyj.wallpaper #熊猫动态壁纸
   - PROCESS-NAME,com.zydsoft.acuherb #中医辨证云
+  - PROCESS-NAME,com.zz.voip #小鹿网络电话
   - PROCESS-NAME,com.zzu.sxm.chemical #化学方程式
   - PROCESS-NAME,cszy.wdtk.dntkbz #我的图库
   - PROCESS-NAME,ctrip.android.view #携程旅行
