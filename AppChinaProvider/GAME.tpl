@@ -801,6 +801,7 @@ PROCESS-NAME,com.tencent.fifamobile,{{ rule }} # FC足球世界
 PROCESS-NAME,com.tencent.game.rhythmmaster,{{ rule }} # 节奏大师
 PROCESS-NAME,com.tencent.gwgo,{{ rule }} # 一起来捉妖
 PROCESS-NAME,com.tencent.jyhx,{{ rule }} # 劲乐幻想
+PROCESS-NAME,com.tencent.letsgo,{{ rule }} # 元梦之星
 PROCESS-NAME,com.tencent.lolm,{{ rule }} # 英雄联盟手游
 PROCESS-NAME,com.tencent.mf.uam,{{ rule }} # 暗区突围
 PROCESS-NAME,com.tencent.nba2kx,{{ rule }} # 美职篮全明星
@@ -1002,7 +1003,6 @@ PROCESS-NAME,mytown.police,{{ rule }} # 我的小镇：警察局
 PROCESS-NAME,mytown.preschool,{{ rule }} # 我的小镇：幼儿园
 PROCESS-NAME,mytown.school,{{ rule }} # 我的小镇：校园
 PROCESS-NAME,mytown.stores,{{ rule }} # 我的小镇：商店
-PROCESS-NAME,mytown.street,{{ rule }} # 我的小镇 : 街道欢乐
 PROCESS-NAME,mytown.wedding,{{ rule }} # 我的城镇：婚礼日
 PROCESS-NAME,net.capsuleplus.JapaneseDoll,{{ rule }} # 育成日本人偶
 PROCESS-NAME,net.defensezone,{{ rule }} # 战地防御

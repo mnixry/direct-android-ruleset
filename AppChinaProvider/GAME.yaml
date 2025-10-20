@@ -801,6 +801,7 @@ payload:
   - PROCESS-NAME,com.tencent.game.rhythmmaster #节奏大师
   - PROCESS-NAME,com.tencent.gwgo #一起来捉妖
   - PROCESS-NAME,com.tencent.jyhx #劲乐幻想
+  - PROCESS-NAME,com.tencent.letsgo #元梦之星
   - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
   - PROCESS-NAME,com.tencent.mf.uam #暗区突围
   - PROCESS-NAME,com.tencent.nba2kx #美职篮全明星
@@ -1002,7 +1003,6 @@ payload:
   - PROCESS-NAME,mytown.preschool #我的小镇：幼儿园
   - PROCESS-NAME,mytown.school #我的小镇：校园
   - PROCESS-NAME,mytown.stores #我的小镇：商店
-  - PROCESS-NAME,mytown.street #我的小镇 : 街道欢乐
   - PROCESS-NAME,mytown.wedding #我的城镇：婚礼日
   - PROCESS-NAME,net.capsuleplus.JapaneseDoll #育成日本人偶
   - PROCESS-NAME,net.defensezone #战地防御
