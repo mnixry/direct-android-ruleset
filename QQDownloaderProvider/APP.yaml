@@ -29,6 +29,7 @@ payload:
   - PROCESS-NAME,cn.com.zjol #潮新闻
   - PROCESS-NAME,cn.daje.remoter #空调遥控器万能
   - PROCESS-NAME,cn.damai #大麦
+  - PROCESS-NAME,cn.danatech.xingseapp #形色
   - PROCESS-NAME,cn.dxy.android.aspirin #丁香医生
   - PROCESS-NAME,cn.eclicks.drivingtest #车轮驾考通
   - PROCESS-NAME,cn.eclicks.wzsearch #车轮
@@ -94,6 +95,7 @@ payload:
   - PROCESS-NAME,com.anjiu.buff.yingyongbao #BUFF手游
   - PROCESS-NAME,com.anjuke.android.app #安居客
   - PROCESS-NAME,com.antutu.ABenchMark #安兔兔评测
+  - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.appsys.goodname #易经起名取名
   - PROCESS-NAME,com.artifact.hypnosis #催眠神器
   - PROCESS-NAME,com.ataaw.tianyi #天翼生活
@@ -238,7 +240,6 @@ payload:
   - PROCESS-NAME,com.eastmoney.android.berlin #东方财富
   - PROCESS-NAME,com.eastmoney.android.fund #天天基金
   - PROCESS-NAME,com.easy.bus #无忧巴士
-  - PROCESS-NAME,com.easy.wallpaper #番茄动态壁纸
   - PROCESS-NAME,com.ebank.creditcard #阳光惠生活
   - PROCESS-NAME,com.ecitic.bank.mobile #中信银行
   - PROCESS-NAME,com.edujia.weimai #微脉圈
@@ -412,7 +413,6 @@ payload:
   - PROCESS-NAME,com.jinxin.namibox #纳米盒
   - PROCESS-NAME,com.jiongji.andriod.card #百词斩
   - PROCESS-NAME,com.jiuyan.infashion #in
-  - PROCESS-NAME,com.jlzb.android #找帮手机定位
   - PROCESS-NAME,com.johong.jiaxiaobaodian #驾校宝
   - PROCESS-NAME,com.join.android.app.mgsim.wufun #悟饭游戏厅
   - PROCESS-NAME,com.jojoread.huiben #叫叫绘本
@@ -441,6 +441,7 @@ payload:
   - PROCESS-NAME,com.kuaishou.nebula #快手极速版
   - PROCESS-NAME,com.kuangxiangciweimao.novel #刺猬猫阅读
   - PROCESS-NAME,com.kugou.android #酷狗音乐
+  - PROCESS-NAME,com.kugou.android.elder #酷狗大字版
   - PROCESS-NAME,com.kugou.android.ktvapp #酷狗唱唱
   - PROCESS-NAME,com.kugou.fanxing #酷狗直播
   - PROCESS-NAME,com.kwai.videoeditor #快影
@@ -489,8 +490,6 @@ payload:
   - PROCESS-NAME,com.mandian.android.dongdong #动动计步器
   - PROCESS-NAME,com.market2345 #2345手机助手
   - PROCESS-NAME,com.marryu #MarryU相亲交友
-  - PROCESS-NAME,com.master.camera #拍照大咖
-  - PROCESS-NAME,com.max.xiaoheihe #小黑盒
   - PROCESS-NAME,com.maxxipoint.android #集享联盟
   - PROCESS-NAME,com.McDullpalm.bus #麦兜掌上公交
   - PROCESS-NAME,com.mediabox.voicechanger #安卓变声器
@@ -861,7 +860,6 @@ payload:
   - PROCESS-NAME,com.xiaomi.hm.health #Zepp Life
   - PROCESS-NAME,com.xiaomi.mico #小爱音箱
   - PROCESS-NAME,com.xiaomi.mitv.phone.tvassistant #小米电视助手
-  - PROCESS-NAME,com.xiaomi.router #小米WiFi
   - PROCESS-NAME,com.xiaomi.shop #小米商城
   - PROCESS-NAME,com.xiaomi.smarthome #米家
   - PROCESS-NAME,com.xiaomi.youpin #小米有品
@@ -881,6 +879,7 @@ payload:
   - PROCESS-NAME,com.xiwei.logistics.consignor #运满满货主
   - PROCESS-NAME,com.xk.span.zutuan #美逛
   - PROCESS-NAME,com.xmcy.hykb #好游快爆
+  - PROCESS-NAME,com.xqw369.ttsz #天天识字
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xt.retouch #醒图
   - PROCESS-NAME,com.xtc.watch #小天才
