@@ -251,7 +251,6 @@ PROCESS-NAME,com.devolver.reigns2,{{ rule }} # 王权2:女王陛下
 PROCESS-NAME,com.digixart.lostinharmony,{{ rule }} # 梦境旋律 完整版
 PROCESS-NAME,com.digtodeep.activity,{{ rule }} # 一路向下
 PROCESS-NAME,com.dinocooler.android.pixeltree.release,{{ rule }} # 像素树 官方中文版
-PROCESS-NAME,com.disney.troz,{{ rule }} # 神庙逃亡2 魔境仙踪
 PROCESS-NAME,com.djinnworks.ss16,{{ rule }} # 火柴人足球2016
 PROCESS-NAME,com.djinnworks.StickmanDownhill,{{ rule }} # 火柴人山地飙车
 PROCESS-NAME,com.djinnworks.StickmanSoccer,{{ rule }} # 火柴人足球
@@ -475,7 +474,6 @@ PROCESS-NAME,com.immusician.ukulele.tuner,{{ rule }} # AI调音器
 PROCESS-NAME,com.Imperialeagle.rts,{{ rule }} # 铁锈战争:帝国雄鹰
 PROCESS-NAME,com.IMStudio.PocketRally,{{ rule }} # 掌上拉力赛
 PROCESS-NAME,com.infinityvector.assolutoracing,{{ rule }} # 绝对赛车
-PROCESS-NAME,com.inhe.meifa,{{ rule }} # 美发预约
 PROCESS-NAME,com.integer3d.dirtroadtrucker,{{ rule }} # 3D泥路货车
 PROCESS-NAME,com.InterServ.ApocalypseKnights,{{ rule }} # 光之骑士
 PROCESS-NAME,com.ironhidegames.android.kingdomrush,{{ rule }} # 王国保卫战
@@ -516,6 +514,7 @@ PROCESS-NAME,com.lemon.play.linecolor,{{ rule }} # 五子连珠
 PROCESS-NAME,com.leoexe.archery,{{ rule }} # 策马入山林
 PROCESS-NAME,com.leosfortune,{{ rule }} # 里奥的财富
 PROCESS-NAME,com.leyouwanban.lywb,{{ rule }} # 乐优达人
+PROCESS-NAME,com.lila.beatracer,{{ rule }} # 节奏超跑
 PROCESS-NAME,com.lima.doodlejump,{{ rule }} # 涂鸦跳跃
 PROCESS-NAME,com.linecorp.LGRGS,{{ rule }} # LINE Rangers
 PROCESS-NAME,com.linkdeskstudio.popcat,{{ rule }} # 欢乐碰碰猫
@@ -652,6 +651,7 @@ PROCESS-NAME,com.pixonic.wwr,{{ rule }} # 机甲战队
 PROCESS-NAME,com.PlausibleConcept.BadNorthFull,{{ rule }} # 绝境北方
 PROCESS-NAME,com.playcrab.kos.yyh,{{ rule }} # 一拳超人：最强之男
 PROCESS-NAME,com.playcreek.DeathWorm,{{ rule }} # 死亡巨虫
+PROCESS-NAME,com.playdead.limbo.full,{{ rule }} # 地狱边境
 PROCESS-NAME,com.playhome,{{ rule }} # 娃娃屋：游戏之家
 PROCESS-NAME,com.playhome.hospital,{{ rule }} # 娃娃屋 医院
 PROCESS-NAME,com.playhome.plus,{{ rule }} # 娃娃屋PLUS
@@ -688,7 +688,6 @@ PROCESS-NAME,com.rebeltwins.aliensdrivemecrazy,{{ rule }} # 疯狂外星人
 PROCESS-NAME,com.rebeltwins.daddywasathief,{{ rule }} # 老爸的神偷岁月
 PROCESS-NAME,com.redantz.game.zombieage2,{{ rule }} # 僵尸时代2
 PROCESS-NAME,com.redrobot.tanks,{{ rule }} # 友军炮火
-PROCESS-NAME,com.retrostylegames.ZombieRHD,{{ rule }} # 僵尸大逃亡
 PROCESS-NAME,com.rinzz.noonedies,{{ rule }} # 一个都不能死
 PROCESS-NAME,com.robtopx.geometryjump,{{ rule }} # 几何冲刺
 PROCESS-NAME,com.rocketmind.fishing,{{ rule }} # 大型钓鱼运动
@@ -916,6 +915,7 @@ PROCESS-NAME,com.YouXin.SunnyPuppiesTW,{{ rule }} # 晴天小狗
 PROCESS-NAME,com.yuejunzhang.home,{{ rule }} # 据点守卫
 PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
+PROCESS-NAME,com.yyyp.cn,{{ rule }} # 有游有品
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
 PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2

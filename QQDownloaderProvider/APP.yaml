@@ -118,6 +118,7 @@ payload:
   - PROCESS-NAME,com.baihe #百合网
   - PROCESS-NAME,com.baile.shanduo #闪聊闪约
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
+  - PROCESS-NAME,com.bankcomm.maidanba #买单吧
   - PROCESS-NAME,com.baoyun.babycloud #口袋宝宝
   - PROCESS-NAME,com.battery.guard #电池卫士
   - PROCESS-NAME,com.benqu.wuta #无他相机
@@ -194,7 +195,6 @@ payload:
   - PROCESS-NAME,com.dangdang.buy2 #当当
   - PROCESS-NAME,com.dangdang.reader #当当云阅读
   - PROCESS-NAME,com.daofeng.zuhaowan #租号玩
-  - PROCESS-NAME,com.datayes.irr #萝卜投研
   - PROCESS-NAME,com.dazhuanjia.dcloud #大专家
   - PROCESS-NAME,com.dbscgeneral #东北证券融e通
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器智能计算
@@ -227,6 +227,7 @@ payload:
   - PROCESS-NAME,com.duokan.reader #多看
   - PROCESS-NAME,com.duorong.smarttool #时光序
   - PROCESS-NAME,com.duowan.kiwi #虎牙直播
+  - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.dute.dutenews #读特
   - PROCESS-NAME,com.duwo.reading #伴鱼绘本
   - PROCESS-NAME,com.duxiaoman.umoney #有钱花
@@ -868,7 +869,6 @@ payload:
   - PROCESS-NAME,com.xiaoshijie.sqb #好省
   - PROCESS-NAME,com.xiaoying.cardloan #小赢卡贷
   - PROCESS-NAME,com.xiaozhu.xzdz #小猪民宿
-  - PROCESS-NAME,com.xiguakeji.bddh #北斗侠导航
   - PROCESS-NAME,com.ximalaya.ting.android #喜马拉雅
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xingjiabi.shengsheng #他趣

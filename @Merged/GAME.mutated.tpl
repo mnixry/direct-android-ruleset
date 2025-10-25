@@ -263,7 +263,6 @@ PROCESS-NAME,com.devolver.reigns2,{{ rule }} # 王权2:女王陛下
 PROCESS-NAME,com.digixart.lostinharmony,{{ rule }} # 梦境旋律 完整版
 PROCESS-NAME,com.digtodeep.activity,{{ rule }} # 一路向下
 PROCESS-NAME,com.dinocooler.android.pixeltree.release,{{ rule }} # 像素树 官方中文版
-PROCESS-NAME,com.disney.troz,{{ rule }} # 神庙逃亡2 魔境仙踪
 PROCESS-NAME,com.djinnworks.ss16,{{ rule }} # 火柴人足球2016
 PROCESS-NAME,com.djinnworks.StickmanDownhill,{{ rule }} # 火柴人山地飙车
 PROCESS-NAME,com.djinnworks.StickmanSoccer,{{ rule }} # 火柴人足球
@@ -516,7 +515,6 @@ PROCESS-NAME,com.Imperialeagle.rts,{{ rule }} # 铁锈战争:帝国雄鹰
 PROCESS-NAME,com.IMStudio.PocketRally,{{ rule }} # 掌上拉力赛
 PROCESS-NAME,com.indeed.golinks,{{ rule }} # 弈客围棋
 PROCESS-NAME,com.infinityvector.assolutoracing,{{ rule }} # 绝对赛车
-PROCESS-NAME,com.inhe.meifa,{{ rule }} # 美发预约
 PROCESS-NAME,com.integer3d.dirtroadtrucker,{{ rule }} # 3D泥路货车
 PROCESS-NAME,com.InterServ.ApocalypseKnights,{{ rule }} # 光之骑士
 PROCESS-NAME,com.ironhidegames.android.kingdomrush,{{ rule }} # 王国保卫战
@@ -580,6 +578,7 @@ PROCESS-NAME,com.leyouwanban.lywb,{{ rule }} # 乐优达人
 PROCESS-NAME,com.liaoyanxuan.jeweldropdom,{{ rule }} # 方块宝石滑消消
 PROCESS-NAME,com.liaoyanxuan.sudoku,{{ rule }} # 数独玩家
 PROCESS-NAME,com.liaoyanxuan.unblockMeKlotski,{{ rule }} # 三国华容道谜题集
+PROCESS-NAME,com.lila.beatracer,{{ rule }} # 节奏超跑
 PROCESS-NAME,com.lilithgame.igame.android.cn,{{ rule }} # 剑与远征：启程
 PROCESS-NAME,com.lilithgame.wgame.android.cn,{{ rule }} # 战火勋章
 PROCESS-NAME,com.lilithgames.rok.offical.cn,{{ rule }} # 万国觉醒
@@ -747,6 +746,7 @@ PROCESS-NAME,com.pixonic.wwr,{{ rule }} # 机甲战队
 PROCESS-NAME,com.PlausibleConcept.BadNorthFull,{{ rule }} # 绝境北方
 PROCESS-NAME,com.playcrab.kos.yyh,{{ rule }} # 一拳超人：最强之男
 PROCESS-NAME,com.playcreek.DeathWorm,{{ rule }} # 死亡巨虫
+PROCESS-NAME,com.playdead.limbo.full,{{ rule }} # 地狱边境
 PROCESS-NAME,com.playhome,{{ rule }} # 娃娃屋：游戏之家
 PROCESS-NAME,com.playhome.hospital,{{ rule }} # 娃娃屋 医院
 PROCESS-NAME,com.playhome.plus,{{ rule }} # 娃娃屋PLUS
@@ -784,7 +784,6 @@ PROCESS-NAME,com.rebeltwins.aliensdrivemecrazy,{{ rule }} # 疯狂外星人
 PROCESS-NAME,com.rebeltwins.daddywasathief,{{ rule }} # 老爸的神偷岁月
 PROCESS-NAME,com.redantz.game.zombieage2,{{ rule }} # 僵尸时代2
 PROCESS-NAME,com.redrobot.tanks,{{ rule }} # 友军炮火
-PROCESS-NAME,com.retrostylegames.ZombieRHD,{{ rule }} # 僵尸大逃亡
 PROCESS-NAME,com.rinzz.noonedies,{{ rule }} # 一个都不能死
 PROCESS-NAME,com.robtopx.geometryjump,{{ rule }} # 几何冲刺
 PROCESS-NAME,com.rocketmind.fishing,{{ rule }} # 大型钓鱼运动
@@ -921,7 +920,6 @@ PROCESS-NAME,com.telltalegames.minecraft200,{{ rule }} # 我的世界：故事�
 PROCESS-NAME,com.telltalegames.walkingdead100,{{ rule }} # 行尸走肉：第一季
 PROCESS-NAME,com.tencent.af,{{ rule }} # 王牌战士
 PROCESS-NAME,com.tencent.b2,{{ rule }} # 剑灵2
-PROCESS-NAME,com.tencent.bsdld,{{ rule }} # 宝石大乱斗
 PROCESS-NAME,com.tencent.cookie,{{ rule }} # 冲呀！饼干人：王国
 PROCESS-NAME,com.tencent.cqsj,{{ rule }} # 传奇世界
 PROCESS-NAME,com.tencent.dhm1,{{ rule }} # 群星纪元
@@ -1675,6 +1673,7 @@ PROCESS-NAME,com.tencent.tmgp.youzu.ss0,{{ rule }} # 少年三国志：零
 PROCESS-NAME,com.tencent.tmgp.youzu.xdmbj,{{ rule }} # 新盗墓笔记
 PROCESS-NAME,com.tencent.tmgp.yqklnw,{{ rule }} # 一千克拉女王
 PROCESS-NAME,com.tencent.tmgp.yqqskp,{{ rule }} # 元气骑士
+PROCESS-NAME,com.tencent.tmgp.yr.sgllk,{{ rule }} # 水果连连看单机游戏
 PROCESS-NAME,com.tencent.tmgp.yr.tetris,{{ rule }} # 俄罗斯方块游戏
 PROCESS-NAME,com.tencent.tmgp.yslzm,{{ rule }} # 以闪亮之名
 PROCESS-NAME,com.tencent.tmgp.ysymx,{{ rule }} # 勇士与冒险
@@ -1889,6 +1888,7 @@ PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yunbu.arcadepool.tencent,{{ rule }} # 街机台球大师游戏软件V1.0
 PROCESS-NAME,com.yunbu.bubbleelfsaga1,{{ rule }} # 泡泡精灵传奇
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
+PROCESS-NAME,com.yyyp.cn,{{ rule }} # 有游有品
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zhuoyukid.math,{{ rule }} # 贝贝数学
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车

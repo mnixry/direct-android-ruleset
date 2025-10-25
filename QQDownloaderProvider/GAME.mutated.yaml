@@ -131,7 +131,6 @@ payload:
   - PROCESS-NAME,com.smellymonster.games.make24 #算24点
   - PROCESS-NAME,com.tencent.af #王牌战士
   - PROCESS-NAME,com.tencent.b2 #剑灵2
-  - PROCESS-NAME,com.tencent.bsdld #宝石大乱斗
   - PROCESS-NAME,com.tencent.cookie #冲呀！饼干人：王国
   - PROCESS-NAME,com.tencent.cqsj #传奇世界
   - PROCESS-NAME,com.tencent.dhm1 #群星纪元
@@ -882,6 +881,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.youzu.xdmbj #新盗墓笔记
   - PROCESS-NAME,com.tencent.tmgp.yqklnw #一千克拉女王
   - PROCESS-NAME,com.tencent.tmgp.yqqskp #元气骑士
+  - PROCESS-NAME,com.tencent.tmgp.yr.sgllk #水果连连看单机游戏
   - PROCESS-NAME,com.tencent.tmgp.yr.tetris #俄罗斯方块游戏
   - PROCESS-NAME,com.tencent.tmgp.yslzm #以闪亮之名
   - PROCESS-NAME,com.tencent.tmgp.ysymx #勇士与冒险

@@ -228,6 +228,7 @@ PROCESS-NAME,com.baijiu.bizhi.zhutidaq,{{ rule }} # 主题
 PROCESS-NAME,com.baile.shanduo,{{ rule }} # 闪聊闪约
 PROCESS-NAME,com.bank,{{ rule }} # 黄河银行
 PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
+PROCESS-NAME,com.bankcomm.maidanba,{{ rule }} # 买单吧
 PROCESS-NAME,com.baoear.baoer,{{ rule }} # 宝耳
 PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq,{{ rule }} # 科技之光-宝软3D主题
 PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD,{{ rule }} # 古剑奇谭之风晴雪-3D桌面主题
@@ -372,7 +373,6 @@ PROCESS-NAME,com.dangdang.reader,{{ rule }} # 当当云阅读
 PROCESS-NAME,com.danielstudio.app.wowtu,{{ rule }} # 煎蛋
 PROCESS-NAME,com.daofeng.zuhaowan,{{ rule }} # 租号玩
 PROCESS-NAME,com.daqo.wallpaper,{{ rule }} # 多多壁纸铃声
-PROCESS-NAME,com.datayes.irr,{{ rule }} # 萝卜投研
 PROCESS-NAME,com.dazhuanjia.dcloud,{{ rule }} # 大专家
 PROCESS-NAME,com.dbscgeneral,{{ rule }} # 东北证券融e通
 PROCESS-NAME,com.ddmh.livewallpaper,{{ rule }} # 动态壁纸秀
@@ -1457,7 +1457,6 @@ PROCESS-NAME,com.xiaomi.youpin,{{ rule }} # 小米有品
 PROCESS-NAME,com.xiaoshijie.sqb,{{ rule }} # 好省
 PROCESS-NAME,com.xiaoying.cardloan,{{ rule }} # 小赢卡贷
 PROCESS-NAME,com.xiaozhu.xzdz,{{ rule }} # 小猪民宿
-PROCESS-NAME,com.xiguakeji.bddh,{{ rule }} # 北斗侠导航
 PROCESS-NAME,com.ximalaya.ting.android,{{ rule }} # 喜马拉雅
 PROCESS-NAME,com.xingin.xhs,{{ rule }} # 小红书
 PROCESS-NAME,com.xingjiabi.shengsheng,{{ rule }} # 他趣

@@ -228,6 +228,7 @@ payload:
   - PROCESS-NAME,com.baile.shanduo #闪聊闪约
   - PROCESS-NAME,com.bank #黄河银行
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
+  - PROCESS-NAME,com.bankcomm.maidanba #买单吧
   - PROCESS-NAME,com.baoear.baoer #宝耳
   - PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq #科技之光-宝软3D主题
   - PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD #古剑奇谭之风晴雪-3D桌面主题
@@ -372,7 +373,6 @@ payload:
   - PROCESS-NAME,com.danielstudio.app.wowtu #煎蛋
   - PROCESS-NAME,com.daofeng.zuhaowan #租号玩
   - PROCESS-NAME,com.daqo.wallpaper #多多壁纸铃声
-  - PROCESS-NAME,com.datayes.irr #萝卜投研
   - PROCESS-NAME,com.dazhuanjia.dcloud #大专家
   - PROCESS-NAME,com.dbscgeneral #东北证券融e通
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
@@ -1457,7 +1457,6 @@ payload:
   - PROCESS-NAME,com.xiaoshijie.sqb #好省
   - PROCESS-NAME,com.xiaoying.cardloan #小赢卡贷
   - PROCESS-NAME,com.xiaozhu.xzdz #小猪民宿
-  - PROCESS-NAME,com.xiguakeji.bddh #北斗侠导航
   - PROCESS-NAME,com.ximalaya.ting.android #喜马拉雅
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xingjiabi.shengsheng #他趣
