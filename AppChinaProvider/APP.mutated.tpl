@@ -244,7 +244,6 @@ PROCESS-NAME,com.color.by.coloring.wallpaper.android,{{ rule }} # 涂个壁纸
 PROCESS-NAME,com.csii_qzbank,{{ rule }} # 泉州银行
 PROCESS-NAME,com.csii.hkb,{{ rule }} # 汉口银行
 PROCESS-NAME,com.csii.tianjin.mobilebank,{{ rule }} # 天津银行
-PROCESS-NAME,com.cssq.wallpaper,{{ rule }} # 最美免费壁纸
 PROCESS-NAME,com.ct.client,{{ rule }} # 中国电信
 PROCESS-NAME,com.cubic.autohome,{{ rule }} # 汽车之家
 PROCESS-NAME,com.cutv.mobile.zsntclient,{{ rule }} # 掌上南通

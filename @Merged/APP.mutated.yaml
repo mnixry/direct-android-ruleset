@@ -354,7 +354,6 @@ payload:
   - PROCESS-NAME,com.csii.gdnx.mobilebank #广东农信
   - PROCESS-NAME,com.csii.hkb #汉口银行
   - PROCESS-NAME,com.csii.tianjin.mobilebank #天津银行
-  - PROCESS-NAME,com.cssq.wallpaper #最美免费壁纸
   - PROCESS-NAME,com.ct.client #中国电信
   - PROCESS-NAME,com.cubic.autohome #汽车之家
   - PROCESS-NAME,com.cubic.choosecar #汽车报价

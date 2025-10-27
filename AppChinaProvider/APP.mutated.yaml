@@ -244,7 +244,6 @@ payload:
   - PROCESS-NAME,com.csii_qzbank #泉州银行
   - PROCESS-NAME,com.csii.hkb #汉口银行
   - PROCESS-NAME,com.csii.tianjin.mobilebank #天津银行
-  - PROCESS-NAME,com.cssq.wallpaper #最美免费壁纸
   - PROCESS-NAME,com.ct.client #中国电信
   - PROCESS-NAME,com.cubic.autohome #汽车之家
   - PROCESS-NAME,com.cutv.mobile.zsntclient #掌上南通
