@@ -752,6 +752,7 @@ PROCESS-NAME,com.ss.android.article.lite,{{ rule }} # 今日头条极速版
 PROCESS-NAME,com.ss.android.article.news,{{ rule }} # 今日头条
 PROCESS-NAME,com.ss.android.tuchong,{{ rule }} # 图虫
 PROCESS-NAME,com.ss.android.ugc.aweme,{{ rule }} # 抖音
+PROCESS-NAME,com.ss.android.ugc.live,{{ rule }} # 抖音火山版
 PROCESS-NAME,com.sskj.flashlight,{{ rule }} # 随手电筒
 PROCESS-NAME,com.ssports.mobile.video,{{ rule }} # 爱奇艺体育
 PROCESS-NAME,com.starbucks.cn,{{ rule }} # 星巴克
@@ -943,7 +944,6 @@ PROCESS-NAME,com.yx,{{ rule }} # 有信
 PROCESS-NAME,com.yy.android.udbsec,{{ rule }} # YY安全中心
 PROCESS-NAME,com.yy.huanju,{{ rule }} # Hello
 PROCESS-NAME,com.yyyfs.wallpaper,{{ rule }} # 元宇宙壁纸
-PROCESS-NAME,com.zbx.ct.tvzhibo,{{ rule }} # 手机电视高清直播
 PROCESS-NAME,com.zerone.hidesktop,{{ rule }} # 我的桌面iScreen
 PROCESS-NAME,com.zhangbingdev.jimei,{{ rule }} # 集美美图
 PROCESS-NAME,com.zhangdan.app,{{ rule }} # 51信用卡管家

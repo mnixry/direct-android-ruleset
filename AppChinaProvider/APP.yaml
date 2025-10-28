@@ -752,6 +752,7 @@ payload:
   - PROCESS-NAME,com.ss.android.article.news #今日头条
   - PROCESS-NAME,com.ss.android.tuchong #图虫
   - PROCESS-NAME,com.ss.android.ugc.aweme #抖音
+  - PROCESS-NAME,com.ss.android.ugc.live #抖音火山版
   - PROCESS-NAME,com.sskj.flashlight #随手电筒
   - PROCESS-NAME,com.ssports.mobile.video #爱奇艺体育
   - PROCESS-NAME,com.starbucks.cn #星巴克
@@ -943,7 +944,6 @@ payload:
   - PROCESS-NAME,com.yy.android.udbsec #YY安全中心
   - PROCESS-NAME,com.yy.huanju #Hello
   - PROCESS-NAME,com.yyyfs.wallpaper #元宇宙壁纸
-  - PROCESS-NAME,com.zbx.ct.tvzhibo #手机电视高清直播
   - PROCESS-NAME,com.zerone.hidesktop #我的桌面iScreen
   - PROCESS-NAME,com.zhangbingdev.jimei #集美美图
   - PROCESS-NAME,com.zhangdan.app #51信用卡管家

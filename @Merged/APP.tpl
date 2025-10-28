@@ -105,6 +105,7 @@ PROCESS-NAME,cn.rainbow.westore,{{ rule }} # 天虹
 PROCESS-NAME,cn.samsclub.app,{{ rule }} # 山姆会员商店
 PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
 PROCESS-NAME,cn.soulapp.android,{{ rule }} # Soul
+PROCESS-NAME,cn.szjxgs.szjob,{{ rule }} # 工友通
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
 PROCESS-NAME,cn.TuHu.android,{{ rule }} # 途虎养车
 PROCESS-NAME,cn.vcinema.cinema,{{ rule }} # 南瓜电影
@@ -1078,6 +1079,7 @@ PROCESS-NAME,com.redrcd.ylxf,{{ rule }} # 云岭先锋
 PROCESS-NAME,com.renren.mobile.android,{{ rule }} # 人人直播
 PROCESS-NAME,com.renrendai.haohuan,{{ rule }} # 好分期
 PROCESS-NAME,com.renxing.xys,{{ rule }} # 性用社
+PROCESS-NAME,com.rj.syslearning,{{ rule }} # 同步学
 PROCESS-NAME,com.roamingsoft.manager,{{ rule }} # WiFi连接管理器
 PROCESS-NAME,com.rong.fastloan,{{ rule }} # 时光分期
 PROCESS-NAME,com.rong360.app,{{ rule }} # 融360
@@ -1591,7 +1593,6 @@ PROCESS-NAME,com.zongheng.reader,{{ rule }} # 纵横小说
 PROCESS-NAME,com.zoomLink.androidApp,{{ rule }} # 小夸搜剧
 PROCESS-NAME,com.zsyj.trans,{{ rule }} # 全局透明壁纸
 PROCESS-NAME,com.zsyj.wallpaper,{{ rule }} # 熊猫动态壁纸
-PROCESS-NAME,com.zuoyebang.airclass,{{ rule }} # 一课
 PROCESS-NAME,com.zxscnew,{{ rule }} # 中信证券
 PROCESS-NAME,com.zybang.parent,{{ rule }} # 作业帮口算
 PROCESS-NAME,com.zydsoft.acuherb,{{ rule }} # 中医辨证云

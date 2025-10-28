@@ -54,6 +54,7 @@ payload:
   - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
+  - PROCESS-NAME,cn.szjxgs.szjob #工友通
   - PROCESS-NAME,cn.TuHu.android #途虎养车
   - PROCESS-NAME,cn.wangxiao.cpazhuntiku #注册会计师准题库
   - PROCESS-NAME,cn.wangxiao.gwyzhuntiku #公务员准题库
@@ -616,6 +617,7 @@ payload:
   - PROCESS-NAME,com.renren.mobile.android #人人直播
   - PROCESS-NAME,com.renrendai.haohuan #好分期
   - PROCESS-NAME,com.renxing.xys #性用社
+  - PROCESS-NAME,com.rj.syslearning #同步学
   - PROCESS-NAME,com.rong.fastloan #时光分期
   - PROCESS-NAME,com.rong360.app #融360
   - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
@@ -955,7 +957,6 @@ payload:
   - PROCESS-NAME,com.ziipin.homeinn #首旅如家
   - PROCESS-NAME,com.zl.fqbao #招联金融
   - PROCESS-NAME,com.zmlearn.course.am #掌门1对1辅导
-  - PROCESS-NAME,com.zuoyebang.airclass #一课
   - PROCESS-NAME,com.zxscnew #中信证券
   - PROCESS-NAME,com.zybang.parent #作业帮口算
   - PROCESS-NAME,com.zyhd.voice #语音包变声器
