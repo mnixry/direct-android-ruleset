@@ -810,7 +810,6 @@ PROCESS-NAME,com.laolaiwangtech,{{ rule }} # 老来健康
 PROCESS-NAME,com.laoyouzhibo.app,{{ rule }} # 老柚
 PROCESS-NAME,com.laoyuegou.android,{{ rule }} # 捞月狗
 PROCESS-NAME,com.larus.nova,{{ rule }} # 豆包
-PROCESS-NAME,com.lazymc.smstoemail,{{ rule }} # 我的信
 PROCESS-NAME,com.lcworld.haiwainet,{{ rule }} # 海客新闻
 PROCESS-NAME,com.lcworld.oasismedical,{{ rule }} # 泓华医疗
 PROCESS-NAME,com.le123.ysdq,{{ rule }} # 影视大全
@@ -937,6 +936,7 @@ PROCESS-NAME,com.mxr.dreambook,{{ rule }} # 4D书城
 PROCESS-NAME,com.my.browserplus,{{ rule }} # 浏览器加
 PROCESS-NAME,com.my.peiyin,{{ rule }} # 配音文字转语音
 PROCESS-NAME,com.mybank.android.phone,{{ rule }} # 网商银行
+PROCESS-NAME,com.mydananjing.app,{{ rule }} # 我的大蓝鲸
 PROCESS-NAME,com.mygolbs.mybus,{{ rule }} # 掌上公交
 PROCESS-NAME,com.mygolbs.mybuswz,{{ rule }} # 我看行
 PROCESS-NAME,com.mymoney,{{ rule }} # 随手记

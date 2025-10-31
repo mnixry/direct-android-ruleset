@@ -736,7 +736,6 @@ PROCESS-NAME,com.skgames.trafficrider,{{ rule }} # Traffic Rider
 PROCESS-NAME,com.skisosoft.pts,{{ rule }} # 公交车模拟
 PROCESS-NAME,com.slitherine.davincisartofwar,{{ rule }} # 贵族：达芬奇兵法
 PROCESS-NAME,com.slothwerks.meteorfall,{{ rule }} # 星陨传说：旅程
-PROCESS-NAME,com.smart.panorama.app,{{ rule }} # 屋联VR全景
 PROCESS-NAME,com.snkplaymore.android007,{{ rule }} # 拳皇98
 PROCESS-NAME,com.snkplaymore.android010,{{ rule }} # 拳皇2012 KOF-A 2012
 PROCESS-NAME,com.snkplaymore.android012,{{ rule }} # 饿狼传说：特别版
@@ -916,6 +915,7 @@ PROCESS-NAME,com.YouXin.SunnyPuppiesTW,{{ rule }} # 晴天小狗
 PROCESS-NAME,com.yuejunzhang.home,{{ rule }} # 据点守卫
 PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
+PROCESS-NAME,com.yyyp.cn,{{ rule }} # 有游有品
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
 PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2

@@ -810,7 +810,6 @@ payload:
   - PROCESS-NAME,com.laoyouzhibo.app #老柚
   - PROCESS-NAME,com.laoyuegou.android #捞月狗
   - PROCESS-NAME,com.larus.nova #豆包
-  - PROCESS-NAME,com.lazymc.smstoemail #我的信
   - PROCESS-NAME,com.lcworld.haiwainet #海客新闻
   - PROCESS-NAME,com.lcworld.oasismedical #泓华医疗
   - PROCESS-NAME,com.le123.ysdq #影视大全
@@ -937,6 +936,7 @@ payload:
   - PROCESS-NAME,com.my.browserplus #浏览器加
   - PROCESS-NAME,com.my.peiyin #配音文字转语音
   - PROCESS-NAME,com.mybank.android.phone #网商银行
+  - PROCESS-NAME,com.mydananjing.app #我的大蓝鲸
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
   - PROCESS-NAME,com.mygolbs.mybuswz #我看行
   - PROCESS-NAME,com.mymoney #随手记
