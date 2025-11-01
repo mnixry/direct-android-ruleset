@@ -474,7 +474,6 @@ payload:
   - PROCESS-NAME,com.Imperialeagle.rts #铁锈战争:帝国雄鹰
   - PROCESS-NAME,com.IMStudio.PocketRally #掌上拉力赛
   - PROCESS-NAME,com.infinityvector.assolutoracing #绝对赛车
-  - PROCESS-NAME,com.inhe.meifa #美发预约
   - PROCESS-NAME,com.integer3d.dirtroadtrucker #3D泥路货车
   - PROCESS-NAME,com.InterServ.ApocalypseKnights #光之骑士
   - PROCESS-NAME,com.ironhidegames.android.kingdomrush #王国保卫战
@@ -736,6 +735,7 @@ payload:
   - PROCESS-NAME,com.skisosoft.pts #公交车模拟
   - PROCESS-NAME,com.slitherine.davincisartofwar #贵族：达芬奇兵法
   - PROCESS-NAME,com.slothwerks.meteorfall #星陨传说：旅程
+  - PROCESS-NAME,com.smart.panorama.app #屋联VR全景
   - PROCESS-NAME,com.snkplaymore.android007 #拳皇98
   - PROCESS-NAME,com.snkplaymore.android010 #拳皇2012 KOF-A 2012
   - PROCESS-NAME,com.snkplaymore.android012 #饿狼传说：特别版
