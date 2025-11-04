@@ -134,7 +134,7 @@ payload:
   - PROCESS-NAME,com.appshare.android.ilisten #口袋故事
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
-  - PROCESS-NAME,com.apyxjypu.qyxn #夜色夜聊
+  - PROCESS-NAME,com.apyxjypu.qyxn #蜜桃夜聊视频
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.babytree.apps.lama #宝宝树小时光
@@ -246,6 +246,7 @@ payload:
   - PROCESS-NAME,com.csii.tianjin.mobilebank #天津银行
   - PROCESS-NAME,com.ct.client #中国电信
   - PROCESS-NAME,com.cubic.autohome #汽车之家
+  - PROCESS-NAME,com.cute.mqbz #萌趣壁纸
   - PROCESS-NAME,com.cutv.mobile.zsntclient #掌上南通
   - PROCESS-NAME,com.czbank.mbank #浙商银行
   - PROCESS-NAME,com.dachen.medicalcircle #医生圈
@@ -915,7 +916,6 @@ payload:
   - PROCESS-NAME,com.ylmf.androidclient #115生活
   - PROCESS-NAME,com.ymatou.seller #洋码头扫货神器买手版
   - PROCESS-NAME,com.ymatou.shop #洋码头
-  - PROCESS-NAME,com.yn.wallpaper.cheese #奶酪壁纸
   - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
