@@ -437,6 +437,7 @@ payload:
   - PROCESS-NAME,com.kuaishou.nebula #快手极速版
   - PROCESS-NAME,com.kuangxiangciweimao.novel #刺猬猫阅读
   - PROCESS-NAME,com.kugou.android #酷狗音乐
+  - PROCESS-NAME,com.kugou.android.elder #酷狗大字版
   - PROCESS-NAME,com.kugou.fanxing #酷狗直播
   - PROCESS-NAME,com.kwai.videoeditor #快影
   - PROCESS-NAME,com.lalamove.huolala.client #货拉拉
@@ -674,7 +675,6 @@ payload:
   - PROCESS-NAME,com.smzdm.client.android #什么值得买
   - PROCESS-NAME,com.snda.lantern.wifilocating #WiFi万能钥匙极速版
   - PROCESS-NAME,com.snda.wifilocating #WiFi万能钥匙
-  - PROCESS-NAME,com.soft.blued #Blued
   - PROCESS-NAME,com.sohu.infonews #搜狐资讯
   - PROCESS-NAME,com.sohu.newsclient #搜狐新闻
   - PROCESS-NAME,com.sohu.sohuvideo #搜狐视频
