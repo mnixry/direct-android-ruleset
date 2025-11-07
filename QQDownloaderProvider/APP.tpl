@@ -116,6 +116,7 @@ PROCESS-NAME,com.baidu.wenku,{{ rule }} # 百度文库
 PROCESS-NAME,com.baidu.yuedu,{{ rule }} # 百度阅读
 PROCESS-NAME,com.baihe,{{ rule }} # 百合网
 PROCESS-NAME,com.baile.shanduo,{{ rule }} # 闪聊闪约
+PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
 PROCESS-NAME,com.bankcomm.maidanba,{{ rule }} # 买单吧
 PROCESS-NAME,com.baoyun.babycloud,{{ rule }} # 口袋宝宝
 PROCESS-NAME,com.battery.guard,{{ rule }} # 电池卫士
@@ -158,6 +159,7 @@ PROCESS-NAME,com.chinaso.toutiao,{{ rule }} # 中国搜索
 PROCESS-NAME,com.chinatelecom.bestpayclient,{{ rule }} # 翼支付
 PROCESS-NAME,com.chineseall.singlebook,{{ rule }} # 中文书城
 PROCESS-NAME,com.chipsea.btcontrol,{{ rule }} # OKOK
+PROCESS-NAME,com.ci123.pregnancywap,{{ rule }} # 妈妈社区
 PROCESS-NAME,com.cib.cibmb,{{ rule }} # 兴业银行
 PROCESS-NAME,com.cib.xyk,{{ rule }} # 兴业生活
 PROCESS-NAME,com.citiccard.mobilebank,{{ rule }} # 动卡空间
@@ -442,7 +444,6 @@ PROCESS-NAME,com.kuaikan.comic,{{ rule }} # 快看漫画
 PROCESS-NAME,com.kuaishou.nebula,{{ rule }} # 快手极速版
 PROCESS-NAME,com.kuangxiangciweimao.novel,{{ rule }} # 刺猬猫阅读
 PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐
-PROCESS-NAME,com.kugou.android.elder,{{ rule }} # 酷狗大字版
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
 PROCESS-NAME,com.kwai.videoeditor,{{ rule }} # 快影
 PROCESS-NAME,com.lalamove.huolala.client,{{ rule }} # 货拉拉
@@ -933,7 +934,6 @@ PROCESS-NAME,com.yuedong.sport,{{ rule }} # 悦动圈
 PROCESS-NAME,com.yueme.itv,{{ rule }} # 小翼管家
 PROCESS-NAME,com.yumc.phsuperapp,{{ rule }} # 必胜客
 PROCESS-NAME,com.yunxi.bell,{{ rule }} # 闹钟AI
-PROCESS-NAME,com.yunxi.calendar,{{ rule }} # 云犀日历
 PROCESS-NAME,com.yunxi.flashlight,{{ rule }} # 万用手电筒
 PROCESS-NAME,com.yunxiao.haofenshu,{{ rule }} # 好分数
 PROCESS-NAME,com.yuyuesports.yuyue.android,{{ rule }} # 羽约运动

@@ -79,8 +79,8 @@ PROCESS-NAME,cn.idashi.app,{{ rule }} # 大师一百
 PROCESS-NAME,cn.ishansong,{{ rule }} # 闪送
 PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
 PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 魔图精灵
+PROCESS-NAME,cn.jinkun.omnidesk,{{ rule }} # 万能桌面美化
 PROCESS-NAME,cn.jinkun.omnitheme,{{ rule }} # 万能免费主题组件
-PROCESS-NAME,cn.jjpengcheng.wallpaper,{{ rule }} # 动态壁纸
 PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
 PROCESS-NAME,cn.kaoshi100.view,{{ rule }} # 考试100
 PROCESS-NAME,cn.knet.eqxiu,{{ rule }} # 易企秀
@@ -226,6 +226,7 @@ PROCESS-NAME,com.baijiu.bizhi.sjbixiaz,{{ rule }} # Wallpaper
 PROCESS-NAME,com.baijiu.bizhi.zhutidaq,{{ rule }} # 主题
 PROCESS-NAME,com.baile.shanduo,{{ rule }} # 闪聊闪约
 PROCESS-NAME,com.bank,{{ rule }} # 黄河银行
+PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
 PROCESS-NAME,com.bankcomm.maidanba,{{ rule }} # 买单吧
 PROCESS-NAME,com.baoear.baoer,{{ rule }} # 宝耳
 PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq,{{ rule }} # 科技之光-宝软3D主题
@@ -797,7 +798,6 @@ PROCESS-NAME,com.kuaikan.comic,{{ rule }} # 快看漫画
 PROCESS-NAME,com.kuaishou.nebula,{{ rule }} # 快手极速版
 PROCESS-NAME,com.kuangxiangciweimao.novel,{{ rule }} # 刺猬猫阅读
 PROCESS-NAME,com.kugou.android,{{ rule }} # 酷狗音乐
-PROCESS-NAME,com.kugou.android.elder,{{ rule }} # 酷狗大字版
 PROCESS-NAME,com.kugou.android.ringtone,{{ rule }} # 酷狗铃声
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
 PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐HD
@@ -1023,7 +1023,7 @@ PROCESS-NAME,com.pinguo.edit.sdk,{{ rule }} # MIX滤镜大师
 PROCESS-NAME,com.ppdai.loan,{{ rule }} # 拍拍贷借款
 PROCESS-NAME,com.pplive.androidphone,{{ rule }} # PP视频
 PROCESS-NAME,com.pplive.androidphone.sport,{{ rule }} # PP体育
-PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer
+PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer(Android)
 PROCESS-NAME,com.prompt.lines,{{ rule }} # 提词器大师
 PROCESS-NAME,com.qb.qtranslator,{{ rule }} # 腾讯翻译君
 PROCESS-NAME,com.qclianai.com,{{ rule }} # 全城恋爱
@@ -1553,7 +1553,6 @@ PROCESS-NAME,com.yumei.game.engine.ui.client,{{ rule }} # 玩股成金
 PROCESS-NAME,com.yunlan.unlock.dewdropunlock,{{ rule }} # 3D水滴-随变锁屏
 PROCESS-NAME,com.yunlian.wewe,{{ rule }} # 微微网络电话
 PROCESS-NAME,com.yunxi.bell,{{ rule }} # 闹钟AI
-PROCESS-NAME,com.yunxi.calendar,{{ rule }} # 云犀日历
 PROCESS-NAME,com.yunxi.flashlight,{{ rule }} # 万用手电筒
 PROCESS-NAME,com.yunxiao.haofenshu,{{ rule }} # 好分数
 PROCESS-NAME,com.yuyuesports.yuyue.android,{{ rule }} # 羽约运动

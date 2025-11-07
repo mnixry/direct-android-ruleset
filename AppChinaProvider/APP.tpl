@@ -57,8 +57,8 @@ PROCESS-NAME,cn.gzmovement,{{ rule }} # 动静新闻
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
 PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
 PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 魔图精灵
+PROCESS-NAME,cn.jinkun.omnidesk,{{ rule }} # 万能桌面美化
 PROCESS-NAME,cn.jinkun.omnitheme,{{ rule }} # 万能免费主题组件
-PROCESS-NAME,cn.jjpengcheng.wallpaper,{{ rule }} # 动态壁纸
 PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
 PROCESS-NAME,cn.kaoshi100.view,{{ rule }} # 考试100
 PROCESS-NAME,cn.kuwo.kwmusichd,{{ rule }} # 酷我音乐HD
@@ -643,7 +643,7 @@ PROCESS-NAME,com.pingdiguo.tuner,{{ rule }} # 乐器调音器
 PROCESS-NAME,com.pinguo.edit.sdk,{{ rule }} # MIX滤镜大师
 PROCESS-NAME,com.pplive.androidphone,{{ rule }} # PP视频
 PROCESS-NAME,com.pplive.androidphone.sport,{{ rule }} # PP体育
-PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer
+PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer(Android)
 PROCESS-NAME,com.qdnews.qd,{{ rule }} # 青岛新闻
 PROCESS-NAME,com.qfmwwjq.ycsswdt,{{ rule }} # 免费歌曲大全
 PROCESS-NAME,com.qidian.QDReader,{{ rule }} # 起点读书

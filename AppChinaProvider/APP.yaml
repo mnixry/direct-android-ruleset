@@ -57,8 +57,8 @@ payload:
   - PROCESS-NAME,cn.ibabyzone.music #胎教盒子
   - PROCESS-NAME,cn.itheme.tech #手机主题
   - PROCESS-NAME,cn.jingling.motu.photowonder #魔图精灵
+  - PROCESS-NAME,cn.jinkun.omnidesk #万能桌面美化
   - PROCESS-NAME,cn.jinkun.omnitheme #万能免费主题组件
-  - PROCESS-NAME,cn.jjpengcheng.wallpaper #动态壁纸
   - PROCESS-NAME,cn.jsb.china #江苏银行
   - PROCESS-NAME,cn.kaoshi100.view #考试100
   - PROCESS-NAME,cn.kuwo.kwmusichd #酷我音乐HD
@@ -643,7 +643,7 @@ payload:
   - PROCESS-NAME,com.pinguo.edit.sdk #MIX滤镜大师
   - PROCESS-NAME,com.pplive.androidphone #PP视频
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
-  - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer
+  - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer(Android)
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qfmwwjq.ycsswdt #免费歌曲大全
   - PROCESS-NAME,com.qidian.QDReader #起点读书
