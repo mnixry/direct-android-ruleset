@@ -502,7 +502,6 @@ payload:
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
   - PROCESS-NAME,com.kingsoft.android.cat #玲珑密保锁
-  - PROCESS-NAME,com.kkycs.component #美化小组件
   - PROCESS-NAME,com.kmxs.reader #七猫免费小说
   - PROCESS-NAME,com.komoxo.octopusime #章鱼输入法
   - PROCESS-NAME,com.koudai.weishop #微店店长版
@@ -643,7 +642,7 @@ payload:
   - PROCESS-NAME,com.pinguo.edit.sdk #MIX滤镜大师
   - PROCESS-NAME,com.pplive.androidphone #PP视频
   - PROCESS-NAME,com.pplive.androidphone.sport #PP体育
-  - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer(Android)
+  - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qfmwwjq.ycsswdt #免费歌曲大全
   - PROCESS-NAME,com.qidian.QDReader #起点读书
@@ -679,6 +678,7 @@ payload:
   - PROCESS-NAME,com.redrcd.ylxf #云岭先锋
   - PROCESS-NAME,com.renren.mobile.android #人人直播
   - PROCESS-NAME,com.roamingsoft.manager #WiFi连接管理器
+  - PROCESS-NAME,com.rs.callshow.intimate #知心来电秀
   - PROCESS-NAME,com.ruanmei.ithome #IT之家
   - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
   - PROCESS-NAME,com.saida.sjkd.xk #享看

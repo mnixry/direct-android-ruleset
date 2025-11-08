@@ -515,6 +515,7 @@ payload:
   - PROCESS-NAME,com.IMStudio.PocketRally #掌上拉力赛
   - PROCESS-NAME,com.indeed.golinks #弈客围棋
   - PROCESS-NAME,com.infinityvector.assolutoracing #绝对赛车
+  - PROCESS-NAME,com.inhe.meifa #美发预约
   - PROCESS-NAME,com.integer3d.dirtroadtrucker #3D泥路货车
   - PROCESS-NAME,com.InterServ.ApocalypseKnights #光之骑士
   - PROCESS-NAME,com.ironhidegames.android.kingdomrush #王国保卫战
@@ -574,7 +575,6 @@ payload:
   - PROCESS-NAME,com.lemon.play.linecolor #五子连珠
   - PROCESS-NAME,com.leoexe.archery #策马入山林
   - PROCESS-NAME,com.leosfortune #里奥的财富
-  - PROCESS-NAME,com.leyouwanban.lywb #乐优达人
   - PROCESS-NAME,com.liaoyanxuan.sudoku #数独玩家
   - PROCESS-NAME,com.liaoyanxuan.unblockMeKlotski #三国华容道谜题集
   - PROCESS-NAME,com.lila.beatracer #节奏超跑
@@ -1305,7 +1305,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.lxdqy #卢希达：起源
   - PROCESS-NAME,com.tencent.tmgp.lxwz #篮下王者
   - PROCESS-NAME,com.tencent.tmgp.lyjzchqsy #传奇岁月
-  - PROCESS-NAME,com.tencent.tmgp.lytx.shengjue #烈焰天下
   - PROCESS-NAME,com.tencent.tmgp.lywlfrcs #凡人传说
   - PROCESS-NAME,com.tencent.tmgp.lzjxmb #龙之觉醒
   - PROCESS-NAME,com.tencent.tmgp.m3gsy #梦三国
@@ -1531,7 +1530,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tmsk.zhzr #真红之刃
   - PROCESS-NAME,com.tencent.tmgp.tmst #同盟神探
   - PROCESS-NAME,com.tencent.tmgp.tom #猫和老鼠
-  - PROCESS-NAME,com.tencent.tmgp.tong.lcgame #归龙潮
   - PROCESS-NAME,com.tencent.tmgp.tongchengmajiang #同城麻将游戏软件v1.0
   - PROCESS-NAME,com.tencent.tmgp.tqbaohuang #大眼保皇
   - PROCESS-NAME,com.tencent.tmgp.tqgouji #大眼够级
