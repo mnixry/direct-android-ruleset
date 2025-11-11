@@ -180,7 +180,6 @@ PROCESS-NAME,com.baoruan.theme.nmczieafirKJYCtjYiX,{{ rule }} # 天边最亮的�
 PROCESS-NAME,com.baoruan.theme.nmdaneeebWKQxeDBSBV,{{ rule }} # 回忆飘散の时光-宝软3D主题
 PROCESS-NAME,com.baoruan.theme.nzacpcdcUntIsxoVVv,{{ rule }} # 小黄人大眼萌-宝软3D主题
 PROCESS-NAME,com.baoruan.theme.nzcdieefhPEFnNNEaFM,{{ rule }} # 兔子兔子-宝软3D主题
-PROCESS-NAME,com.baoruan.vmiic,{{ rule }} # 主题商店
 PROCESS-NAME,com.baoruan.wallpaper.lmaczcgcdjTJGknirRd,{{ rule }} # 绚丽水晶-桌面壁纸
 PROCESS-NAME,com.bayupay.zhbqb,{{ rule }} # 最火表情包
 PROCESS-NAME,com.bbbao.shop.client.android.activity,{{ rule }} # 比比宝
