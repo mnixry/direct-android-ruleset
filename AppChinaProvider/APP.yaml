@@ -619,6 +619,7 @@ payload:
   - PROCESS-NAME,com.niuguwang.stock #牛股王股票
   - PROCESS-NAME,com.njmizhilan.wallpaper #主题壁纸（桌面）
   - PROCESS-NAME,com.njwry.zhuochong #桌面宠物多多
+  - PROCESS-NAME,com.nnsl.androidacts.genkithemewallpaper #元气主题壁纸
   - PROCESS-NAME,com.novv.resshare #彩蛋视频壁纸
   - PROCESS-NAME,com.ocj.oms.mobile #东方购物
   - PROCESS-NAME,com.octinn.birthdayplus #生日管家
@@ -974,7 +975,6 @@ payload:
   - PROCESS-NAME,fm.qingting.qtradio #蜻蜓FM
   - PROCESS-NAME,gov.pianzong.androidnga #NGA玩家社区
   - PROCESS-NAME,gyjf.alfdcyj.ooo #囧次元
-  - PROCESS-NAME,gyjf.ppztbz.com #皮皮壁纸
   - PROCESS-NAME,gzjm.nybz.kids #奶油桌面壁纸
   - PROCESS-NAME,hbyc.china.medical.view #壹生
   - PROCESS-NAME,howbuy.android.palmfund #好买基金
