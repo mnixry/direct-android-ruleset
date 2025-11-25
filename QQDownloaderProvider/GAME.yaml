@@ -2,7 +2,6 @@ payload:
   - PROCESS-NAME,air.com.miracle.weqi.packqq #少儿围棋教学合集
   - PROCESS-NAME,bf.sgs.hdexp #三国杀
   - PROCESS-NAME,cn.flytalk.shudu #全民数独
-  - PROCESS-NAME,cn.houapp.haixing.moniqi #海星模拟器
   - PROCESS-NAME,cn.izis.mygo.mplat #隐智围棋
   - PROCESS-NAME,cn.jj #JJ斗地主
   - PROCESS-NAME,cn.uqu8.wordPuzzles #单机疯狂猜字谜
@@ -317,6 +316,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.dnf #地下城与勇士：起源
   - PROCESS-NAME,com.tencent.tmgp.dnh #龙与家园：时光
   - PROCESS-NAME,com.tencent.tmgp.dodjoy.hlwdzz #葫芦娃大作战
+  - PROCESS-NAME,com.tencent.tmgp.douposnzy #斗破苍穹：三年之约
   - PROCESS-NAME,com.tencent.tmgp.douyurxjhgl #热血江湖：归来
   - PROCESS-NAME,com.tencent.tmgp.dpcq #斗破苍穹：异火重燃
   - PROCESS-NAME,com.tencent.tmgp.dpdj #斗破苍穹：巅峰对决
@@ -606,6 +606,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.qblykilltext #谁是卧底移动版
   - PROCESS-NAME,com.tencent.tmgp.qilong.warship #战舰冲突
   - PROCESS-NAME,com.tencent.tmgp.qinsmoon #秦时明月卡牌版
+  - PROCESS-NAME,com.tencent.tmgp.qiwanhh #航海纷争
   - PROCESS-NAME,com.tencent.tmgp.qjnn #奇迹暖暖
   - PROCESS-NAME,com.tencent.tmgp.qlbt.cly #器灵宝塔
   - PROCESS-NAME,com.tencent.tmgp.qlfhl #青鸾繁华录
