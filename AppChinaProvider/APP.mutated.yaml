@@ -134,6 +134,7 @@ payload:
   - PROCESS-NAME,com.appshare.android.ilisten #口袋故事
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
+  - PROCESS-NAME,com.apyxjypu.qyxn #蜜桃夜聊视频
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.babytree.apps.lama #宝宝树小时光
@@ -299,6 +300,7 @@ payload:
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
   - PROCESS-NAME,com.enotary.cloud #公证云
+  - PROCESS-NAME,com.esapp.music.dksl #多酷视铃
   - PROCESS-NAME,com.esbook.reader #宜搜小说
   - PROCESS-NAME,com.essdcbz.nyxx #多彩壁纸
   - PROCESS-NAME,com.estrongs.android.pop #ES文件浏览器
@@ -350,7 +352,6 @@ payload:
   - PROCESS-NAME,com.ggeye.jiakao.api #驾考通驾照考试
   - PROCESS-NAME,com.gifshow.kuaishou.bamboo #快手创作者版
   - PROCESS-NAME,com.glodon.drawingexplorer #CAD快速看图
-  - PROCESS-NAME,com.glorytimes.app.android.jfyaudioeditor #金飞翼音频编辑大师
   - PROCESS-NAME,com.gongyinruixin #工银瑞信基金
   - PROCESS-NAME,com.gonlan.iplaymtg #旅法师营地
   - PROCESS-NAME,com.goodluck.qianming #一句心情签名
@@ -827,7 +828,6 @@ payload:
   - PROCESS-NAME,com.ucar.app #淘车车
   - PROCESS-NAME,com.UCMobile #UC浏览器
   - PROCESS-NAME,com.ucmobile.lite #UC浏览器极速版
-  - PROCESS-NAME,com.uletterx.imsdk #优信
   - PROCESS-NAME,com.umaman.laiyifen #来伊份社区购
   - PROCESS-NAME,com.ume.browser #微米浏览器
   - PROCESS-NAME,com.umetrip.android.msky.app #航旅纵横
