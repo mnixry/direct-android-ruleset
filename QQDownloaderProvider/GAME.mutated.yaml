@@ -378,7 +378,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.galasports.operablebasketball #美职篮巅峰对决
   - PROCESS-NAME,com.tencent.tmgp.galasports.totalfootball #最佳球会
   - PROCESS-NAME,com.tencent.tmgp.game.jianwuqk #剑舞乾坤
-  - PROCESS-NAME,com.tencent.tmgp.game.shanggufz.xiaoyz #逍遥志
   - PROCESS-NAME,com.tencent.tmgp.gbits.atm #问道
   - PROCESS-NAME,com.tencent.tmgp.gg.lostword #东方归言录
   - PROCESS-NAME,com.tencent.tmgp.glzp #桂林字牌手机版
@@ -786,7 +785,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wansuiye #叫我万岁爷
   - PROCESS-NAME,com.tencent.tmgp.warofempire #大帝国征服者
   - PROCESS-NAME,com.tencent.tmgp.warship2 #舰指太平洋
-  - PROCESS-NAME,com.tencent.tmgp.wckj.zljz #逐鹿九州
   - PROCESS-NAME,com.tencent.tmgp.wdmp #我的门派
   - PROCESS-NAME,com.tencent.tmgp.wdqy #我的起源
   - PROCESS-NAME,com.tencent.tmgp.wdry.hegsbl #我的荣耀
@@ -796,6 +794,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wec #乱世王者
   - PROCESS-NAME,com.tencent.tmgp.weflycn #发条总动员
   - PROCESS-NAME,com.tencent.tmgp.wegametk #坦克无敌
+  - PROCESS-NAME,com.tencent.tmgp.weile.doudizhu #微乐斗地主移动版 V1.0.0
   - PROCESS-NAME,com.tencent.tmgp.wenxian.tqsy #天启圣源
   - PROCESS-NAME,com.tencent.tmgp.WePop #跑跑卡丁车官方竞速版
   - PROCESS-NAME,com.tencent.tmgp.werewolfbattle #狼人对决
@@ -861,7 +860,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ydxh.superblock #俄罗斯方块大战
   - PROCESS-NAME,com.tencent.tmgp.yhzx #云海之下
   - PROCESS-NAME,com.tencent.tmgp.yhzxtwzw #塔王之王
-  - PROCESS-NAME,com.tencent.tmgp.yinhan.skzh #时空召唤
   - PROCESS-NAME,com.tencent.tmgp.yjsydlw.shlk #异界深渊：大灵王
   - PROCESS-NAME,com.tencent.tmgp.ykdqddz #真人天天斗地主
   - PROCESS-NAME,com.tencent.tmgp.ylm #御龙在天手游

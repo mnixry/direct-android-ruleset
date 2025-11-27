@@ -501,6 +501,7 @@ payload:
   - PROCESS-NAME,com.kmxs.reader #七猫免费小说
   - PROCESS-NAME,com.komoxo.octopusime #章鱼输入法
   - PROCESS-NAME,com.koudai.weishop #微店店长版
+  - PROCESS-NAME,com.kuaidi.cx #查快递物流
   - PROCESS-NAME,com.kuaikan.comic #快看漫画
   - PROCESS-NAME,com.kugou.android #酷狗音乐
   - PROCESS-NAME,com.kugou.android.ringtone #酷狗铃声
@@ -882,7 +883,6 @@ payload:
   - PROCESS-NAME,com.xinli.fm #心理Fm
   - PROCESS-NAME,com.xinshuru.inputmethod #手心输入法
   - PROCESS-NAME,com.xinyu210.enchdictionary #英汉词典
-  - PROCESS-NAME,com.xnbzxbk #宣宝仙女壁纸
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xt.retouch #醒图
   - PROCESS-NAME,com.xtuone.android.syllabus #超级课程表
@@ -1024,7 +1024,6 @@ payload:
   - PROCESS-NAME,predictor.ui #灵占算命八字星座
   - PROCESS-NAME,qianlong.qlmobile #钱龙
   - PROCESS-NAME,qzyd.speed.nethelper #中国移动福建
-  - PROCESS-NAME,ru.zdevs.zarchiver #ZArchiver解压缩工具
   - PROCESS-NAME,sina.mobile.tianqitong #天气通
   - PROCESS-NAME,sl.mySms #Q信
   - PROCESS-NAME,smskb.com #盛名时刻表
