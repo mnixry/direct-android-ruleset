@@ -70,6 +70,7 @@ payload:
   - PROCESS-NAME,com.lilithgames.samo.android.cn #万龙觉醒
   - PROCESS-NAME,com.lilithgames.xgame.android.cn #众神派对
   - PROCESS-NAME,com.longtu.oao #海龟汤
+  - PROCESS-NAME,com.lovejiajiao.my2048 #2048并并并
   - PROCESS-NAME,com.lovejiajiao.twentyfour #24点口算王
   - PROCESS-NAME,com.lutongnet.brainadventure.plugin #脑力大冒险
   - PROCESS-NAME,com.magene.onelapMatch #顽鹿竞技
@@ -153,7 +154,6 @@ payload:
   - PROCESS-NAME,com.tencent.hhw #航海王：壮志雄心
   - PROCESS-NAME,com.tencent.huajing #画境长恨歌
   - PROCESS-NAME,com.tencent.hxgame #华夏
-  - PROCESS-NAME,com.tencent.hygd #荒野国度
   - PROCESS-NAME,com.tencent.hyrzol #火影忍者：忍者新世代
   - PROCESS-NAME,com.tencent.jkchess #金铲铲之战
   - PROCESS-NAME,com.tencent.JWX #傲世西游
@@ -220,7 +220,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.bilibili.bangdream #梦想协奏曲！少女乐团派对！
   - PROCESS-NAME,com.tencent.tmgp.bilibili.blhx #碧蓝航线
   - PROCESS-NAME,com.tencent.tmgp.bilibili.deadcells.mobile #重生细胞
-  - PROCESS-NAME,com.tencent.tmgp.bilibili.ncard #三国：百将牌
   - PROCESS-NAME,com.tencent.tmgp.bilibili.nslg #三国：谋定天下
   - PROCESS-NAME,com.tencent.tmgp.bilibili.priconne #公主连结
   - PROCESS-NAME,com.tencent.tmgp.bilibili.snake #坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险
@@ -837,10 +836,10 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xncp #小南四川长牌
   - PROCESS-NAME,com.tencent.tmgp.xpdl #西普大陆
   - PROCESS-NAME,com.tencent.tmgp.xsj.moyu2 #魔域手游2
+  - PROCESS-NAME,com.tencent.tmgp.xsmdl #新神魔大陆
   - PROCESS-NAME,com.tencent.tmgp.xtlbb #新天龙八部
   - PROCESS-NAME,com.tencent.tmgp.xuezunew #血族
   - PROCESS-NAME,com.tencent.tmgp.xunkaish.hhxxl #洪荒西行录
-  - PROCESS-NAME,com.tencent.tmgp.xunyou.xxzzmj #八牛斗地主
   - PROCESS-NAME,com.tencent.tmgp.xxajh #新笑傲江湖
   - PROCESS-NAME,com.tencent.tmgp.xxcz #小小村长
   - PROCESS-NAME,com.tencent.tmgp.xxsk.jhwg #几何王国
