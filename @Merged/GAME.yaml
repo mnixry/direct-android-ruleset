@@ -131,6 +131,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020090305 #音乐少女
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
+  - PROCESS-NAME,com.appchina.yugao.2021012605 #KALPA
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
   - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
@@ -140,7 +141,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021051401 #不休的音符
   - PROCESS-NAME,com.appchina.yugao.2021051802 #珀加索斯梦幻之旅 
   - PROCESS-NAME,com.appchina.yugao.2021051806 #马力欧高尔夫：超级冲冲冲 
-  - PROCESS-NAME,com.appchina.yugao.2021052007 #阳春艺曲
   - PROCESS-NAME,com.appchina.yugao.2021060103 #NEEDY GIRL OVERDOSE
   - PROCESS-NAME,com.appchina.yugao.2021062204 #NBA NOW 21
   - PROCESS-NAME,com.appchina.yugao.2021070511 #索尼克在2020东京奥运会
@@ -1630,7 +1630,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xncp #小南四川长牌
   - PROCESS-NAME,com.tencent.tmgp.xpdl #西普大陆
   - PROCESS-NAME,com.tencent.tmgp.xsj.moyu2 #魔域手游2
-  - PROCESS-NAME,com.tencent.tmgp.xsmdl #新神魔大陆
   - PROCESS-NAME,com.tencent.tmgp.xtlbb #新天龙八部
   - PROCESS-NAME,com.tencent.tmgp.xuezunew #血族
   - PROCESS-NAME,com.tencent.tmgp.xunkaish.hhxxl #洪荒西行录
@@ -1764,6 +1763,7 @@ payload:
   - PROCESS-NAME,com.timuzsolutions.bikeracing2014 #摩托车赛2014
   - PROCESS-NAME,com.tinybuildgames.helloneighbor #你好邻居
   - PROCESS-NAME,com.tm.bhhhgdw #挥汗鼓点舞
+  - PROCESS-NAME,com.tmgp.lzy.dgmx #打个毛线
   - PROCESS-NAME,com.tobiapps.android_100fl #100层
   - PROCESS-NAME,com.tocaboca.hairsalon2 #托卡美发沙龙2
   - PROCESS-NAME,com.tocaboca.tocahospital #托卡生活：医院
@@ -1901,7 +1901,6 @@ payload:
   - PROCESS-NAME,com.zynga.FarmVille2CountryEscape #开心农场：乡村度假
   - PROCESS-NAME,com.zzoo.aos.healingpocket #治愈口袋
   - PROCESS-NAME,de.mobilebits.soulcraftdefault #灵魂争霸
-  - PROCESS-NAME,e.room.Escape #谜案馆
   - PROCESS-NAME,es.socialpoint.DragonCity #龙之国度
   - PROCESS-NAME,eu.aagames.dragopet #龍寵物
   - PROCESS-NAME,eu.nordeus.topeleven.android #Top Eleven

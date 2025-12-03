@@ -836,7 +836,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xncp #小南四川长牌
   - PROCESS-NAME,com.tencent.tmgp.xpdl #西普大陆
   - PROCESS-NAME,com.tencent.tmgp.xsj.moyu2 #魔域手游2
-  - PROCESS-NAME,com.tencent.tmgp.xsmdl #新神魔大陆
   - PROCESS-NAME,com.tencent.tmgp.xtlbb #新天龙八部
   - PROCESS-NAME,com.tencent.tmgp.xuezunew #血族
   - PROCESS-NAME,com.tencent.tmgp.xunkaish.hhxxl #洪荒西行录
@@ -959,6 +958,7 @@ payload:
   - PROCESS-NAME,com.tencent.zgqyz #鸿图之下
   - PROCESS-NAME,com.tencent.zhandiwujiang #战地无疆
   - PROCESS-NAME,com.tencent.zqry2018 #全民冠军足球
+  - PROCESS-NAME,com.tmgp.lzy.dgmx #打个毛线
   - PROCESS-NAME,com.tongzhuo.tongzhuogame #同桌派对
   - PROCESS-NAME,com.touchtech.bbword #儿童脑筋急转弯
   - PROCESS-NAME,com.touchtech.etpintu #宝宝儿童来拼图
@@ -1000,7 +1000,6 @@ payload:
   - PROCESS-NAME,com.yunbu.arcadepool.tencent #街机台球大师游戏软件V1.0
   - PROCESS-NAME,com.yunbu.bubbleelfsaga1 #泡泡精灵传奇
   - PROCESS-NAME,com.yxjj.sjtc.tc #远星集结
-  - PROCESS-NAME,e.room.Escape #谜案馆
   - PROCESS-NAME,mt.shadow #魔塔50层勇者的试炼
   - PROCESS-NAME,newbee.wordplay.cn.mi #文字大玩家
   - PROCESS-NAME,org.islq.move2048 #天天2048
