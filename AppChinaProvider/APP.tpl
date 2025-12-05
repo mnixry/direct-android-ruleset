@@ -166,7 +166,7 @@ PROCESS-NAME,com.baidu.youavideo,{{ rule }} # 一刻相册
 PROCESS-NAME,com.baidu.yuedu,{{ rule }} # 百度阅读
 PROCESS-NAME,com.baihe,{{ rule }} # 百合网
 PROCESS-NAME,com.baijiu.bizhi.sjbixiaz,{{ rule }} # Wallpaper
-PROCESS-NAME,com.bank,{{ rule }} # 黄河银行
+PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
 PROCESS-NAME,com.baoruan.a.theme.nmbfoacffRZoLNxYKVq,{{ rule }} # 科技之光-宝软3D主题
 PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD,{{ rule }} # 古剑奇谭之风晴雪-3D桌面主题
 PROCESS-NAME,com.baoruan.theme.ngbipabffBUHJYlMxjk,{{ rule }} # 假装自己能忘记-宝软3D主题
@@ -231,7 +231,6 @@ PROCESS-NAME,com.chineseall.reader,{{ rule }} # 17K小说
 PROCESS-NAME,com.chineseall.singlebook,{{ rule }} # 中文书城
 PROCESS-NAME,com.ci123.pregnancywap,{{ rule }} # 妈妈社区
 PROCESS-NAME,com.cio.project,{{ rule }} # 通信助手
-PROCESS-NAME,com.citiccard.mobilebank,{{ rule }} # 动卡空间
 PROCESS-NAME,com.cleanmaster.mguard_cn,{{ rule }} # 猎豹清理大师
 PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity,{{ rule }} # 掌上生活
 PROCESS-NAME,com.cmcm.cfwallpaper,{{ rule }} # 元气桌面壁纸
@@ -240,9 +239,9 @@ PROCESS-NAME,com.cnbizmedia.shangjie,{{ rule }} # 商界
 PROCESS-NAME,com.cns.mc.activity,{{ rule }} # 中国新闻网
 PROCESS-NAME,com.codoon.gps,{{ rule }} # 咕咚
 PROCESS-NAME,com.color.by.coloring.wallpaper.android,{{ rule }} # 涂个壁纸
+PROCESS-NAME,com.cpic.maker,{{ rule }} # 太享贷
 PROCESS-NAME,com.csii_qzbank,{{ rule }} # 泉州银行
-PROCESS-NAME,com.csii.hkb,{{ rule }} # 汉口银行
-PROCESS-NAME,com.csii.tianjin.mobilebank,{{ rule }} # 天津银行
+PROCESS-NAME,com.csii.changjiang.mobilebank,{{ rule }} # 江苏长江商业银行
 PROCESS-NAME,com.ct.client,{{ rule }} # 中国电信
 PROCESS-NAME,com.cubic.autohome,{{ rule }} # 汽车之家
 PROCESS-NAME,com.cute.mqbz,{{ rule }} # 萌趣壁纸
@@ -287,6 +286,8 @@ PROCESS-NAME,com.duokan.reader,{{ rule }} # 多看
 PROCESS-NAME,com.duolingo,{{ rule }} # 多邻国
 PROCESS-NAME,com.duowan.kiwi,{{ rule }} # 虎牙直播
 PROCESS-NAME,com.duowan.mobile,{{ rule }} # YY
+PROCESS-NAME,com.duxiaoman.umoney,{{ rule }} # 有钱花
+PROCESS-NAME,com.duxiaoman.wallet,{{ rule }} # 度小满金融
 PROCESS-NAME,com.dx.x1myapplication,{{ rule }} # 电销外呼电话
 PROCESS-NAME,com.dzwww.sd.android,{{ rule }} # 海报新闻
 PROCESS-NAME,com.eastday.listen_news,{{ rule }} # 翱翔
@@ -454,14 +455,13 @@ PROCESS-NAME,com.intsig.BizCardReader,{{ rule }} # 名片全能王
 PROCESS-NAME,com.intsig.camscanner,{{ rule }} # 扫描全能王
 PROCESS-NAME,com.iqinbao.android.songs,{{ rule }} # 亲宝儿歌
 PROCESS-NAME,com.irongroup,{{ rule }} # 电话时间统计
-PROCESS-NAME,com.iss.dongyingbank,{{ rule }} # 东营银行
-PROCESS-NAME,com.iss.taianbank,{{ rule }} # 泰安银行
 PROCESS-NAME,com.istone.activity,{{ rule }} # 邦购商城
 PROCESS-NAME,com.iyuba.AE,{{ rule }} # 美语怎么说
 PROCESS-NAME,com.iyuba.cet4,{{ rule }} # 英语四级听力
 PROCESS-NAME,com.iyuba.CSvoa,{{ rule }} # VOA常速英语
 PROCESS-NAME,com.iyuba.music,{{ rule }} # 听歌学英语
 PROCESS-NAME,com.iyuba.voa,{{ rule }} # VOA慢速英语
+PROCESS-NAME,com.jd.jrapp,{{ rule }} # 京东金融
 PROCESS-NAME,com.jecelyin.editor,{{ rule }} # JecEditor 文本编辑器
 PROCESS-NAME,com.jeejen.family,{{ rule }} # 极简桌面
 PROCESS-NAME,com.jesson.meishi,{{ rule }} # 美食杰
@@ -925,7 +925,6 @@ PROCESS-NAME,com.ylmf.androidclient,{{ rule }} # 115生活
 PROCESS-NAME,com.ymatou.seller,{{ rule }} # 洋码头扫货神器买手版
 PROCESS-NAME,com.ymatou.shop,{{ rule }} # 洋码头
 PROCESS-NAME,com.yoho,{{ rule }} # Yoho!Buy有货
-PROCESS-NAME,com.yoloho.dayima,{{ rule }} # 大姨妈
 PROCESS-NAME,com.yoosee,{{ rule }} # 有看头
 PROCESS-NAME,com.youba.barcode,{{ rule }} # 二维码扫描
 PROCESS-NAME,com.youdao.dict,{{ rule }} # 网易有道词典
