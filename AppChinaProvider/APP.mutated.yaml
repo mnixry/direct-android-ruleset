@@ -920,6 +920,7 @@ payload:
   - PROCESS-NAME,com.ymatou.seller #洋码头扫货神器买手版
   - PROCESS-NAME,com.ymatou.shop #洋码头
   - PROCESS-NAME,com.yoho #Yoho!Buy有货
+  - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youba.barcode #二维码扫描
   - PROCESS-NAME,com.youdao.dict #网易有道词典
