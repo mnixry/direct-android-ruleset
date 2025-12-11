@@ -565,7 +565,7 @@ payload:
   - PROCESS-NAME,com.mfw.roadbook #马蜂窝
   - PROCESS-NAME,com.mgyun.rootmaster #ROOT大师
   - PROCESS-NAME,com.microsoft.emmx #Edge
-  - PROCESS-NAME,com.microsoft.office.officehub #Microsoft 365 (Office)
+  - PROCESS-NAME,com.microsoft.office.officehub #Microsoft 365 Copilot
   - PROCESS-NAME,com.microsoft.skydrive #OneDrive
   - PROCESS-NAME,com.mimikko.mimikkoui #兽耳助手
   - PROCESS-NAME,com.minitools.miniwidget #心动主题壁纸

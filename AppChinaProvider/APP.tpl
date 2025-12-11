@@ -565,7 +565,7 @@ PROCESS-NAME,com.messi.languagehelper,{{ rule }} # 中英互译
 PROCESS-NAME,com.mfw.roadbook,{{ rule }} # 马蜂窝
 PROCESS-NAME,com.mgyun.rootmaster,{{ rule }} # ROOT大师
 PROCESS-NAME,com.microsoft.emmx,{{ rule }} # Edge
-PROCESS-NAME,com.microsoft.office.officehub,{{ rule }} # Microsoft 365 (Office)
+PROCESS-NAME,com.microsoft.office.officehub,{{ rule }} # Microsoft 365 Copilot
 PROCESS-NAME,com.microsoft.skydrive,{{ rule }} # OneDrive
 PROCESS-NAME,com.mimikko.mimikkoui,{{ rule }} # 兽耳助手
 PROCESS-NAME,com.minitools.miniwidget,{{ rule }} # 心动主题壁纸
