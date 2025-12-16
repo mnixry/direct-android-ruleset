@@ -22,7 +22,6 @@ payload:
   - PROCESS-NAME,cc.thedream.qinsmoon.yyh #秦时明月卡牌版
   - PROCESS-NAME,cento.n1.lib #100地牢
   - PROCESS-NAME,cn.badminton.tw #羽毛球 3D
-  - PROCESS-NAME,cn.edoctor.android.talkmed #TalkMED
   - PROCESS-NAME,cn.jj #JJ斗地主
   - PROCESS-NAME,cn.koogame.Fish #愤怒的小鱼HD
   - PROCESS-NAME,cn.netrohome #耐德珑
@@ -884,6 +883,7 @@ payload:
   - PROCESS-NAME,com.vg.MonsterDashHillRacer #怪物短跑山赛车
   - PROCESS-NAME,com.viamep.protonbussimulator #宇通巴士模拟
   - PROCESS-NAME,com.vividgames.realboxing #真实拳击
+  - PROCESS-NAME,com.VladimirPlyashkun.FavelaKick #贫民窟足球：最终进球
   - PROCESS-NAME,com.volvapps.google.rts #黑色行动
   - PROCESS-NAME,com.volvapps.rts2dex #二战争锋II
   - PROCESS-NAME,com.volvogroup.transporters #变形车
