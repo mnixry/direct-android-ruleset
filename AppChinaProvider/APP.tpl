@@ -313,7 +313,6 @@ PROCESS-NAME,com.example.administrator.searchpicturetool,{{ rule }} # 搜图神�
 PROCESS-NAME,com.example.mp3editor,{{ rule }} # MP3剪辑器
 PROCESS-NAME,com.example.raccoon.dialogwidget,{{ rule }} # 万象小组件
 PROCESS-NAME,com.ezen.ehshig,{{ rule }} # egshig
-PROCESS-NAME,com.facetech.konfast,{{ rule }} # 轻音社极速版
 PROCESS-NAME,com.faloo.BookReader4Android,{{ rule }} # 飞卢小说
 PROCESS-NAME,com.fanghe.makepaper,{{ rule }} # 桌面时钟锁屏
 PROCESS-NAME,com.fanhuan,{{ rule }} # 返还网
@@ -926,6 +925,7 @@ PROCESS-NAME,com.ymatou.shop,{{ rule }} # 洋码头
 PROCESS-NAME,com.yoho,{{ rule }} # Yoho!Buy有货
 PROCESS-NAME,com.yoloho.dayima,{{ rule }} # 大姨妈
 PROCESS-NAME,com.yoosee,{{ rule }} # 有看头
+PROCESS-NAME,com.youai.feelbox.app,{{ rule }} # 感觉盒子
 PROCESS-NAME,com.youba.barcode,{{ rule }} # 二维码扫描
 PROCESS-NAME,com.youdao.dict,{{ rule }} # 网易有道词典
 PROCESS-NAME,com.youdao.note,{{ rule }} # 有道云笔记

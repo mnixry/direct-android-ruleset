@@ -313,7 +313,6 @@ payload:
   - PROCESS-NAME,com.example.mp3editor #MP3剪辑器
   - PROCESS-NAME,com.example.raccoon.dialogwidget #万象小组件
   - PROCESS-NAME,com.ezen.ehshig #egshig
-  - PROCESS-NAME,com.facetech.konfast #轻音社极速版
   - PROCESS-NAME,com.faloo.BookReader4Android #飞卢小说
   - PROCESS-NAME,com.fanghe.makepaper #桌面时钟锁屏
   - PROCESS-NAME,com.fanhuan #返还网
@@ -926,6 +925,7 @@ payload:
   - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.yoosee #有看头
+  - PROCESS-NAME,com.youai.feelbox.app #感觉盒子
   - PROCESS-NAME,com.youba.barcode #二维码扫描
   - PROCESS-NAME,com.youdao.dict #网易有道词典
   - PROCESS-NAME,com.youdao.note #有道云笔记
