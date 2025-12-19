@@ -129,6 +129,7 @@ PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
 PROCESS-NAME,com.appchina.yugao.2020090305,{{ rule }} # 音乐少女
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
 PROCESS-NAME,com.appchina.yugao.2020122302,{{ rule }} # Lo-Fi Room
+PROCESS-NAME,com.appchina.yugao.2021012605,{{ rule }} # KALPA
 PROCESS-NAME,com.appchina.yugao.2021022205,{{ rule }} # Rotaeno 旋转音律
 PROCESS-NAME,com.appchina.yugao.2021022505,{{ rule }} # 热血街‪篮‬
 PROCESS-NAME,com.appchina.yugao.2021030213,{{ rule }} # 节奏医生
@@ -151,7 +152,6 @@ PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
 PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
 PROCESS-NAME,com.appchina.yugao.2021101902,{{ rule }} # 足球经理2022 移动版
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
-PROCESS-NAME,com.appchina.yugao.2021112210,{{ rule }} # 缪斯音街
 PROCESS-NAME,com.appchina.yugao.2022020701,{{ rule }} # 奥林匹克运动会：北京2022
 PROCESS-NAME,com.appchina.yugao.2022051001,{{ rule }} # 完美滑板 
 PROCESS-NAME,com.appsorama.kleptocats,{{ rule }} # 小偷猫
@@ -606,7 +606,6 @@ PROCESS-NAME,com.magene.onelapMatch,{{ rule }} # 顽鹿竞技
 PROCESS-NAME,com.magicflute.renjuworld,{{ rule }} # 五林五子棋
 PROCESS-NAME,com.magmamobile.game.EmpireConquest,{{ rule }} # 帝国征服
 PROCESS-NAME,com.martian.mssl.tx,{{ rule }} # 密室逃脱绝境系列4迷失森林
-PROCESS-NAME,com.martian.RoomEscape14.tx,{{ rule }} # 密室逃脱14帝国崛起
 PROCESS-NAME,com.martian.RoomEscape17.tx,{{ rule }} # 密室逃脱17守护公寓
 PROCESS-NAME,com.martian.RoomEscape18.tx,{{ rule }} # 密室逃脱18移动迷城
 PROCESS-NAME,com.martian.RoomEscape20.tx,{{ rule }} # 密室逃脱20巨人追踪
@@ -1171,6 +1170,7 @@ PROCESS-NAME,com.tencent.tmgp.gbits.atm,{{ rule }} # 问道
 PROCESS-NAME,com.tencent.tmgp.gg.lostword,{{ rule }} # 东方归言录
 PROCESS-NAME,com.tencent.tmgp.glzp,{{ rule }} # 桂林字牌手机版
 PROCESS-NAME,com.tencent.tmgp.gm.hs,{{ rule }} # 魂色
+PROCESS-NAME,com.tencent.tmgp.gnsbt,{{ rule }} # 高能手办团
 PROCESS-NAME,com.tencent.tmgp.gnyx,{{ rule }} # 高能英雄
 PROCESS-NAME,com.tencent.tmgp.gtll2,{{ rule }} # 钢铁力量2
 PROCESS-NAME,com.tencent.tmgp.guaji,{{ rule }} # 传世挂机

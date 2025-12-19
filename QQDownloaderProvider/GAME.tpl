@@ -74,7 +74,6 @@ PROCESS-NAME,com.lutongnet.brainadventure.plugin,{{ rule }} # 脑力大冒险
 PROCESS-NAME,com.magene.onelapMatch,{{ rule }} # 顽鹿竞技
 PROCESS-NAME,com.magicflute.renjuworld,{{ rule }} # 五林五子棋
 PROCESS-NAME,com.martian.mssl.tx,{{ rule }} # 密室逃脱绝境系列4迷失森林
-PROCESS-NAME,com.martian.RoomEscape14.tx,{{ rule }} # 密室逃脱14帝国崛起
 PROCESS-NAME,com.martian.RoomEscape17.tx,{{ rule }} # 密室逃脱17守护公寓
 PROCESS-NAME,com.martian.RoomEscape18.tx,{{ rule }} # 密室逃脱18移动迷城
 PROCESS-NAME,com.martian.RoomEscape20.tx,{{ rule }} # 密室逃脱20巨人追踪
@@ -378,6 +377,7 @@ PROCESS-NAME,com.tencent.tmgp.gbits.atm,{{ rule }} # 问道
 PROCESS-NAME,com.tencent.tmgp.gg.lostword,{{ rule }} # 东方归言录
 PROCESS-NAME,com.tencent.tmgp.glzp,{{ rule }} # 桂林字牌手机版
 PROCESS-NAME,com.tencent.tmgp.gm.hs,{{ rule }} # 魂色
+PROCESS-NAME,com.tencent.tmgp.gnsbt,{{ rule }} # 高能手办团
 PROCESS-NAME,com.tencent.tmgp.gnyx,{{ rule }} # 高能英雄
 PROCESS-NAME,com.tencent.tmgp.gtll2,{{ rule }} # 钢铁力量2
 PROCESS-NAME,com.tencent.tmgp.guaji,{{ rule }} # 传世挂机

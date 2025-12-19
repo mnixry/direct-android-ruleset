@@ -591,7 +591,6 @@ PROCESS-NAME,com.myzaker.ZAKER_Phone,{{ rule }} # ZAKER
 PROCESS-NAME,com.naiyoubz.main,{{ rule }} # 奶油桌面
 PROCESS-NAME,com.nbbank,{{ rule }} # 宁波银行
 PROCESS-NAME,com.ncpaclassic,{{ rule }} # 大剧院·古典
-PROCESS-NAME,com.nd.android.pandahome2,{{ rule }} # 91桌面
 PROCESS-NAME,com.nd.android.pandareader,{{ rule }} # 熊猫看书
 PROCESS-NAME,com.neil,{{ rule }} # 返利助手
 PROCESS-NAME,com.net263.ecm.display,{{ rule }} # 263移动会议
