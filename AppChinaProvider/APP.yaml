@@ -201,6 +201,7 @@ payload:
   - PROCESS-NAME,com.caijing #财经杂志
   - PROCESS-NAME,com.caing.news #财新
   - PROCESS-NAME,com.caishi.cronus #唔哩头条
+  - PROCESS-NAME,com.call.myyb #满意网络电话
   - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
   - PROCESS-NAME,com.capelabs.leyou #乐友
   - PROCESS-NAME,com.cat.readall #悟空浏览器
@@ -1048,7 +1049,6 @@ payload:
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准
   - PROCESS-NAME,weicom.yi.wallpaper #免费主题壁纸
-  - PROCESS-NAME,will.maixinx.com #脉信
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,xhing.pqoen.uthjg #国漫桌面壁纸
