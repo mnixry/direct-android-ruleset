@@ -87,7 +87,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2019061203 #超强口径
   - PROCESS-NAME,com.appchina.yugao.2019061401 #克苏鲁宠物2
   - PROCESS-NAME,com.appchina.yugao.2019071702 #猫娘团来店！
-  - PROCESS-NAME,com.appchina.yugao.2019090609 #猫咪方块爱消除
   - PROCESS-NAME,com.appchina.yugao.2019090617 #超凡台球
   - PROCESS-NAME,com.appchina.yugao.2019091703 #滑板之城 
   - PROCESS-NAME,com.appchina.yugao.2019091802 #LoveLive！学园偶像祭 全明星 日服版
@@ -110,6 +109,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020031602 #节奏空间 
   - PROCESS-NAME,com.appchina.yugao.2020032002 #勇气与荣耀 
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
+  - PROCESS-NAME,com.appchina.yugao.2020051206 #银翼计划
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
   - PROCESS-NAME,com.appchina.yugao.2020062204 #BanGround
   - PROCESS-NAME,com.appchina.yugao.2020062805 #足球在线4移动版
@@ -541,6 +541,7 @@ payload:
   - PROCESS-NAME,com.meetfuture.cooldrum #酷架子鼓
   - PROCESS-NAME,com.melesta.coffeeshop #我的咖啡厅 - 世界餐厅游戏
   - PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator #校园女生模拟器
+  - PROCESS-NAME,com.meuni.app #元校
   - PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2 #泡泡女巫传奇2
   - PROCESS-NAME,com.miga.mypets #米加小镇:宠物
   - PROCESS-NAME,com.miga.mystore #米加小镇:商店
@@ -1032,7 +1033,6 @@ payload:
   - PROCESS-NAME,sggs.android.witchhouse #魔女之家
   - PROCESS-NAME,sts.pl #口袋传奇
   - PROCESS-NAME,syj.youngfhsher #手机收音机
-  - PROCESS-NAME,uni.eamApp #一码多识
   - PROCESS-NAME,zhtc.noscores.pmtianlongzhl #口袋天龙的堕落
   - PROCESS-NAME,com.alicom.smartdial
   - PROCESS-NAME,com.bilibili.app.in

@@ -869,6 +869,7 @@ payload:
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
   - PROCESS-NAME,com.wuhquantuo.ringtonedaquanfree #铃声大全免费版
+  - PROCESS-NAME,com.wx.callshow.superflash #超闪来电秀
   - PROCESS-NAME,com.xcar.activity #爱卡汽车
   - PROCESS-NAME,com.xcs.ttwallpaper #奇趣壁纸
   - PROCESS-NAME,com.xdf.recite #新东方乐词
@@ -1055,4 +1056,3 @@ payload:
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
   - PROCESS-NAME,zhuomian.com.bizhi.fhsdj #桌面壁纸
-  - PROCESS-NAME,zuo.sai.che #全民跑车
