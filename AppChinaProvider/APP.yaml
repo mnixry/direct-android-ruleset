@@ -856,7 +856,6 @@ payload:
   - PROCESS-NAME,com.wangdou.prettygirls.dress #装扮次元手帐
   - PROCESS-NAME,com.wangyin.payment #京东钱包
   - PROCESS-NAME,com.waterfall.metronome #节拍器
-  - PROCESS-NAME,com.weico.international #微博轻享版
   - PROCESS-NAME,com.welove520.welove #微爱
   - PROCESS-NAME,com.wenhua.bamboo #随身行
   - PROCESS-NAME,com.wenhui.ebook #文汇
@@ -947,6 +946,7 @@ payload:
   - PROCESS-NAME,com.yx #有信
   - PROCESS-NAME,com.yy.android.udbsec #YY安全中心
   - PROCESS-NAME,com.yy.huanju #Hello
+  - PROCESS-NAME,com.yy.yomi #Yo语音
   - PROCESS-NAME,com.yyyfs.wallpaper #元宇宙壁纸
   - PROCESS-NAME,com.zbx.ct.tvzhibo #手机电视高清直播
   - PROCESS-NAME,com.zerone.hidesktop #我的桌面iScreen
