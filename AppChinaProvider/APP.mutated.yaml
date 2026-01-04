@@ -193,6 +193,7 @@ payload:
   - PROCESS-NAME,com.boohee.one #薄荷健康
   - PROCESS-NAME,com.brains.byzmnew #益智脑筋急转弯大全
   - PROCESS-NAME,com.browser2345 #2345浏览器
+  - PROCESS-NAME,com.budejie.www #百思漂流瓶
   - PROCESS-NAME,com.businessvalue.android.app #钛媒体
   - PROCESS-NAME,com.by.butter.camera #黄油相机
   - PROCESS-NAME,com.bytedance.android.doubaoime #豆包输入法
@@ -413,6 +414,7 @@ payload:
   - PROCESS-NAME,com.huanqiu.news #环球时报
   - PROCESS-NAME,com.huanyukeji.xiaohong #配角
   - PROCESS-NAME,com.huawei.hwid #HMS Core
+  - PROCESS-NAME,com.huicao.stbg #主题秀秀
   - PROCESS-NAME,com.huimai365 #惠买
   - PROCESS-NAME,com.hujiang.dict #沪江小D词典
   - PROCESS-NAME,com.hujiang.hjclass #沪江网校
@@ -495,7 +497,6 @@ payload:
   - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
   - PROCESS-NAME,com.kingsoft.android.cat #玲珑密保锁
-  - PROCESS-NAME,com.kkycs.component #美化小组件
   - PROCESS-NAME,com.kmxs.reader #七猫免费小说
   - PROCESS-NAME,com.komoxo.octopusime #章鱼输入法
   - PROCESS-NAME,com.koudai.weishop #微店店长版
