@@ -120,9 +120,9 @@ PROCESS-NAME,com.appchina.yugao.2020080310,{{ rule }} # 娃娃计划
 PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082001,{{ rule }} # 足球大亨
 PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
-PROCESS-NAME,com.appchina.yugao.2020090305,{{ rule }} # 音乐少女
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
 PROCESS-NAME,com.appchina.yugao.2020122302,{{ rule }} # Lo-Fi Room
+PROCESS-NAME,com.appchina.yugao.2021012605,{{ rule }} # KALPA
 PROCESS-NAME,com.appchina.yugao.2021022205,{{ rule }} # Rotaeno 旋转音律
 PROCESS-NAME,com.appchina.yugao.2021022505,{{ rule }} # 热血街‪篮‬
 PROCESS-NAME,com.appchina.yugao.2021030213,{{ rule }} # 节奏医生
