@@ -135,7 +135,6 @@ payload:
   - PROCESS-NAME,com.appshare.android.ilisten #口袋故事
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
-  - PROCESS-NAME,com.apyxjypu.qyxn #蜜桃夜聊视频
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.babytree.apps.lama #宝宝树小时光
@@ -202,6 +201,7 @@ payload:
   - PROCESS-NAME,com.caijing #财经杂志
   - PROCESS-NAME,com.caing.news #财新
   - PROCESS-NAME,com.caishi.cronus #唔哩头条
+  - PROCESS-NAME,com.call.myyb #满意网络电话
   - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
   - PROCESS-NAME,com.capelabs.leyou #乐友
   - PROCESS-NAME,com.cat.readall #悟空浏览器

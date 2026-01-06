@@ -134,7 +134,6 @@ PROCESS-NAME,com.appcina.anpai.2020011202,{{ rule }} # Berkanan Messenger
 PROCESS-NAME,com.appshare.android.ilisten,{{ rule }} # 口袋故事
 PROCESS-NAME,com.appshare.android.ilisten.hd,{{ rule }} # 口袋故事HD
 PROCESS-NAME,com.appsino.bingluo.fycz,{{ rule }} # 移动公证
-PROCESS-NAME,com.apyxjypu.qyxn,{{ rule }} # 蜜桃夜聊视频
 PROCESS-NAME,com.autohome.usedcar,{{ rule }} # 二手车之家
 PROCESS-NAME,com.autonavi.minimap,{{ rule }} # 高德地图
 PROCESS-NAME,com.babytree.apps.lama,{{ rule }} # 宝宝树小时光
@@ -201,6 +200,7 @@ PROCESS-NAME,com.bz.xiu,{{ rule }} # 壁纸秀秀
 PROCESS-NAME,com.caijing,{{ rule }} # 财经杂志
 PROCESS-NAME,com.caing.news,{{ rule }} # 财新
 PROCESS-NAME,com.caishi.cronus,{{ rule }} # 唔哩头条
+PROCESS-NAME,com.call.myyb,{{ rule }} # 满意网络电话
 PROCESS-NAME,com.campmobile.snowcamera,{{ rule }} # B612咔叽
 PROCESS-NAME,com.capelabs.leyou,{{ rule }} # 乐友
 PROCESS-NAME,com.cat.readall,{{ rule }} # 悟空浏览器
