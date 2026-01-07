@@ -87,6 +87,7 @@ payload:
   - PROCESS-NAME,com.mszmapp.detective #百变大侦探
   - PROCESS-NAME,com.n1studio.empress #盛世天下
   - PROCESS-NAME,com.netease.lrs #狼人杀
+  - PROCESS-NAME,com.nongyao.memory #掌上记忆力训练
   - PROCESS-NAME,com.ntsqsoft.junqivip #元游军棋
   - PROCESS-NAME,com.og.danjiddz #单机斗地主（开心版）
   - PROCESS-NAME,com.orangestudio.sudoku #桔子数独
@@ -344,6 +345,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ef3 #现代空战3D
   - PROCESS-NAME,com.tencent.tmgp.ef5 #空战争锋
   - PROCESS-NAME,com.tencent.tmgp.eight.ball.live #超凡台球
+  - PROCESS-NAME,com.tencent.tmgp.elex.ctw #列王的纷争：西部大陆
   - PROCESS-NAME,com.tencent.tmgp.enjoymisgzj #三国战纪：风云再起
   - PROCESS-NAME,com.tencent.tmgp.es2boy #偶像梦幻祭2
   - PROCESS-NAME,com.tencent.tmgp.evol #恋与制作人
@@ -407,7 +409,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.hero.lszt #绿色征途
   - PROCESS-NAME,com.tencent.tmgp.hhw #航海王强者之路
   - PROCESS-NAME,com.tencent.tmgp.hhwrxhx #航海王热血航线
-  - PROCESS-NAME,com.tencent.tmgp.hhxy #洪荒仙韵
   - PROCESS-NAME,com.tencent.tmgp.hhymjj #花花与幕间剧
   - PROCESS-NAME,com.tencent.tmgp.hi4fun.ldsg #零度曙光
   - PROCESS-NAME,com.tencent.tmgp.hjczjh #豪杰成长计划
@@ -678,6 +679,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sf3 #暗影格斗3
   - PROCESS-NAME,com.tencent.tmgp.sg3 #放开那三国3
   - PROCESS-NAME,com.tencent.tmgp.sgame #王者荣耀
+  - PROCESS-NAME,com.tencent.tmgp.sgcs #三国传说
   - PROCESS-NAME,com.tencent.tmgp.sgfx #曙光防线
   - PROCESS-NAME,com.tencent.tmgp.sgqyz #三国群英传-霸王之业
   - PROCESS-NAME,com.tencent.tmgp.sgqyzhhby #三国群英传：鸿鹄霸业
@@ -754,7 +756,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tqdoudizhu #大眼斗地主
   - PROCESS-NAME,com.tencent.tmgp.tqfuzhoumajiang #福州麻将
   - PROCESS-NAME,com.tencent.tmgp.tqgouji #大眼够级
-  - PROCESS-NAME,com.tencent.tmgp.tqshandongmajiang #大眼山东麻将
   - PROCESS-NAME,com.tencent.tmgp.tqshuangkou #大眼双扣
   - PROCESS-NAME,com.tencent.tmgp.tqwzfx #台球王者
   - PROCESS-NAME,com.tencent.tmgp.tqzhuojimajiang #大眼捉鸡麻将
@@ -940,7 +941,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.zmxyol #造梦西游OL
   - PROCESS-NAME,com.tencent.tmgp.zoxun.jjmj #竞技麻将
   - PROCESS-NAME,com.tencent.tmgp.zqdwj #足球大玩家
-  - PROCESS-NAME,com.tencent.tmgp.zsjjc #诸神竞技场
   - PROCESS-NAME,com.tencent.tmgp.ztgame.fir #征途2
   - PROCESS-NAME,com.tencent.tmgp.ztgame.wzzt #王者征途
   - PROCESS-NAME,com.tencent.tmgp.ztgame.yszt #原始征途
