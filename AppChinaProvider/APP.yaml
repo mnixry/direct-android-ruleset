@@ -512,7 +512,6 @@ payload:
   - PROCESS-NAME,com.kwai.videoeditor #快影
   - PROCESS-NAME,com.lakala.android #拉卡拉易分期
   - PROCESS-NAME,com.lanjinger.choiassociatedpress #财联社
-  - PROCESS-NAME,com.lazymc.smstoemail #我的信
   - PROCESS-NAME,com.lcworld.haiwainet #海客新闻
   - PROCESS-NAME,com.ledu.ebrowser #e浏览器
   - PROCESS-NAME,com.ledu.wbrowser #w浏览器
@@ -901,6 +900,7 @@ payload:
   - PROCESS-NAME,com.xunmeng.merchant #拼多多商家版
   - PROCESS-NAME,com.xvideostudio.videoeditor #乐秀视频剪辑视频编辑
   - PROCESS-NAME,com.xyhui #PU口袋校园
+  - PROCESS-NAME,com.yaoo.qlauncher #如意老人桌面
   - PROCESS-NAME,com.ybws.ucast #Ucast
   - PROCESS-NAME,com.ydtx.camera #元道经纬相机
   - PROCESS-NAME,com.yeahka.mach.android.openpos #乐刷商务版
@@ -915,7 +915,6 @@ payload:
   - PROCESS-NAME,com.yidian.xiaomi #一点新闻资讯
   - PROCESS-NAME,com.yigequanquanqq.app #一个圈圈
   - PROCESS-NAME,com.yilesoft.app.beautifulimageshow #图片文字美化
-  - PROCESS-NAME,com.yingyonghui.market #应用汇
   - PROCESS-NAME,com.yipiao #智行火车票
   - PROCESS-NAME,com.yiruike.sodacn.android #甜盐相机
   - PROCESS-NAME,com.yitong.mbank #江苏·农商行
@@ -1051,6 +1050,7 @@ payload:
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准
   - PROCESS-NAME,weicom.yi.wallpaper #免费主题壁纸
+  - PROCESS-NAME,will.maixinx.com #脉信
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,windinfo.android #Wind金融终端
   - PROCESS-NAME,xhing.pqoen.uthjg #国漫桌面壁纸

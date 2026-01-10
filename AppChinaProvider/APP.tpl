@@ -512,7 +512,6 @@ PROCESS-NAME,com.kwai.m2u,{{ rule }} # 一甜相机
 PROCESS-NAME,com.kwai.videoeditor,{{ rule }} # 快影
 PROCESS-NAME,com.lakala.android,{{ rule }} # 拉卡拉易分期
 PROCESS-NAME,com.lanjinger.choiassociatedpress,{{ rule }} # 财联社
-PROCESS-NAME,com.lazymc.smstoemail,{{ rule }} # 我的信
 PROCESS-NAME,com.lcworld.haiwainet,{{ rule }} # 海客新闻
 PROCESS-NAME,com.ledu.ebrowser,{{ rule }} # e浏览器
 PROCESS-NAME,com.ledu.wbrowser,{{ rule }} # w浏览器
@@ -901,6 +900,7 @@ PROCESS-NAME,com.xunlei.downloadprovider,{{ rule }} # 迅雷
 PROCESS-NAME,com.xunmeng.merchant,{{ rule }} # 拼多多商家版
 PROCESS-NAME,com.xvideostudio.videoeditor,{{ rule }} # 乐秀视频剪辑视频编辑
 PROCESS-NAME,com.xyhui,{{ rule }} # PU口袋校园
+PROCESS-NAME,com.yaoo.qlauncher,{{ rule }} # 如意老人桌面
 PROCESS-NAME,com.ybws.ucast,{{ rule }} # Ucast
 PROCESS-NAME,com.ydtx.camera,{{ rule }} # 元道经纬相机
 PROCESS-NAME,com.yeahka.mach.android.openpos,{{ rule }} # 乐刷商务版
@@ -915,7 +915,6 @@ PROCESS-NAME,com.yiche.price,{{ rule }} # 易车汽车报价
 PROCESS-NAME,com.yidian.xiaomi,{{ rule }} # 一点新闻资讯
 PROCESS-NAME,com.yigequanquanqq.app,{{ rule }} # 一个圈圈
 PROCESS-NAME,com.yilesoft.app.beautifulimageshow,{{ rule }} # 图片文字美化
-PROCESS-NAME,com.yingyonghui.market,{{ rule }} # 应用汇
 PROCESS-NAME,com.yipiao,{{ rule }} # 智行火车票
 PROCESS-NAME,com.yiruike.sodacn.android,{{ rule }} # 甜盐相机
 PROCESS-NAME,com.yitong.mbank,{{ rule }} # 江苏·农商行
@@ -1051,6 +1050,7 @@ PROCESS-NAME,us.pinguo.april_collage,{{ rule }} # 拼图酱
 PROCESS-NAME,vStudio.Android.Camera360,{{ rule }} # 相机360
 PROCESS-NAME,vz.com,{{ rule }} # 飞常准
 PROCESS-NAME,weicom.yi.wallpaper,{{ rule }} # 免费主题壁纸
+PROCESS-NAME,will.maixinx.com,{{ rule }} # 脉信
 PROCESS-NAME,wind.deposit,{{ rule }} # 万得基金
 PROCESS-NAME,windinfo.android,{{ rule }} # Wind金融终端
 PROCESS-NAME,xhing.pqoen.uthjg,{{ rule }} # 国漫桌面壁纸
