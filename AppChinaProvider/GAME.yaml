@@ -110,7 +110,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020031602 #节奏空间 
   - PROCESS-NAME,com.appchina.yugao.2020032002 #勇气与荣耀 
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
-  - PROCESS-NAME,com.appchina.yugao.2020051206 #银翼计划
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
   - PROCESS-NAME,com.appchina.yugao.2020062204 #BanGround
   - PROCESS-NAME,com.appchina.yugao.2020062805 #足球在线4移动版
@@ -626,6 +625,7 @@ payload:
   - PROCESS-NAME,com.orenbentov.bikerush #自行车短跑
   - PROCESS-NAME,com.outfit7.movingeye.swampattack #沼泽激战
   - PROCESS-NAME,com.outfit7.mytalkingtomfree #我的汤姆猫
+  - PROCESS-NAME,com.outfit7.mytalkingtomfriends2.yyh #汤姆猫总动员2
   - PROCESS-NAME,com.outfit7.talkinggina #会说话的长颈鹿吉娜
   - PROCESS-NAME,com.ovelin.guitartuna #GuitarTuna
   - PROCESS-NAME,com.ovilex.bussimulator17 #巴士模拟器2017
