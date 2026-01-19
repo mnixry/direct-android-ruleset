@@ -19,6 +19,7 @@ PROCESS-NAME,com.classicgame.newmagictower,{{ rule }} # 新新魔塔
 PROCESS-NAME,com.dda.yyb,{{ rule }} # 边锋打大A
 PROCESS-NAME,com.draw.color.pixel.digit,{{ rule }} # 指尖涂色
 PROCESS-NAME,com.duoduo.games.ddfood,{{ rule }} # 多多美食街
+PROCESS-NAME,com.duoduo.games.ddhelp,{{ rule }} # 多多救援队
 PROCESS-NAME,com.ea.simcitymobile.tx,{{ rule }} # 模拟城市：我是市长
 PROCESS-NAME,com.emo.studio.magicparticle,{{ rule }} # 我的粒子世界
 PROCESS-NAME,com.example.machen.caichengyu,{{ rule }} # 看图猜成语
@@ -554,6 +555,7 @@ PROCESS-NAME,com.tencent.tmgp.mw,{{ rule }} # 现代战舰
 PROCESS-NAME,com.tencent.tmgp.mw2m,{{ rule }} # 蘑菇战争2
 PROCESS-NAME,com.tencent.tmgp.mwr,{{ rule }} # 小小军团
 PROCESS-NAME,com.tencent.tmgp.mxdlmdyz,{{ rule }} # 冒险岛：联盟的意志
+PROCESS-NAME,com.tencent.tmgp.mxsh,{{ rule }} # 冒险守护
 PROCESS-NAME,com.tencent.tmgp.mxxfd,{{ rule }} # 冒险小分队
 PROCESS-NAME,com.tencent.tmgp.my.yyb,{{ rule }} # 魔域口袋版
 PROCESS-NAME,com.tencent.tmgp.my.zjfm,{{ rule }} # 仗剑封魔
@@ -640,7 +642,6 @@ PROCESS-NAME,com.tencent.tmgp.rxjhbj,{{ rule }} # 热血江湖手游
 PROCESS-NAME,com.tencent.tmgp.rxr,{{ rule }} # 溯回青空
 PROCESS-NAME,com.tencent.tmgp.rxsc.chenyou,{{ rule }} # 热血沙城
 PROCESS-NAME,com.tencent.tmgp.rxsjkp,{{ rule }} # 热血神剑
-PROCESS-NAME,com.tencent.tmgp.rxxq.cly,{{ rule }} # 热血寻秦
 PROCESS-NAME,com.tencent.tmgp.rydts,{{ rule }} # 荣耀大天使
 PROCESS-NAME,com.tencent.tmgp.s3.sgzzlb,{{ rule }} # 三国志·战略版
 PROCESS-NAME,com.tencent.tmgp.sanguobt,{{ rule }} # 《攻城掠地》手机游戏软件（移动）

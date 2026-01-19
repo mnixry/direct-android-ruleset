@@ -19,6 +19,7 @@ payload:
   - PROCESS-NAME,com.dda.yyb #边锋打大A
   - PROCESS-NAME,com.draw.color.pixel.digit #指尖涂色
   - PROCESS-NAME,com.duoduo.games.ddfood #多多美食街
+  - PROCESS-NAME,com.duoduo.games.ddhelp #多多救援队
   - PROCESS-NAME,com.ea.simcitymobile.tx #模拟城市：我是市长
   - PROCESS-NAME,com.emo.studio.magicparticle #我的粒子世界
   - PROCESS-NAME,com.example.machen.caichengyu #看图猜成语
@@ -554,6 +555,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mw2m #蘑菇战争2
   - PROCESS-NAME,com.tencent.tmgp.mwr #小小军团
   - PROCESS-NAME,com.tencent.tmgp.mxdlmdyz #冒险岛：联盟的意志
+  - PROCESS-NAME,com.tencent.tmgp.mxsh #冒险守护
   - PROCESS-NAME,com.tencent.tmgp.mxxfd #冒险小分队
   - PROCESS-NAME,com.tencent.tmgp.my.yyb #魔域口袋版
   - PROCESS-NAME,com.tencent.tmgp.my.zjfm #仗剑封魔
@@ -640,7 +642,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.rxr #溯回青空
   - PROCESS-NAME,com.tencent.tmgp.rxsc.chenyou #热血沙城
   - PROCESS-NAME,com.tencent.tmgp.rxsjkp #热血神剑
-  - PROCESS-NAME,com.tencent.tmgp.rxxq.cly #热血寻秦
   - PROCESS-NAME,com.tencent.tmgp.rydts #荣耀大天使
   - PROCESS-NAME,com.tencent.tmgp.s3.sgzzlb #三国志·战略版
   - PROCESS-NAME,com.tencent.tmgp.sanguobt #《攻城掠地》手机游戏软件（移动）

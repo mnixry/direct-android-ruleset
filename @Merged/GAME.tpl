@@ -149,9 +149,9 @@ PROCESS-NAME,com.appchina.yugao.2021071501,{{ rule }} # NBA 2K22
 PROCESS-NAME,com.appchina.yugao.2021072606,{{ rule }} # 足球经理2022
 PROCESS-NAME,com.appchina.yugao.2021073003,{{ rule }} # 实况力量足球 
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
-PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
 PROCESS-NAME,com.appchina.yugao.2021101902,{{ rule }} # 足球经理2022 移动版
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
+PROCESS-NAME,com.appchina.yugao.2021112210,{{ rule }} # 缪斯音街
 PROCESS-NAME,com.appchina.yugao.2022020701,{{ rule }} # 奥林匹克运动会：北京2022
 PROCESS-NAME,com.appchina.yugao.2022051001,{{ rule }} # 完美滑板 
 PROCESS-NAME,com.appsorama.kleptocats,{{ rule }} # 小偷猫
@@ -295,6 +295,7 @@ PROCESS-NAME,com.droidstudio.game.devil2,{{ rule }} # 魔界忍者2
 PROCESS-NAME,com.dts.freefireth,{{ rule }} # 我要活下去
 PROCESS-NAME,com.ducroquet.bamba,{{ rule }} # 独轮车
 PROCESS-NAME,com.duoduo.games.ddfood,{{ rule }} # 多多美食街
+PROCESS-NAME,com.duoduo.games.ddhelp,{{ rule }} # 多多救援队
 PROCESS-NAME,com.DynamicGames.HeavyTruckSimulator,{{ rule }} # 重型卡车模拟
 PROCESS-NAME,com.ea.deadspace_mod,{{ rule }} # 死亡空间
 PROCESS-NAME,com.ea.game.easportsufc_row,{{ rule }} # UFC终极格斗冠军
@@ -1348,6 +1349,7 @@ PROCESS-NAME,com.tencent.tmgp.mw,{{ rule }} # 现代战舰
 PROCESS-NAME,com.tencent.tmgp.mw2m,{{ rule }} # 蘑菇战争2
 PROCESS-NAME,com.tencent.tmgp.mwr,{{ rule }} # 小小军团
 PROCESS-NAME,com.tencent.tmgp.mxdlmdyz,{{ rule }} # 冒险岛：联盟的意志
+PROCESS-NAME,com.tencent.tmgp.mxsh,{{ rule }} # 冒险守护
 PROCESS-NAME,com.tencent.tmgp.mxxfd,{{ rule }} # 冒险小分队
 PROCESS-NAME,com.tencent.tmgp.my.yyb,{{ rule }} # 魔域口袋版
 PROCESS-NAME,com.tencent.tmgp.my.zjfm,{{ rule }} # 仗剑封魔
@@ -1434,7 +1436,6 @@ PROCESS-NAME,com.tencent.tmgp.rxjhbj,{{ rule }} # 热血江湖手游
 PROCESS-NAME,com.tencent.tmgp.rxr,{{ rule }} # 溯回青空
 PROCESS-NAME,com.tencent.tmgp.rxsc.chenyou,{{ rule }} # 热血沙城
 PROCESS-NAME,com.tencent.tmgp.rxsjkp,{{ rule }} # 热血神剑
-PROCESS-NAME,com.tencent.tmgp.rxxq.cly,{{ rule }} # 热血寻秦
 PROCESS-NAME,com.tencent.tmgp.rydts,{{ rule }} # 荣耀大天使
 PROCESS-NAME,com.tencent.tmgp.s3.sgzzlb,{{ rule }} # 三国志·战略版
 PROCESS-NAME,com.tencent.tmgp.sanguobt,{{ rule }} # 《攻城掠地》手机游戏软件（移动）
