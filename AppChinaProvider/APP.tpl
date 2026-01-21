@@ -148,6 +148,7 @@ PROCESS-NAME,com.baidu.netdisk,{{ rule }} # 百度网盘
 PROCESS-NAME,com.baidu.news,{{ rule }} # 百度新闻
 PROCESS-NAME,com.baidu.searchbox,{{ rule }} # 百度
 PROCESS-NAME,com.baidu.searchbox.lite,{{ rule }} # 百度极速版
+PROCESS-NAME,com.baidu.searchbox.senior,{{ rule }} # 百度关怀版
 PROCESS-NAME,com.baidu.video,{{ rule }} # 百搜视频
 PROCESS-NAME,com.baidu.video.pad,{{ rule }} # 百搜视频HD
 PROCESS-NAME,com.baidu.youavideo,{{ rule }} # 一刻相册

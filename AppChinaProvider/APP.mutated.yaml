@@ -147,6 +147,7 @@ payload:
   - PROCESS-NAME,com.baidu.news #百度新闻
   - PROCESS-NAME,com.baidu.searchbox #百度
   - PROCESS-NAME,com.baidu.searchbox.lite #百度极速版
+  - PROCESS-NAME,com.baidu.searchbox.senior #百度关怀版
   - PROCESS-NAME,com.baidu.video #百搜视频
   - PROCESS-NAME,com.baidu.video.pad #百搜视频HD
   - PROCESS-NAME,com.baidu.youavideo #一刻相册
