@@ -72,6 +72,7 @@ PROCESS-NAME,cn.mama.activity,{{ rule }} # 妈妈网轻聊
 PROCESS-NAME,cn.mchina.mbrowser,{{ rule }} # 移联浏览器
 PROCESS-NAME,cn.mopon.film.xflh,{{ rule }} # 幸福看
 PROCESS-NAME,cn.myhug.baobao,{{ rule }} # 抱抱直播
+PROCESS-NAME,cn.opda.a.phonoalbumshoushou,{{ rule }} # 百度手机卫士
 PROCESS-NAME,cn.pangjing.omnitheme,{{ rule }} # 万能主题美化
 PROCESS-NAME,cn.poco.jane,{{ rule }} # 简拼
 PROCESS-NAME,cn.samsclub.app,{{ rule }} # 山姆会员商店
@@ -137,7 +138,9 @@ PROCESS-NAME,com.autohome.usedcar,{{ rule }} # 二手车之家
 PROCESS-NAME,com.autonavi.minimap,{{ rule }} # 高德地图
 PROCESS-NAME,com.babytree.apps.lama,{{ rule }} # 宝宝树小时光
 PROCESS-NAME,com.babytree.apps.pregnancy,{{ rule }} # 宝宝树孕育
+PROCESS-NAME,com.baidu.BaiduMap,{{ rule }} # 百度地图
 PROCESS-NAME,com.baidu.baidutranslate,{{ rule }} # 百度翻译
+PROCESS-NAME,com.baidu.browser.apps,{{ rule }} # 百度浏览器
 PROCESS-NAME,com.baidu.haokan,{{ rule }} # 好看视频
 PROCESS-NAME,com.baidu.hi,{{ rule }} # 如流
 PROCESS-NAME,com.baidu.homework,{{ rule }} # 作业帮
@@ -149,8 +152,10 @@ PROCESS-NAME,com.baidu.news,{{ rule }} # 百度新闻
 PROCESS-NAME,com.baidu.searchbox,{{ rule }} # 百度
 PROCESS-NAME,com.baidu.searchbox.lite,{{ rule }} # 百度极速版
 PROCESS-NAME,com.baidu.searchbox.senior,{{ rule }} # 百度关怀版
+PROCESS-NAME,com.baidu.tieba,{{ rule }} # 百度贴吧
 PROCESS-NAME,com.baidu.video,{{ rule }} # 百搜视频
 PROCESS-NAME,com.baidu.video.pad,{{ rule }} # 百搜视频HD
+PROCESS-NAME,com.baidu.wenku,{{ rule }} # 百度文库
 PROCESS-NAME,com.baidu.youavideo,{{ rule }} # 一刻相册
 PROCESS-NAME,com.baidu.yuedu,{{ rule }} # 百度阅读
 PROCESS-NAME,com.baihe,{{ rule }} # 百合网
@@ -337,6 +342,7 @@ PROCESS-NAME,com.galaxy.stock,{{ rule }} # 中国银河证券
 PROCESS-NAME,com.gamestar.perfectpiano,{{ rule }} # 完美钢琴
 PROCESS-NAME,com.gamestar.pianoperfect,{{ rule }} # 随身乐队
 PROCESS-NAME,com.ganji.android,{{ rule }} # 赶集招聘
+PROCESS-NAME,com.gaoping.makewallpaper,{{ rule }} # 动态壁纸制作
 PROCESS-NAME,com.gator.mm,{{ rule }} # 美女图集大全
 PROCESS-NAME,com.gau.go.launcherex.theme.droidglass,{{ rule }} # 玻璃主题包
 PROCESS-NAME,com.gbcom.gwifi.school,{{ rule }} # GiWiFi校园助手

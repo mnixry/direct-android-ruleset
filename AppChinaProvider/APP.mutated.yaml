@@ -71,6 +71,7 @@ payload:
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
+  - PROCESS-NAME,cn.opda.a.phonoalbumshoushou #百度手机卫士
   - PROCESS-NAME,cn.pangjing.omnitheme #万能主题美化
   - PROCESS-NAME,cn.poco.jane #简拼
   - PROCESS-NAME,cn.samsclub.app #山姆会员商店
@@ -136,7 +137,9 @@ payload:
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.babytree.apps.lama #宝宝树小时光
   - PROCESS-NAME,com.babytree.apps.pregnancy #宝宝树孕育
+  - PROCESS-NAME,com.baidu.BaiduMap #百度地图
   - PROCESS-NAME,com.baidu.baidutranslate #百度翻译
+  - PROCESS-NAME,com.baidu.browser.apps #百度浏览器
   - PROCESS-NAME,com.baidu.haokan #好看视频
   - PROCESS-NAME,com.baidu.hi #如流
   - PROCESS-NAME,com.baidu.homework #作业帮
@@ -148,8 +151,10 @@ payload:
   - PROCESS-NAME,com.baidu.searchbox #百度
   - PROCESS-NAME,com.baidu.searchbox.lite #百度极速版
   - PROCESS-NAME,com.baidu.searchbox.senior #百度关怀版
+  - PROCESS-NAME,com.baidu.tieba #百度贴吧
   - PROCESS-NAME,com.baidu.video #百搜视频
   - PROCESS-NAME,com.baidu.video.pad #百搜视频HD
+  - PROCESS-NAME,com.baidu.wenku #百度文库
   - PROCESS-NAME,com.baidu.youavideo #一刻相册
   - PROCESS-NAME,com.baidu.yuedu #百度阅读
   - PROCESS-NAME,com.baihe #百合网
@@ -335,6 +340,7 @@ payload:
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
   - PROCESS-NAME,com.gamestar.pianoperfect #随身乐队
   - PROCESS-NAME,com.ganji.android #赶集招聘
+  - PROCESS-NAME,com.gaoping.makewallpaper #动态壁纸制作
   - PROCESS-NAME,com.gator.mm #美女图集大全
   - PROCESS-NAME,com.gau.go.launcherex.theme.droidglass #玻璃主题包
   - PROCESS-NAME,com.gbcom.gwifi.school #GiWiFi校园助手
