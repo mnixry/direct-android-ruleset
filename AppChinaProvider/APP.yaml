@@ -68,7 +68,6 @@ payload:
   - PROCESS-NAME,cn.ledongli.ldl #乐动力
   - PROCESS-NAME,cn.longmaster.pengpeng #语玩
   - PROCESS-NAME,cn.lrapps.changliaocall #畅聊网络电话
-  - PROCESS-NAME,cn.lrapps.yitongcall #易通网络电话
   - PROCESS-NAME,cn.mama.activity #妈妈网轻聊
   - PROCESS-NAME,cn.mchina.mbrowser #移联浏览器
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看
@@ -213,7 +212,7 @@ payload:
   - PROCESS-NAME,com.changba #唱吧
   - PROCESS-NAME,com.changshuo.ui #畅说108
   - PROCESS-NAME,com.chaozh.iReaderFree #掌阅
-  - PROCESS-NAME,com.chaozh.iReaderFree15 #爱读掌阅
+  - PROCESS-NAME,com.chaozh.iReaderFree15 #油梨
   - PROCESS-NAME,com.chenai.eyes #夜间模式
   - PROCESS-NAME,com.chinaamc.MainActivityAMC #华夏基金管家
   - PROCESS-NAME,com.chinaamc.mfbh.amcActivity #华夏活期通
@@ -512,6 +511,7 @@ payload:
   - PROCESS-NAME,com.kwai.videoeditor #快影
   - PROCESS-NAME,com.lakala.android #拉卡拉易分期
   - PROCESS-NAME,com.lanjinger.choiassociatedpress #财联社
+  - PROCESS-NAME,com.lazymc.smstoemail #我的信
   - PROCESS-NAME,com.lcworld.haiwainet #海客新闻
   - PROCESS-NAME,com.ledu.ebrowser #e浏览器
   - PROCESS-NAME,com.ledu.wbrowser #w浏览器
