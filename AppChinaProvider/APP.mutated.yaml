@@ -188,6 +188,7 @@ payload:
   - PROCESS-NAME,com.bjbyhd.voiceback #保益悦听
   - PROCESS-NAME,com.blink.academy.nomo #NOMO CAM
   - PROCESS-NAME,com.boohee.one #薄荷健康
+  - PROCESS-NAME,com.bowerswilkins.splice #Music Bowers and Wilkins
   - PROCESS-NAME,com.brains.byzmnew #益智脑筋急转弯大全
   - PROCESS-NAME,com.browser2345 #2345浏览器
   - PROCESS-NAME,com.budejie.www #百思漂流瓶
@@ -350,7 +351,6 @@ payload:
   - PROCESS-NAME,com.gem.tastyfood #食行生鲜
   - PROCESS-NAME,com.ggeye.jiakao.api #驾考通驾照考试
   - PROCESS-NAME,com.glodon.drawingexplorer #CAD快速看图
-  - PROCESS-NAME,com.glorytimes.app.android.jfyaudioeditor #金飞翼音频编辑大师
   - PROCESS-NAME,com.gongyinruixin #工银瑞信基金
   - PROCESS-NAME,com.gonlan.iplaymtg #旅法师营地
   - PROCESS-NAME,com.goodluck.qianming #一句心情签名
@@ -531,7 +531,7 @@ payload:
   - PROCESS-NAME,com.ljmobile.zlj.rom.release #授权管理软件搬家
   - PROCESS-NAME,com.llspace.pupu #平行世界
   - PROCESS-NAME,com.lltskb.lltskb #路路通
-  - PROCESS-NAME,com.lofter.android #网易LOFTER
+  - PROCESS-NAME,com.lofter.android #LOFTER
   - PROCESS-NAME,com.lolaage.tbulu.tools #两步路户外助手
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸
   - PROCESS-NAME,com.lqh.love.comic #爱动漫壁纸
