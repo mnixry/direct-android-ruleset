@@ -1,6 +1,6 @@
-import { assert } from "console";
-import { AppListProvider, ProviderType } from "./provider";
+import { assert } from "node:console";
 import * as Cheerio from "cheerio";
+import { AppListProvider, ProviderType } from "./provider";
 
 export class AppChinaProvider extends AppListProvider {
   static readonly providerName = AppChinaProvider.name;
