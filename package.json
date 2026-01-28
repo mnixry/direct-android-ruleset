@@ -11,13 +11,13 @@
   "author": "",
   "license": "AGPL-3.0-only",
   "devDependencies": {
-    "@types/node": "^22.13.4",
-    "tsup": "^8.3.6",
-    "tsx": "^4.19.2",
-    "typescript": "^5.7.3"
+    "@types/node": "^25.0.10",
+    "tsup": "^8.5.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "cheerio": "^1.0.0",
-    "yaml": "^2.7.0"
+    "cheerio": "^1.2.0",
+    "yaml": "^2.8.2"
   }
 }
