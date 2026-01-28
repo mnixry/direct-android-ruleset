@@ -3,7 +3,7 @@ export abstract class AppListProvider {
 
   constructor(
     protected readonly providerType: ProviderType = ProviderType.APP,
-    protected readonly extraHeaders: Record<string, string> = {}
+    protected readonly extraHeaders: Record<string, string> = {},
   ) {}
 
   abstract init(): Promise<void>;

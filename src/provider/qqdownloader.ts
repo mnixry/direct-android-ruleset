@@ -9,7 +9,7 @@ export class QQDownloaderProvider extends AppListProvider {
     const cookie = await fetch("https://sj.qq.com/app", {
       headers: { ...this.extraHeaders },
     }).then((res) =>
-      res.headers.get("set-cookie")?.match(/YYB_HOME_UUID=(?<uuid>[^;]+);/)
+      res.headers.get("set-cookie")?.match(/YYB_HOME_UUID=(?<uuid>[^;]+);/),
     );
     assert(!!cookie, "Failed to fetch cookie");
 
@@ -59,7 +59,7 @@ export class QQDownloaderProvider extends AppListProvider {
             }[this.providerType],
           },
         }),
-      }
+      },
     );
 
     assert(response.ok, "Failed to fetch data");
@@ -70,7 +70,7 @@ export class QQDownloaderProvider extends AppListProvider {
       data.components[0].data.itemData.map(({ pkg_name, name }: any) => [
         pkg_name,
         name,
-      ])
+      ]),
     ) as Record<string, string>;
   }
 }

@@ -14,7 +14,7 @@ export class AppChinaProvider extends AppListProvider {
       }[this.providerType],
       {
         headers: { ...this.extraHeaders },
-      }
+      },
     );
     assert(response.ok, "Failed to fetch AppChina");
     const html = await response.text();
@@ -32,12 +32,12 @@ export class AppChinaProvider extends AppListProvider {
       {
         [ProviderType.APP]: 30,
         [ProviderType.GAME]: 40,
-      }[this.providerType]
+      }[this.providerType],
     );
   }
 
   async retrieve(page: number): Promise<Record<string, string>> {
-    const results: Record<string, string> = {};
+    const results: Record<string, string> = Object.create(null);
     for (const appTypeId of this.appTypeIds) {
       const response = await fetch(
         `http://m.appchina.com/ajax/cat/${appTypeId}/${page}`,
@@ -48,7 +48,7 @@ export class AppChinaProvider extends AppListProvider {
             Accept: "application/json, text/javascript, */*; q=0.01",
             "X-Requested-With": "XMLHttpRequest",
           },
-        }
+        },
       );
 
       assert(response.ok, "Failed to fetch AppChina");
@@ -69,7 +69,7 @@ export class AppChinaProvider extends AppListProvider {
 
       Object.assign(
         results,
-        ...list.map(({ name, packageName }: any) => ({ [packageName]: name }))
+        ...list.map(({ name, packageName }: any) => ({ [packageName]: name })),
       );
     }
 

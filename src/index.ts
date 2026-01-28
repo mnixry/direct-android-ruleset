@@ -1,4 +1,4 @@
-import { AppListProvider, ProviderType, providers } from "./provider";
+import { type AppListProvider, ProviderType, providers } from "./provider";
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import * as YAML from "yaml";
@@ -13,12 +13,12 @@ interface RulesetConfig {
 
 const rulesToYaml = (
   rules: Record<string, string>,
-  includes?: RuleSetExtension[]
+  includes?: RuleSetExtension[],
 ) => {
   const document = new YAML.Document({ payload: [] });
 
   for (const [pkgName, name] of Object.entries(rules).sort(([ka], [kb]) =>
-    ka.localeCompare(kb)
+    ka.localeCompare(kb),
   )) {
     const node = document.createNode(`PROCESS-NAME,${pkgName}`);
     if (name) node.comment = name;
@@ -30,7 +30,7 @@ const rulesToYaml = (
       const node = document.createNode(
         typeof include === "string"
           ? `PROCESS-NAME,${include}`
-          : `PROCESS-NAME-REGEX,${include.regex}`
+          : `PROCESS-NAME-REGEX,${include.regex}`,
       );
       document.addIn(["payload"], node);
     }
@@ -40,12 +40,12 @@ const rulesToYaml = (
 
 const rulesToSurgioSnippet = (
   rules: Record<string, string>,
-  includes?: RuleSetExtension[]
+  includes?: RuleSetExtension[],
 ) => {
   const snippets: string[] = ["{% macro main(rule) %}"];
 
   for (const [pkgName, name] of Object.entries(rules).sort(([ka], [kb]) =>
-    ka.localeCompare(kb)
+    ka.localeCompare(kb),
   )) {
     const comment = name ? ` # ${name}` : "";
     snippets.push(`PROCESS-NAME,${pkgName},{{ rule }}${comment}`);
@@ -56,7 +56,7 @@ const rulesToSurgioSnippet = (
       snippets.push(
         typeof include === "string"
           ? `PROCESS-NAME,${include},{{ rule }}`
-          : `PROCESS-NAME-REGEX,${include.regex},{{ rule }}`
+          : `PROCESS-NAME-REGEX,${include.regex},{{ rule }}`,
       );
     }
   }
@@ -67,9 +67,9 @@ const rulesToSurgioSnippet = (
 
 const exhaustProvider = async (
   provider: AppListProvider,
-  limit: number = 1_000
+  limit: number = 1_000,
 ) => {
-  const result: Record<string, string> = {};
+  const result: Record<string, string> = Object.create(null);
   for (let i = 0; ; i++) {
     const data = await provider.retrieve(i);
     Object.assign(result, data);
@@ -83,17 +83,17 @@ const escapeRegex = (str: string) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 const processRuleExclusions = (
   rules: Record<string, string>,
-  exclusions: RuleSetExtension[]
+  exclusions: RuleSetExtension[],
 ) => {
   const excludedRegex = new RegExp(
     exclusions
       .map((e) => (typeof e === "string" ? escapeRegex(e) : e.regex))
       .join("|"),
-    "ig"
+    "ig",
   );
 
   return Object.fromEntries(
-    Object.entries(rules).filter(([k]) => !k.match(excludedRegex))
+    Object.entries(rules).filter(([k]) => !k.match(excludedRegex)),
   );
 };
 
@@ -117,14 +117,14 @@ const main = async () => {
     : null;
 
   for (const type of Object.values(ProviderType).filter(
-    (v) => typeof v === "number"
+    (v) => typeof v === "number",
   )) {
-    const merged: Record<string, string> = {};
+    const merged: Record<string, string> = Object.create(null);
 
     for (const Provider of providers) {
       const provider = new Provider(type, config?.headers);
       console.log(
-        `retrieving from ${Provider.providerName}(${ProviderType[type]})`
+        `retrieving from ${Provider.providerName}(${ProviderType[type]})`,
       );
       await provider.init();
       const result = await exhaustProvider(provider);
@@ -132,7 +132,7 @@ const main = async () => {
       const filePath = path.resolve(
         dataPath,
         Provider.providerName,
-        ProviderType[type] + ".yaml"
+        ProviderType[type] + ".yaml",
       );
       console.log(`writing to ${filePath}`);
       const yaml = rulesToYaml(result);
@@ -142,7 +142,7 @@ const main = async () => {
       const surgioSnippetFilePath = path.resolve(
         dataPath,
         Provider.providerName,
-        ProviderType[type] + ".tpl"
+        ProviderType[type] + ".tpl",
       );
       console.log(`writing to ${surgioSnippetFilePath}`);
       const surgioSnippet = rulesToSurgioSnippet(result);
@@ -155,7 +155,7 @@ const main = async () => {
       const mutatedFilePath = path.resolve(
         dataPath,
         Provider.providerName,
-        ProviderType[type] + ".mutated.yaml"
+        ProviderType[type] + ".mutated.yaml",
       );
       console.log(`writing to ${mutatedFilePath}`);
       const mutatedYaml = rulesToYaml(mutatedConfig, included);
@@ -165,12 +165,12 @@ const main = async () => {
       const mutatedSurgioSnippetFilePath = path.resolve(
         dataPath,
         Provider.providerName,
-        ProviderType[type] + ".mutated.tpl"
+        ProviderType[type] + ".mutated.tpl",
       );
       console.log(`writing to ${mutatedSurgioSnippetFilePath}`);
       const mutatedSurgioSnippet = rulesToSurgioSnippet(
         mutatedConfig,
-        included
+        included,
       );
       await mkdir(path.dirname(mutatedSurgioSnippetFilePath));
       await fs.writeFile(mutatedSurgioSnippetFilePath, mutatedSurgioSnippet);
@@ -181,7 +181,7 @@ const main = async () => {
     const mergedFilePath = path.resolve(
       dataPath,
       "@Merged",
-      ProviderType[type] + ".yaml"
+      ProviderType[type] + ".yaml",
     );
     console.log(`writing to ${mergedFilePath}`);
     const mergedYaml = rulesToYaml(merged);
@@ -191,7 +191,7 @@ const main = async () => {
     const mergedSurgioSnippetFilePath = path.resolve(
       dataPath,
       "@Merged",
-      ProviderType[type] + ".tpl"
+      ProviderType[type] + ".tpl",
     );
     console.log(`writing to ${mergedSurgioSnippetFilePath}`);
     const mergedSurgioSnippet = rulesToSurgioSnippet(merged);
@@ -204,7 +204,7 @@ const main = async () => {
     const mutatedFilePath = path.resolve(
       dataPath,
       "@Merged",
-      ProviderType[type] + ".mutated.yaml"
+      ProviderType[type] + ".mutated.yaml",
     );
     console.log(`writing to ${mutatedFilePath}`);
     const mutatedYaml = rulesToYaml(mutatedConfig, included);
@@ -214,7 +214,7 @@ const main = async () => {
     const mutatedSurgioSnippetFilePath = path.resolve(
       dataPath,
       "@Merged",
-      ProviderType[type] + ".mutated.tpl"
+      ProviderType[type] + ".mutated.tpl",
     );
     console.log(`writing to ${mutatedSurgioSnippetFilePath}`);
     const mutatedSurgioSnippet = rulesToSurgioSnippet(mutatedConfig, included);
