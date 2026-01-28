@@ -1,15 +1,32 @@
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import * as YAML from "yaml";
+import { z } from "zod";
 import { ProviderType, providers } from "./provider";
 import { type RuleSetExtension, rulesRenderers } from "./rules";
 import { exhaustProvider, mkdir, processRuleExclusions } from "./utils";
 
-interface RulesetConfig {
-  excluded: RuleSetExtension[];
-  included: RuleSetExtension[];
-  headers: Record<string, string>;
-}
+const rulesetExtensionSchema = z.union([
+  z.string().min(1),
+  z
+    .object({
+      regex: z.string().min(1),
+    })
+    .strict(),
+]);
+
+const rulesetConfigSchema = z
+  .object({
+    excluded: z.array(rulesetExtensionSchema),
+    included: z.array(rulesetExtensionSchema),
+    headers: z.record(
+      z.string(),
+      z.unknown().transform((v) => String(v)),
+    ),
+  })
+  .strict();
+
+type RulesetConfig = z.infer<typeof rulesetConfigSchema>;
 
 type RulesetWriteOptions = {
   dataPath: string;
@@ -49,7 +66,16 @@ const readRulesetConfig = async (
     .catch(() => false);
   if (!configExists) return null;
 
-  return YAML.parse(await fs.readFile(configFile, "utf-8")) as RulesetConfig;
+  const rawConfig = YAML.parse(await fs.readFile(configFile, "utf-8"));
+  const parsedConfig = rulesetConfigSchema.safeParse(rawConfig);
+  if (!parsedConfig.success) {
+    throw new Error(
+      `Invalid ruleset config in ${configFile}:\n` +
+        z.prettifyError(parsedConfig.error),
+    );
+  }
+
+  return parsedConfig.data;
 };
 
 const providerTypes = Object.values(ProviderType).filter(
