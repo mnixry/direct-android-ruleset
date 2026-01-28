@@ -8,7 +8,7 @@ export const exhaustProvider = async (
 ) => {
   const result: Record<string, string> = Object.create(null);
   for (let i = 0; ; i++) {
-    const data = await provider.retrieve(i);
+    const data = await exponentialBackoff(() => provider.retrieve(i));
     Object.assign(result, data);
     if (Object.keys(data).length <= 0 || Object.keys(result).length >= limit)
       break;
@@ -41,4 +41,31 @@ export const mkdir = async (dir: string) => {
       if (e.code !== "EEXIST") throw e;
       return undefined;
     });
+};
+
+export const sleep = async (ms: number) => {
+  await new Promise((resolve) => setTimeout(resolve, ms));
+};
+
+export const exponentialBackoff = async <T>(
+  fn: () => T,
+  maxRetries: number = 5,
+  startDelayMs: number = 1000,
+): Promise<T> => {
+  let delayMs = startDelayMs;
+  let lastError: unknown;
+  for (let i = 0; i < maxRetries; i++) {
+    try {
+      return await fn();
+    } catch (e) {
+      delayMs *= 2;
+      lastError = e;
+      console.warn(
+        `Function ${fn.name} failed (attempt ${i}/${maxRetries}):`,
+        lastError,
+      );
+      await sleep(delayMs);
+    }
+  }
+  throw lastError;
 };
