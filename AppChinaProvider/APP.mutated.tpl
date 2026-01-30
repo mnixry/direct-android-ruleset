@@ -623,7 +623,7 @@ PROCESS-NAME,com.octinn.birthdayplus,{{ rule }} # 生日管家
 PROCESS-NAME,com.oda_cad,{{ rule }} # CAD迷你看图
 PROCESS-NAME,com.oeiskd.easysoftkey,{{ rule }} # 小白点虚拟按键
 PROCESS-NAME,com.offcn.android.offcn,{{ rule }} # 中公教育
-PROCESS-NAME,com.ophone.reader.ui,{{ rule }} # 咪咕阅读
+PROCESS-NAME,com.ophone.reader.ui,{{ rule }} # 咪咕悦看
 PROCESS-NAME,com.oray.sunlogin,{{ rule }} # 向日葵远程控制
 PROCESS-NAME,com.oupeng.browser,{{ rule }} # 欧朋浏览器极速版
 PROCESS-NAME,com.oupeng.mini.android,{{ rule }} # 欧朋浏览器
@@ -855,6 +855,7 @@ PROCESS-NAME,com.wenhua.bamboo,{{ rule }} # 随身行
 PROCESS-NAME,com.wenhui.ebook,{{ rule }} # 文汇
 PROCESS-NAME,com.when.coco,{{ rule }} # 365日历
 PROCESS-NAME,com.whizen.iptv.activity,{{ rule }} # 万视达
+PROCESS-NAME,com.whty.wicity.china,{{ rule }} # 和生活
 PROCESS-NAME,com.wlstock.fund,{{ rule }} # 持股帮
 PROCESS-NAME,com.wole56.ishow,{{ rule }} # 我秀
 PROCESS-NAME,com.womai,{{ rule }} # 中粮我买网
@@ -1010,7 +1011,6 @@ PROCESS-NAME,net.kdnet.club,{{ rule }} # 凯迪网
 PROCESS-NAME,net.qihoo.launcher.widget.clockweather,{{ rule }} # 360天气
 PROCESS-NAME,net.talk2all,{{ rule }} # Talk2all
 PROCESS-NAME,net.xinhuamm.mainclient,{{ rule }} # 新华社
-PROCESS-NAME,net.yyasp.clothing,{{ rule }} # 虚拟试衣间
 PROCESS-NAME,net.zdsoft.zerobook_android,{{ rule }} # 智人播客
 PROCESS-NAME,oms.mmc.app.almanac_inland,{{ rule }} # 老黄历万年历顺历
 PROCESS-NAME,oms.mmc.fortunetelling,{{ rule }} # 灵机
