@@ -668,7 +668,7 @@ payload:
   - PROCESS-NAME,com.qzone #QQ空间
   - PROCESS-NAME,com.raiyi.wxcs #流量掌厅
   - PROCESS-NAME,com.rakutec.android.iweekly #iWeekly 周末画报
-  - PROCESS-NAME,com.rarlab.rar #万能RAR解压缩软件
+  - PROCESS-NAME,com.rarlab.rar #RAR
   - PROCESS-NAME,com.rd.kx #星剪
   - PROCESS-NAME,com.redrcd.ylxf #云岭先锋
   - PROCESS-NAME,com.renren.mobile.android #人人直播

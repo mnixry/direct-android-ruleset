@@ -673,7 +673,7 @@ PROCESS-NAME,com.quvideo.xiaoying,{{ rule }} # 小影
 PROCESS-NAME,com.qzone,{{ rule }} # QQ空间
 PROCESS-NAME,com.raiyi.wxcs,{{ rule }} # 流量掌厅
 PROCESS-NAME,com.rakutec.android.iweekly,{{ rule }} # iWeekly 周末画报
-PROCESS-NAME,com.rarlab.rar,{{ rule }} # 万能RAR解压缩软件
+PROCESS-NAME,com.rarlab.rar,{{ rule }} # RAR
 PROCESS-NAME,com.rd.kx,{{ rule }} # 星剪
 PROCESS-NAME,com.redrcd.ylxf,{{ rule }} # 云岭先锋
 PROCESS-NAME,com.renren.mobile.android,{{ rule }} # 人人直播
