@@ -254,6 +254,7 @@ PROCESS-NAME,com.daofeng.zuhaowan,{{ rule }} # 租号玩
 PROCESS-NAME,com.daqo.wallpaper,{{ rule }} # 多多壁纸铃声
 PROCESS-NAME,com.ddmh.livewallpaper,{{ rule }} # 动态壁纸秀
 PROCESS-NAME,com.ddsm.didu,{{ rule }} # Didu
+PROCESS-NAME,com.ddwallpaperang.wallpaper,{{ rule }} # 图图乐
 PROCESS-NAME,com.dealmoon.android,{{ rule }} # 北美省钱快报
 PROCESS-NAME,com.desktop.pendant,{{ rule }} # 银河壁纸多多
 PROCESS-NAME,com.devuni.flashlight,{{ rule }} # 超级手电筒
@@ -1008,7 +1009,6 @@ PROCESS-NAME,my.beautyCamera,{{ rule }} # 美人相机
 PROCESS-NAME,net.ask123.mima96,{{ rule }} # 密码酷
 PROCESS-NAME,net.bontec.wxqd.activity,{{ rule }} # 爱青岛
 PROCESS-NAME,net.cmoaciopm.sgsdict,{{ rule }} # 三国杀大典
-PROCESS-NAME,net.hua.hua.a3dlivewallpaper,{{ rule }} # 4D动态壁纸
 PROCESS-NAME,net.joydao.radio,{{ rule }} # 听听广播
 PROCESS-NAME,net.joydao.spring2011,{{ rule }} # 祝福短信
 PROCESS-NAME,net.kdnet.club,{{ rule }} # 凯迪网
