@@ -79,6 +79,7 @@ payload:
   - PROCESS-NAME,com.miHoYo.hkrpg #崩坏：星穹铁道
   - PROCESS-NAME,com.miHoYo.HSoDv22144.tencent #崩坏学园2
   - PROCESS-NAME,com.miHoYo.Nap #绝区零
+  - PROCESS-NAME,com.mind.topicking #答题冠军
   - PROCESS-NAME,com.mindblocks.blocks.tencent #被尘封的故事
   - PROCESS-NAME,com.mizhongtech.qief #儿童益智切水果
   - PROCESS-NAME,com.molehole.zaiwanyiguan.yyb #再玩亿关
@@ -551,6 +552,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mw #现代战舰
   - PROCESS-NAME,com.tencent.tmgp.mw2m #蘑菇战争2
   - PROCESS-NAME,com.tencent.tmgp.mxdlmdyz #冒险岛：联盟的意志
+  - PROCESS-NAME,com.tencent.tmgp.mxsh #冒险守护
   - PROCESS-NAME,com.tencent.tmgp.mxxfd #冒险小分队
   - PROCESS-NAME,com.tencent.tmgp.my.yyb #魔域口袋版
   - PROCESS-NAME,com.tencent.tmgp.my.zqwz #最强武装
@@ -799,6 +801,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wjmtgl #我叫MT：归来
   - PROCESS-NAME,com.tencent.tmgp.wjxt #无极仙途
   - PROCESS-NAME,com.tencent.tmgp.wkcsmj #微壳长沙麻将
+  - PROCESS-NAME,com.tencent.tmgp.wksdh #微壳三打哈
   - PROCESS-NAME,com.tencent.tmgp.wkzbeqw #微壳二七王
   - PROCESS-NAME,com.tencent.tmgp.wkzbpdk #微壳跑得快
   - PROCESS-NAME,com.tencent.tmgp.wmsjjdb #完美世界：诸神之战
