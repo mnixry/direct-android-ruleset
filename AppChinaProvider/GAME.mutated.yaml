@@ -121,6 +121,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020082908 #音灵INVAXION
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
+  - PROCESS-NAME,com.appchina.yugao.2021012605 #KALPA
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
   - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
@@ -143,7 +144,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021092601 #SuperStar YG
   - PROCESS-NAME,com.appchina.yugao.2021101902 #足球经理2022 移动版
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
-  - PROCESS-NAME,com.appchina.yugao.2021112210 #缪斯音街
   - PROCESS-NAME,com.appchina.yugao.2022020701 #奥林匹克运动会：北京2022
   - PROCESS-NAME,com.appchina.yugao.2022051001 #完美滑板 
   - PROCESS-NAME,com.appsorama.kleptocats #小偷猫
@@ -465,7 +465,6 @@ payload:
   - PROCESS-NAME,com.idoing.cs #反恐精英3D中文版
   - PROCESS-NAME,com.idriscelik.f787anadolu #模拟飞行787 专业版
   - PROCESS-NAME,com.ifreyr.sw2 #星际战争2：初次反击 Star Warfare2：
-  - PROCESS-NAME,com.igames.traindriver2016 #模拟火车2016
   - PROCESS-NAME,com.igg.android.lordsmobile_cn #王国纪元
   - PROCESS-NAME,com.igg.castleclash #城堡争霸 
   - PROCESS-NAME,com.illusiveray.zcs #僵尸作战模拟
@@ -664,6 +663,7 @@ payload:
   - PROCESS-NAME,com.popcap.pvz2cthdyyh #植物大战僵尸2
   - PROCESS-NAME,com.poppingames.android.alice #新爱丽丝的梦幻茶会
   - PROCESS-NAME,com.postram.winulatorbeta #Windows游戏模拟器
+  - PROCESS-NAME,com.pujiadev.fairybakery #妖精面包房
   - PROCESS-NAME,com.Pulsar.GrandTruckSimulator #大卡车模拟器
   - PROCESS-NAME,com.qch.market #拇指玩
   - PROCESS-NAME,com.qcplay.snail.android #最强蜗牛

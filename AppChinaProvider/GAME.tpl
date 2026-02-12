@@ -121,6 +121,7 @@ PROCESS-NAME,com.appchina.yugao.2020082001,{{ rule }} # 足球大亨
 PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
 PROCESS-NAME,com.appchina.yugao.2020122302,{{ rule }} # Lo-Fi Room
+PROCESS-NAME,com.appchina.yugao.2021012605,{{ rule }} # KALPA
 PROCESS-NAME,com.appchina.yugao.2021022205,{{ rule }} # Rotaeno 旋转音律
 PROCESS-NAME,com.appchina.yugao.2021022505,{{ rule }} # 热血街‪篮‬
 PROCESS-NAME,com.appchina.yugao.2021030213,{{ rule }} # 节奏医生
@@ -143,7 +144,6 @@ PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
 PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
 PROCESS-NAME,com.appchina.yugao.2021101902,{{ rule }} # 足球经理2022 移动版
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
-PROCESS-NAME,com.appchina.yugao.2021112210,{{ rule }} # 缪斯音街
 PROCESS-NAME,com.appchina.yugao.2022020701,{{ rule }} # 奥林匹克运动会：北京2022
 PROCESS-NAME,com.appchina.yugao.2022051001,{{ rule }} # 完美滑板 
 PROCESS-NAME,com.appsorama.kleptocats,{{ rule }} # 小偷猫
@@ -465,7 +465,6 @@ PROCESS-NAME,com.idleif.abyssrium,{{ rule }} # 深海水族馆
 PROCESS-NAME,com.idoing.cs,{{ rule }} # 反恐精英3D中文版
 PROCESS-NAME,com.idriscelik.f787anadolu,{{ rule }} # 模拟飞行787 专业版
 PROCESS-NAME,com.ifreyr.sw2,{{ rule }} # 星际战争2：初次反击 Star Warfare2：
-PROCESS-NAME,com.igames.traindriver2016,{{ rule }} # 模拟火车2016
 PROCESS-NAME,com.igg.android.lordsmobile_cn,{{ rule }} # 王国纪元
 PROCESS-NAME,com.igg.castleclash,{{ rule }} # 城堡争霸 
 PROCESS-NAME,com.illusiveray.zcs,{{ rule }} # 僵尸作战模拟
@@ -664,6 +663,7 @@ PROCESS-NAME,com.popcap.pvz_na,{{ rule }} # 植物大战僵尸
 PROCESS-NAME,com.popcap.pvz2cthdyyh,{{ rule }} # 植物大战僵尸2
 PROCESS-NAME,com.poppingames.android.alice,{{ rule }} # 新爱丽丝的梦幻茶会
 PROCESS-NAME,com.postram.winulatorbeta,{{ rule }} # Windows游戏模拟器
+PROCESS-NAME,com.pujiadev.fairybakery,{{ rule }} # 妖精面包房
 PROCESS-NAME,com.Pulsar.GrandTruckSimulator,{{ rule }} # 大卡车模拟器
 PROCESS-NAME,com.qch.market,{{ rule }} # 拇指玩
 PROCESS-NAME,com.qcplay.snail.android,{{ rule }} # 最强蜗牛

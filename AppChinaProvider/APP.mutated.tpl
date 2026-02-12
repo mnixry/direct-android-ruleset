@@ -253,6 +253,7 @@ PROCESS-NAME,com.daofeng.zuhaowan,{{ rule }} # 租号玩
 PROCESS-NAME,com.daqo.wallpaper,{{ rule }} # 多多壁纸铃声
 PROCESS-NAME,com.ddmh.livewallpaper,{{ rule }} # 动态壁纸秀
 PROCESS-NAME,com.ddsm.didu,{{ rule }} # Didu
+PROCESS-NAME,com.ddwallpaperang.wallpaper,{{ rule }} # 图图乐
 PROCESS-NAME,com.dealmoon.android,{{ rule }} # 北美省钱快报
 PROCESS-NAME,com.desktop.pendant,{{ rule }} # 银河壁纸多多
 PROCESS-NAME,com.devuni.flashlight,{{ rule }} # 超级手电筒
@@ -506,7 +507,6 @@ PROCESS-NAME,com.kugou.android.ringtone,{{ rule }} # 酷狗铃声
 PROCESS-NAME,com.kugou.fanxing,{{ rule }} # 酷狗直播
 PROCESS-NAME,com.kugou.playerHD,{{ rule }} # 酷狗音乐HD
 PROCESS-NAME,com.kunpeng.babyting,{{ rule }} # 宝贝听听
-PROCESS-NAME,com.kunpeng.zitice,{{ rule }} # 字体大全
 PROCESS-NAME,com.kwai.m2u,{{ rule }} # 一甜相机
 PROCESS-NAME,com.kwai.videoeditor,{{ rule }} # 快影
 PROCESS-NAME,com.lakala.android,{{ rule }} # 拉卡拉易分期
