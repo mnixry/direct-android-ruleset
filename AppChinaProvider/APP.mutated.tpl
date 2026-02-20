@@ -59,7 +59,6 @@ PROCESS-NAME,cn.gzmovement,{{ rule }} # 动静新闻
 PROCESS-NAME,cn.ibabyzone.music,{{ rule }} # 胎教盒子
 PROCESS-NAME,cn.itheme.tech,{{ rule }} # 手机主题
 PROCESS-NAME,cn.jingling.motu.photowonder,{{ rule }} # 魔图精灵
-PROCESS-NAME,cn.jjpengcheng.wallpaper,{{ rule }} # 动态壁纸
 PROCESS-NAME,cn.jsb.china,{{ rule }} # 江苏银行
 PROCESS-NAME,cn.kaoshi100.view,{{ rule }} # 考试100
 PROCESS-NAME,cn.kuwo.kwmusichd,{{ rule }} # 酷我音乐HD
@@ -868,6 +867,7 @@ PROCESS-NAME,com.wuba.zhuanzhuan,{{ rule }} # 转转
 PROCESS-NAME,com.wuhquantuo.ringtonedaquanfree,{{ rule }} # 铃声大全免费版
 PROCESS-NAME,com.wx.callshow.superflash,{{ rule }} # 超闪来电秀
 PROCESS-NAME,com.xcar.activity,{{ rule }} # 爱卡汽车
+PROCESS-NAME,com.xcs.ttwallpaper,{{ rule }} # 奇趣壁纸
 PROCESS-NAME,com.xdf.recite,{{ rule }} # 新东方乐词
 PROCESS-NAME,com.xdtech.news.greatriver,{{ rule }} # 江西新闻
 PROCESS-NAME,com.xfplay.play,{{ rule }} # 影音先锋
