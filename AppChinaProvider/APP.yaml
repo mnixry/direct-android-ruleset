@@ -60,7 +60,6 @@ payload:
   - PROCESS-NAME,cn.ibabyzone.music #胎教盒子
   - PROCESS-NAME,cn.itheme.tech #手机主题
   - PROCESS-NAME,cn.jingling.motu.photowonder #魔图精灵
-  - PROCESS-NAME,cn.jjpengcheng.wallpaper #动态壁纸
   - PROCESS-NAME,cn.jsb.china #江苏银行
   - PROCESS-NAME,cn.kaoshi100.view #考试100
   - PROCESS-NAME,cn.kuwo.kwmusichd #酷我音乐HD
@@ -510,6 +509,7 @@ payload:
   - PROCESS-NAME,com.kugou.fanxing #酷狗直播
   - PROCESS-NAME,com.kugou.playerHD #酷狗音乐HD
   - PROCESS-NAME,com.kunpeng.babyting #宝贝听听
+  - PROCESS-NAME,com.kunpeng.zitice #字体大全
   - PROCESS-NAME,com.kwai.m2u #一甜相机
   - PROCESS-NAME,com.kwai.videoeditor #快影
   - PROCESS-NAME,com.lakala.android #拉卡拉易分期
@@ -566,6 +566,7 @@ payload:
   - PROCESS-NAME,com.mfw.roadbook #马蜂窝
   - PROCESS-NAME,com.mgyun.rootmaster #ROOT大师
   - PROCESS-NAME,com.microsoft.emmx #Edge
+  - PROCESS-NAME,com.microsoft.office.officehub #Microsoft 365 Copilot
   - PROCESS-NAME,com.microsoft.skydrive #OneDrive
   - PROCESS-NAME,com.mimikko.mimikkoui #兽耳助手
   - PROCESS-NAME,com.minitools.miniwidget #心动主题壁纸
