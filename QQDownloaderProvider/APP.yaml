@@ -470,7 +470,6 @@ payload:
   - PROCESS-NAME,com.lianmengsylm.app #联盟生态
   - PROCESS-NAME,com.lietou.mishu #猎聘
   - PROCESS-NAME,com.lingan.yunqi #宝宝记
-  - PROCESS-NAME,com.lingcreate.speechtotext #音频转文字
   - PROCESS-NAME,com.lingyue.zebraloan #洋钱罐借款
   - PROCESS-NAME,com.lion.market #虫虫助手
   - PROCESS-NAME,com.liulishuo.engzo #流利说-英语
@@ -972,6 +971,7 @@ payload:
   - PROCESS-NAME,gz.lifesense.weidong #乐心健康
   - PROCESS-NAME,hg.zp.ui #天眼新闻
   - PROCESS-NAME,howbuy.android.piggy #储蓄罐
+  - PROCESS-NAME,io.dcloud.H576E6CC7 #鱼泡直聘
   - PROCESS-NAME,io.dcloud.H5999961F #宝宝云
   - PROCESS-NAME,io.dushu.fandengreader #帆书
   - PROCESS-NAME,llbt.ccb.lnga #辽事通
