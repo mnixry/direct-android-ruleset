@@ -664,7 +664,6 @@ PROCESS-NAME,com.postram.winulatorbeta,{{ rule }} # Windows游戏模拟器
 PROCESS-NAME,com.pujiadev.fairybakery,{{ rule }} # 妖精面包房
 PROCESS-NAME,com.Pulsar.GrandTruckSimulator,{{ rule }} # 大卡车模拟器
 PROCESS-NAME,com.qch.market,{{ rule }} # 拇指玩
-PROCESS-NAME,com.qcplay.snail.android,{{ rule }} # 最强蜗牛
 PROCESS-NAME,com.qidian.dldl.yyh,{{ rule }} # 新斗罗大陆
 PROCESS-NAME,com.qinwenting.itp,{{ rule }} # 金益康
 PROCESS-NAME,com.qmzx.ezfy.yyh,{{ rule }} # 二战风云2
@@ -1004,6 +1003,7 @@ PROCESS-NAME,mytown.police,{{ rule }} # 我的小镇：警察局
 PROCESS-NAME,mytown.preschool,{{ rule }} # 我的小镇：幼儿园
 PROCESS-NAME,mytown.school,{{ rule }} # 我的小镇：校园
 PROCESS-NAME,mytown.stores,{{ rule }} # 我的小镇：商店
+PROCESS-NAME,mytown.street,{{ rule }} # 我的小镇 : 街道欢乐
 PROCESS-NAME,mytown.wedding,{{ rule }} # 我的城镇：婚礼日
 PROCESS-NAME,net.capsuleplus.JapaneseDoll,{{ rule }} # 育成日本人偶
 PROCESS-NAME,net.defensezone,{{ rule }} # 战地防御

@@ -664,7 +664,6 @@ payload:
   - PROCESS-NAME,com.pujiadev.fairybakery #妖精面包房
   - PROCESS-NAME,com.Pulsar.GrandTruckSimulator #大卡车模拟器
   - PROCESS-NAME,com.qch.market #拇指玩
-  - PROCESS-NAME,com.qcplay.snail.android #最强蜗牛
   - PROCESS-NAME,com.qidian.dldl.yyh #新斗罗大陆
   - PROCESS-NAME,com.qinwenting.itp #金益康
   - PROCESS-NAME,com.qmzx.ezfy.yyh #二战风云2
@@ -1004,6 +1003,7 @@ payload:
   - PROCESS-NAME,mytown.preschool #我的小镇：幼儿园
   - PROCESS-NAME,mytown.school #我的小镇：校园
   - PROCESS-NAME,mytown.stores #我的小镇：商店
+  - PROCESS-NAME,mytown.street #我的小镇 : 街道欢乐
   - PROCESS-NAME,mytown.wedding #我的城镇：婚礼日
   - PROCESS-NAME,net.capsuleplus.JapaneseDoll #育成日本人偶
   - PROCESS-NAME,net.defensezone #战地防御
