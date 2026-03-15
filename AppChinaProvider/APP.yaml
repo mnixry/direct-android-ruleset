@@ -300,7 +300,7 @@ payload:
   - PROCESS-NAME,com.eusoft.eudic #欧路词典
   - PROCESS-NAME,com.eusoft.frhelper #法语助手
   - PROCESS-NAME,com.eusoft.ting.en #每日英语听力
-  - PROCESS-NAME,com.evaair.android #长荣航空客运行动商务软件
+  - PROCESS-NAME,com.evaair.android #长荣航空
   - PROCESS-NAME,com.everimaging.photoeffectstudio #Fotor
   - PROCESS-NAME,com.example.administrator.searchpicturetool #搜图神器
   - PROCESS-NAME,com.example.mp3editor #MP3剪辑器

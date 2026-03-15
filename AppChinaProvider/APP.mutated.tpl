@@ -298,7 +298,7 @@ PROCESS-NAME,com.estrongs.android.pop,{{ rule }} # ES文件浏览器
 PROCESS-NAME,com.eusoft.eudic,{{ rule }} # 欧路词典
 PROCESS-NAME,com.eusoft.frhelper,{{ rule }} # 法语助手
 PROCESS-NAME,com.eusoft.ting.en,{{ rule }} # 每日英语听力
-PROCESS-NAME,com.evaair.android,{{ rule }} # 长荣航空客运行动商务软件
+PROCESS-NAME,com.evaair.android,{{ rule }} # 长荣航空
 PROCESS-NAME,com.everimaging.photoeffectstudio,{{ rule }} # Fotor
 PROCESS-NAME,com.example.administrator.searchpicturetool,{{ rule }} # 搜图神器
 PROCESS-NAME,com.example.mp3editor,{{ rule }} # MP3剪辑器

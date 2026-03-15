@@ -119,6 +119,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020080705 #地下足球经理人2
   - PROCESS-NAME,com.appchina.yugao.2020082001 #足球大亨
   - PROCESS-NAME,com.appchina.yugao.2020082908 #音灵INVAXION
+  - PROCESS-NAME,com.appchina.yugao.2020090305 #音乐少女
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
@@ -130,7 +131,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021051401 #不休的音符
   - PROCESS-NAME,com.appchina.yugao.2021051802 #珀加索斯梦幻之旅 
   - PROCESS-NAME,com.appchina.yugao.2021051806 #马力欧高尔夫：超级冲冲冲 
-  - PROCESS-NAME,com.appchina.yugao.2021052007 #阳春艺曲
   - PROCESS-NAME,com.appchina.yugao.2021060103 #NEEDY GIRL OVERDOSE
   - PROCESS-NAME,com.appchina.yugao.2021062204 #NBA NOW 21
   - PROCESS-NAME,com.appchina.yugao.2021070511 #索尼克在2020东京奥运会
@@ -320,7 +320,6 @@ payload:
   - PROCESS-NAME,com.fdgentertainment.paperama #智慧折纸
   - PROCESS-NAME,com.fds.infiniteflight #无限试飞
   - PROCESS-NAME,com.feelingtouch.strikeforce2 #特警：止战之殇
-  - PROCESS-NAME,com.feitian.JiChangApp #天工机场
   - PROCESS-NAME,com.feralinteractive.rometw #罗马：全面战争
   - PROCESS-NAME,com.fgol.sharkfree2 #嗜血狂鲨2
   - PROCESS-NAME,com.fighter.activity #打飞机
@@ -539,6 +538,7 @@ payload:
   - PROCESS-NAME,com.meetfuture.cooldrum #酷架子鼓
   - PROCESS-NAME,com.melesta.coffeeshop #我的咖啡厅 - 世界餐厅游戏
   - PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator #校园女生模拟器
+  - PROCESS-NAME,com.meuni.app #元校
   - PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2 #泡泡女巫传奇2
   - PROCESS-NAME,com.miga.mypets #米加小镇:宠物
   - PROCESS-NAME,com.miga.mystore #米加小镇:商店
