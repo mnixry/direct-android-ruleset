@@ -109,6 +109,7 @@ PROCESS-NAME,com.appchina.yugao.2020030906,{{ rule }} # NBA 2K21
 PROCESS-NAME,com.appchina.yugao.2020031602,{{ rule }} # 节奏空间 
 PROCESS-NAME,com.appchina.yugao.2020032002,{{ rule }} # 勇气与荣耀 
 PROCESS-NAME,com.appchina.yugao.2020042406,{{ rule }} # 漫威vs.卡普空：无限
+PROCESS-NAME,com.appchina.yugao.2020042802,{{ rule }} # 节奏快打
 PROCESS-NAME,com.appchina.yugao.2020060406,{{ rule }} # 萌龙训练师
 PROCESS-NAME,com.appchina.yugao.2020062204,{{ rule }} # BanGround
 PROCESS-NAME,com.appchina.yugao.2020062805,{{ rule }} # 足球在线4移动版
@@ -118,7 +119,6 @@ PROCESS-NAME,com.appchina.yugao.2020080310,{{ rule }} # 娃娃计划
 PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082001,{{ rule }} # 足球大亨
 PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
-PROCESS-NAME,com.appchina.yugao.2020090305,{{ rule }} # 音乐少女
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
 PROCESS-NAME,com.appchina.yugao.2020122302,{{ rule }} # Lo-Fi Room
 PROCESS-NAME,com.appchina.yugao.2021012605,{{ rule }} # KALPA
@@ -471,7 +471,6 @@ PROCESS-NAME,com.illusiveray.zcs,{{ rule }} # 僵尸作战模拟
 PROCESS-NAME,com.Imperialeagle.rts,{{ rule }} # 铁锈战争:帝国雄鹰
 PROCESS-NAME,com.IMStudio.PocketRally,{{ rule }} # 掌上拉力赛
 PROCESS-NAME,com.infinityvector.assolutoracing,{{ rule }} # 绝对赛车
-PROCESS-NAME,com.inhe.meifa,{{ rule }} # 美发预约
 PROCESS-NAME,com.integer3d.dirtroadtrucker,{{ rule }} # 3D泥路货车
 PROCESS-NAME,com.InterServ.ApocalypseKnights,{{ rule }} # 光之骑士
 PROCESS-NAME,com.ironhidegames.android.kingdomrush,{{ rule }} # 王国保卫战
@@ -539,6 +538,7 @@ PROCESS-NAME,com.mediocre.smashhit,{{ rule }} # 急速冲击
 PROCESS-NAME,com.meetfuture.cooldrum,{{ rule }} # 酷架子鼓
 PROCESS-NAME,com.melesta.coffeeshop,{{ rule }} # 我的咖啡厅 - 世界餐厅游戏
 PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator,{{ rule }} # 校园女生模拟器
+PROCESS-NAME,com.meuni.app,{{ rule }} # 元校
 PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2,{{ rule }} # 泡泡女巫传奇2
 PROCESS-NAME,com.miga.mypets,{{ rule }} # 米加小镇:宠物
 PROCESS-NAME,com.miga.mystore,{{ rule }} # 米加小镇:商店
