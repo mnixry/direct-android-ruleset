@@ -132,6 +132,7 @@ payload:
   - PROCESS-NAME,com.appcina.anpai.2020011202 #Berkanan Messenger
   - PROCESS-NAME,com.appshare.android.ilisten #口袋故事
   - PROCESS-NAME,com.appshare.android.ilisten.hd #口袋故事HD
+  - PROCESS-NAME,com.appsino.bingluo.dyxh #滴呀小号
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
   - PROCESS-NAME,com.autohome.usedcar #二手车之家
   - PROCESS-NAME,com.autonavi.minimap #高德地图
@@ -218,6 +219,7 @@ payload:
   - PROCESS-NAME,com.cio.project #通信助手
   - PROCESS-NAME,com.cleanmaster.mguard_cn #猎豹清理大师
   - PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity #掌上生活
+  - PROCESS-NAME,com.cmcm.cfwallpaper #元气桌面壁纸
   - PROCESS-NAME,com.cmstop.zswz #掌上温州
   - PROCESS-NAME,com.cnbizmedia.shangjie #商界
   - PROCESS-NAME,com.cns.mc.activity #中国新闻网
@@ -817,7 +819,6 @@ payload:
   - PROCESS-NAME,com.tongcheng.android #同程旅行
   - PROCESS-NAME,com.topgether.sixfoot #六只脚
   - PROCESS-NAME,com.towords #拓词
-  - PROCESS-NAME,com.tpv.familylink #菲家
   - PROCESS-NAME,com.trantor.genesis #维迈通多多
   - PROCESS-NAME,com.tripadvisor.tripadvisor.daodao #Tripadvisor猫途鹰
   - PROCESS-NAME,com.truckhome.bbs #卡车之家

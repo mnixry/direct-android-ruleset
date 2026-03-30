@@ -154,7 +154,6 @@ payload:
   - PROCESS-NAME,com.astragon.trucksim #模拟卡车16
   - PROCESS-NAME,com.atos.ver #生存的故事
   - PROCESS-NAME,com.atv.blackops #使命召唤：黑色行动僵尸
-  - PROCESS-NAME,com.atypicalgames.radiationcity #辐射之城
   - PROCESS-NAME,com.atypicalgames.radiationisland #辐射岛
   - PROCESS-NAME,com.atypicalgames.sgsr #搏击长空：风暴特工队 免谷歌版
   - PROCESS-NAME,com.auer.love_memory.zhtw.normal #恋爱物语 湛蓝的回忆
@@ -464,6 +463,7 @@ payload:
   - PROCESS-NAME,com.igg.android.lordsmobile_cn #王国纪元
   - PROCESS-NAME,com.igg.castleclash #城堡争霸 
   - PROCESS-NAME,com.illusiveray.zcs #僵尸作战模拟
+  - PROCESS-NAME,com.imangi.templerun2 #神庙逃亡2
   - PROCESS-NAME,com.Imperialeagle.rts #铁锈战争:帝国雄鹰
   - PROCESS-NAME,com.IMStudio.PocketRally #掌上拉力赛
   - PROCESS-NAME,com.infinityvector.assolutoracing #绝对赛车
@@ -492,6 +492,7 @@ payload:
   - PROCESS-NAME,com.kb.Carrom3DFull #3D桌球
   - PROCESS-NAME,com.khg.doorkickers #破门而入
   - PROCESS-NAME,com.KillerBeanStudios.EnemyStrike #敌军来袭
+  - PROCESS-NAME,com.kiloo.subwaysurf #地铁跑酷
   - PROCESS-NAME,com.king.farmheroessaga #Farm Heroes Saga
   - PROCESS-NAME,com.kleientertainment.doNotStarveShipwrecked #饥荒：海难
   - PROCESS-NAME,com.knight.union.yyh #元气骑士
@@ -749,7 +750,6 @@ payload:
   - PROCESS-NAME,com.square_enix.android_googleplay.riseofmana1 #圣剑传说
   - PROCESS-NAME,com.square_enix.chaosrings2gp #混沌之戒2 修改版
   - PROCESS-NAME,com.squareenix.dxm #杀出重围：堕落
-  - PROCESS-NAME,com.squareenix.jc3companion #正当防卫3：飞翼体验
   - PROCESS-NAME,com.squareenixmontreal.hitmansniperandroid #杀手：狙击
   - PROCESS-NAME,com.ss.game.magictower.xinxinmota #新新魔塔
   - PROCESS-NAME,com.starbreezepublishing.paydaycrimewar #收获日：罪恶战争
