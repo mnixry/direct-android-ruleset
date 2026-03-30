@@ -15,10 +15,7 @@ const formatExtensionPayload = (include: RuleSetExtension) =>
     ? formatRulePayload(include)
     : formatRulePayload(include.regex, true);
 
-export const rulesToYaml = (
-  rules: RulesMap,
-  includes?: RuleSetExtension[],
-) => {
+export const rulesToYaml = (rules: RulesMap, includes?: RuleSetExtension[]) => {
   const document = new YAML.Document({ payload: [] });
 
   for (const [pkgName, name] of sortRuleEntries(rules)) {
