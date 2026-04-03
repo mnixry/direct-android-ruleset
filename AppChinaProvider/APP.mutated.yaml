@@ -370,7 +370,6 @@ payload:
   - PROCESS-NAME,com.hoge.android.chinablue #中国蓝新闻
   - PROCESS-NAME,com.hoge.android.wuhan #掌上武汉
   - PROCESS-NAME,com.hoge.android.wuxiwireless #无锡博报
-  - PROCESS-NAME,com.hoge.android.yancwireless #智慧盐城
   - PROCESS-NAME,com.honeymoon.stone.jean.poweredit #图片编辑工具
   - PROCESS-NAME,com.honghesoft.calligrapher #大书法家
   - PROCESS-NAME,com.hongxiu.app #红袖读书
@@ -578,7 +577,6 @@ payload:
   - PROCESS-NAME,com.netease.pris #网易云阅读
   - PROCESS-NAME,com.netease.vopen #网易公开课
   - PROCESS-NAME,com.netease.xyqcbg #梦幻藏宝阁
-  - PROCESS-NAME,com.new_qdqss.activity #掌上青岛
   - PROCESS-NAME,com.nfdaily.nfplus #南方Plus
   - PROCESS-NAME,com.nice.main #nice
   - PROCESS-NAME,com.nineteenlou.nineteenlou #19楼
@@ -868,7 +866,7 @@ payload:
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xt.retouch #醒图
   - PROCESS-NAME,com.xtuone.android.syllabus #超级课程表
-  - PROCESS-NAME,com.xuanyou2022.bizhi #手机壁纸
+  - PROCESS-NAME,com.xuanyou2022.bizhi #好看手机壁纸
   - PROCESS-NAME,com.xueqiu.android #雪球
   - PROCESS-NAME,com.xuexiang.myring #炫铃声
   - PROCESS-NAME,com.xunlei.downloadprovider #迅雷
@@ -876,6 +874,7 @@ payload:
   - PROCESS-NAME,com.xvideostudio.videoeditor #乐秀视频剪辑视频编辑
   - PROCESS-NAME,com.xyhui #PU口袋校园
   - PROCESS-NAME,com.yaoo.qlauncher #如意老人桌面
+  - PROCESS-NAME,com.yaoyu.wanzhou #看万州
   - PROCESS-NAME,com.ybws.ucast #Ucast
   - PROCESS-NAME,com.ydtx.camera #元道经纬相机
   - PROCESS-NAME,com.yeahka.mach.android.openpos #乐刷商务版
