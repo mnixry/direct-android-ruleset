@@ -118,7 +118,6 @@ payload:
   - PROCESS-NAME,com.app.dzy.btchat #蓝牙闲聊
   - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.app.ymqzy #动态壁纸秀场
-  - PROCESS-NAME,com.appaaa.guitar #吉他调音器高精度版
   - PROCESS-NAME,com.appbyme.app71974 #编织人生论坛
   - PROCESS-NAME,com.appchina.anpai.2019071601 #鸟类壁纸
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
@@ -337,6 +336,7 @@ payload:
   - PROCESS-NAME,com.gozap.chouti #抽屉
   - PROCESS-NAME,com.greenpoint.android.mc10086.activity #中国移动
   - PROCESS-NAME,com.growing.topwidgets #万能小组件 Top Widgets
+  - PROCESS-NAME,com.grunkr.autowallpaper #自动壁纸
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
