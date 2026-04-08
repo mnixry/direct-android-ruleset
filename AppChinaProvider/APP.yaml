@@ -288,6 +288,7 @@ payload:
   - PROCESS-NAME,com.eusoft.ting.en #每日英语听力
   - PROCESS-NAME,com.evaair.android #长荣航空
   - PROCESS-NAME,com.everimaging.photoeffectstudio #Fotor
+  - PROCESS-NAME,com.example.raccoon.dialogwidget #万象小组件
   - PROCESS-NAME,com.ezen.ehshig #egshig
   - PROCESS-NAME,com.facetech.konfast #轻音社极速版
   - PROCESS-NAME,com.faloo.BookReader4Android #飞卢小说
@@ -674,6 +675,7 @@ payload:
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
+  - PROCESS-NAME,com.shilv.yueliao #越聊
   - PROCESS-NAME,com.shinyv.cnr #云听
   - PROCESS-NAME,com.shizhuang.duapp #得物
   - PROCESS-NAME,com.shoujiduoduo.ringtone #铃声多多
@@ -824,13 +826,13 @@ payload:
   - PROCESS-NAME,com.video.link.heart #心心相印
   - PROCESS-NAME,com.videogo #萤石云视频
   - PROCESS-NAME,com.wacai365 #挖财记账
+  - PROCESS-NAME,com.wallpaper.movephsy #主题壁纸
   - PROCESS-NAME,com.wallstreetcn.news #华尔街见闻
   - PROCESS-NAME,com.wandafilm.app #万达电影
   - PROCESS-NAME,com.wander.android.wallpaper #元气壁纸
   - PROCESS-NAME,com.wangdou.prettygirls.dress #装扮次元手帐
   - PROCESS-NAME,com.wangyin.payment #京东钱包
   - PROCESS-NAME,com.waterfall.metronome #节拍器
-  - PROCESS-NAME,com.weico.international #微博轻享版
   - PROCESS-NAME,com.welove520.welove #微爱
   - PROCESS-NAME,com.wenhua.bamboo #随身行
   - PROCESS-NAME,com.wenhui.ebook #文汇
@@ -1025,7 +1027,6 @@ payload:
   - PROCESS-NAME,will.maixinx.com #脉信
   - PROCESS-NAME,wind.deposit #万得基金
   - PROCESS-NAME,xhing.pqoen.uthjg #国漫桌面壁纸
-  - PROCESS-NAME,xun.image.magic #画质魔盒
   - PROCESS-NAME,ysykzheng.hotlauncher #热门启动器
   - PROCESS-NAME,yyc.xk #星空视频壁纸
   - PROCESS-NAME,zhuomian.com.bizhi.fhsdj #桌面壁纸
