@@ -108,6 +108,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020031602 #节奏空间 
   - PROCESS-NAME,com.appchina.yugao.2020032002 #勇气与荣耀 
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
+  - PROCESS-NAME,com.appchina.yugao.2020042802 #节奏快打
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
   - PROCESS-NAME,com.appchina.yugao.2020062204 #BanGround
   - PROCESS-NAME,com.appchina.yugao.2020062805 #足球在线4移动版
@@ -117,10 +118,8 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020080705 #地下足球经理人2
   - PROCESS-NAME,com.appchina.yugao.2020082001 #足球大亨
   - PROCESS-NAME,com.appchina.yugao.2020082908 #音灵INVAXION
-  - PROCESS-NAME,com.appchina.yugao.2020090305 #音乐少女
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
-  - PROCESS-NAME,com.appchina.yugao.2021012605 #KALPA
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
   - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
@@ -140,6 +139,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021072606 #足球经理2022
   - PROCESS-NAME,com.appchina.yugao.2021073003 #实况力量足球 
   - PROCESS-NAME,com.appchina.yugao.2021081905 #像素职业棒球
+  - PROCESS-NAME,com.appchina.yugao.2021092601 #SuperStar YG
   - PROCESS-NAME,com.appchina.yugao.2021101902 #足球经理2022 移动版
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
   - PROCESS-NAME,com.appchina.yugao.2021112210 #缪斯音街
@@ -663,7 +663,7 @@ payload:
   - PROCESS-NAME,com.qinwenting.itp #金益康
   - PROCESS-NAME,com.qmzx.ezfy.yyh #二战风云2
   - PROCESS-NAME,com.qqgame.happymj #欢乐麻将
-  - PROCESS-NAME,com.qqgame.hlddz #欢乐斗地主
+  - PROCESS-NAME,com.qqgame.hlddz #腾讯欢乐斗地主
   - PROCESS-NAME,com.qqgame.mic #英雄杀
   - PROCESS-NAME,com.quadowl.craftking #我的王国
   - PROCESS-NAME,com.rappidstudios.simulatorbattlephysics #史诗战斗模拟器2
