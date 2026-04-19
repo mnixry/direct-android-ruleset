@@ -168,6 +168,7 @@ PROCESS-NAME,com.tencent.mf.uam,{{ rule }} # 暗区突围-新版本爆率翻倍
 PROCESS-NAME,com.tencent.msgame,{{ rule }} # 合金弹头：觉醒
 PROCESS-NAME,com.tencent.Mtown,{{ rule }} # 全民小镇
 PROCESS-NAME,com.tencent.nfsonline,{{ rule }} # 极品飞车：集结
+PROCESS-NAME,com.tencent.ngr,{{ rule }} # 王者荣耀世界
 PROCESS-NAME,com.tencent.nrc,{{ rule }} # 洛克王国：世界
 PROCESS-NAME,com.tencent.pao,{{ rule }} # 天天酷跑
 PROCESS-NAME,com.tencent.peng,{{ rule }} # 天天爱消除
@@ -446,7 +447,6 @@ PROCESS-NAME,com.tencent.tmgp.hyrjgd,{{ rule }} # 荒野日记：孤岛
 PROCESS-NAME,com.tencent.tmgp.idol2,{{ rule }} # 绝对演绎
 PROCESS-NAME,com.tencent.tmgp.idreamsky.gfhc,{{ rule }} # 传说中的合合岛
 PROCESS-NAME,com.tencent.tmgp.ifsanguo,{{ rule }} # 极无双
-PROCESS-NAME,com.tencent.tmgp.ikillerss,{{ rule }} # 推理学院
 PROCESS-NAME,com.tencent.tmgp.iron,{{ rule }} # 钢铁命令
 PROCESS-NAME,com.tencent.tmgp.javgame.lsj,{{ rule }} # 来升级
 PROCESS-NAME,com.tencent.tmgp.jbyhcrdz,{{ rule }} # 火柴人大战3

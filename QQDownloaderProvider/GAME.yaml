@@ -168,6 +168,7 @@ payload:
   - PROCESS-NAME,com.tencent.msgame #合金弹头：觉醒
   - PROCESS-NAME,com.tencent.Mtown #全民小镇
   - PROCESS-NAME,com.tencent.nfsonline #极品飞车：集结
+  - PROCESS-NAME,com.tencent.ngr #王者荣耀世界
   - PROCESS-NAME,com.tencent.nrc #洛克王国：世界
   - PROCESS-NAME,com.tencent.pao #天天酷跑
   - PROCESS-NAME,com.tencent.peng #天天爱消除
@@ -446,7 +447,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.idol2 #绝对演绎
   - PROCESS-NAME,com.tencent.tmgp.idreamsky.gfhc #传说中的合合岛
   - PROCESS-NAME,com.tencent.tmgp.ifsanguo #极无双
-  - PROCESS-NAME,com.tencent.tmgp.ikillerss #推理学院
   - PROCESS-NAME,com.tencent.tmgp.iron #钢铁命令
   - PROCESS-NAME,com.tencent.tmgp.javgame.lsj #来升级
   - PROCESS-NAME,com.tencent.tmgp.jbyhcrdz #火柴人大战3
