@@ -117,6 +117,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020031602 #节奏空间 
   - PROCESS-NAME,com.appchina.yugao.2020032002 #勇气与荣耀 
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
+  - PROCESS-NAME,com.appchina.yugao.2020042802 #节奏快打
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
   - PROCESS-NAME,com.appchina.yugao.2020062204 #BanGround
   - PROCESS-NAME,com.appchina.yugao.2020062805 #足球在线4移动版
@@ -129,7 +130,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020090305 #音乐少女
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
-  - PROCESS-NAME,com.appchina.yugao.2021012605 #KALPA
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
   - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
@@ -139,7 +139,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021051401 #不休的音符
   - PROCESS-NAME,com.appchina.yugao.2021051802 #珀加索斯梦幻之旅 
   - PROCESS-NAME,com.appchina.yugao.2021051806 #马力欧高尔夫：超级冲冲冲 
-  - PROCESS-NAME,com.appchina.yugao.2021052007 #阳春艺曲
   - PROCESS-NAME,com.appchina.yugao.2021060103 #NEEDY GIRL OVERDOSE
   - PROCESS-NAME,com.appchina.yugao.2021062204 #NBA NOW 21
   - PROCESS-NAME,com.appchina.yugao.2021070511 #索尼克在2020东京奥运会
@@ -152,6 +151,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021092601 #SuperStar YG
   - PROCESS-NAME,com.appchina.yugao.2021101902 #足球经理2022 移动版
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
+  - PROCESS-NAME,com.appchina.yugao.2021112210 #缪斯音街
   - PROCESS-NAME,com.appchina.yugao.2022020701 #奥林匹克运动会：北京2022
   - PROCESS-NAME,com.appchina.yugao.2022051001 #完美滑板 
   - PROCESS-NAME,com.appsorama.kleptocats #小偷猫
@@ -563,6 +563,7 @@ payload:
   - PROCESS-NAME,com.lemon.play.linecolor #五子连珠
   - PROCESS-NAME,com.leoexe.archery #策马入山林
   - PROCESS-NAME,com.leosfortune #里奥的财富
+  - PROCESS-NAME,com.liaoyanxuan.jeweldropdom #方块宝石滑消消
   - PROCESS-NAME,com.liaoyanxuan.sudoku #数独玩家
   - PROCESS-NAME,com.liaoyanxuan.unblockMeKlotski #三国华容道谜题集
   - PROCESS-NAME,com.lila.beatracer #节奏超跑
@@ -718,7 +719,6 @@ payload:
   - PROCESS-NAME,com.ovilex.schooldriving3d #学校驾驶3D
   - PROCESS-NAME,com.ovilex.trucksimulator3d #卡车模拟3D
   - PROCESS-NAME,com.ovilex.trucksimulatorusa #美国卡车模拟
-  - PROCESS-NAME,com.papegames.infinitynikki #无限暖暖
   - PROCESS-NAME,com.papegames.lysk.cn #恋与深空
   - PROCESS-NAME,com.paradoxplaza.imagicka #魔能：方碑之巫
   - PROCESS-NAME,com.patigames.ilovepasta4gsp #全民餐厅
@@ -994,6 +994,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.baitian.aqcs.aqcssy #奥奇传说
   - PROCESS-NAME,com.tencent.tmgp.basecity.game.hjd #黄金岛在线游戏软件
   - PROCESS-NAME,com.tencent.tmgp.bbqstudio.bbq2 #野蛮人大作战2
+  - PROCESS-NAME,com.tencent.tmgp.bd1117 #九界问仙
   - PROCESS-NAME,com.tencent.tmgp.bekko.yld #我有一座育龙岛
   - PROCESS-NAME,com.tencent.tmgp.bfdjddzhd #单机斗地主(六月)边锋精简版
   - PROCESS-NAME,com.tencent.tmgp.bgame #热血街篮
@@ -1206,6 +1207,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.hmzqfy #豪门足球风云
   - PROCESS-NAME,com.tencent.tmgp.hntx.gransaga #剑与骑士团
   - PROCESS-NAME,com.tencent.tmgp.hnty.tfjy #塔防纪元
+  - PROCESS-NAME,com.tencent.tmgp.hnyj.jxlmt #见习猎魔团
   - PROCESS-NAME,com.tencent.tmgp.holidayandroid #假日乐消消
   - PROCESS-NAME,com.tencent.tmgp.hongguaiwan #随便玩红拐弯
   - PROCESS-NAME,com.tencent.tmgp.hotta #幻塔
@@ -1336,6 +1338,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mtlbb #天龙3D
   - PROCESS-NAME,com.tencent.tmgp.mw #现代战舰
   - PROCESS-NAME,com.tencent.tmgp.mw2m #蘑菇战争2
+  - PROCESS-NAME,com.tencent.tmgp.mwr #小小军团
   - PROCESS-NAME,com.tencent.tmgp.mxdlmdyz #冒险岛：联盟的意志
   - PROCESS-NAME,com.tencent.tmgp.mxxfd #冒险小分队
   - PROCESS-NAME,com.tencent.tmgp.my.yyb #魔域口袋版
@@ -1343,7 +1346,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.myrzx.meizu #牧羊人之心
   - PROCESS-NAME,com.tencent.tmgp.myshzg #云上城之歌
   - PROCESS-NAME,com.tencent.tmgp.mytalkingtom2 #我的汤姆猫2
-  - PROCESS-NAME,com.tencent.tmgp.mywar #我的战争
   - PROCESS-NAME,com.tencent.tmgp.nanchangmajiang #随便玩南昌麻将
   - PROCESS-NAME,com.tencent.tmgp.nanningmj #南宁麻将
   - PROCESS-NAME,com.tencent.tmgp.NBA #最强美职篮
@@ -1403,10 +1405,10 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.qsroom1 #密室逃脱求生系列1极地冒险
   - PROCESS-NAME,com.tencent.tmgp.qtdl3d #抢滩登陆3D
   - PROCESS-NAME,com.tencent.tmgp.qxxy.cookingcity #小镇大厨
-  - PROCESS-NAME,com.tencent.tmgp.qy.mjxxx #麻将消消消单机游戏
   - PROCESS-NAME,com.tencent.tmgp.qyfhl #群英风华录
   - PROCESS-NAME,com.tencent.tmgp.qygames.mddqz #梦的第七章
   - PROCESS-NAME,com.tencent.tmgp.qyj #青云诀
+  - PROCESS-NAME,com.tencent.tmgp.qznbp.jy #酋长你别跑
   - PROCESS-NAME,com.tencent.tmgp.qzxy #葫芦兄弟：七子降妖
   - PROCESS-NAME,com.tencent.tmgp.road7.ddtdmxandroid #弹弹堂大冒险
   - PROCESS-NAME,com.tencent.tmgp.road7.sqh5 #神曲H5
@@ -1583,7 +1585,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wjfz #无尽纷争
   - PROCESS-NAME,com.tencent.tmgp.wjmtgl #我叫MT：归来
   - PROCESS-NAME,com.tencent.tmgp.wjxt #无极仙途
-  - PROCESS-NAME,com.tencent.tmgp.wksdh #微壳三打哈
   - PROCESS-NAME,com.tencent.tmgp.wkzbeqw #微壳二七王
   - PROCESS-NAME,com.tencent.tmgp.wmsjjdb #完美世界：诸神之战
   - PROCESS-NAME,com.tencent.tmgp.wodn #龙之谷世界
