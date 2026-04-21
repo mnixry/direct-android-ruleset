@@ -348,6 +348,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.eden #世界启元
   - PROCESS-NAME,com.tencent.tmgp.ef3 #现代空战3D
   - PROCESS-NAME,com.tencent.tmgp.ef5 #空战争锋
+  - PROCESS-NAME,com.tencent.tmgp.eight.ball.live #超凡台球
   - PROCESS-NAME,com.tencent.tmgp.elex.ctw #列王的纷争：西部大陆
   - PROCESS-NAME,com.tencent.tmgp.enjoymisgzj #三国战纪：风云再起
   - PROCESS-NAME,com.tencent.tmgp.es2boy #偶像梦幻祭2
@@ -705,7 +706,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.ssjj.gbws #果宝无双
   - PROCESS-NAME,com.tencent.tmgp.ssjj.zmws #造梦无双
   - PROCESS-NAME,com.tencent.tmgp.sskgame #圣斗士星矢-官方正版(腾讯)
-  - PROCESS-NAME,com.tencent.tmgp.sssf37 #谁是首富
   - PROCESS-NAME,com.tencent.tmgp.sszg #闪烁之光
   - PROCESS-NAME,com.tencent.tmgp.stgsl #神探诡事录
   - PROCESS-NAME,com.tencent.tmgp.styjz #隋唐英杰传
