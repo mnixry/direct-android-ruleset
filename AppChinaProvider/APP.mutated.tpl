@@ -642,7 +642,7 @@ PROCESS-NAME,com.quvideo.slideplus,{{ rule }} # 小影记
 PROCESS-NAME,com.quvideo.xiaoying,{{ rule }} # 小影
 PROCESS-NAME,com.qzone,{{ rule }} # QQ空间
 PROCESS-NAME,com.raiyi.wxcs,{{ rule }} # 流量掌厅
-PROCESS-NAME,com.rakutec.android.iweekly,{{ rule }} # iWeekly 周末画报
+PROCESS-NAME,com.rakutec.android.iweekly,{{ rule }} # iWeekly都市潮力
 PROCESS-NAME,com.rarlab.rar,{{ rule }} # RAR
 PROCESS-NAME,com.redrcd.ylxf,{{ rule }} # 云岭先锋
 PROCESS-NAME,com.renren.mobile.android,{{ rule }} # 人人直播
