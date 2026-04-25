@@ -38,7 +38,6 @@ payload:
   - PROCESS-NAME,cn.com.nbd.nbdmobile #每日经济新闻
   - PROCESS-NAME,cn.com.njxmxbank.mbank #南银法巴消金
   - PROCESS-NAME,cn.com.open.mooc #慕课网
-  - PROCESS-NAME,cn.com.pansky.sxzgyl #陕西社会保险
   - PROCESS-NAME,cn.com.pcauto.android.browser #太平洋汽车
   - PROCESS-NAME,cn.com.pcgroup.magazine #PChouse太平洋家居
   - PROCESS-NAME,cn.com.pconline.android.browser #太平洋科技
@@ -193,7 +192,6 @@ payload:
   - PROCESS-NAME,com.appsino.bingluo.fycz #移动公证
   - PROCESS-NAME,com.appsys.goodname #易经起名取名
   - PROCESS-NAME,com.artifact.hypnosis #催眠神器
-  - PROCESS-NAME,com.ataaw.tianyi #天翼生活
   - PROCESS-NAME,com.autohome.usedcar #二手车之家-看车选车买车卖车
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.babycloud.hanju #韩小圈
@@ -362,7 +360,6 @@ payload:
   - PROCESS-NAME,com.daqo.wallpaper #多多壁纸铃声
   - PROCESS-NAME,com.dazhuanjia.dcloud #大专家
   - PROCESS-NAME,com.ddmh.livewallpaper #动态壁纸秀
-  - PROCESS-NAME,com.ddnapalon.calculator.gp #全智能语音计算器
   - PROCESS-NAME,com.dealmoon.android #北美省钱快报
   - PROCESS-NAME,com.dedao.juvenile #少年得到
   - PROCESS-NAME,com.deepseek.chat #DeepSeek
@@ -371,6 +368,7 @@ payload:
   - PROCESS-NAME,com.dewmobile.kuaiya #快牙
   - PROCESS-NAME,com.deyi.client #得意生活
   - PROCESS-NAME,com.dianping.v1 #大众点评
+  - PROCESS-NAME,com.dida.help #滴答滴
   - PROCESS-NAME,com.didago.dida #滴答滴顺风车
   - PROCESS-NAME,com.didago.travel #滴答滴出行
   - PROCESS-NAME,com.didapinche.booking #嘀嗒出行
@@ -769,7 +767,6 @@ payload:
   - PROCESS-NAME,com.kunpeng.babyting #宝贝听听
   - PROCESS-NAME,com.kunpeng.bluefont #字体下载极速版
   - PROCESS-NAME,com.kunpeng.zitice #字体大全
-  - PROCESS-NAME,com.kwai.livepartner #快手直播伴侣
   - PROCESS-NAME,com.kwai.m2u #一甜相机
   - PROCESS-NAME,com.kwai.thanos #噗叽
   - PROCESS-NAME,com.kwai.videoeditor #快影
@@ -949,6 +946,7 @@ payload:
   - PROCESS-NAME,com.oda_cad #CAD迷你看图
   - PROCESS-NAME,com.oeiskd.easysoftkey #小白点虚拟按键
   - PROCESS-NAME,com.offcn.android.offcn #中公教育
+  - PROCESS-NAME,com.okcam.ookcam #小鹰看看
   - PROCESS-NAME,com.onlytongchengzh.com #两性同城聊
   - PROCESS-NAME,com.ophone.reader.ui #咪咕悦看
   - PROCESS-NAME,com.oppo.store #OPPO商城
@@ -973,7 +971,6 @@ payload:
   - PROCESS-NAME,com.phone.recording #电话录音宝
   - PROCESS-NAME,com.phone.show #秀来电
   - PROCESS-NAME,com.piaopiao.idphoto #证件照随拍
-  - PROCESS-NAME,com.picooc #PICOOC
   - PROCESS-NAME,com.pingan.carowner #平安好车主
   - PROCESS-NAME,com.pingan.lifeinsurance #平安金管家
   - PROCESS-NAME,com.pingan.paces.ccms #平安口袋银行
@@ -1121,7 +1118,6 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.abc #宝宝巴士英语
   - PROCESS-NAME,com.sinyee.babybus.amusement #奇妙科普馆
   - PROCESS-NAME,com.sinyee.babybus.babydrawing #宝宝画妈妈猜
-  - PROCESS-NAME,com.sinyee.babybus.babyhospital #宝宝医院
   - PROCESS-NAME,com.sinyee.babybus.chants #宝宝巴士儿歌
   - PROCESS-NAME,com.sinyee.babybus.chef #宝宝小厨房
   - PROCESS-NAME,com.sinyee.babybus.dailycommodities #宝宝认日用品
@@ -1409,7 +1405,6 @@ payload:
   - PROCESS-NAME,com.xiaomi.gamecenter.sdk.service #游戏服务
   - PROCESS-NAME,com.xiaomi.hm.health #Zepp Life
   - PROCESS-NAME,com.xiaomi.mico #小爱音箱
-  - PROCESS-NAME,com.xiaomi.mitv.phone.tvassistant #小米电视助手
   - PROCESS-NAME,com.xiaomi.router #小米WiFi
   - PROCESS-NAME,com.xiaomi.shop #小米商城
   - PROCESS-NAME,com.xiaomi.smarthome #米家
@@ -1436,6 +1431,7 @@ payload:
   - PROCESS-NAME,com.xs.fm #番茄畅听
   - PROCESS-NAME,com.xs.fm.lite #番茄音乐（原畅听音乐）
   - PROCESS-NAME,com.xt.retouch #醒图
+  - PROCESS-NAME,com.xtc.watch #小天才
   - PROCESS-NAME,com.xtuone.android.syllabus #超级课程表
   - PROCESS-NAME,com.xuanyou2022.bizhi #好看手机壁纸
   - PROCESS-NAME,com.xueersi.parentsmeeting #学而思网校
@@ -1460,6 +1456,7 @@ payload:
   - PROCESS-NAME,com.ygkj.chelaile.standard #车来了
   - PROCESS-NAME,com.ygxc.student #阳光学车
   - PROCESS-NAME,com.yiban1413.yiban #一伴婚恋专业版
+  - PROCESS-NAME,com.yibanlu.luck #知趣聊天
   - PROCESS-NAME,com.yibasan.lizhifm #荔枝
   - PROCESS-NAME,com.yicai.news #第一财经
   - PROCESS-NAME,com.yiche.autoeasy #易车
@@ -1562,6 +1559,7 @@ payload:
   - PROCESS-NAME,cuuca.sendfiles.Activity #备份助手
   - PROCESS-NAME,dongzheng.szkingdom.android.phone #掌证宝
   - PROCESS-NAME,droom.sleepIfUCan #使命闹钟Alarmy
+  - PROCESS-NAME,enfc.metro #亿通行
   - PROCESS-NAME,epson.print #Epson iPrint
   - PROCESS-NAME,fkg.client.side.activity #蜂狂购
   - PROCESS-NAME,flipboard.cn #红板报
