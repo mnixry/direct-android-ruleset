@@ -172,7 +172,6 @@ payload:
   - PROCESS-NAME,com.boohee.one #薄荷健康
   - PROCESS-NAME,com.bowerswilkins.splice #Music Bowers and Wilkins
   - PROCESS-NAME,com.brains.byzmnew #益智脑筋急转弯大全
-  - PROCESS-NAME,com.brid.wallpaper.two #小鸟壁纸
   - PROCESS-NAME,com.budejie.www #百思漂流瓶
   - PROCESS-NAME,com.businessvalue.android.app #钛媒体
   - PROCESS-NAME,com.by.butter.camera #黄油相机
@@ -460,6 +459,7 @@ payload:
   - PROCESS-NAME,com.jsqc.mevcbsag #白桃动态壁纸
   - PROCESS-NAME,com.jtjsb.ldb #来电宝软件
   - PROCESS-NAME,com.julanling.app #安心记加班
+  - PROCESS-NAME,com.juronghm.wallpaper #神图壁纸主题大全
   - PROCESS-NAME,com.jxedt #驾校一点通
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
