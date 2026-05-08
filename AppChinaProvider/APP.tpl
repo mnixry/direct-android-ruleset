@@ -129,6 +129,7 @@ PROCESS-NAME,com.appcina.anpai.2019122013,{{ rule }} # WLPPR - background wallpa
 PROCESS-NAME,com.appcina.anpai.2020011202,{{ rule }} # Berkanan Messenger
 PROCESS-NAME,com.appshare.android.ilisten,{{ rule }} # 口袋故事
 PROCESS-NAME,com.appshare.android.ilisten.hd,{{ rule }} # 口袋故事HD
+PROCESS-NAME,com.appsino.bingluo.dyxh,{{ rule }} # 滴呀小号
 PROCESS-NAME,com.appsino.bingluo.fycz,{{ rule }} # 移动公证
 PROCESS-NAME,com.autohome.usedcar,{{ rule }} # 二手车之家
 PROCESS-NAME,com.autonavi.minimap,{{ rule }} # 高德地图
@@ -1021,7 +1022,6 @@ PROCESS-NAME,us.pinguo.april_collage,{{ rule }} # 拼图酱
 PROCESS-NAME,vStudio.Android.Camera360,{{ rule }} # 相机360
 PROCESS-NAME,vz.com,{{ rule }} # 飞常准
 PROCESS-NAME,weicom.yi.wallpaper,{{ rule }} # 免费主题壁纸
-PROCESS-NAME,will.maixinx.com,{{ rule }} # 脉信
 PROCESS-NAME,wind.deposit,{{ rule }} # 万得基金
 PROCESS-NAME,xhing.pqoen.uthjg,{{ rule }} # 国漫桌面壁纸
 PROCESS-NAME,xun.image.magic,{{ rule }} # 画质魔盒
