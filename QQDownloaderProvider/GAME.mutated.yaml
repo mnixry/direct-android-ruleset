@@ -535,6 +535,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.mduel #漫威对决
   - PROCESS-NAME,com.tencent.tmgp.mecharashi #钢岚
   - PROCESS-NAME,com.tencent.tmgp.meng #梦王国与沉睡的100王子
+  - PROCESS-NAME,com.tencent.tmgp.mgddz #芒果斗地主
   - PROCESS-NAME,com.tencent.tmgp.mhmfw #梦幻魔法屋
   - PROCESS-NAME,com.tencent.tmgp.mhmnz #梦幻模拟战
   - PROCESS-NAME,com.tencent.tmgp.mhtgame.wxr #走开外星人
@@ -847,7 +848,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xyhq #爱玩信阳黑七
   - PROCESS-NAME,com.tencent.tmgp.xymobile #轩辕传奇手游
   - PROCESS-NAME,com.tencent.tmgp.xynegyz #西游女儿国
-  - PROCESS-NAME,com.tencent.tmgp.ycdml #异尘：达米拉
   - PROCESS-NAME,com.tencent.tmgp.ycf.herosland #英勇之地
   - PROCESS-NAME,com.tencent.tmgp.ydcsly #一刀传世
   - PROCESS-NAME,com.tencent.tmgp.ydgame.twzwtwo #塔王之王2
@@ -964,7 +964,6 @@ payload:
   - PROCESS-NAME,com.tongzhuo.tongzhuogame #同桌派对
   - PROCESS-NAME,com.touchtech.bbword #儿童脑筋急转弯
   - PROCESS-NAME,com.touchtech.etpintu #宝宝儿童来拼图
-  - PROCESS-NAME,com.touchtech.klCake #宝宝过生日
   - PROCESS-NAME,com.ubestkid.jigsawpuzzle.a #贝乐虎拼图
   - PROCESS-NAME,com.ultron.crimaster #侦探联盟
   - PROCESS-NAME,com.uqee.lying.maingame #卧龙吟-手机版
