@@ -96,7 +96,7 @@ payload:
   - PROCESS-NAME,com.adnonstop.mancamera2017 #型影
   - PROCESS-NAME,com.advasoft.touchretouch #TouchRetouch
   - PROCESS-NAME,com.aheading.news.lanzhourb #奔流新闻
-  - PROCESS-NAME,com.ahnews.newsclient #中安新闻
+  - PROCESS-NAME,com.ahnews.newsclient #中安在线
   - PROCESS-NAME,com.alensw.PhoneArea #QC 归属地
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
   - PROCESS-NAME,com.alibaba.intl.android.apps.poseidon #Alibaba.com
