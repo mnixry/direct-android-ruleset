@@ -268,7 +268,7 @@ payload:
   - PROCESS-NAME,com.eastedge.zhuzhounews #掌上株洲
   - PROCESS-NAME,com.eastmoney.android.berlin #东方财富
   - PROCESS-NAME,com.eastmoney.android.fund #天天基金
-  - PROCESS-NAME,com.eastmoney.android.tokyo #妙想炒股
+  - PROCESS-NAME,com.eastmoney.android.tokyo #AI妙想炒股
   - PROCESS-NAME,com.easy.wallpaper #番茄动态壁纸
   - PROCESS-NAME,com.ebnews #亿邦
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
