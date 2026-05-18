@@ -19,7 +19,6 @@ payload:
   - PROCESS-NAME,com.bruce.riddle #谜语猜猜猜
   - PROCESS-NAME,com.c2vl.kgamebox #狼人杀
   - PROCESS-NAME,com.carrot.carrotfantasy #保卫萝卜
-  - PROCESS-NAME,com.cayer.qiesg #快乐切水果
   - PROCESS-NAME,com.chrysler.ball #七彩五子连珠
   - PROCESS-NAME,com.classicgame.newmagictower #新新魔塔
   - PROCESS-NAME,com.dda.yyb #边锋打大A
@@ -383,7 +382,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.funntcp #欢乐南通长牌
   - PROCESS-NAME,com.tencent.tmgp.fxbp #放学别跑
   - PROCESS-NAME,com.tencent.tmgp.fxyx.mzc #猫之城
-  - PROCESS-NAME,com.tencent.tmgp.fyd #枫叶岛
   - PROCESS-NAME,com.tencent.tmgp.fzdl #风之大陆
   - PROCESS-NAME,com.tencent.tmgp.fzgd.ssfh #盛世芳华
   - PROCESS-NAME,com.tencent.tmgp.fzyzh.yzx #放置与召唤
@@ -499,7 +497,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.lanjing.yanyu #烟雨江湖
   - PROCESS-NAME,com.tencent.tmgp.ledou.mhhy #梦幻花园
   - PROCESS-NAME,com.tencent.tmgp.ledou.mhjy #梦幻家园
-  - PROCESS-NAME,com.tencent.tmgp.legendstd #帝国守卫战
   - PROCESS-NAME,com.tencent.tmgp.leiting.chaojinhua #超进化物语2
   - PROCESS-NAME,com.tencent.tmgp.leiting.dragonraider #飞吧龙骑士
   - PROCESS-NAME,com.tencent.tmgp.leiting.dungeon3 #地下城堡3：魂之诗
@@ -632,6 +629,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.qygames.mddqz #梦的第七章
   - PROCESS-NAME,com.tencent.tmgp.qyj #青云诀
   - PROCESS-NAME,com.tencent.tmgp.qzxy #葫芦兄弟：七子降妖
+  - PROCESS-NAME,com.tencent.tmgp.reflash #镭明闪击
   - PROCESS-NAME,com.tencent.tmgp.road7.ddtdmxandroid #弹弹堂大冒险
   - PROCESS-NAME,com.tencent.tmgp.road7.sqh5 #神曲H5
   - PROCESS-NAME,com.tencent.tmgp.rollingsky #滚动的天空
@@ -813,6 +811,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.woobestsgwg #上古王冠
   - PROCESS-NAME,com.tencent.tmgp.wooduan.ssjj #生死狙击
   - PROCESS-NAME,com.tencent.tmgp.worldwarfare2 #二战风云2
+  - PROCESS-NAME,com.tencent.tmgp.wpjijia #王牌机甲
   - PROCESS-NAME,com.tencent.tmgp.wpzz #王牌战争
   - PROCESS-NAME,com.tencent.tmgp.wuxia #天涯明月刀·世界
   - PROCESS-NAME,com.tencent.tmgp.wwguandanall #一起玩掼蛋
@@ -898,6 +897,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.yysbwp #阴阳师：百闻牌
   - PROCESS-NAME,com.tencent.tmgp.yyslscn #燕云十六声
   - PROCESS-NAME,com.tencent.tmgp.yystar #恋爱消星星
+  - PROCESS-NAME,com.tencent.tmgp.yywl.mmyy #预言世界
   - PROCESS-NAME,com.tencent.tmgp.yyxx.qyj2 #青云诀2
   - PROCESS-NAME,com.tencent.tmgp.yyzy2 #月圆之夜
   - PROCESS-NAME,com.tencent.tmgp.yzg36 #三十六计

@@ -350,7 +350,6 @@ PROCESS-NAME,com.hangzhoucaimi.financial,{{ rule }} # 挖财宝
 PROCESS-NAME,com.hanweb.android.sdzwfw.activity,{{ rule }} # 爱山东
 PROCESS-NAME,com.happigo.activity,{{ rule }} # 快乐购
 PROCESS-NAME,com.happylife.multimedia.image,{{ rule }} # 相片集
-PROCESS-NAME,com.happyteam.dubbingshow,{{ rule }} # 配音秀
 PROCESS-NAME,com.heiyan.reader,{{ rule }} # 黑岩阅读
 PROCESS-NAME,com.hello.music,{{ rule }} # 都弹
 PROCESS-NAME,com.hexin.android.bank,{{ rule }} # 同花顺爱基金
