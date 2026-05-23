@@ -115,6 +115,7 @@ payload:
   - PROCESS-NAME,com.app.dzy.btchat #蓝牙闲聊
   - PROCESS-NAME,com.app.hero.ui #K歌达人
   - PROCESS-NAME,com.app.ymqzy #动态壁纸秀场
+  - PROCESS-NAME,com.appbyme.app138474 #融水好门户
   - PROCESS-NAME,com.appbyme.app71974 #编织人生论坛
   - PROCESS-NAME,com.appchina.anpai.2019071601 #鸟类壁纸
   - PROCESS-NAME,com.appchina.anpai.20210203003 #什么时间 - 翻转时钟桌面小组件Widget
@@ -495,7 +496,6 @@ payload:
   - PROCESS-NAME,com.letv.letvshop #乐视商城
   - PROCESS-NAME,com.leuzts.watch #智天使3
   - PROCESS-NAME,com.lezhi.mythcall #北瓜电话
-  - PROCESS-NAME,com.lhzzbl.dmbzdq #动漫壁纸
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
   - PROCESS-NAME,com.liba.android #篱笆社区
   - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
@@ -510,7 +510,6 @@ payload:
   - PROCESS-NAME,com.lovebizhi.wallpaper #爱壁纸
   - PROCESS-NAME,com.lqh.love.comic #爱动漫壁纸
   - PROCESS-NAME,com.ls.sjdtbz #手机动态壁纸
-  - PROCESS-NAME,com.lsdapp.voicemsgcall #电话代呼叫
   - PROCESS-NAME,com.lt.lighting #来电闪光
   - PROCESS-NAME,com.ludashi.benchmark #鲁大师
   - PROCESS-NAME,com.lyh.talkphoto #让照片会说话
