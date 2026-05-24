@@ -342,6 +342,7 @@ payload:
   - PROCESS-NAME,com.growing.topwidgets #万能小组件 Top Widgets
   - PROCESS-NAME,com.grunkr.autowallpaper #自动壁纸
   - PROCESS-NAME,com.gstarmc.android #CAD看图王
+  - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.gwdang.app #购物党
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
@@ -827,7 +828,7 @@ payload:
   - PROCESS-NAME,com.videogo #萤石云视频
   - PROCESS-NAME,com.vphonegaga.titan #光速虚拟机
   - PROCESS-NAME,com.wacai365 #挖财记账
-  - PROCESS-NAME,com.wallpaper.movephsy #主题壁纸
+  - PROCESS-NAME,com.wallpaper.movephsy #桌面主题精美
   - PROCESS-NAME,com.wallstreetcn.news #华尔街见闻
   - PROCESS-NAME,com.wandafilm.app #万达电影
   - PROCESS-NAME,com.wander.android.wallpaper #元气壁纸
