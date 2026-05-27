@@ -69,7 +69,6 @@ payload:
   - PROCESS-NAME,com.leiting.zjcs #杖剑传说
   - PROCESS-NAME,com.liaoyanxuan.jeweldropdom #方块宝石滑消消
   - PROCESS-NAME,com.liaoyanxuan.sudoku #数独玩家
-  - PROCESS-NAME,com.liaoyanxuan.unblockMeKlotski #三国华容道谜题集
   - PROCESS-NAME,com.lilith.palmon.android.cn #帕萌战斗日记
   - PROCESS-NAME,com.lilithgame.igame.android.cn #剑与远征：启程
   - PROCESS-NAME,com.lilithgame.wgame.android.cn #战火勋章
@@ -930,7 +929,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.zljjt #侏罗纪军团
   - PROCESS-NAME,com.tencent.tmgp.zlongame.cn.epicseven #第七史诗
   - PROCESS-NAME,com.tencent.tmgp.zlongame.eversoul #空灵诗篇
-  - PROCESS-NAME,com.tencent.tmgp.zloong.im #踏风行
   - PROCESS-NAME,com.tencent.tmgp.zmsy.zmxywz #造梦西游外传
   - PROCESS-NAME,com.tencent.tmgp.zmxy #造梦西游4
   - PROCESS-NAME,com.tencent.tmgp.zmxyol #造梦西游OL
