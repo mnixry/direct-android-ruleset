@@ -920,6 +920,7 @@ payload:
   - PROCESS-NAME,com.yuanli.allwallpaper #超级壁纸大全
   - PROCESS-NAME,com.yuanli.wallpapermaster #手机壁纸大师
   - PROCESS-NAME,com.yuanlue.chongwu #互动桌面宠物
+  - PROCESS-NAME,com.yuda.app.chat #语达
   - PROCESS-NAME,com.yuexiang.wallpaper #悦享动态壁纸
   - PROCESS-NAME,com.yumei.game.engine.ui.client #玩股成金
   - PROCESS-NAME,com.yunlan.unlock.dewdropunlock #3D水滴-随变锁屏
@@ -963,7 +964,6 @@ payload:
   - PROCESS-NAME,gzjm.nybz.kids #奶油桌面壁纸
   - PROCESS-NAME,gzry.mxbz.ihauh #魔秀桌面壁纸
   - PROCESS-NAME,hbyc.china.medical.view #壹生
-  - PROCESS-NAME,hfy.duanxing.zhushou #短信群发软件
   - PROCESS-NAME,howbuy.android.palmfund #好买基金
   - PROCESS-NAME,howbuy.android.piggy #储蓄罐
   - PROCESS-NAME,im.weshine.keyboard #KK键盘
