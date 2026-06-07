@@ -83,7 +83,6 @@ PROCESS-NAME,com.appchina.yugao.2019020105,{{ rule }} # 翻滚吧！天神
 PROCESS-NAME,com.appchina.yugao.2019041202,{{ rule }} # 星露谷物语 国服版
 PROCESS-NAME,com.appchina.yugao.2019052902,{{ rule }} # 宝可梦Sleep
 PROCESS-NAME,com.appchina.yugao.2019061006,{{ rule }} # 无法触碰的掌心
-PROCESS-NAME,com.appchina.yugao.2019061203,{{ rule }} # 超强口径
 PROCESS-NAME,com.appchina.yugao.2019061401,{{ rule }} # 克苏鲁宠物2
 PROCESS-NAME,com.appchina.yugao.2019071702,{{ rule }} # 猫娘团来店！
 PROCESS-NAME,com.appchina.yugao.2019090617,{{ rule }} # 超凡台球
@@ -994,6 +993,7 @@ PROCESS-NAME,mytown.street,{{ rule }} # 我的小镇 : 街道欢乐
 PROCESS-NAME,mytown.wedding,{{ rule }} # 我的城镇：婚礼日
 PROCESS-NAME,net.capsuleplus.JapaneseDoll,{{ rule }} # 育成日本人偶
 PROCESS-NAME,net.defensezone,{{ rule }} # 战地防御
+PROCESS-NAME,net.devfloor.pomodor,{{ rule }} # 我的小番茄钟
 PROCESS-NAME,net.fishlabs.gof2hdallandroid2012,{{ rule }} # 浴火银河2高清版
 PROCESS-NAME,net.handicrafter.games.fom,{{ rule }} # 节奏满满
 PROCESS-NAME,net.hexage.defense,{{ rule }} # 炫光防御
