@@ -83,6 +83,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2019041202 #星露谷物语 国服版
   - PROCESS-NAME,com.appchina.yugao.2019052902 #宝可梦Sleep
   - PROCESS-NAME,com.appchina.yugao.2019061006 #无法触碰的掌心
+  - PROCESS-NAME,com.appchina.yugao.2019061203 #超强口径
   - PROCESS-NAME,com.appchina.yugao.2019061401 #克苏鲁宠物2
   - PROCESS-NAME,com.appchina.yugao.2019071702 #猫娘团来店！
   - PROCESS-NAME,com.appchina.yugao.2019090617 #超凡台球
@@ -100,13 +101,13 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2019122601 #古树旋律：重生
   - PROCESS-NAME,com.appchina.yugao.2020011604 #冠军农场
   - PROCESS-NAME,com.appchina.yugao.2020011702 #世嘉口袋创造球会
-  - PROCESS-NAME,com.appchina.yugao.2020012101 #不可名状的养成
   - PROCESS-NAME,com.appchina.yugao.2020020407 #猫宅97
   - PROCESS-NAME,com.appchina.yugao.2020021103 #CHARRUA SOCCER
   - PROCESS-NAME,com.appchina.yugao.2020030906 #NBA 2K21
   - PROCESS-NAME,com.appchina.yugao.2020031602 #节奏空间 
   - PROCESS-NAME,com.appchina.yugao.2020032002 #勇气与荣耀 
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
+  - PROCESS-NAME,com.appchina.yugao.2020042802 #节奏快打
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
   - PROCESS-NAME,com.appchina.yugao.2020062204 #BanGround
   - PROCESS-NAME,com.appchina.yugao.2020062805 #足球在线4移动版
@@ -119,7 +120,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020090305 #音乐少女
   - PROCESS-NAME,com.appchina.yugao.2020112301 #灌篮高手
   - PROCESS-NAME,com.appchina.yugao.2020122302 #Lo-Fi Room
-  - PROCESS-NAME,com.appchina.yugao.2021012605 #KALPA
   - PROCESS-NAME,com.appchina.yugao.2021022205 #Rotaeno 旋转音律
   - PROCESS-NAME,com.appchina.yugao.2021022505 #热血街‪篮‬
   - PROCESS-NAME,com.appchina.yugao.2021030213 #节奏医生
@@ -330,7 +330,6 @@ payload:
   - PROCESS-NAME,com.fmt.fushinyan.pj #我家不可思议的猫咪 
   - PROCESS-NAME,com.foosegames.pepiskate3d #滑板跑酷
   - PROCESS-NAME,com.foranj.farmtown #农场小镇
-  - PROCESS-NAME,com.ForgeGames.SpecialForcesGroup #特种部队
   - PROCESS-NAME,com.ForgeGames.SpecialForcesGroup2 #特种部队小组2
   - PROCESS-NAME,com.forthblue.pool #台球大师专业版
   - PROCESS-NAME,com.foursakenmedia.blockfortresswar #沙盒堡垒战争
@@ -802,6 +801,7 @@ payload:
   - PROCESS-NAME,com.tencent.supernba2024 #热血美职篮
   - PROCESS-NAME,com.tencent.tako.muses #云裳羽衣
   - PROCESS-NAME,com.tencent.tmgp.cod #使命召唤手游
+  - PROCESS-NAME,com.tencent.tmgp.dfm #三角洲行动
   - PROCESS-NAME,com.tencent.tmgp.jx3m #剑网3指尖江湖
   - PROCESS-NAME,com.tencent.tmgp.kof98 #拳皇98终极之战OL
   - PROCESS-NAME,com.tencent.tmgp.lv #光与夜之恋
