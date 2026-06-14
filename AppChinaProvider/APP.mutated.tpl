@@ -658,7 +658,7 @@ PROCESS-NAME,com.sankuai.meituan,{{ rule }} # 美团
 PROCESS-NAME,com.sankuai.movie,{{ rule }} # 猫眼
 PROCESS-NAME,com.sanya.xinxiulive,{{ rule }} # Bei贝
 PROCESS-NAME,com.scanning,{{ rule }} # 二维码与条形码
-PROCESS-NAME,com.sdu.didi.psnger,{{ rule }} # 滴滴出行
+PROCESS-NAME,com.sdu.didi.psnger,{{ rule }} # 滴滴
 PROCESS-NAME,com.sec.android.easyMover,{{ rule }} # S 换机助手
 PROCESS-NAME,com.secoo,{{ rule }} # 寺库奢侈品
 PROCESS-NAME,com.seetong.app.seetong,{{ rule }} # Seetong

@@ -663,7 +663,7 @@ payload:
   - PROCESS-NAME,com.sankuai.movie #猫眼
   - PROCESS-NAME,com.sanya.xinxiulive #Bei贝
   - PROCESS-NAME,com.scanning #二维码与条形码
-  - PROCESS-NAME,com.sdu.didi.psnger #滴滴出行
+  - PROCESS-NAME,com.sdu.didi.psnger #滴滴
   - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
   - PROCESS-NAME,com.secoo #寺库奢侈品
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
