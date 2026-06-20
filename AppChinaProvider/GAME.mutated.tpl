@@ -76,7 +76,6 @@ PROCESS-NAME,com.appchina.yugao.2017122101,{{ rule }} # NBA 2K18 国服版
 PROCESS-NAME,com.appchina.yugao.2018020204,{{ rule }} # 游行！
 PROCESS-NAME,com.appchina.yugao.2018022401,{{ rule }} # MELOTUBE
 PROCESS-NAME,com.appchina.yugao.2018022804,{{ rule }} # Project FX
-PROCESS-NAME,com.appchina.yugao.2018041001,{{ rule }} # 凤囚凰
 PROCESS-NAME,com.appchina.yugao.2018071703,{{ rule }} # 尼山萨满
 PROCESS-NAME,com.appchina.yugao.2019013001,{{ rule }} # 荒谬橄榄球 
 PROCESS-NAME,com.appchina.yugao.2019020105,{{ rule }} # 翻滚吧！天神
@@ -101,6 +100,7 @@ PROCESS-NAME,com.appchina.yugao.2019121413,{{ rule }} # 古树旋律2
 PROCESS-NAME,com.appchina.yugao.2019122601,{{ rule }} # 古树旋律：重生
 PROCESS-NAME,com.appchina.yugao.2020011604,{{ rule }} # 冠军农场
 PROCESS-NAME,com.appchina.yugao.2020011702,{{ rule }} # 世嘉口袋创造球会
+PROCESS-NAME,com.appchina.yugao.2020012101,{{ rule }} # 不可名状的养成
 PROCESS-NAME,com.appchina.yugao.2020020407,{{ rule }} # 猫宅97
 PROCESS-NAME,com.appchina.yugao.2020021103,{{ rule }} # CHARRUA SOCCER
 PROCESS-NAME,com.appchina.yugao.2020030906,{{ rule }} # NBA 2K21
