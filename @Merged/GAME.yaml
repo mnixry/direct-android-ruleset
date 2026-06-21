@@ -1593,6 +1593,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.wmsjjdb #完美世界：诸神之战
   - PROCESS-NAME,com.tencent.tmgp.wodn #龙之谷世界
   - PROCESS-NAME,com.tencent.tmgp.woobest.mysq #命运圣契
+  - PROCESS-NAME,com.tencent.tmgp.woobestsgwg #上古王冠
   - PROCESS-NAME,com.tencent.tmgp.wooduan.ssjj #生死狙击
   - PROCESS-NAME,com.tencent.tmgp.wpzz #王牌战争
   - PROCESS-NAME,com.tencent.tmgp.wsyxyyb #顽石英雄
