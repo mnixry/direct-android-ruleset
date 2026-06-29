@@ -145,6 +145,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021072606 #足球经理2022
   - PROCESS-NAME,com.appchina.yugao.2021073003 #实况力量足球 
   - PROCESS-NAME,com.appchina.yugao.2021081905 #像素职业棒球
+  - PROCESS-NAME,com.appchina.yugao.2021092601 #SuperStar YG
   - PROCESS-NAME,com.appchina.yugao.2021101902 #足球经理2022 移动版
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
   - PROCESS-NAME,com.appchina.yugao.2021112210 #缪斯音街
@@ -157,6 +158,7 @@ payload:
   - PROCESS-NAME,com.asgardventure.mecha #战争机器
   - PROCESS-NAME,com.astragon.cs2016_hh #模拟建设2
   - PROCESS-NAME,com.astragon.trucksim #模拟卡车16
+  - PROCESS-NAME,com.aswind.libdesktoppet #桌面萌宠
   - PROCESS-NAME,com.atos.ver #生存的故事
   - PROCESS-NAME,com.atv.blackops #使命召唤：黑色行动僵尸
   - PROCESS-NAME,com.atypicalgames.radiationisland #辐射岛
@@ -244,6 +246,7 @@ payload:
   - PROCESS-NAME,com.crescentmoongames.ravensword2 #掠夺之剑：暗影大陆 
   - PROCESS-NAME,com.criticalforceentertainment.criticalops #关键行动
   - PROCESS-NAME,com.crossfield.namsterlife #仓鼠的日常
+  - PROCESS-NAME,com.cybergate.candymaker2 #洋果子店ROSE2～面包店开幕了～
   - PROCESS-NAME,com.cybergate.toilets #100 Toilets 百厕逃脱
   - PROCESS-NAME,com.cyclopsgames.experimentz #僵尸启示
   - PROCESS-NAME,com.cyscorpions.donnybrook #犯罪组织之无政府
@@ -526,6 +529,7 @@ payload:
   - PROCESS-NAME,com.jumpgames.pacificrim #环太平洋
   - PROCESS-NAME,com.jumpgames.RealSteel #铁甲钢拳 高清版
   - PROCESS-NAME,com.jumpgames.rswrb #铁甲钢拳：世界机器人拳击
+  - PROCESS-NAME,com.jy.mj.hzmj #来打红中麻将
   - PROCESS-NAME,com.kabam.ff6android #速度与**6
   - PROCESS-NAME,com.kabam.marvelbattle #漫威：超级争霸战
   - PROCESS-NAME,com.kangmeng.prescription #智云问诊店员版
@@ -691,7 +695,6 @@ payload:
   - PROCESS-NAME,com.ondot.dressup9 #狗狗故事
   - PROCESS-NAME,com.opalastudios.pads #SUPER PADS
   - PROCESS-NAME,com.orangepixel.dungeon #乱世之王
-  - PROCESS-NAME,com.orangestudio.sudoku #桔子数独
   - PROCESS-NAME,com.orenbentov.bikerush #自行车短跑
   - PROCESS-NAME,com.ourgame.mahjong.danji #单机麻将-开心版
   - PROCESS-NAME,com.outfit7.movingeye.swampattack #沼泽激战
@@ -821,7 +824,6 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.cultivation #宝宝小牧场
   - PROCESS-NAME,com.sinyee.babybus.delicacy #奇妙世界美食
   - PROCESS-NAME,com.sinyee.babybus.diner #宝宝早餐车
-  - PROCESS-NAME,com.sinyee.babybus.dinosaurIII #奇妙恐龙科普
   - PROCESS-NAME,com.sinyee.babybus.factory #宝宝冰淇淋工厂
   - PROCESS-NAME,com.sinyee.babybus.findCha #宝宝来找茬
   - PROCESS-NAME,com.sinyee.babybus.foodstreetII #奇妙美味日记
@@ -923,8 +925,8 @@ payload:
   - PROCESS-NAME,com.tencent.hyrzol #火影忍者：忍者新世代
   - PROCESS-NAME,com.tencent.jkchess #金铲铲之战
   - PROCESS-NAME,com.tencent.JWX #傲世西游
-  - PROCESS-NAME,com.tencent.jyhx #劲乐幻想
   - PROCESS-NAME,com.tencent.KiHan #火影忍者
+  - PROCESS-NAME,com.tencent.l2m #天堂2：盟约
   - PROCESS-NAME,com.tencent.lastblade #末刀
   - PROCESS-NAME,com.tencent.letsgo #元梦之星-探灵实录
   - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
@@ -1207,6 +1209,8 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.hjol #红警OL
   - PROCESS-NAME,com.tencent.tmgp.hldj #欢乐对决
   - PROCESS-NAME,com.tencent.tmgp.hlsgs #欢乐三国杀
+  - PROCESS-NAME,com.tencent.tmgp.hlzhs #幻灵召唤师
+  - PROCESS-NAME,com.tencent.tmgp.hm.mfmy #魔法迷域
   - PROCESS-NAME,com.tencent.tmgp.hmrj #绘梦日记
   - PROCESS-NAME,com.tencent.tmgp.hmzqfy #豪门足球风云
   - PROCESS-NAME,com.tencent.tmgp.hntx.gransaga #剑与骑士团
@@ -1428,7 +1432,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.rxjhbj #热血江湖手游
   - PROCESS-NAME,com.tencent.tmgp.rxr #溯回青空
   - PROCESS-NAME,com.tencent.tmgp.rxsc.chenyou #热血沙城
-  - PROCESS-NAME,com.tencent.tmgp.rydajiuzhilu #搭救之路
   - PROCESS-NAME,com.tencent.tmgp.rydts #荣耀大天使
   - PROCESS-NAME,com.tencent.tmgp.s3.sgzzlb #三国志·战略版
   - PROCESS-NAME,com.tencent.tmgp.samurai #侍魂-胧月传说
@@ -1538,7 +1541,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tqbaohuang #大眼保皇
   - PROCESS-NAME,com.tencent.tmgp.tqfuzhoumajiang #福州麻将
   - PROCESS-NAME,com.tencent.tmgp.tqgouji #大眼够级
-  - PROCESS-NAME,com.tencent.tmgp.tqguandan #大眼掼蛋
   - PROCESS-NAME,com.tencent.tmgp.tqwzfx #台球王者
   - PROCESS-NAME,com.tencent.tmgp.trunknaruto #火影忍者：木叶高手
   - PROCESS-NAME,com.tencent.tmgp.tsjyyz #天使纪元
@@ -1863,7 +1865,6 @@ payload:
   - PROCESS-NAME,com.yixiu.pokemon_shkzhg #口袋妖怪:时空之战歌
   - PROCESS-NAME,com.yodo1.rodeo.TXYYB #疯狂动物园
   - PROCESS-NAME,com.yodo1.SkiSafari.TXYYB_01 #滑雪大冒险
-  - PROCESS-NAME,com.yofijoy.wdmp #我的门派
   - PROCESS-NAME,com.YouXin.SunnyPuppies #晴天小狗
   - PROCESS-NAME,com.YouXin.SunnyPuppiesTW #晴天小狗
   - PROCESS-NAME,com.yshb.rrquestion #人人答题

@@ -139,6 +139,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021072606 #足球经理2022
   - PROCESS-NAME,com.appchina.yugao.2021073003 #实况力量足球 
   - PROCESS-NAME,com.appchina.yugao.2021081905 #像素职业棒球
+  - PROCESS-NAME,com.appchina.yugao.2021092601 #SuperStar YG
   - PROCESS-NAME,com.appchina.yugao.2021101902 #足球经理2022 移动版
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
   - PROCESS-NAME,com.appchina.yugao.2021112210 #缪斯音街
@@ -230,6 +231,7 @@ payload:
   - PROCESS-NAME,com.crescentmoongames.ravensword2 #掠夺之剑：暗影大陆 
   - PROCESS-NAME,com.criticalforceentertainment.criticalops #关键行动
   - PROCESS-NAME,com.crossfield.namsterlife #仓鼠的日常
+  - PROCESS-NAME,com.cybergate.candymaker2 #洋果子店ROSE2～面包店开幕了～
   - PROCESS-NAME,com.cybergate.toilets #100 Toilets 百厕逃脱
   - PROCESS-NAME,com.cyclopsgames.experimentz #僵尸启示
   - PROCESS-NAME,com.cyscorpions.donnybrook #犯罪组织之无政府
@@ -789,7 +791,6 @@ payload:
   - PROCESS-NAME,com.tencent.fifamobile #FC足球世界
   - PROCESS-NAME,com.tencent.game.rhythmmaster #节奏大师
   - PROCESS-NAME,com.tencent.gwgo #一起来捉妖
-  - PROCESS-NAME,com.tencent.jyhx #劲乐幻想
   - PROCESS-NAME,com.tencent.letsgo #元梦之星
   - PROCESS-NAME,com.tencent.lolm #英雄联盟手游
   - PROCESS-NAME,com.tencent.mf.uam #暗区突围
@@ -896,7 +897,6 @@ payload:
   - PROCESS-NAME,com.xiaoao.car3d4 #3D终极狂飙4
   - PROCESS-NAME,com.xiaokui.koi #女神成长计划
   - PROCESS-NAME,com.yixiu.pokemon_shkzhg #口袋妖怪:时空之战歌
-  - PROCESS-NAME,com.yofijoy.wdmp #我的门派
   - PROCESS-NAME,com.YouXin.SunnyPuppies #晴天小狗
   - PROCESS-NAME,com.YouXin.SunnyPuppiesTW #晴天小狗
   - PROCESS-NAME,com.yuejunzhang.home #据点守卫
