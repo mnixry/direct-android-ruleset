@@ -76,6 +76,7 @@ PROCESS-NAME,com.appchina.yugao.2017122101,{{ rule }} # NBA 2K18 国服版
 PROCESS-NAME,com.appchina.yugao.2018020204,{{ rule }} # 游行！
 PROCESS-NAME,com.appchina.yugao.2018022401,{{ rule }} # MELOTUBE
 PROCESS-NAME,com.appchina.yugao.2018022804,{{ rule }} # Project FX
+PROCESS-NAME,com.appchina.yugao.2018041001,{{ rule }} # 凤囚凰
 PROCESS-NAME,com.appchina.yugao.2018071703,{{ rule }} # 尼山萨满
 PROCESS-NAME,com.appchina.yugao.2019013001,{{ rule }} # 荒谬橄榄球 
 PROCESS-NAME,com.appchina.yugao.2019020105,{{ rule }} # 翻滚吧！天神
@@ -106,8 +107,10 @@ PROCESS-NAME,com.appchina.yugao.2020021103,{{ rule }} # CHARRUA SOCCER
 PROCESS-NAME,com.appchina.yugao.2020030906,{{ rule }} # NBA 2K21
 PROCESS-NAME,com.appchina.yugao.2020031602,{{ rule }} # 节奏空间 
 PROCESS-NAME,com.appchina.yugao.2020032002,{{ rule }} # 勇气与荣耀 
+PROCESS-NAME,com.appchina.yugao.2020032609,{{ rule }} # 元气满满
 PROCESS-NAME,com.appchina.yugao.2020042406,{{ rule }} # 漫威vs.卡普空：无限
 PROCESS-NAME,com.appchina.yugao.2020042802,{{ rule }} # 节奏快打
+PROCESS-NAME,com.appchina.yugao.2020051206,{{ rule }} # 银翼计划
 PROCESS-NAME,com.appchina.yugao.2020060406,{{ rule }} # 萌龙训练师
 PROCESS-NAME,com.appchina.yugao.2020062805,{{ rule }} # 足球在线4移动版
 PROCESS-NAME,com.appchina.yugao.2020070312,{{ rule }} # 足球俱乐部经理 2021
@@ -140,6 +143,7 @@ PROCESS-NAME,com.appchina.yugao.2021072606,{{ rule }} # 足球经理2022
 PROCESS-NAME,com.appchina.yugao.2021073003,{{ rule }} # 实况力量足球 
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
 PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
+PROCESS-NAME,com.appchina.yugao.2021101107,{{ rule }} # ORBEAT: Pop Asteroids On Beat
 PROCESS-NAME,com.appchina.yugao.2021101902,{{ rule }} # 足球经理2022 移动版
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
 PROCESS-NAME,com.appchina.yugao.2021112210,{{ rule }} # 缪斯音街
@@ -536,7 +540,6 @@ PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator,{{ rule }} # 校园女生模拟�
 PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2,{{ rule }} # 泡泡女巫传奇2
 PROCESS-NAME,com.miga.mypets,{{ rule }} # 米加小镇:宠物
 PROCESS-NAME,com.miga.mystore,{{ rule }} # 米加小镇:商店
-PROCESS-NAME,com.mihoyo.desktopportal,{{ rule }} # 人工桌面
 PROCESS-NAME,com.miHoYo.enterprise.NGHSoD,{{ rule }} # 崩坏3
 PROCESS-NAME,com.miHoYo.wd,{{ rule }} # 未定事件簿
 PROCESS-NAME,com.miHoYo.Yuanshen,{{ rule }} # 原神
@@ -575,7 +578,6 @@ PROCESS-NAME,com.nekki.vector.paid,{{ rule }} # 矢量跑酷 完整版
 PROCESS-NAME,com.nerdyoctopus.gamedots,{{ rule }} # 连点成线
 PROCESS-NAME,com.netease.aceracer,{{ rule }} # 王牌竞速
 PROCESS-NAME,com.netease.allstar,{{ rule }} # 全明星街球派对
-PROCESS-NAME,com.netease.AVALON,{{ rule }} # 猎魂觉醒
 PROCESS-NAME,com.netease.dwrg,{{ rule }} # 第五人格
 PROCESS-NAME,com.netease.hearthstone,{{ rule }} # 炉石传说盒子
 PROCESS-NAME,com.netease.hyxd,{{ rule }} # 荒野行动
@@ -616,7 +618,6 @@ PROCESS-NAME,com.orangepixel.dungeon,{{ rule }} # 乱世之王
 PROCESS-NAME,com.orenbentov.bikerush,{{ rule }} # 自行车短跑
 PROCESS-NAME,com.outfit7.movingeye.swampattack,{{ rule }} # 沼泽激战
 PROCESS-NAME,com.outfit7.mytalkingtomfree,{{ rule }} # 我的汤姆猫
-PROCESS-NAME,com.outfit7.mytalkingtomfriends2.yyh,{{ rule }} # 汤姆猫总动员2
 PROCESS-NAME,com.outfit7.talkinggina,{{ rule }} # 会说话的长颈鹿吉娜
 PROCESS-NAME,com.ovelin.guitartuna,{{ rule }} # GuitarTuna
 PROCESS-NAME,com.ovilex.bussimulator17,{{ rule }} # 巴士模拟器2017
@@ -774,7 +775,6 @@ PROCESS-NAME,com.t2ksports.nba2k18and,{{ rule }} # NBA 2K18
 PROCESS-NAME,com.t2ksports.nba2k19and,{{ rule }} # NBA 2K19
 PROCESS-NAME,com.t2ksports.nba2k20and,{{ rule }} # NBA 2K20
 PROCESS-NAME,com.tabtale.fairytaleprincessdressup,{{ rule }} # 公主换装
-PROCESS-NAME,com.taomee.moleleiting,{{ rule }} # 摩尔庄园
 PROCESS-NAME,com.tapblaze.pizzabusiness,{{ rule }} # 可口的披萨，美味的披萨
 PROCESS-NAME,com.tatem.dinhunter,{{ rule }} # 恐龙猎人
 PROCESS-NAME,com.tatem.dinhunterhd,{{ rule }} # 恐龙猎人
@@ -1018,7 +1018,6 @@ PROCESS-NAME,ru.nsu.ccfit.zuev.osuplus,{{ rule }} # osu!进化
 PROCESS-NAME,se.modesty.spookening,{{ rule }} # 重生之地
 PROCESS-NAME,sggs.android.witchhouse,{{ rule }} # 魔女之家
 PROCESS-NAME,sts.pl,{{ rule }} # 口袋传奇
-PROCESS-NAME,syj.youngfhsher,{{ rule }} # 手机收音机
 PROCESS-NAME,zhtc.noscores.pmtianlongzhl,{{ rule }} # 口袋天龙的堕落
 PROCESS-NAME,com.alicom.smartdial,{{ rule }}
 PROCESS-NAME,com.bilibili.app.in,{{ rule }}
