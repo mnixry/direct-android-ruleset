@@ -336,6 +336,7 @@ PROCESS-NAME,com.fluik.Explosions,{{ rule }} # 暴熊大战
 PROCESS-NAME,com.fmt.fushinyan.pj,{{ rule }} # 我家不可思议的猫咪 
 PROCESS-NAME,com.foosegames.pepiskate3d,{{ rule }} # 滑板跑酷
 PROCESS-NAME,com.foranj.farmtown,{{ rule }} # 农场小镇
+PROCESS-NAME,com.ForgeGames.SpecialForcesGroup,{{ rule }} # 特种部队
 PROCESS-NAME,com.ForgeGames.SpecialForcesGroup2,{{ rule }} # 特种部队小组2
 PROCESS-NAME,com.forthblue.pool,{{ rule }} # 台球大师专业版
 PROCESS-NAME,com.foursakenmedia.blockfortresswar,{{ rule }} # 沙盒堡垒战争
@@ -343,7 +344,6 @@ PROCESS-NAME,com.ftaro.music.yyh,{{ rule }} # 爱上钢琴
 PROCESS-NAME,com.fullfat.android.agentdash,{{ rule }} # 特工狂奔
 PROCESS-NAME,com.funcity.carsbattle,{{ rule }} # CarsBattle
 PROCESS-NAME,com.funcity.carsbattletwo,{{ rule }} # 求生之王
-PROCESS-NAME,com.funplus.familyfarmchina,{{ rule }} # 天天农场
 PROCESS-NAME,com.funtoygame.cater.android,{{ rule }} # 猫之城
 PROCESS-NAME,com.funzio.crimecity,{{ rule }} # 罪恶都市
 PROCESS-NAME,com.g5e.epiconboard,{{ rule }} # 史诗冒险：诅咒之船
@@ -489,7 +489,6 @@ PROCESS-NAME,com.jumpgames.RealSteel,{{ rule }} # 铁甲钢拳 高清版
 PROCESS-NAME,com.jumpgames.rswrb,{{ rule }} # 铁甲钢拳：世界机器人拳击
 PROCESS-NAME,com.kabam.ff6android,{{ rule }} # 速度与**6
 PROCESS-NAME,com.kabam.marvelbattle,{{ rule }} # 漫威：超级争霸战
-PROCESS-NAME,com.kangmeng.prescription,{{ rule }} # 智云问诊店员版
 PROCESS-NAME,com.kauf.talking.baum.TalkingCatandBackgroundDog,{{ rule }} # 会说话的小猫
 PROCESS-NAME,com.kawaks,{{ rule }} # kawaks街机模拟器
 PROCESS-NAME,com.Kazeta.WithstandZ,{{ rule }} # 僵尸生存大战
@@ -535,6 +534,7 @@ PROCESS-NAME,com.MatchalaGames.RyahsRhythm,{{ rule }} # 瑞亚节奏
 PROCESS-NAME,com.maxgames.stickwarlegacy,{{ rule }} # Stick War: Legacy
 PROCESS-NAME,com.mediocre.smashhit,{{ rule }} # 急速冲击
 PROCESS-NAME,com.meetfuture.cooldrum,{{ rule }} # 酷架子鼓
+PROCESS-NAME,com.meiqi.app.mqjcphone,{{ rule }} # 美奇
 PROCESS-NAME,com.melesta.coffeeshop,{{ rule }} # 我的咖啡厅 - 世界餐厅游戏
 PROCESS-NAME,com.Meromsoft.SchoolGirlsSimulator,{{ rule }} # 校园女生模拟器
 PROCESS-NAME,com.midasplayer.apps.bubblewitchsaga2,{{ rule }} # 泡泡女巫传奇2
@@ -578,7 +578,6 @@ PROCESS-NAME,com.nekki.vector.paid,{{ rule }} # 矢量跑酷 完整版
 PROCESS-NAME,com.nerdyoctopus.gamedots,{{ rule }} # 连点成线
 PROCESS-NAME,com.netease.aceracer,{{ rule }} # 王牌竞速
 PROCESS-NAME,com.netease.allstar,{{ rule }} # 全明星街球派对
-PROCESS-NAME,com.netease.dwrg,{{ rule }} # 第五人格
 PROCESS-NAME,com.netease.hearthstone,{{ rule }} # 炉石传说盒子
 PROCESS-NAME,com.netease.hyxd,{{ rule }} # 荒野行动
 PROCESS-NAME,com.netease.lsdmx,{{ rule }} # 灵兽大冒险
@@ -616,6 +615,7 @@ PROCESS-NAME,com.ondot.dressup9,{{ rule }} # 狗狗故事
 PROCESS-NAME,com.opalastudios.pads,{{ rule }} # SUPER PADS
 PROCESS-NAME,com.orangepixel.dungeon,{{ rule }} # 乱世之王
 PROCESS-NAME,com.orenbentov.bikerush,{{ rule }} # 自行车短跑
+PROCESS-NAME,com.outerminds.tubular,{{ rule }} # 油管主播模拟器
 PROCESS-NAME,com.outfit7.movingeye.swampattack,{{ rule }} # 沼泽激战
 PROCESS-NAME,com.outfit7.mytalkingtomfree,{{ rule }} # 我的汤姆猫
 PROCESS-NAME,com.outfit7.talkinggina,{{ rule }} # 会说话的长颈鹿吉娜
@@ -786,7 +786,6 @@ PROCESS-NAME,com.teamlava.restaurantstory,{{ rule }} # 餐馆的故事
 PROCESS-NAME,com.telltalegames.minecraft100,{{ rule }} # 我的世界：故事模式
 PROCESS-NAME,com.telltalegames.minecraft200,{{ rule }} # 我的世界：故事模式 第二季
 PROCESS-NAME,com.telltalegames.walkingdead100,{{ rule }} # 行尸走肉：第一季
-PROCESS-NAME,com.tencent.af,{{ rule }} # 王牌战士
 PROCESS-NAME,com.tencent.feiji,{{ rule }} # 全民飞机大战
 PROCESS-NAME,com.tencent.fifamobile,{{ rule }} # FC足球世界
 PROCESS-NAME,com.tencent.game.rhythmmaster,{{ rule }} # 节奏大师
@@ -807,7 +806,6 @@ PROCESS-NAME,com.tencent.tmgp.jx3m,{{ rule }} # 剑网3指尖江湖
 PROCESS-NAME,com.tencent.tmgp.kof98,{{ rule }} # 拳皇98终极之战OL
 PROCESS-NAME,com.tencent.tmgp.lv,{{ rule }} # 光与夜之恋
 PROCESS-NAME,com.tencent.tmgp.supercell.brawlstars,{{ rule }} # 荒野乱斗
-PROCESS-NAME,com.tencent.tmgp.supercell.clashroyale,{{ rule }} # 部落冲突：皇室战争
 PROCESS-NAME,com.tencent.tmgp.wec,{{ rule }} # 乱世王者
 PROCESS-NAME,com.tencent.tmgp.WePop,{{ rule }} # 跑跑卡丁车官方竞速版
 PROCESS-NAME,com.thankcreate.StrangeAdventure,{{ rule }} # 奇怪的大冒险
@@ -822,6 +820,7 @@ PROCESS-NAME,com.timuzsolutions.bikeracing2014,{{ rule }} # 摩托车赛2014
 PROCESS-NAME,com.tinybuildgames.helloneighbor,{{ rule }} # 你好邻居
 PROCESS-NAME,com.tm.bhhhgdw,{{ rule }} # 挥汗鼓点舞
 PROCESS-NAME,com.tobiapps.android_100fl,{{ rule }} # 100层
+PROCESS-NAME,com.tocaboca.blocks,{{ rule }} # 托卡方块
 PROCESS-NAME,com.tocaboca.hairsalon2,{{ rule }} # 托卡美发沙龙2
 PROCESS-NAME,com.tocaboca.tocahospital,{{ rule }} # 托卡生活：医院
 PROCESS-NAME,com.tocaboca.tocakitchensushi,{{ rule }} # 托卡小厨房寿司
@@ -858,7 +857,6 @@ PROCESS-NAME,com.tuoniu.lizhi2020,{{ rule }} # 魔幻粒子2020
 PROCESS-NAME,com.turner.asmajormayhem,{{ rule }} # 致命枪火
 PROCESS-NAME,com.turner.ppg,{{ rule }} # 飞天小女警: 小镇村卫士
 PROCESS-NAME,com.turner.prankwar,{{ rule }} # 天兵公园 恶作剧大战
-PROCESS-NAME,com.tzapp.ttnba.yyh,{{ rule }} # 美职篮英雄
 PROCESS-NAME,com.ubisoft.adventure.valiant_hearts,{{ rule }} # 勇敢的心：世界大战
 PROCESS-NAME,com.ubisoft.assassin.pirates,{{ rule }} # 刺客信条：海盗奇航
 PROCESS-NAME,com.ubisoft.driver.hotwaters,{{ rule }} # 狂飙：快艇天堂
@@ -872,6 +870,7 @@ PROCESS-NAME,com.usgames.fast.jeep.racing,{{ rule }} # 快速吉普赛车3D
 PROCESS-NAME,com.vg.MonsterDashHillRacer,{{ rule }} # 怪物短跑山赛车
 PROCESS-NAME,com.viamep.protonbussimulator,{{ rule }} # 宇通巴士模拟
 PROCESS-NAME,com.vividgames.realboxing,{{ rule }} # 真实拳击
+PROCESS-NAME,com.VladimirPlyashkun.FavelaKick,{{ rule }} # 贫民窟足球：最终进球
 PROCESS-NAME,com.volvapps.google.rts,{{ rule }} # 黑色行动
 PROCESS-NAME,com.volvapps.rts2dex,{{ rule }} # 二战争锋II
 PROCESS-NAME,com.volvogroup.transporters,{{ rule }} # 变形车
@@ -884,6 +883,7 @@ PROCESS-NAME,com.wb.goog.batman.brawler2013,{{ rule }} # 蝙蝠侠：阿甘起�
 PROCESS-NAME,com.wb.goog.godzilla.strikezone,{{ rule }} # 哥斯拉：攻击区
 PROCESS-NAME,com.wb.goog.injustice,{{ rule }} # 不义联盟:人间之神
 PROCESS-NAME,com.wb.goog.injustice.brawler2017,{{ rule }} # 不义联盟2
+PROCESS-NAME,com.wb.goog.legobdc,{{ rule }} # 乐高蝙蝠侠2：超级英雄
 PROCESS-NAME,com.wb.goog.legojurassicworld,{{ rule }} # 乐高侏罗纪世界
 PROCESS-NAME,com.wb.wwe.brawler2014,{{ rule }} # WWE不朽战神 无限金币版
 PROCESS-NAME,com.webprancer.google.garfieldDefense,{{ rule }} # 加菲猫总动员
@@ -904,7 +904,6 @@ PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
-PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2
 PROCESS-NAME,com.ztgame.yyzy.yyh,{{ rule }} # 月圆之夜
 PROCESS-NAME,com.zuuks.bus.simulator.ultimate,{{ rule }} # 公交车模拟器：终极
 PROCESS-NAME,com.zuuks.city.driving,{{ rule }} # 3D城市驾驶
