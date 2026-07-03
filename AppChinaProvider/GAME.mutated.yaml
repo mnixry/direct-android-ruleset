@@ -579,6 +579,7 @@ payload:
   - PROCESS-NAME,com.nerdyoctopus.gamedots #连点成线
   - PROCESS-NAME,com.netease.aceracer #王牌竞速
   - PROCESS-NAME,com.netease.allstar #全明星街球派对
+  - PROCESS-NAME,com.netease.dwrg #第五人格
   - PROCESS-NAME,com.netease.hearthstone #炉石传说盒子
   - PROCESS-NAME,com.netease.hyxd #荒野行动
   - PROCESS-NAME,com.netease.lsdmx #灵兽大冒险
@@ -884,7 +885,6 @@ payload:
   - PROCESS-NAME,com.wb.goog.godzilla.strikezone #哥斯拉：攻击区
   - PROCESS-NAME,com.wb.goog.injustice #不义联盟:人间之神
   - PROCESS-NAME,com.wb.goog.injustice.brawler2017 #不义联盟2
-  - PROCESS-NAME,com.wb.goog.legobdc #乐高蝙蝠侠2：超级英雄
   - PROCESS-NAME,com.wb.goog.legojurassicworld #乐高侏罗纪世界
   - PROCESS-NAME,com.wb.wwe.brawler2014 #WWE不朽战神 无限金币版
   - PROCESS-NAME,com.webprancer.google.garfieldDefense #加菲猫总动员
