@@ -467,7 +467,6 @@ payload:
   - PROCESS-NAME,com.jiongji.andriod.card #百词斩
   - PROCESS-NAME,com.jiuxianapk.ui #酒仙
   - PROCESS-NAME,com.jjwxc.reader #晋江小说阅读
-  - PROCESS-NAME,com.jm.android.jumei #聚美
   - PROCESS-NAME,com.job.android #前程无忧51Job
   - PROCESS-NAME,com.joey.fui #一幅相框
   - PROCESS-NAME,com.jovetech.CloudSee.temp #云视通
@@ -596,6 +595,7 @@ payload:
   - PROCESS-NAME,com.nd.android.pandareader #熊猫看书
   - PROCESS-NAME,com.neil #返利助手
   - PROCESS-NAME,com.net263.ecm.display #263移动会议
+  - PROCESS-NAME,com.netease.buff #网易BUFF
   - PROCESS-NAME,com.netease.cc #CC直播
   - PROCESS-NAME,com.netease.cloudmusic #网易云音乐
   - PROCESS-NAME,com.netease.epay #网易支付
