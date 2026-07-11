@@ -934,7 +934,7 @@ PROCESS-NAME,com.tencent.JWX,{{ rule }} # 傲世西游
 PROCESS-NAME,com.tencent.KiHan,{{ rule }} # 火影忍者
 PROCESS-NAME,com.tencent.l2m,{{ rule }} # 天堂2：盟约
 PROCESS-NAME,com.tencent.lastblade,{{ rule }} # 末刀
-PROCESS-NAME,com.tencent.letsgo,{{ rule }} # 元梦之星-探灵实录
+PROCESS-NAME,com.tencent.letsgo,{{ rule }} # 元梦之星-喜羊羊联动
 PROCESS-NAME,com.tencent.lolm,{{ rule }} # 英雄联盟手游
 PROCESS-NAME,com.tencent.lszz,{{ rule }} # 龙石战争
 PROCESS-NAME,com.tencent.lzhx,{{ rule }} # 龙族幻想
@@ -943,7 +943,7 @@ PROCESS-NAME,com.tencent.mf.uam,{{ rule }} # 暗区突围-暗区四周年开启
 PROCESS-NAME,com.tencent.msgame,{{ rule }} # 合金弹头：觉醒
 PROCESS-NAME,com.tencent.Mtown,{{ rule }} # 全民小镇
 PROCESS-NAME,com.tencent.nba2kx,{{ rule }} # 美职篮全明星
-PROCESS-NAME,com.tencent.nfsonline,{{ rule }} # 极品飞车-2周年庆送好礼
+PROCESS-NAME,com.tencent.nfsonline,{{ rule }} # 极品飞车：集结
 PROCESS-NAME,com.tencent.ngr,{{ rule }} # 王者荣耀世界
 PROCESS-NAME,com.tencent.nikke,{{ rule }} # 胜利女神：新的希望
 PROCESS-NAME,com.tencent.nrc,{{ rule }} # 洛克王国：世界
@@ -1544,6 +1544,7 @@ PROCESS-NAME,com.tencent.tmgp.tmst,{{ rule }} # 同盟神探
 PROCESS-NAME,com.tencent.tmgp.tom,{{ rule }} # 猫和老鼠
 PROCESS-NAME,com.tencent.tmgp.totnew,{{ rule }} # 旅人日记
 PROCESS-NAME,com.tencent.tmgp.tqbaohuang,{{ rule }} # 大眼保皇
+PROCESS-NAME,com.tencent.tmgp.tqgouji,{{ rule }} # 大眼够级
 PROCESS-NAME,com.tencent.tmgp.tqshuangkou,{{ rule }} # 大眼双扣
 PROCESS-NAME,com.tencent.tmgp.tqwzfx,{{ rule }} # 台球王者
 PROCESS-NAME,com.tencent.tmgp.trunknaruto,{{ rule }} # 火影忍者：木叶高手
@@ -1739,7 +1740,7 @@ PROCESS-NAME,com.tencent.tmgp.zzbw.chenjue,{{ rule }} # 至尊兵王
 PROCESS-NAME,com.tencent.toaa,{{ rule }} # 黎明觉醒：生机
 PROCESS-NAME,com.tencent.WeFire,{{ rule }} # 全民突击
 PROCESS-NAME,com.tencent.wlfz,{{ rule }} # 星痕共鸣
-PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界
+PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界-掉宝版
 PROCESS-NAME,com.tencent.wok,{{ rule }} # 万王之王3D
 PROCESS-NAME,com.tencent.woool3d,{{ rule }} # 传奇世界3D
 PROCESS-NAME,com.tencent.xjcard,{{ rule }} # 仙剑奇侠传官方手游
