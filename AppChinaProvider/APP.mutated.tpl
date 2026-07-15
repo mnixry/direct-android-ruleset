@@ -38,7 +38,6 @@ PROCESS-NAME,cn.com.spdb.mobilebank.per,{{ rule }} # 浦发银行
 PROCESS-NAME,cn.com.tx.chat.android,{{ rule }} # 天下网
 PROCESS-NAME,cn.com.wiisoft.glass,{{ rule }} # 液态玻璃
 PROCESS-NAME,cn.com.wiisoft.skin,{{ rule }} # 灵动主题皮肤
-PROCESS-NAME,cn.cwguitar.www,{{ rule }} # 传文吉他
 PROCESS-NAME,cn.dahebao,{{ rule }} # 顶端新闻
 PROCESS-NAME,cn.dict.android.pro,{{ rule }} # 海词词典
 PROCESS-NAME,cn.dictcn.android.digitize.wys_korean,{{ rule }} # 外研社韩语
@@ -72,6 +71,7 @@ PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
 PROCESS-NAME,cn.shubanggong.jiaoyou,{{ rule }} # 小众圈子
 PROCESS-NAME,cn.soulapp.android,{{ rule }} # Soul
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
+PROCESS-NAME,cn.vcinema.cinema,{{ rule }} # 南瓜电影
 PROCESS-NAME,cn.weli.sweet,{{ rule }} # CUCU
 PROCESS-NAME,cn.wenyu.bodian,{{ rule }} # 波点音乐
 PROCESS-NAME,cn.wiz.note,{{ rule }} # 为知笔记
@@ -121,6 +121,7 @@ PROCESS-NAME,com.appcina.anpai.2019080818,{{ rule }} # 克拉壁纸
 PROCESS-NAME,com.appcina.anpai.2019092705,{{ rule }} # 星座运势-十二星座每日运势小组件
 PROCESS-NAME,com.appcina.anpai.2019092707,{{ rule }} # PixHall-高清可商用图片壁纸库
 PROCESS-NAME,com.appcina.anpai.2019092902,{{ rule }} # 落格输入法
+PROCESS-NAME,com.appcina.anpai.2019101103,{{ rule }} # 滑一滑相册视频
 PROCESS-NAME,com.appcina.anpai.2019112101,{{ rule }} # Artpaper：有 1,300 多张艺术画壁纸可每日更换
 PROCESS-NAME,com.appcina.anpai.2019112901,{{ rule }} # Hola Px - 我的专属精选壁纸专家
 PROCESS-NAME,com.appcina.anpai.2019122013,{{ rule }} # WLPPR - background wallpapers
@@ -421,7 +422,7 @@ PROCESS-NAME,com.iboxpay.minicashbox,{{ rule }} # 钱盒商户通
 PROCESS-NAME,com.icbc,{{ rule }} # 中国工商银行
 PROCESS-NAME,com.icbc.emallmobile,{{ rule }} # 融e购
 PROCESS-NAME,com.ichano.athome.avs,{{ rule }} # 掌上看家采集端
-PROCESS-NAME,com.ichano.athome.camera,{{ rule }} # 掌上看家
+PROCESS-NAME,com.ichano.athome.camera,{{ rule }} # 掌上看家观看端
 PROCESS-NAME,com.id10000,{{ rule }} # 智企
 PROCESS-NAME,com.idaodan.clean.master,{{ rule }} # 雪豹速清
 PROCESS-NAME,com.idotools.rings,{{ rule }} # 多多铃声

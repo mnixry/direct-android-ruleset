@@ -38,7 +38,6 @@ payload:
   - PROCESS-NAME,cn.com.tx.chat.android #天下网
   - PROCESS-NAME,cn.com.wiisoft.glass #液态玻璃
   - PROCESS-NAME,cn.com.wiisoft.skin #灵动主题皮肤
-  - PROCESS-NAME,cn.cwguitar.www #传文吉他
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.dict.android.pro #海词词典
   - PROCESS-NAME,cn.dictcn.android.digitize.wys_korean #外研社韩语
@@ -72,6 +71,7 @@ payload:
   - PROCESS-NAME,cn.shubanggong.jiaoyou #小众圈子
   - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.tianya.light #天涯社区
+  - PROCESS-NAME,cn.vcinema.cinema #南瓜电影
   - PROCESS-NAME,cn.weli.sweet #CUCU
   - PROCESS-NAME,cn.wenyu.bodian #波点音乐
   - PROCESS-NAME,cn.wiz.note #为知笔记
@@ -121,6 +121,7 @@ payload:
   - PROCESS-NAME,com.appcina.anpai.2019092705 #星座运势-十二星座每日运势小组件
   - PROCESS-NAME,com.appcina.anpai.2019092707 #PixHall-高清可商用图片壁纸库
   - PROCESS-NAME,com.appcina.anpai.2019092902 #落格输入法
+  - PROCESS-NAME,com.appcina.anpai.2019101103 #滑一滑相册视频
   - PROCESS-NAME,com.appcina.anpai.2019112101 #Artpaper：有 1,300 多张艺术画壁纸可每日更换
   - PROCESS-NAME,com.appcina.anpai.2019112901 #Hola Px - 我的专属精选壁纸专家
   - PROCESS-NAME,com.appcina.anpai.2019122013 #WLPPR - background wallpapers
@@ -421,7 +422,7 @@ payload:
   - PROCESS-NAME,com.icbc #中国工商银行
   - PROCESS-NAME,com.icbc.emallmobile #融e购
   - PROCESS-NAME,com.ichano.athome.avs #掌上看家采集端
-  - PROCESS-NAME,com.ichano.athome.camera #掌上看家
+  - PROCESS-NAME,com.ichano.athome.camera #掌上看家观看端
   - PROCESS-NAME,com.id10000 #智企
   - PROCESS-NAME,com.idaodan.clean.master #雪豹速清
   - PROCESS-NAME,com.idotools.rings #多多铃声
