@@ -37,8 +37,9 @@ PROCESS-NAME,cn.com.sina.finance,{{ rule }} # 新浪财经
 PROCESS-NAME,cn.com.sina.sports,{{ rule }} # 新浪体育
 PROCESS-NAME,cn.com.spdb.mobilebank.per,{{ rule }} # 浦发银行
 PROCESS-NAME,cn.com.tx.chat.android,{{ rule }} # 天下网
-PROCESS-NAME,cn.com.wiisoft.glass,{{ rule }} # 液态玻璃
+PROCESS-NAME,cn.com.wiisoft.glass,{{ rule }} # 灵动液态玻璃
 PROCESS-NAME,cn.com.wiisoft.skin,{{ rule }} # 灵动主题皮肤
+PROCESS-NAME,cn.cwguitar.www,{{ rule }} # 传文吉他
 PROCESS-NAME,cn.dahebao,{{ rule }} # 顶端新闻
 PROCESS-NAME,cn.dict.android.pro,{{ rule }} # 海词词典
 PROCESS-NAME,cn.dictcn.android.digitize.wys_korean,{{ rule }} # 外研社韩语
@@ -122,7 +123,6 @@ PROCESS-NAME,com.appcina.anpai.2019080818,{{ rule }} # 克拉壁纸
 PROCESS-NAME,com.appcina.anpai.2019092705,{{ rule }} # 星座运势-十二星座每日运势小组件
 PROCESS-NAME,com.appcina.anpai.2019092707,{{ rule }} # PixHall-高清可商用图片壁纸库
 PROCESS-NAME,com.appcina.anpai.2019092902,{{ rule }} # 落格输入法
-PROCESS-NAME,com.appcina.anpai.2019101103,{{ rule }} # 滑一滑相册视频
 PROCESS-NAME,com.appcina.anpai.2019112101,{{ rule }} # Artpaper：有 1,300 多张艺术画壁纸可每日更换
 PROCESS-NAME,com.appcina.anpai.2019112901,{{ rule }} # Hola Px - 我的专属精选壁纸专家
 PROCESS-NAME,com.appcina.anpai.2019122013,{{ rule }} # WLPPR - background wallpapers
@@ -658,6 +658,7 @@ PROCESS-NAME,com.qihoo.cleandroid_cn,{{ rule }} # 360清理大师
 PROCESS-NAME,com.qihoo.freewifi,{{ rule }} # 360免费WiFi
 PROCESS-NAME,com.qihoo.loan,{{ rule }} # 奇富借条
 PROCESS-NAME,com.qihoo.qeditor,{{ rule }} # 快剪辑
+PROCESS-NAME,com.qihoo360.mobilesafe,{{ rule }} # 360手机卫士
 PROCESS-NAME,com.qiku.magazine,{{ rule }} # 杂志锁屏
 PROCESS-NAME,com.qiku.os.show,{{ rule }} # 欧思奇主题
 PROCESS-NAME,com.qiku.os.wallpaper,{{ rule }} # 百变壁纸
@@ -760,6 +761,7 @@ PROCESS-NAME,com.smile.gifmaker,{{ rule }} # 快手
 PROCESS-NAME,com.smsf.iwallpaper,{{ rule }} # 壁纸自定义
 PROCESS-NAME,com.smzdm.client.android,{{ rule }} # 什么值得买
 PROCESS-NAME,com.snda.wifilocating,{{ rule }} # WiFi万能钥匙
+PROCESS-NAME,com.sohu.inputmethod.sogou,{{ rule }} # 搜狗输入法
 PROCESS-NAME,com.sohu.mail.client.cordova,{{ rule }} # 搜狐邮箱
 PROCESS-NAME,com.sohu.sohuvideo,{{ rule }} # 搜狐视频
 PROCESS-NAME,com.sohu.tv,{{ rule }} # 搜狐视频Pad
@@ -1070,6 +1072,7 @@ PROCESS-NAME,ts.NetTraffic,{{ rule }} # 网速流量监测
 PROCESS-NAME,tt.lt.tt,{{ rule }} # 聊天漂流瓶
 PROCESS-NAME,tv.acfundanmaku.video,{{ rule }} # AcFun
 PROCESS-NAME,tv.danmaku.bili,{{ rule }} # 哔哩哔哩
+PROCESS-NAME,tv.danmaku.bilibilihd,{{ rule }} # 哔哩哔哩HD
 PROCESS-NAME,tv.pps.mobile,{{ rule }} # 爱奇艺随刻
 PROCESS-NAME,tv.yixia.bobo,{{ rule }} # 波波视频
 PROCESS-NAME,vStudio.Android.Camera360,{{ rule }} # 相机360
