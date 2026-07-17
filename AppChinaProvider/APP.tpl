@@ -48,6 +48,7 @@ PROCESS-NAME,cn.eclicks.wzsearch,{{ rule }} # 车轮
 PROCESS-NAME,cn.ecook,{{ rule }} # 网上厨房
 PROCESS-NAME,cn.edaijia.android.client,{{ rule }} # e代驾
 PROCESS-NAME,cn.edu.zjicm.wordsnet_d,{{ rule }} # 知米背单词
+PROCESS-NAME,cn.emagsoftware.gamehall,{{ rule }} # 咪咕快游
 PROCESS-NAME,cn.emoney.level2,{{ rule }} # 益盟操盘手经典版
 PROCESS-NAME,cn.etouch.ecalendar,{{ rule }} # 中华万年历
 PROCESS-NAME,cn.guancha.app,{{ rule }} # 观察者网
