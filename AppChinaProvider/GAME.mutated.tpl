@@ -22,7 +22,6 @@ PROCESS-NAME,ca.roofdog.roadtrip,{{ rule }} # 疯狂之旅
 PROCESS-NAME,cc.thedream.qinsmoon.yyh,{{ rule }} # 秦时明月卡牌版
 PROCESS-NAME,cento.n1.lib,{{ rule }} # 100地牢
 PROCESS-NAME,cn.badminton.tw,{{ rule }} # 羽毛球 3D
-PROCESS-NAME,cn.edoctor.android.talkmed,{{ rule }} # TalkMED
 PROCESS-NAME,cn.jj,{{ rule }} # JJ斗地主
 PROCESS-NAME,cn.koogame.Fish,{{ rule }} # 愤怒的小鱼HD
 PROCESS-NAME,com.abocado.blueberry,{{ rule }} # 猫咪幼儿园
@@ -139,7 +138,6 @@ PROCESS-NAME,com.appchina.yugao.2021071501,{{ rule }} # NBA 2K22
 PROCESS-NAME,com.appchina.yugao.2021072606,{{ rule }} # 足球经理2022
 PROCESS-NAME,com.appchina.yugao.2021073003,{{ rule }} # 实况力量足球 
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
-PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
 PROCESS-NAME,com.appchina.yugao.2021101902,{{ rule }} # 足球经理2022 移动版
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
 PROCESS-NAME,com.appchina.yugao.2021112210,{{ rule }} # 缪斯音街
@@ -485,6 +483,7 @@ PROCESS-NAME,com.jumpgames.RealSteel,{{ rule }} # 铁甲钢拳 高清版
 PROCESS-NAME,com.jumpgames.rswrb,{{ rule }} # 铁甲钢拳：世界机器人拳击
 PROCESS-NAME,com.kabam.ff6android,{{ rule }} # 速度与**6
 PROCESS-NAME,com.kabam.marvelbattle,{{ rule }} # 漫威：超级争霸战
+PROCESS-NAME,com.kangmeng.prescription,{{ rule }} # 智云问诊店员版
 PROCESS-NAME,com.kauf.talking.baum.TalkingCatandBackgroundDog,{{ rule }} # 会说话的小猫
 PROCESS-NAME,com.kawaks,{{ rule }} # kawaks街机模拟器
 PROCESS-NAME,com.Kazeta.WithstandZ,{{ rule }} # 僵尸生存大战
@@ -662,7 +661,7 @@ PROCESS-NAME,com.qidian.dldl.yyh,{{ rule }} # 新斗罗大陆
 PROCESS-NAME,com.qinwenting.itp,{{ rule }} # 金益康
 PROCESS-NAME,com.qmzx.ezfy.yyh,{{ rule }} # 二战风云2
 PROCESS-NAME,com.qqgame.happymj,{{ rule }} # 欢乐麻将
-PROCESS-NAME,com.qqgame.hlddz,{{ rule }} # 腾讯欢乐斗地主
+PROCESS-NAME,com.qqgame.hlddz,{{ rule }} # 欢乐斗地主
 PROCESS-NAME,com.qqgame.mic,{{ rule }} # 英雄杀
 PROCESS-NAME,com.quadowl.craftking,{{ rule }} # 我的王国
 PROCESS-NAME,com.rappidstudios.simulatorbattlephysics,{{ rule }} # 史诗战斗模拟器2
@@ -1020,6 +1019,7 @@ PROCESS-NAME,ru.nsu.ccfit.zuev.osuplus,{{ rule }} # osu!进化
 PROCESS-NAME,se.modesty.spookening,{{ rule }} # 重生之地
 PROCESS-NAME,sggs.android.witchhouse,{{ rule }} # 魔女之家
 PROCESS-NAME,sts.pl,{{ rule }} # 口袋传奇
+PROCESS-NAME,syj.youngfhsher,{{ rule }} # 手机收音机
 PROCESS-NAME,zhtc.noscores.pmtianlongzhl,{{ rule }} # 口袋天龙的堕落
 PROCESS-NAME,com.alicom.smartdial,{{ rule }}
 PROCESS-NAME,com.bilibili.app.in,{{ rule }}
