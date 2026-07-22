@@ -23,6 +23,7 @@ payload:
   - PROCESS-NAME,cn.com.gjzq.yjb.kh #佣金宝开户
   - PROCESS-NAME,cn.com.gxrb.client #广西云
   - PROCESS-NAME,cn.com.modernmedia.businessweek #iBloomberg i商周
+  - PROCESS-NAME,cn.com.modernmedia.modernlady #InStyle iLady
   - PROCESS-NAME,cn.com.nbd.nbdmobile #每日经济新闻
   - PROCESS-NAME,cn.com.open.mooc #慕课网
   - PROCESS-NAME,cn.com.pcauto.android.browser #太平洋汽车
@@ -613,6 +614,7 @@ payload:
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qicai.contacts #西瓜通讯录
   - PROCESS-NAME,com.qidian.QDReader #起点读书
+  - PROCESS-NAME,com.qihoo.browser #360浏览器
   - PROCESS-NAME,com.qihoo.camera #360摄像机
   - PROCESS-NAME,com.qihoo.cleandroid_cn #360清理大师
   - PROCESS-NAME,com.qihoo.freewifi #360免费WiFi
