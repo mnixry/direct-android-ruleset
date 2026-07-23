@@ -961,7 +961,6 @@ PROCESS-NAME,com.tencent.tig,{{ rule }} # 隐形守护者
 PROCESS-NAME,com.tencent.tmaoe,{{ rule }} # 重返帝国
 PROCESS-NAME,com.tencent.tmgp.aceracer,{{ rule }} # 王牌竞速
 PROCESS-NAME,com.tencent.tmgp.afshqz,{{ rule }} # 水浒Q传手游
-PROCESS-NAME,com.tencent.tmgp.ahlhsyjy,{{ rule }} # 神域纪元
 PROCESS-NAME,com.tencent.tmgp.ahlhzxr,{{ rule }} # 镇邪人
 PROCESS-NAME,com.tencent.tmgp.ahsqdldllhsj,{{ rule }} # 斗罗大陆：猎魂世界
 PROCESS-NAME,com.tencent.tmgp.ahsqdszc,{{ rule }} # 斗兽战场
