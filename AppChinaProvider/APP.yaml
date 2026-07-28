@@ -46,7 +46,7 @@ payload:
   - PROCESS-NAME,cn.eclicks.wzsearch #车轮
   - PROCESS-NAME,cn.ecook #网上厨房
   - PROCESS-NAME,cn.edu.zjicm.wordsnet_d #知米背单词
-  - PROCESS-NAME,cn.emagsoftware.gamehall #咪咕快游
+  - PROCESS-NAME,cn.emagsoftware.gamehall #咪咕游戏
   - PROCESS-NAME,cn.emoney.level2 #益盟操盘手经典版
   - PROCESS-NAME,cn.etouch.ecalendar #中华万年历
   - PROCESS-NAME,cn.guancha.app #观察者网
