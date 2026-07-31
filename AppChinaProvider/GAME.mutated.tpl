@@ -60,6 +60,7 @@ PROCESS-NAME,com.animocabrands.google.Musici,{{ rule }} # 节奏星球
 PROCESS-NAME,com.animocacollective.google.catdefense,{{ rule }} # 猫骑士VS大恶龙
 PROCESS-NAME,com.ansangha.drdriving,{{ rule }} # 主驾驶
 PROCESS-NAME,com.aperto.wrc,{{ rule }} # 世界拉力赛
+PROCESS-NAME,com.appchina.yugao.2016081803,{{ rule }} # 拳击鱼
 PROCESS-NAME,com.appchina.yugao.2016082601,{{ rule }} # 合金拳头：城市统治者
 PROCESS-NAME,com.appchina.yugao.2016091402,{{ rule }} # 摇头拳击
 PROCESS-NAME,com.appchina.yugao.2016091901,{{ rule }} # 神姫PROJECT
@@ -706,7 +707,6 @@ PROCESS-NAME,com.sega.soccer,{{ rule }} # 足球经理2020 移动版
 PROCESS-NAME,com.sega.sonic1,{{ rule }} # 刺猬索尼克历险记
 PROCESS-NAME,com.seleuco.mame4all.snowbros,{{ rule }} # 雪人兄弟
 PROCESS-NAME,com.seventeenbullets.android.island,{{ rule }} # 天堂岛
-PROCESS-NAME,com.sggame.qmxjd.and,{{ rule }} # 全明星激斗
 PROCESS-NAME,com.shandagames.shelter.yyh,{{ rule }} # 辐射：避难所Online
 PROCESS-NAME,com.shinybox.smash,{{ rule }} # 勇闯地下城
 PROCESS-NAME,com.shockland.autoball,{{ rule }} # 汽车足球

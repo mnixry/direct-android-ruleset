@@ -569,7 +569,6 @@ payload:
   - PROCESS-NAME,com.netease.cc #CC直播
   - PROCESS-NAME,com.netease.cloudmusic #网易云音乐
   - PROCESS-NAME,com.netease.epay #网易支付
-  - PROCESS-NAME,com.netease.huatian #网易花田
   - PROCESS-NAME,com.netease.mail #网易邮箱大师
   - PROCESS-NAME,com.netease.mkey #网易将军令
   - PROCESS-NAME,com.netease.mobimail #网易邮箱
@@ -666,7 +665,6 @@ payload:
   - PROCESS-NAME,com.secoo #寺库奢侈品
   - PROCESS-NAME,com.seetong.app.seetong #Seetong
   - PROCESS-NAME,com.sevenmmobile #7M足球实时比分
-  - PROCESS-NAME,com.sevenpig.wallpaper #猪猪壁纸
   - PROCESS-NAME,com.shanbay.sentence #扇贝单词英语版
   - PROCESS-NAME,com.shanhu.wallpaper #小鸟壁纸
   - PROCESS-NAME,com.shenyuan.militarynews #环球新军事
@@ -903,7 +901,6 @@ payload:
   - PROCESS-NAME,com.ylmf.androidclient #115生活
   - PROCESS-NAME,com.ymatou.seller #洋码头扫货神器买手版
   - PROCESS-NAME,com.ymatou.shop #洋码头
-  - PROCESS-NAME,com.yoho #Yoho!Buy有货
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
   - PROCESS-NAME,com.youba.barcode #二维码扫描
   - PROCESS-NAME,com.youdao.dict #网易有道词典
@@ -965,8 +962,6 @@ payload:
   - PROCESS-NAME,io.iftech.android.box #小组件盒子
   - PROCESS-NAME,jp.ne.neko.freewing.JapaneseKeyboard #简易的日语输入 日文输入法 五十音图 虚拟键盘方式
   - PROCESS-NAME,jyeoo.app.ystudy #菁优网
-  - PROCESS-NAME,lhyp.xuno.xynb #炫拍
-  - PROCESS-NAME,lhypg.bnq.zbnh #包子漫画
   - PROCESS-NAME,long.xian.wallpaper #免费主题商店
   - PROCESS-NAME,longbin.helloworld #计算管家
   - PROCESS-NAME,mark.via #Via
@@ -1010,7 +1005,6 @@ payload:
   - PROCESS-NAME,tt.lt.tt #聊天漂流瓶
   - PROCESS-NAME,tv.acfundanmaku.video #AcFun
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
-  - PROCESS-NAME,tv.pps.mobile #爱奇艺随刻
   - PROCESS-NAME,us.pinguo.april_collage #拼图酱
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准

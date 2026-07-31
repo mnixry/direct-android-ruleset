@@ -60,6 +60,7 @@ payload:
   - PROCESS-NAME,com.animocacollective.google.catdefense #猫骑士VS大恶龙
   - PROCESS-NAME,com.ansangha.drdriving #主驾驶
   - PROCESS-NAME,com.aperto.wrc #世界拉力赛
+  - PROCESS-NAME,com.appchina.yugao.2016081803 #拳击鱼
   - PROCESS-NAME,com.appchina.yugao.2016082601 #合金拳头：城市统治者
   - PROCESS-NAME,com.appchina.yugao.2016091402 #摇头拳击
   - PROCESS-NAME,com.appchina.yugao.2016091901 #神姫PROJECT
@@ -706,7 +707,6 @@ payload:
   - PROCESS-NAME,com.sega.sonic1 #刺猬索尼克历险记
   - PROCESS-NAME,com.seleuco.mame4all.snowbros #雪人兄弟
   - PROCESS-NAME,com.seventeenbullets.android.island #天堂岛
-  - PROCESS-NAME,com.sggame.qmxjd.and #全明星激斗
   - PROCESS-NAME,com.shandagames.shelter.yyh #辐射：避难所Online
   - PROCESS-NAME,com.shinybox.smash #勇闯地下城
   - PROCESS-NAME,com.shockland.autoball #汽车足球
