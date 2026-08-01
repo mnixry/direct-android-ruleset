@@ -400,7 +400,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.habby.cnarchero.qq #弓箭传说
   - PROCESS-NAME,com.tencent.tmgp.habby.danke #弹壳特攻队
   - PROCESS-NAME,com.tencent.tmgp.harrypotter #哈利波特：魔法觉醒
-  - PROCESS-NAME,com.tencent.tmgp.hcgx.atmzrxgd #奥特曼之热血格斗
   - PROCESS-NAME,com.tencent.tmgp.hchess #全民象棋
   - PROCESS-NAME,com.tencent.tmgp.hcr2 #火柴人联盟2
   - PROCESS-NAME,com.tencent.tmgp.hcr3.qcjs #火柴人联盟3
@@ -713,7 +712,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.shyyl #山海与妖灵
   - PROCESS-NAME,com.tencent.tmgp.shzshx.atm #奥特曼：超时空英雄
   - PROCESS-NAME,com.tencent.tmgp.sichuan #蜀山四川麻将
-  - PROCESS-NAME,com.tencent.tmgp.silverblood.cn #银与绯
   - PROCESS-NAME,com.tencent.tmgp.sim #珍珠海大冒险
   - PROCESS-NAME,com.tencent.tmgp.sjffcf #飞飞：重逢
   - PROCESS-NAME,com.tencent.tmgp.sjsgfx #神将三国
@@ -892,6 +890,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.youzu.snsgz2 #少年三国志2
   - PROCESS-NAME,com.tencent.tmgp.youzu.ss0 #少年三国志：零
   - PROCESS-NAME,com.tencent.tmgp.youzu.xdmbj #新盗墓笔记
+  - PROCESS-NAME,com.tencent.tmgp.yqhls #元气唤灵师
   - PROCESS-NAME,com.tencent.tmgp.yqqskp #元气骑士
   - PROCESS-NAME,com.tencent.tmgp.ysljln #异兽灵境
   - PROCESS-NAME,com.tencent.tmgp.yslzm #以闪亮之名
@@ -960,7 +959,7 @@ payload:
   - PROCESS-NAME,com.tencent.toaa #黎明觉醒：生机
   - PROCESS-NAME,com.tencent.WeFire #全民突击
   - PROCESS-NAME,com.tencent.wlfz #星痕共鸣
-  - PROCESS-NAME,com.tencent.wmsj #完美世界-掉宝版
+  - PROCESS-NAME,com.tencent.wmsj #完美世界
   - PROCESS-NAME,com.tencent.wok #万王之王3D
   - PROCESS-NAME,com.tencent.woool3d #传奇世界3D
   - PROCESS-NAME,com.tencent.xjcard #仙剑奇侠传官方手游

@@ -395,6 +395,7 @@ payload:
   - PROCESS-NAME,com.hunantv.imgo.activity #芒果TV
   - PROCESS-NAME,com.hundsun.winner.pazq #平安证券
   - PROCESS-NAME,com.huodao.hdphone #找靓机
+  - PROCESS-NAME,com.hupu.games #虎扑
   - PROCESS-NAME,com.hupu.shihuo #识货
   - PROCESS-NAME,com.huxiu #虎嗅
   - PROCESS-NAME,com.hyhy.view #掌上天津
@@ -546,7 +547,6 @@ payload:
   - PROCESS-NAME,com.moji.mjweather #墨迹天气
   - PROCESS-NAME,com.moneywise.mhmoney #财智快账
   - PROCESS-NAME,com.moonlight.huatu #画画图
-  - PROCESS-NAME,com.mosheng #爱聊
   - PROCESS-NAME,com.mp.qcoperate #红旗e岗通
   - PROCESS-NAME,com.mrkj.sm #知命
   - PROCESS-NAME,com.msg.schedule #定时信息
@@ -916,7 +916,6 @@ payload:
   - PROCESS-NAME,com.yuexiang.wallpaper #悦享动态壁纸
   - PROCESS-NAME,com.yumei.game.engine.ui.client #玩股成金
   - PROCESS-NAME,com.yunlan.unlock.dewdropunlock #3D水滴-随变锁屏
-  - PROCESS-NAME,com.yunlian.wewe #微微网络电话
   - PROCESS-NAME,com.ywallpaper.ddztbz #多多主题壁纸
   - PROCESS-NAME,com.yx #有信
   - PROCESS-NAME,com.yy.android.udbsec #YY安全中心
@@ -1005,6 +1004,7 @@ payload:
   - PROCESS-NAME,tt.lt.tt #聊天漂流瓶
   - PROCESS-NAME,tv.acfundanmaku.video #AcFun
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
+  - PROCESS-NAME,tv.pps.mobile #爱奇艺随刻
   - PROCESS-NAME,us.pinguo.april_collage #拼图酱
   - PROCESS-NAME,vStudio.Android.Camera360 #相机360
   - PROCESS-NAME,vz.com #飞常准

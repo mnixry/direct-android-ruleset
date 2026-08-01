@@ -1179,7 +1179,6 @@ PROCESS-NAME,com.tencent.tmgp.habby.archeroii,{{ rule }} # 弓箭传说2
 PROCESS-NAME,com.tencent.tmgp.habby.cnarchero.qq,{{ rule }} # 弓箭传说
 PROCESS-NAME,com.tencent.tmgp.habby.danke,{{ rule }} # 弹壳特攻队
 PROCESS-NAME,com.tencent.tmgp.harrypotter,{{ rule }} # 哈利波特：魔法觉醒
-PROCESS-NAME,com.tencent.tmgp.hcgx.atmzrxgd,{{ rule }} # 奥特曼之热血格斗
 PROCESS-NAME,com.tencent.tmgp.hchess,{{ rule }} # 全民象棋
 PROCESS-NAME,com.tencent.tmgp.hcr2,{{ rule }} # 火柴人联盟2
 PROCESS-NAME,com.tencent.tmgp.hcr3.qcjs,{{ rule }} # 火柴人联盟3
@@ -1492,7 +1491,6 @@ PROCESS-NAME,com.tencent.tmgp.shoptitans,{{ rule }} # 传奇商店：经营与�
 PROCESS-NAME,com.tencent.tmgp.shyyl,{{ rule }} # 山海与妖灵
 PROCESS-NAME,com.tencent.tmgp.shzshx.atm,{{ rule }} # 奥特曼：超时空英雄
 PROCESS-NAME,com.tencent.tmgp.sichuan,{{ rule }} # 蜀山四川麻将
-PROCESS-NAME,com.tencent.tmgp.silverblood.cn,{{ rule }} # 银与绯
 PROCESS-NAME,com.tencent.tmgp.sim,{{ rule }} # 珍珠海大冒险
 PROCESS-NAME,com.tencent.tmgp.sjffcf,{{ rule }} # 飞飞：重逢
 PROCESS-NAME,com.tencent.tmgp.sjsgfx,{{ rule }} # 神将三国
@@ -1671,6 +1669,7 @@ PROCESS-NAME,com.tencent.tmgp.youzu.slpk1,{{ rule }} # 少年西游记2
 PROCESS-NAME,com.tencent.tmgp.youzu.snsgz2,{{ rule }} # 少年三国志2
 PROCESS-NAME,com.tencent.tmgp.youzu.ss0,{{ rule }} # 少年三国志：零
 PROCESS-NAME,com.tencent.tmgp.youzu.xdmbj,{{ rule }} # 新盗墓笔记
+PROCESS-NAME,com.tencent.tmgp.yqhls,{{ rule }} # 元气唤灵师
 PROCESS-NAME,com.tencent.tmgp.yqqskp,{{ rule }} # 元气骑士
 PROCESS-NAME,com.tencent.tmgp.ysljln,{{ rule }} # 异兽灵境
 PROCESS-NAME,com.tencent.tmgp.yslzm,{{ rule }} # 以闪亮之名
@@ -1739,7 +1738,7 @@ PROCESS-NAME,com.tencent.tmgp.zx2,{{ rule }} # 诛仙2
 PROCESS-NAME,com.tencent.toaa,{{ rule }} # 黎明觉醒：生机
 PROCESS-NAME,com.tencent.WeFire,{{ rule }} # 全民突击
 PROCESS-NAME,com.tencent.wlfz,{{ rule }} # 星痕共鸣
-PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界-掉宝版
+PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界
 PROCESS-NAME,com.tencent.wok,{{ rule }} # 万王之王3D
 PROCESS-NAME,com.tencent.woool3d,{{ rule }} # 传奇世界3D
 PROCESS-NAME,com.tencent.xjcard,{{ rule }} # 仙剑奇侠传官方手游
