@@ -461,6 +461,7 @@ payload:
   - PROCESS-NAME,com.julanling.app #安心记加班
   - PROCESS-NAME,com.juronghm.wallpaper #神图壁纸主题大全
   - PROCESS-NAME,com.jxedt #驾校一点通
+  - PROCESS-NAME,com.jz.androidacts.superiscreen #xScreen超级桌面
   - PROCESS-NAME,com.kankanews.kankanxinwen #看看新闻
   - PROCESS-NAME,com.kevinstudio.test #转盘做决定
   - PROCESS-NAME,com.keyue.widget #百变桌面小组件
@@ -924,7 +925,6 @@ payload:
   - PROCESS-NAME,com.zd.meta #元气桌面宠物
   - PROCESS-NAME,com.zerone.hidesktop #我的桌面iScreen
   - PROCESS-NAME,com.zhangdan.app #51信用卡管家
-  - PROCESS-NAME,com.zhanlang.dailyscreen #录屏君
   - PROCESS-NAME,com.zhaopin.social #智联招聘
   - PROCESS-NAME,com.zhenai.android #珍爱
   - PROCESS-NAME,com.zhianxiaoyuan.app #智安校园
