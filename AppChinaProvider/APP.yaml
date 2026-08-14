@@ -20,7 +20,7 @@ payload:
   - PROCESS-NAME,cn.cntvnews #央视新闻
   - PROCESS-NAME,cn.colorv #彩视
   - PROCESS-NAME,cn.com.enorth.jinyun #津云
-  - PROCESS-NAME,cn.com.gjzq.yjb.kh #佣金宝开户
+  - PROCESS-NAME,cn.com.gjzq.yjb.kh #国金证券开户
   - PROCESS-NAME,cn.com.gxrb.client #广西云
   - PROCESS-NAME,cn.com.modernmedia.businessweek #iBloomberg i商周
   - PROCESS-NAME,cn.com.modernmedia.modernlady #InStyle iLady
