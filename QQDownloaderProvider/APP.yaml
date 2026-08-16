@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,ai.zuoye.app #爱作业
   - PROCESS-NAME,air.tv.douyu.android #斗鱼
   - PROCESS-NAME,all.parttimeguidesystem #兼职猫-同城找工作求职招聘平台
   - PROCESS-NAME,android.zhibo8 #直播吧
@@ -9,7 +10,6 @@ payload:
   - PROCESS-NAME,cmccwm.mobilemusic #咪咕音乐
   - PROCESS-NAME,cn.banshenggua.aichang #爱唱
   - PROCESS-NAME,cn.buding.martin #微车
-  - PROCESS-NAME,cn.caocaokeji.user #曹操出行
   - PROCESS-NAME,cn.cbct.seefm #听见广播
   - PROCESS-NAME,cn.cisc #中金财富
   - PROCESS-NAME,cn.cj.pe #139邮箱
@@ -27,7 +27,7 @@ payload:
   - PROCESS-NAME,cn.com.zjol #潮新闻
   - PROCESS-NAME,cn.crionline.www.japan #KANKAN
   - PROCESS-NAME,cn.damai #大麦
-  - PROCESS-NAME,cn.danatech.xingseapp #形色
+  - PROCESS-NAME,cn.dxy.android.aspirin #丁香医生
   - PROCESS-NAME,cn.eclicks.drivingtest #车轮驾考通
   - PROCESS-NAME,cn.eclicks.wzsearch #车轮
   - PROCESS-NAME,cn.egame.terminal.cloud5g #天翼云游戏
@@ -59,8 +59,8 @@ payload:
   - PROCESS-NAME,cn.rainbow.westore #天虹
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
-  - PROCESS-NAME,cn.szjxgs.szjob #工友通
-  - PROCESS-NAME,cn.v6.sixrooms #石榴直播
+  - PROCESS-NAME,cn.TuHu.android #途虎养车
+  - PROCESS-NAME,cn.wangxiao.app #中大网校
   - PROCESS-NAME,cn.wangxiao.cpazhuntiku #注册会计师准题库
   - PROCESS-NAME,cn.wangxiao.gwyzhuntiku #公务员准题库
   - PROCESS-NAME,cn.xiaochuankeji.tieba #最右
@@ -78,14 +78,16 @@ payload:
   - PROCESS-NAME,com.ai.marki #马克水印相机
   - PROCESS-NAME,com.aikan #免费小说大全
   - PROCESS-NAME,com.airbnb.android #爱彼迎
+  - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.wireless #阿里巴巴
   - PROCESS-NAME,com.aliyun.tongyi #千问
+  - PROCESS-NAME,com.ancda.parents #掌心宝贝
   - PROCESS-NAME,com.android.abustory #阿布睡前故事
   - PROCESS-NAME,com.android.app.quanmama #券妈妈优惠券
   - PROCESS-NAME,com.android.bankabc #农行掌上银行
   - PROCESS-NAME,com.android.dazhihui #大智慧
   - PROCESS-NAME,com.android.haitong #国泰海通通财
-  - PROCESS-NAME,com.android.icredit #企查查
+  - PROCESS-NAME,com.android.tutuerge #兔兔儿歌
   - PROCESS-NAME,com.android.vending #Google Play Store
   - PROCESS-NAME,com.Android56 #56视频
   - PROCESS-NAME,com.anjiu.buff.yingyongbao #BUFF手游
@@ -98,6 +100,7 @@ payload:
   - PROCESS-NAME,com.autohome.usedcar #二手车之家-看车选车买车卖车
   - PROCESS-NAME,com.autonavi.minimap #高德地图
   - PROCESS-NAME,com.babycloud.hanju #韩小圈
+  - PROCESS-NAME,com.babytree.apps.lama #宝宝树小时光
   - PROCESS-NAME,com.babytree.apps.pregnancy #宝宝树孕育
   - PROCESS-NAME,com.baidu.appsearch #百度手机助手
   - PROCESS-NAME,com.baidu.baidutranslate #百度翻译
@@ -119,6 +122,7 @@ payload:
   - PROCESS-NAME,com.baile.shanduo #闪聊闪约
   - PROCESS-NAME,com.bankcomm.maidanba #买单吧
   - PROCESS-NAME,com.baojiazhijia.qichebaojia #买车宝典
+  - PROCESS-NAME,com.baoyun.babycloud #口袋宝宝
   - PROCESS-NAME,com.benqu.wuta #无他相机
   - PROCESS-NAME,com.bertadata.qxb #启信宝
   - PROCESS-NAME,com.bfire.da.nui #微分身双开
@@ -129,8 +133,10 @@ payload:
   - PROCESS-NAME,com.bly.dkplat #小X分身
   - PROCESS-NAME,com.bokecc.dance #糖豆
   - PROCESS-NAME,com.boniu.saomiaoquannengwang #扫描转文字王
-  - PROCESS-NAME,com.brothers #三兄弟
+  - PROCESS-NAME,com.boohee.one #薄荷健康
+  - PROCESS-NAME,com.booking #Booking.com缤客
   - PROCESS-NAME,com.browser2345 #2345浏览器
+  - PROCESS-NAME,com.btime.bjtime #北京时间
   - PROCESS-NAME,com.budejie.www #百思漂流瓶
   - PROCESS-NAME,com.c2vl.kgamebox #狼人杀
   - PROCESS-NAME,com.cainiao.wireless #菜鸟
@@ -144,6 +150,8 @@ payload:
   - PROCESS-NAME,com.cdb.app #充电加速器
   - PROCESS-NAME,com.cdv.video360 #云美摄
   - PROCESS-NAME,com.cebbank.mobile.cemb #光大银行
+  - PROCESS-NAME,com.cffex.htqh #海通期货期海通行
+  - PROCESS-NAME,com.cfy.xqwxt #象棋微学堂
   - PROCESS-NAME,com.cgbchina.xpt #广发银行
   - PROCESS-NAME,com.changba #唱吧
   - PROCESS-NAME,com.chaoxing.mobile #学习通
@@ -160,10 +168,12 @@ payload:
   - PROCESS-NAME,com.chineseall.singlebook #中文书城
   - PROCESS-NAME,com.chipsea.btcontrol #OKOK
   - PROCESS-NAME,com.cib.cibmb #兴业银行
+  - PROCESS-NAME,com.cib.xyk #兴业生活
   - PROCESS-NAME,com.citiccard.mobilebank #动卡空间
   - PROCESS-NAME,com.cleanmaster.mguard_cn #猎豹清理大师
   - PROCESS-NAME,com.clipzz.media #视频剪辑精灵
   - PROCESS-NAME,com.cloudpower.netsale.activity #中国人保
+  - PROCESS-NAME,com.cloudy.linglingbang #五菱汽车
   - PROCESS-NAME,com.clov4r.android.nil #MoboPlayer
   - PROCESS-NAME,com.clover.daysmatter #倒数日
   - PROCESS-NAME,com.cmbc.cc.mbank #全民生活
@@ -185,15 +195,12 @@ payload:
   - PROCESS-NAME,com.ct.client #中国电信
   - PROCESS-NAME,com.cubic.autohome #汽车之家
   - PROCESS-NAME,com.cubic.choosecar #汽车报价
-  - PROCESS-NAME,com.cxzapp.xinlizixun #心理咨询
-  - PROCESS-NAME,com.cxzapp.yidianling #壹点灵
   - PROCESS-NAME,com.cyjh.ddyun #多多云手机
   - PROCESS-NAME,com.dailyyoga.cn #每日瑜伽
   - PROCESS-NAME,com.dalongtech.cloud #云电脑
   - PROCESS-NAME,com.dangdang.buy2 #当当
   - PROCESS-NAME,com.dangdang.reader #当当云阅读
   - PROCESS-NAME,com.daofeng.zuhaowan #租号玩
-  - PROCESS-NAME,com.datayes.irr #萝卜投研
   - PROCESS-NAME,com.dazhuanjia.dcloud #大专家
   - PROCESS-NAME,com.ddnapalon.calculator.gp #计算器语音大师
   - PROCESS-NAME,com.dedao.juvenile #少年得到
@@ -214,11 +221,11 @@ payload:
   - PROCESS-NAME,com.dongfanghn.com #Only婚恋
   - PROCESS-NAME,com.dongqiudi.news #懂球帝
   - PROCESS-NAME,com.douban.frodo #豆瓣
-  - PROCESS-NAME,com.doudoubird.compass #地图指南针
   - PROCESS-NAME,com.douguo.recipe #豆果美食
   - PROCESS-NAME,com.doumi.jianzhi #斗米
   - PROCESS-NAME,com.dp.android.elong #艺龙旅行
   - PROCESS-NAME,com.dragon.read #番茄免费小说
+  - PROCESS-NAME,com.droid.credit #移动手机贷
   - PROCESS-NAME,com.duitang.main #堆糖
   - PROCESS-NAME,com.duoduo.child.story #儿歌多多
   - PROCESS-NAME,com.duokan.phone.remotecontroller #万能遥控
@@ -237,13 +244,14 @@ payload:
   - PROCESS-NAME,com.eastmoney.android.berlin #东方财富
   - PROCESS-NAME,com.eastmoney.android.fund #天天基金
   - PROCESS-NAME,com.ebank.creditcard #阳光惠生活
+  - PROCESS-NAME,com.ecej.ui #e城e家
   - PROCESS-NAME,com.ecitic.bank.mobile #中信银行
   - PROCESS-NAME,com.edujia.weimai #微脉圈
   - PROCESS-NAME,com.eduyun.app.factory.ykt #智慧中小学
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
-  - PROCESS-NAME,com.eno.android #国海金探号
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
   - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
+  - PROCESS-NAME,com.excean.dualaid #微双开分身
   - PROCESS-NAME,com.excean.gspace #OurPlay
   - PROCESS-NAME,com.excelliance.dualaid #双开助手微分身版
   - PROCESS-NAME,com.extraction.text #文案提取
@@ -254,6 +262,7 @@ payload:
   - PROCESS-NAME,com.fcbox.hiveconsumer #丰巢
   - PROCESS-NAME,com.fenbi.android.gaozhong #猿题库
   - PROCESS-NAME,com.fenbi.android.leo #小猿AI
+  - PROCESS-NAME,com.fenbi.android.servant #粉笔
   - PROCESS-NAME,com.fenbi.android.solar #小猿搜题
   - PROCESS-NAME,com.fenbi.android.zenglish #斑马AI学
   - PROCESS-NAME,com.fengbo.live #幻梦直播
@@ -273,23 +282,21 @@ payload:
   - PROCESS-NAME,com.foundersc.app.xf #小方
   - PROCESS-NAME,com.fqapp.zsh #赚生活
   - PROCESS-NAME,com.fqapps.fdsh #福袋生活
+  - PROCESS-NAME,com.free_ride_pin.yiwei #汽车票
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
   - PROCESS-NAME,com.funshion.video.mobile #风行视频
   - PROCESS-NAME,com.galaxy.stock #中国银河证券
   - PROCESS-NAME,com.gameabc.zhanqiAndroid #战旗直播
   - PROCESS-NAME,com.gamestar.perfectpiano #完美钢琴
-  - PROCESS-NAME,com.gamestar.pianoperfect #随身乐队
   - PROCESS-NAME,com.ganji.android #赶集招聘
   - PROCESS-NAME,com.ganji.android.haoche_c #瓜子二手车
   - PROCESS-NAME,com.gaotu100.superclass #高途
   - PROCESS-NAME,com.gelonghui.glhapp #格隆汇
-  - PROCESS-NAME,com.gewara #格瓦拉生活
   - PROCESS-NAME,com.gf.client #广发易淘金
   - PROCESS-NAME,com.gfqh.guangfa #广发期货小添财-投资交易软件
   - PROCESS-NAME,com.gh.gamecenter #光环助手
   - PROCESS-NAME,com.giiso.jinantimes #新黄河
   - PROCESS-NAME,com.gioct.weather #天气预报
-  - PROCESS-NAME,com.glodon.drawingexplorer #CAD快速看图
   - PROCESS-NAME,com.gome.eshopnew #国美
   - PROCESS-NAME,com.goodtech.tq #更云天气预报
   - PROCESS-NAME,com.google.android.apps.translate #Google翻译
@@ -302,13 +309,14 @@ payload:
   - PROCESS-NAME,com.gstarmc.android #CAD看图王
   - PROCESS-NAME,com.gtgj.view #高铁管家
   - PROCESS-NAME,com.guangdaqihuo.mhdxh #光大期货
-  - PROCESS-NAME,com.guosen.android #国信金太阳
   - PROCESS-NAME,com.guotai.dazhihui #国泰海通君弘
+  - PROCESS-NAME,com.gvsoft.gofun #GoFun出行
   - PROCESS-NAME,com.gwsoft.imusic.controller #爱音乐
-  - PROCESS-NAME,com.gzfns.ecar #车e估企业版
   - PROCESS-NAME,com.haier.uhome.uplus #海尔智家
+  - PROCESS-NAME,com.haixiu.ui #嗨秀直播
   - PROCESS-NAME,com.haizhengqihuo.mhdxh #上海证券期货
   - PROCESS-NAME,com.handsgo.jiakao.android #驾考宝典
+  - PROCESS-NAME,com.handsgo.jiakao.android.kehuo #教练宝典
   - PROCESS-NAME,com.hanweb.android.sdzwfw.activity #爱山东
   - PROCESS-NAME,com.hanweb.android.zhejiang.activity #浙里办
   - PROCESS-NAME,com.haodf.android #好大夫在线
@@ -319,12 +327,12 @@ payload:
   - PROCESS-NAME,com.hcyh.scanner #扫描仪全能王
   - PROCESS-NAME,com.hexin.plat.android #同花顺
   - PROCESS-NAME,com.hexin.plat.android.CaitongSecurity #财通证券
-  - PROCESS-NAME,com.hexin.plat.android.WanlianSecurity #万联e万通
   - PROCESS-NAME,com.hexin.plat.android.ZhongyuanSecurity #中原证券
   - PROCESS-NAME,com.hf #中国天气
   - PROCESS-NAME,com.hichip #CamHi
   - PROCESS-NAME,com.hicorenational.antifraud #国家反诈中心
   - PROCESS-NAME,com.hipu.yidian #一点资讯
+  - PROCESS-NAME,com.hisense.ms.fly2tv #海信爱家
   - PROCESS-NAME,com.hlg.daydaytobusiness #稿定设计
   - PROCESS-NAME,com.hnr.dxxw #大象新闻
   - PROCESS-NAME,com.hnzycfc.zyxj #中原消费金融
@@ -337,9 +345,9 @@ payload:
   - PROCESS-NAME,com.huajiao #花椒直播
   - PROCESS-NAME,com.huati #葫芦侠3楼
   - PROCESS-NAME,com.huawei.hwid #HMS Core
+  - PROCESS-NAME,com.huawei.intelligent #智慧助手·今天
   - PROCESS-NAME,com.huawei.search #智慧搜索
   - PROCESS-NAME,com.huawei.smarthome #智慧生活
-  - PROCESS-NAME,com.huitouche.android.app #省省货主
   - PROCESS-NAME,com.huluxia.gametools #葫芦侠
   - PROCESS-NAME,com.hunantv.imgo.activity #芒果TV
   - PROCESS-NAME,com.hundsun.stockwinner.cyqh #创元期货
@@ -349,6 +357,7 @@ payload:
   - PROCESS-NAME,com.hundsun.winner.pazq #平安证券
   - PROCESS-NAME,com.huodao.hdphone #找靓机
   - PROCESS-NAME,com.hupu.games #虎扑
+  - PROCESS-NAME,com.hupu.shihuo #识货
   - PROCESS-NAME,com.huxiupro #妙投
   - PROCESS-NAME,com.huyun.ybb #运帮帮
   - PROCESS-NAME,com.hw.okm #二三里
@@ -368,11 +377,11 @@ payload:
   - PROCESS-NAME,com.ifeng.news2 #凤凰新闻
   - PROCESS-NAME,com.ifeng.newvideo #凤凰视频
   - PROCESS-NAME,com.iflytek.elpmobile.smartlearning #智学网
-  - PROCESS-NAME,com.iflytek.oshall.ahzwfw #皖事通
   - PROCESS-NAME,com.iflytek.ringdiyclient #酷音铃声
   - PROCESS-NAME,com.ifreetalk.ftalk #派派
   - PROCESS-NAME,com.ihaozhuo.youjiankang #优健康
   - PROCESS-NAME,com.ihuman.recite #万词王
+  - PROCESS-NAME,com.iksocial.joyous #附近热聊
   - PROCESS-NAME,com.imaginer.yunji #云集
   - PROCESS-NAME,com.immomo.momo #MOMO陌陌
   - PROCESS-NAME,com.imusic.iting #爱听
@@ -387,6 +396,7 @@ payload:
   - PROCESS-NAME,com.iqiyi.ivrcinema.cb #爱奇艺VR
   - PROCESS-NAME,com.iqiyi.qixiu #奇秀
   - PROCESS-NAME,com.ishansong #闪送员
+  - PROCESS-NAME,com.ishowedu.child.peiyin #少儿趣配音
   - PROCESS-NAME,com.ishowedu.peiyin #英语趣配音
   - PROCESS-NAME,com.itcode.reader #漫漫漫画
   - PROCESS-NAME,com.iznet.thailandtong #三毛游
@@ -395,11 +405,9 @@ payload:
   - PROCESS-NAME,com.jd.jrapp #京东金融
   - PROCESS-NAME,com.jesson.meishi #美食杰家常菜谱大全
   - PROCESS-NAME,com.jf.lkrj #花生日记
-  - PROCESS-NAME,com.jiadi.fanyiruanjian #彩豆翻译
   - PROCESS-NAME,com.jiadi.quannengsaomiaowang #合同扫描王
   - PROCESS-NAME,com.jianyou.swatch #智能守护5
   - PROCESS-NAME,com.jianzhiku.zhongrenbang #众人帮
-  - PROCESS-NAME,com.jiemian.news #界面新闻
   - PROCESS-NAME,com.jifen.qukan #趣头条
   - PROCESS-NAME,com.jiliguala.niuwa #叽里呱啦
   - PROCESS-NAME,com.jingdian.tianxiameishi.android #美食天下
@@ -409,30 +417,31 @@ payload:
   - PROCESS-NAME,com.jinxin.namibox #纳米盒
   - PROCESS-NAME,com.jiongji.andriod.card #百词斩
   - PROCESS-NAME,com.jiuyan.infashion #in
-  - PROCESS-NAME,com.jizhi.jlongg #吉工家
   - PROCESS-NAME,com.job.android #前程无忧51Job
   - PROCESS-NAME,com.join.android.app.mgsim.wufun #悟饭游戏厅
   - PROCESS-NAME,com.jojoread.huiben #叫叫绘本
   - PROCESS-NAME,com.jooan.qiaoanzhilian #乔安智联
   - PROCESS-NAME,com.jsbc.lznews #荔枝新闻
   - PROCESS-NAME,com.jtjr99.jiayoubao #加油宝
+  - PROCESS-NAME,com.juejinchain.android #掘金宝
   - PROCESS-NAME,com.jxedt #驾校一点通
   - PROCESS-NAME,com.jy.recorder #录屏精灵
   - PROCESS-NAME,com.jyyx.fuli #九妖游戏
   - PROCESS-NAME,com.jzyd.coupon #省钱快报
   - PROCESS-NAME,com.jzzs.ParentsHelper #安全教育平台
   - PROCESS-NAME,com.kekeclient_ #可可英语
+  - PROCESS-NAME,com.keyi.saomiaoyi #扫描仪
+  - PROCESS-NAME,com.Kingdee.Express #快递100
   - PROCESS-NAME,com.kingsoft #金山词霸
-  - PROCESS-NAME,com.klcxkj.zqxy #趣智校园
   - PROCESS-NAME,com.kmxs.reader #七猫免费小说
   - PROCESS-NAME,com.knowbox.rc.student.pk #小盒AI学
   - PROCESS-NAME,com.koudai.weidian.buyer #微店
   - PROCESS-NAME,com.koudai.weishop #微店店长版
   - PROCESS-NAME,com.kuaiduizuoye.scan #快对AI
   - PROCESS-NAME,com.kuaikan.comic #快看漫画
+  - PROCESS-NAME,com.kuaishou.nebula #快手极速版
   - PROCESS-NAME,com.kuangxiangciweimao.novel #刺猬猫阅读
   - PROCESS-NAME,com.kugou.android #酷狗音乐
-  - PROCESS-NAME,com.kugou.android.elder #酷狗免费版
   - PROCESS-NAME,com.kugou.android.ktvapp #酷狗唱唱
   - PROCESS-NAME,com.kugou.android.ringtone #酷狗铃声
   - PROCESS-NAME,com.kugou.fanxing #酷狗直播
@@ -480,8 +489,6 @@ payload:
   - PROCESS-NAME,com.m4399.gamecenter #4399游戏盒
   - PROCESS-NAME,com.macrovideo.v380 #V380
   - PROCESS-NAME,com.macrovideo.v380pro #V380 Pro
-  - PROCESS-NAME,com.maihan.tredian #淘最热点
-  - PROCESS-NAME,com.maipu.tourist #小鹿导游
   - PROCESS-NAME,com.maka.app #MAKA设计
   - PROCESS-NAME,com.market2345 #2345手机助手
   - PROCESS-NAME,com.marryu #MarryU相亲交友
@@ -500,6 +507,7 @@ payload:
   - PROCESS-NAME,com.mianfeia.book #爱看书免费小说
   - PROCESS-NAME,com.microsoft.office.onenote #OneNote
   - PROCESS-NAME,com.microsoft.office.outlook #Outlook
+  - PROCESS-NAME,com.microsoft.office.powerpoint #Microsoft PowerPoint
   - PROCESS-NAME,com.microsoft.office.word #Microsoft Word
   - PROCESS-NAME,com.midea.ai.appliances #美的美居
   - PROCESS-NAME,com.midea.vm.washer #U净
@@ -518,8 +526,6 @@ payload:
   - PROCESS-NAME,com.mt.mtxx.mtxx #美图秀秀-视频/图片/Live人像精修工具
   - PROCESS-NAME,com.mtime #时光网
   - PROCESS-NAME,com.mx.browser #傲游浏览器
-  - PROCESS-NAME,com.my.peiyin #配音文字转语音
-  - PROCESS-NAME,com.mybank.android.phone #网商银行
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
   - PROCESS-NAME,com.mymoney.sms #卡牛信用管家
   - PROCESS-NAME,com.n_add.android #粉象生活
@@ -548,6 +554,7 @@ payload:
   - PROCESS-NAME,com.nuan #暖暖房屋
   - PROCESS-NAME,com.nxy.sc #四川农信手机银行
   - PROCESS-NAME,com.octinn.birthdayplus #生日管家
+  - PROCESS-NAME,com.okcam.ookcam #小鹰看看
   - PROCESS-NAME,com.onlytongchengzh.com #两性同城聊
   - PROCESS-NAME,com.oppo.store #OPPO商城
   - PROCESS-NAME,com.oupeng.mini.android #欧朋浏览器
@@ -560,6 +567,7 @@ payload:
   - PROCESS-NAME,com.pcncn.jj #作业精灵
   - PROCESS-NAME,com.pdmi.guangzhou.media #广州日报新花城
   - PROCESS-NAME,com.pdmi.studio.newmedia.people.video #人民视频
+  - PROCESS-NAME,com.people.health.doctor #人民好医生
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.phoenix.read #红果免费短剧
   - PROCESS-NAME,com.phone.show #秀来电
@@ -592,7 +600,6 @@ payload:
   - PROCESS-NAME,com.qihuo.yinhe #银河期货开户交易
   - PROCESS-NAME,com.qimingzz.qm #宝宝起名取名
   - PROCESS-NAME,com.qinhe.ispeak #IS语音
-  - PROCESS-NAME,com.qiouou.app #七鸥鸥
   - PROCESS-NAME,com.qiyi.video #爱奇艺
   - PROCESS-NAME,com.qiyi.video.child #爱奇艺奇巴布
   - PROCESS-NAME,com.qiyi.video.lite #爱奇艺极速版
@@ -600,7 +607,6 @@ payload:
   - PROCESS-NAME,com.qiyi.video.reader #爱奇艺小说
   - PROCESS-NAME,com.qlscupgrade #中泰齐富通
   - PROCESS-NAME,com.qp333.car #汽修宝
-  - PROCESS-NAME,com.qq.ac.android #腾讯动漫
   - PROCESS-NAME,com.qq.qcloud #腾讯微云
   - PROCESS-NAME,com.qq.reader #QQ阅读
   - PROCESS-NAME,com.qsmy.walkmonkey #步多多
@@ -621,6 +627,8 @@ payload:
   - PROCESS-NAME,com.samoyed.credit #省呗
   - PROCESS-NAME,com.samsung.android.app.watchmanager #三星智能穿戴
   - PROCESS-NAME,com.sankuai.meituan #美团
+  - PROCESS-NAME,com.sankuai.meituan.dispatch.crowdsource #美团众包
+  - PROCESS-NAME,com.sankuai.meituan.meituanwaimaibusiness #美团外卖商家版
   - PROCESS-NAME,com.sankuai.meituan.merchant #美团经营宝
   - PROCESS-NAME,com.sankuai.meituan.takeoutnew #美团外卖
   - PROCESS-NAME,com.sankuai.movie #猫眼
@@ -628,7 +636,6 @@ payload:
   - PROCESS-NAME,com.sbds.miaoyin #秒音
   - PROCESS-NAME,com.screeclibinvoke #录屏大师
   - PROCESS-NAME,com.sdu.didi.gsui #滴滴车主
-  - PROCESS-NAME,com.sdu.didi.psnger #滴滴
   - PROCESS-NAME,com.sec.android.app.shealth #三星健康
   - PROCESS-NAME,com.sec.android.easyMover #S 换机助手
   - PROCESS-NAME,com.secoo #寺库奢侈品
@@ -671,19 +678,19 @@ payload:
   - PROCESS-NAME,com.sinyee.babybus.amusement #奇妙科普馆
   - PROCESS-NAME,com.sinyee.babybus.babyhospital #宝宝医院
   - PROCESS-NAME,com.sinyee.babybus.chants #宝宝巴士儿歌
+  - PROCESS-NAME,com.sinyee.babybus.chef #宝宝小厨房
   - PROCESS-NAME,com.sinyee.babybus.dining #宝宝爱吃饭
   - PROCESS-NAME,com.sinyee.babybus.drinks #宝宝甜品店
   - PROCESS-NAME,com.sinyee.babybus.food #中华美食
   - PROCESS-NAME,com.sinyee.babybus.foodstreet #宝宝美食街
   - PROCESS-NAME,com.sinyee.babybus.kindergarten #宝宝欢乐教室
   - PROCESS-NAME,com.sinyee.babybus.number #宝宝玩数字
-  - PROCESS-NAME,com.sinyee.babybus.organized #宝宝大扫除
+  - PROCESS-NAME,com.sinyee.babybus.policemen #宝宝小警察
+  - PROCESS-NAME,com.sinyee.babybus.recommendapp #宝宝巴士
   - PROCESS-NAME,com.sinyee.babybus.seaworld #宝宝钓鱼
   - PROCESS-NAME,com.sinyee.babybus.shopping #宝宝超市
   - PROCESS-NAME,com.sinyee.babybus.talk2kiki #宝宝巴士奇妙屋
-  - PROCESS-NAME,com.sinyee.babybus.travelsafety #宝宝出行安全
   - PROCESS-NAME,com.site.maigoo #买购十大品牌排行榜
-  - PROCESS-NAME,com.sktq.weather #实况天气预报
   - PROCESS-NAME,com.skyplatanus.crucio #快点阅读
   - PROCESS-NAME,com.sloth.removelogo #视频去水印全能王
   - PROCESS-NAME,com.smallyin.musiceditor #音乐剪辑助手
@@ -712,7 +719,7 @@ payload:
   - PROCESS-NAME,com.starbucks.cn #星巴克
   - PROCESS-NAME,com.storm.smart #暴风影音
   - PROCESS-NAME,com.student.yuwen.yimilan #一米阅读
-  - PROCESS-NAME,com.sunboxsoft.charge.institute #中油好客e站
+  - PROCESS-NAME,com.suddenfix.customer #闪电修
   - PROCESS-NAME,com.suning.mobile.ebuy #苏宁易购
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
   - PROCESS-NAME,com.sup.android.superb #皮皮虾
@@ -723,7 +730,6 @@ payload:
   - PROCESS-NAME,com.szzc #神州租车
   - PROCESS-NAME,com.szzc.ucar.pilot #神州专车
   - PROCESS-NAME,com.tadu.read #塔读小说
-  - PROCESS-NAME,com.tanyu.me #探遇漂流瓶
   - PROCESS-NAME,com.taobao.etao #一淘
   - PROCESS-NAME,com.taobao.idlefish #闲鱼
   - PROCESS-NAME,com.taobao.litetao #淘宝特价版
@@ -731,6 +737,7 @@ payload:
   - PROCESS-NAME,com.taobao.movie.android #淘票票
   - PROCESS-NAME,com.taobao.qianniu #千牛
   - PROCESS-NAME,com.taobao.trip #飞猪旅行
+  - PROCESS-NAME,com.taomibaw #返利赚钱联盟
   - PROCESS-NAME,com.taowuyou.tbk #淘无忧
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
   - PROCESS-NAME,com.tencent.cmocmna #腾讯手游加速器
@@ -763,6 +770,7 @@ payload:
   - PROCESS-NAME,com.tencent.weishi #腾讯微视
   - PROCESS-NAME,com.tencent.wemeet.app #腾讯会议
   - PROCESS-NAME,com.tencent.weread #微信读书
+  - PROCESS-NAME,com.tencent.xriver #腾讯加速器
   - PROCESS-NAME,com.tencent.zebra #水印相机
   - PROCESS-NAME,com.tgelec.aqsh #安全守护2
   - PROCESS-NAME,com.thestore.main #1号会员店
@@ -810,12 +818,12 @@ payload:
   - PROCESS-NAME,com.vivo.browser #vivo浏览器
   - PROCESS-NAME,com.vivo.health #vivo健康
   - PROCESS-NAME,com.vivo.space #vivo 官网
-  - PROCESS-NAME,com.vmall.client #华为商城
   - PROCESS-NAME,com.vodone.o2o.health_care.demander #医护到家-快天使医护到家用户版
   - PROCESS-NAME,com.wacai365 #挖财记账
   - PROCESS-NAME,com.wakeup.howear #Wearfit Pro
   - PROCESS-NAME,com.wallstreetcn.news #华尔街见闻
   - PROCESS-NAME,com.wandoujia.phoenix2 #豌豆荚
+  - PROCESS-NAME,com.wangtongshe.car #网通社
   - PROCESS-NAME,com.wanmeizhensuo.zhensuo #更美
   - PROCESS-NAME,com.we.keyuan #微商码头
   - PROCESS-NAME,com.webank.wemoney #微众银行
@@ -828,7 +836,6 @@ payload:
   - PROCESS-NAME,com.wifi.reader.free #连尚免费读书
   - PROCESS-NAME,com.winbaoxian.wybx #保险师
   - PROCESS-NAME,com.winderinfo.yashanghui #雅商汇荟
-  - PROCESS-NAME,com.wisentsoft.chinapost.android #中国邮政
   - PROCESS-NAME,com.wkjyqh.wukuangqihuo #五矿期货
   - PROCESS-NAME,com.wkscuiphone #五矿证券
   - PROCESS-NAME,com.wlqq #货车帮司机
@@ -856,6 +863,7 @@ payload:
   - PROCESS-NAME,com.xiaoji.emulator #小鸡模拟器
   - PROCESS-NAME,com.xiaomi.hm.health #Zepp Life
   - PROCESS-NAME,com.xiaomi.mico #小爱音箱
+  - PROCESS-NAME,com.xiaomi.mitv.phone.tvassistant #小米电视助手
   - PROCESS-NAME,com.xiaomi.shop #小米商城
   - PROCESS-NAME,com.xiaomi.smarthome #米家
   - PROCESS-NAME,com.xiaomi.youpin #小米有品
@@ -863,6 +871,7 @@ payload:
   - PROCESS-NAME,com.xiaoying.cardloan #小赢卡贷
   - PROCESS-NAME,com.xiaoyu.rightone #CP
   - PROCESS-NAME,com.xiaozhu.xzdz #小猪民宿
+  - PROCESS-NAME,com.xiguakeji.bddh #北斗侠导航
   - PROCESS-NAME,com.ximalaya.ting.android #喜马拉雅
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xingjiabi.shengsheng #他趣
@@ -871,7 +880,6 @@ payload:
   - PROCESS-NAME,com.xinyongfei.xyf #信用飞
   - PROCESS-NAME,com.xiongmaoqiming.quming #真熊猫起名
   - PROCESS-NAME,com.xiuyuan.phonelive #秀员
-  - PROCESS-NAME,com.xiwei.logistics #运满满司机
   - PROCESS-NAME,com.xiwei.logistics.consignor #运满满货主
   - PROCESS-NAME,com.xk.span.zutuan #美逛
   - PROCESS-NAME,com.xmcy.hykb #好游快爆
@@ -914,16 +922,20 @@ payload:
   - PROCESS-NAME,com.youcheyihou.iyoursuv #有车以后
   - PROCESS-NAME,com.youdao.dict #网易有道词典
   - PROCESS-NAME,com.youdao.note #有道云笔记
+  - PROCESS-NAME,com.youdao.translator #有道翻译官
   - PROCESS-NAME,com.youku.phone #优酷视频
   - PROCESS-NAME,com.youloft.calendar #万年历
   - PROCESS-NAME,com.youxiang.soyoungapp #新氧医美
   - PROCESS-NAME,com.ysy.ayy #木鸟民宿
   - PROCESS-NAME,com.yuanli.recordingSoftware #录音软件
+  - PROCESS-NAME,com.yuanli.shifucomes #师傅来了
   - PROCESS-NAME,com.yuantiku.tutor #猿辅导
   - PROCESS-NAME,com.yuedong.sport #悦动圈
   - PROCESS-NAME,com.yueme.itv #小翼管家
   - PROCESS-NAME,com.yumc.phsuperapp #必胜客
   - PROCESS-NAME,com.yunxiao.haofenshu #好分数
+  - PROCESS-NAME,com.yunxiao.hfs4p #好分数家长版
+  - PROCESS-NAME,com.yunyi.smartcamera #云蚁物联
   - PROCESS-NAME,com.yuyuesports.yuyue.android #羽约运动
   - PROCESS-NAME,com.yx #有信
   - PROCESS-NAME,com.yxcps.trainning #益学堂
@@ -941,11 +953,11 @@ payload:
   - PROCESS-NAME,com.ziipin.homeinn #首旅如家
   - PROCESS-NAME,com.zl.fqbao #招联金融
   - PROCESS-NAME,com.zmlearn.course.am #掌门1对1辅导
-  - PROCESS-NAME,com.zqcm.ysp #医视屏即时医疗版
   - PROCESS-NAME,com.ZWSoft.ZWCAD #CAD看图大师
   - PROCESS-NAME,com.zxscnew #中信证券
   - PROCESS-NAME,com.zybang.parent #作业帮口算
   - PROCESS-NAME,com.zyhd.voice #语音包变声器
+  - PROCESS-NAME,com.zzw.october #志愿汇
   - PROCESS-NAME,consumer.ttpc.com.consumer #天天拍车
   - PROCESS-NAME,cq.people.dddy.application #七一客户端
   - PROCESS-NAME,ctrip.android.view #携程旅行
@@ -958,9 +970,9 @@ payload:
   - PROCESS-NAME,im.weshine.keyboard #KK键盘
   - PROCESS-NAME,im.xingzhe #行者
   - PROCESS-NAME,io.dcloud.H514D19D6 #代练通
-  - PROCESS-NAME,io.dcloud.H576E6CC7 #鱼泡直聘
   - PROCESS-NAME,io.dcloud.H5999961F #宝宝云
   - PROCESS-NAME,io.dcloud.Pintui #品推资讯
+  - PROCESS-NAME,io.dushu.fandengreader #帆书
   - PROCESS-NAME,jiakaokeer.app.good #驾考宝典科目二
   - PROCESS-NAME,jiakaokesan.app.good #驾考宝典科目三
   - PROCESS-NAME,jiakaokesi.app.good #驾考宝典极速版
@@ -970,7 +982,7 @@ payload:
   - PROCESS-NAME,jiaxiao.app.good #驾照宝典
   - PROCESS-NAME,jiaxiaobaodian.app.good #驾校宝典
   - PROCESS-NAME,kehuo.app.good #驾考宝典客货车
-  - PROCESS-NAME,lemi.top.babybooks #汉堡睡前故事
+  - PROCESS-NAME,llbt.ccb.lnga #辽事通
   - PROCESS-NAME,longbin.helloworld #计算管家
   - PROCESS-NAME,mall.dfs168.com.mall #大丰收农服
   - PROCESS-NAME,me.chunyu.ChunyuDoctor #春雨医生
@@ -978,13 +990,12 @@ payload:
   - PROCESS-NAME,me.iweek.rili #生活日历
   - PROCESS-NAME,me.niuke.app.gupiaozhitou #阿牛智投
   - PROCESS-NAME,me.suncloud.marrymemo #婚礼纪
+  - PROCESS-NAME,me.yidui #伊对
   - PROCESS-NAME,net.whty.app.eyu #人人通空间
   - PROCESS-NAME,net.xinhuamm.mainclient #新华社
   - PROCESS-NAME,oms.mmc.app.almanac_inland #老黄历万年历顺历
   - PROCESS-NAME,oms.mmc.fortunetelling #灵机
-  - PROCESS-NAME,one.hh.oneclient #一个
   - PROCESS-NAME,org.zywx.wbpalmstar.widgetone.uexaaagg10001 #安全守护
-  - PROCESS-NAME,predictor.xcomplexfate #灵占星座
   - PROCESS-NAME,protect.eye #护眼宝
   - PROCESS-NAME,shengang.szkingdom.android.phone #申港证券
   - PROCESS-NAME,sina.mobile.tianqitong #天气通
