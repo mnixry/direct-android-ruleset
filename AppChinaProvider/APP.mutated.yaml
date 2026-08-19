@@ -491,7 +491,6 @@ payload:
   - PROCESS-NAME,com.leqi.idpicture #智能证件照
   - PROCESS-NAME,com.letv.android.client #乐视视频
   - PROCESS-NAME,com.letv.android.client.pad #乐视视频Pad
-  - PROCESS-NAME,com.letv.letvshop #乐视商城
   - PROCESS-NAME,com.leuzts.watch #智天使3
   - PROCESS-NAME,com.lezhi.mythcall #北瓜电话
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
