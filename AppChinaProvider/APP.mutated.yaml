@@ -180,7 +180,6 @@ payload:
   - PROCESS-NAME,com.caing.news #财新
   - PROCESS-NAME,com.caishi.cronus #唔哩头条
   - PROCESS-NAME,com.call.myyb #满意网络电话
-  - PROCESS-NAME,com.campmobile.snowcamera #B612咔叽
   - PROCESS-NAME,com.capelabs.leyou #乐友
   - PROCESS-NAME,com.cat.readall #悟空浏览器
   - PROCESS-NAME,com.cbnweekly #第一财经杂志
@@ -417,6 +416,7 @@ payload:
   - PROCESS-NAME,com.ifreetalk.ftalk #派派
   - PROCESS-NAME,com.ihg.apps.android #洲际优悦会
   - PROCESS-NAME,com.ihope.hbdt #冀时新闻
+  - PROCESS-NAME,com.imendon.lovelycolor #少女与猫
   - PROCESS-NAME,com.imgo.pad #芒果TV HD
   - PROCESS-NAME,com.immomo.momo #MOMO陌陌
   - PROCESS-NAME,com.imusic.iting #爱听

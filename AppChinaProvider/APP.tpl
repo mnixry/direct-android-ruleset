@@ -181,7 +181,6 @@ PROCESS-NAME,com.caijing,{{ rule }} # 财经杂志
 PROCESS-NAME,com.caing.news,{{ rule }} # 财新
 PROCESS-NAME,com.caishi.cronus,{{ rule }} # 唔哩头条
 PROCESS-NAME,com.call.myyb,{{ rule }} # 满意网络电话
-PROCESS-NAME,com.campmobile.snowcamera,{{ rule }} # B612咔叽
 PROCESS-NAME,com.capelabs.leyou,{{ rule }} # 乐友
 PROCESS-NAME,com.cat.readall,{{ rule }} # 悟空浏览器
 PROCESS-NAME,com.cbnweekly,{{ rule }} # 第一财经杂志
@@ -419,6 +418,7 @@ PROCESS-NAME,com.iflytek.womusicclient,{{ rule }} # 联通视频彩铃
 PROCESS-NAME,com.ifreetalk.ftalk,{{ rule }} # 派派
 PROCESS-NAME,com.ihg.apps.android,{{ rule }} # 洲际优悦会
 PROCESS-NAME,com.ihope.hbdt,{{ rule }} # 冀时新闻
+PROCESS-NAME,com.imendon.lovelycolor,{{ rule }} # 少女与猫
 PROCESS-NAME,com.imgo.pad,{{ rule }} # 芒果TV HD
 PROCESS-NAME,com.immomo.momo,{{ rule }} # MOMO陌陌
 PROCESS-NAME,com.imusic.iting,{{ rule }} # 爱听
