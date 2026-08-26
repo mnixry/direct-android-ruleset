@@ -21,6 +21,8 @@ included:
   - com.nowcasting.activity # 彩云天气
   - com.coolapk.market # 酷安
   - com.unionpay.tsmservice # 银联可信服务
+  - com.ss.android.lark # 飞书
+  - com.bytedance.lark # Lark (飞书国际版)
 
   # Include all packages starting with com.heytap by PROCESS-NAME-REGEX
   # - regex: ^com\.(?:heytap|oppo|huawei|vivo|xiaomi|coloros|oneplus|oplus)\..*
