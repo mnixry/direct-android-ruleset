@@ -1167,6 +1167,8 @@ payload:
   - PROCESS-NAME,com.nowcasting.activity
   - PROCESS-NAME,com.coolapk.market
   - PROCESS-NAME,com.unionpay.tsmservice
+  - PROCESS-NAME,com.ss.android.lark
+  - PROCESS-NAME,com.bytedance.lark
   - PROCESS-NAME-REGEX,^com\.(?:heytap|oppo|coloros|oneplus|oplus)\..*
   - PROCESS-NAME-REGEX,^com\.huawei\..*
   - PROCESS-NAME-REGEX,^com\.vivo\..*

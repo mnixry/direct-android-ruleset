@@ -973,7 +973,6 @@ PROCESS-NAME,com.touchtech.bbword,{{ rule }} # 儿童脑筋急转弯
 PROCESS-NAME,com.touchtech.etpintu,{{ rule }} # 宝宝儿童来拼图
 PROCESS-NAME,com.touchtech.klCake,{{ rule }} # 宝宝过生日
 PROCESS-NAME,com.ubestkid.jigsawpuzzle.a,{{ rule }} # 贝乐虎拼图
-PROCESS-NAME,com.uqee.lying.maingame,{{ rule }} # 卧龙吟-手机版
 PROCESS-NAME,com.ustwo.monumentvalleyzz,{{ rule }} # 纪念碑谷
 PROCESS-NAME,com.wedobest.HD1010,{{ rule }} # 罗斯方块
 PROCESS-NAME,com.wedobest.llk,{{ rule }} # 连连看

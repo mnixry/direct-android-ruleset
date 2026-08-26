@@ -1167,6 +1167,8 @@ PROCESS-NAME,cn.com.bmac.nfc,{{ rule }}
 PROCESS-NAME,com.nowcasting.activity,{{ rule }}
 PROCESS-NAME,com.coolapk.market,{{ rule }}
 PROCESS-NAME,com.unionpay.tsmservice,{{ rule }}
+PROCESS-NAME,com.ss.android.lark,{{ rule }}
+PROCESS-NAME,com.bytedance.lark,{{ rule }}
 PROCESS-NAME-REGEX,^com\.(?:heytap|oppo|coloros|oneplus|oplus)\..*,{{ rule }}
 PROCESS-NAME-REGEX,^com\.huawei\..*,{{ rule }}
 PROCESS-NAME-REGEX,^com\.vivo\..*,{{ rule }}
