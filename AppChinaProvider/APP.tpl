@@ -172,6 +172,7 @@ PROCESS-NAME,com.baijiu.bizhi.sjbixiaz,{{ rule }} # Wallpaper
 PROCESS-NAME,com.bankcomm.Bankcomm,{{ rule }} # 交通银行
 PROCESS-NAME,com.bankcomm.maidanba,{{ rule }} # 买单吧
 PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD,{{ rule }} # 古剑奇谭之风晴雪-3D桌面主题
+PROCESS-NAME,com.baoruan.vmiic,{{ rule }} # 主题商店
 PROCESS-NAME,com.baoruan.wallpaper.lmaczcgcdjTJGknirRd,{{ rule }} # 绚丽水晶-桌面壁纸
 PROCESS-NAME,com.barmak.client.fast,{{ rule }} # BARMAK维语输入法
 PROCESS-NAME,com.bbbao.shop.client.android.activity,{{ rule }} # 比比宝
@@ -610,7 +611,7 @@ PROCESS-NAME,com.messi.languagehelper,{{ rule }} # 中英互译
 PROCESS-NAME,com.mgyun.rootmaster,{{ rule }} # ROOT大师
 PROCESS-NAME,com.microsoft.emmx,{{ rule }} # Edge
 PROCESS-NAME,com.microsoft.launcher,{{ rule }} # 微软桌面
-PROCESS-NAME,com.microsoft.office.officehub,{{ rule }} # Microsoft 365 Copilot
+PROCESS-NAME,com.microsoft.office.officehub,{{ rule }} # Copilot
 PROCESS-NAME,com.microsoft.skydrive,{{ rule }} # OneDrive
 PROCESS-NAME,com.mifeng.ui,{{ rule }} # 蜜疯直播
 PROCESS-NAME,com.mihoyo.hyperion,{{ rule }} # 米游社

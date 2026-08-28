@@ -172,6 +172,7 @@ payload:
   - PROCESS-NAME,com.bankcomm.Bankcomm #交通银行
   - PROCESS-NAME,com.bankcomm.maidanba #买单吧
   - PROCESS-NAME,com.baoruan.theme.mhczpffedYqofhovJAD #古剑奇谭之风晴雪-3D桌面主题
+  - PROCESS-NAME,com.baoruan.vmiic #主题商店
   - PROCESS-NAME,com.baoruan.wallpaper.lmaczcgcdjTJGknirRd #绚丽水晶-桌面壁纸
   - PROCESS-NAME,com.barmak.client.fast #BARMAK维语输入法
   - PROCESS-NAME,com.bbbao.shop.client.android.activity #比比宝
@@ -610,7 +611,7 @@ payload:
   - PROCESS-NAME,com.mgyun.rootmaster #ROOT大师
   - PROCESS-NAME,com.microsoft.emmx #Edge
   - PROCESS-NAME,com.microsoft.launcher #微软桌面
-  - PROCESS-NAME,com.microsoft.office.officehub #Microsoft 365 Copilot
+  - PROCESS-NAME,com.microsoft.office.officehub #Copilot
   - PROCESS-NAME,com.microsoft.skydrive #OneDrive
   - PROCESS-NAME,com.mifeng.ui #蜜疯直播
   - PROCESS-NAME,com.mihoyo.hyperion #米游社
