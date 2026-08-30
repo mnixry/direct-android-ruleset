@@ -136,7 +136,6 @@ payload:
   - PROCESS-NAME,com.appcina.anpai.2019112101 #Artpaper：有 1,300 多张艺术画壁纸可每日更换
   - PROCESS-NAME,com.appcina.anpai.2019112901 #Hola Px - 我的专属精选壁纸专家
   - PROCESS-NAME,com.appcina.anpai.2019122013 #WLPPR - background wallpapers
-  - PROCESS-NAME,com.appcina.anpai.2019122604 #LiveFun - 自定义动态壁纸
   - PROCESS-NAME,com.appcina.anpai.2020011202 #Berkanan Messenger
   - PROCESS-NAME,com.apprush.game.chinesechar #汉语字典
   - PROCESS-NAME,com.appshare.android.ilisten #口袋故事
@@ -584,6 +583,7 @@ payload:
   - PROCESS-NAME,com.ludashi.benchmark #鲁大师
   - PROCESS-NAME,com.luna.music #汽水音乐
   - PROCESS-NAME,com.luojilab.player #得到
+  - PROCESS-NAME,com.luoyu.gangqin #真实钢琴
   - PROCESS-NAME,com.luoyu.shichanglianer #视唱练耳
   - PROCESS-NAME,com.lyh.talkphoto #让照片会说话
   - PROCESS-NAME,com.lyx.piano #钢琴节奏键盘大师
