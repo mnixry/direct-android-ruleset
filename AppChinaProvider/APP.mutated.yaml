@@ -27,7 +27,6 @@ payload:
   - PROCESS-NAME,cn.com.enorth.jinyun #津云
   - PROCESS-NAME,cn.com.gjzq.yjb.kh #国金证券开户
   - PROCESS-NAME,cn.com.gxrb.client #广西云
-  - PROCESS-NAME,cn.com.modernmedia.businessweek #iBloomberg i商周
   - PROCESS-NAME,cn.com.modernmedia.modernlady #InStyle iLady
   - PROCESS-NAME,cn.com.nbd.nbdmobile #每日经济新闻
   - PROCESS-NAME,cn.com.open.mooc #慕课网
@@ -101,7 +100,6 @@ payload:
   - PROCESS-NAME,com.admin.dingdongphone #叮咚网络电话
   - PROCESS-NAME,com.adnonstop.mancamera2017 #型影
   - PROCESS-NAME,com.advasoft.touchretouch #TouchRetouch
-  - PROCESS-NAME,com.agoda.mobile.consumer #Agoda安可达
   - PROCESS-NAME,com.aheading.news.lanzhourb #奔流新闻
   - PROCESS-NAME,com.ahnews.newsclient #中安在线
   - PROCESS-NAME,com.alarmclock #闹钟
@@ -217,6 +215,7 @@ payload:
   - PROCESS-NAME,com.chaozh.iReaderFree #掌阅
   - PROCESS-NAME,com.chaozh.iReaderFree15 #油梨
   - PROCESS-NAME,com.chenai.eyes #夜间模式
+  - PROCESS-NAME,com.china3s.android #春秋航空
   - PROCESS-NAME,com.chinaamc.MainActivityAMC #华夏基金管家
   - PROCESS-NAME,com.chinaamc.mfbh.amcActivity #华夏活期通
   - PROCESS-NAME,com.chinablue.tv #Z视介
@@ -292,7 +291,6 @@ payload:
   - PROCESS-NAME,com.duoduo.child.story #儿歌多多
   - PROCESS-NAME,com.duoduo.child.storyhd #儿歌多多HD
   - PROCESS-NAME,com.duokan.phone.remotecontroller #万能遥控
-  - PROCESS-NAME,com.duokan.reader #多看
   - PROCESS-NAME,com.duowan.kiwi #虎牙直播
   - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.duxiaoman.umoney #有钱花
@@ -646,6 +644,7 @@ payload:
   - PROCESS-NAME,com.nd.android.pandareader #熊猫看书
   - PROCESS-NAME,com.neil #返利助手
   - PROCESS-NAME,com.net263.ecm.display #263移动会议
+  - PROCESS-NAME,com.netease.a13.avg #易次元
   - PROCESS-NAME,com.netease.buff #网易BUFF
   - PROCESS-NAME,com.netease.cc #CC直播
   - PROCESS-NAME,com.netease.cloudmusic #网易云音乐
@@ -826,6 +825,7 @@ payload:
   - PROCESS-NAME,com.smsf.iwallpaper #壁纸自定义
   - PROCESS-NAME,com.smzdm.client.android #什么值得买
   - PROCESS-NAME,com.snda.wifilocating #WiFi万能钥匙
+  - PROCESS-NAME,com.sohu.infonews #搜狐资讯
   - PROCESS-NAME,com.sohu.inputmethod.sogou #搜狗输入法
   - PROCESS-NAME,com.sohu.mail.client.cordova #搜狐邮箱
   - PROCESS-NAME,com.sohu.newsclient #搜狐新闻
@@ -1011,6 +1011,7 @@ payload:
   - PROCESS-NAME,com.xuexiang.myring #炫铃声
   - PROCESS-NAME,com.xunlei.downloadprovider #迅雷
   - PROCESS-NAME,com.xunmeng.merchant #拼多多商家版
+  - PROCESS-NAME,com.xunyou.rb #次元姬小说
   - PROCESS-NAME,com.xvideostudio.videoeditor #乐秀视频剪辑视频编辑
   - PROCESS-NAME,com.xyhui #PU口袋校园
   - PROCESS-NAME,com.yaoo.qlauncher #如意老人桌面
