@@ -94,7 +94,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2019092309 #冠军超音速 安卓版
   - PROCESS-NAME,com.appchina.yugao.2019100901 #元气小狗 安卓版
   - PROCESS-NAME,com.appchina.yugao.2019101601 #英雄联盟：格斗
-  - PROCESS-NAME,com.appchina.yugao.2019120402 #神奇猫咪在哪里
   - PROCESS-NAME,com.appchina.yugao.2019121413 #古树旋律2
   - PROCESS-NAME,com.appchina.yugao.2019122601 #古树旋律：重生
   - PROCESS-NAME,com.appchina.yugao.2020011604 #冠军农场
@@ -108,7 +107,6 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2020042406 #漫威vs.卡普空：无限
   - PROCESS-NAME,com.appchina.yugao.2020042802 #节奏快打
   - PROCESS-NAME,com.appchina.yugao.2020060406 #萌龙训练师
-  - PROCESS-NAME,com.appchina.yugao.2020062204 #BanGround
   - PROCESS-NAME,com.appchina.yugao.2020070312 #足球俱乐部经理 2021
   - PROCESS-NAME,com.appchina.yugao.2020073006 #无限激战
   - PROCESS-NAME,com.appchina.yugao.2020080310 #娃娃计划
@@ -128,6 +126,7 @@ payload:
   - PROCESS-NAME,com.appchina.yugao.2021070709 #实况足球2022
   - PROCESS-NAME,com.appchina.yugao.2021071501 #NBA 2K22
   - PROCESS-NAME,com.appchina.yugao.2021081905 #像素职业棒球
+  - PROCESS-NAME,com.appchina.yugao.2021092601 #SuperStar YG
   - PROCESS-NAME,com.appchina.yugao.2021111117 #Futsal Boys
   - PROCESS-NAME,com.appchina.yugao.2021112210 #缪斯音街
   - PROCESS-NAME,com.appchina.yugao.2022020701 #奥林匹克运动会：北京2022
@@ -490,6 +489,7 @@ payload:
   - PROCESS-NAME,com.leoexe.archery #策马入山林
   - PROCESS-NAME,com.leosfortune #里奥的财富
   - PROCESS-NAME,com.lila.beatracer #节奏超跑
+  - PROCESS-NAME,com.lilithgame.pgame.android.cn #塔塔冒险队
   - PROCESS-NAME,com.lima.doodlejump #涂鸦跳跃
   - PROCESS-NAME,com.linecorp.LGRGS #LINE Rangers
   - PROCESS-NAME,com.linkdeskstudio.popcat #欢乐碰碰猫
