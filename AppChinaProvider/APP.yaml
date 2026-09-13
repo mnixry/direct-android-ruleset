@@ -70,7 +70,6 @@ payload:
   - PROCESS-NAME,cn.ledongli.ldl #乐动力
   - PROCESS-NAME,cn.longmaster.pengpeng #语玩
   - PROCESS-NAME,cn.lrapps.changliaocall #畅聊网络电话
-  - PROCESS-NAME,cn.lrapps.yitongcall #易通网络电话
   - PROCESS-NAME,cn.mama.activity #妈妈网轻聊
   - PROCESS-NAME,cn.mopon.film.xflh #幸福看
   - PROCESS-NAME,cn.myhug.baobao #抱抱直播
@@ -362,6 +361,7 @@ payload:
   - PROCESS-NAME,com.gaoping.makewallpaper #动态壁纸制作
   - PROCESS-NAME,com.gator.mm #美女图集大全
   - PROCESS-NAME,com.gau.go.launcherex.theme.droidglass #玻璃主题包
+  - PROCESS-NAME,com.gbcom.gwifi.school #GiWiFi校园助手
   - PROCESS-NAME,com.gdwx.cnwest #陕西头条
   - PROCESS-NAME,com.geihui #给惠网
   - PROCESS-NAME,com.gem.tastyfood #食行生鲜
@@ -926,6 +926,7 @@ payload:
   - PROCESS-NAME,com.tongcheng.android #同程旅行
   - PROCESS-NAME,com.topgether.sixfoot #六只脚
   - PROCESS-NAME,com.towords #拓词
+  - PROCESS-NAME,com.tpv.familylink #菲家
   - PROCESS-NAME,com.trantor.genesis #维迈通多多
   - PROCESS-NAME,com.tripadvisor.tripadvisor.daodao #Tripadvisor猫途鹰
   - PROCESS-NAME,com.truckhome.bbs #卡车之家
