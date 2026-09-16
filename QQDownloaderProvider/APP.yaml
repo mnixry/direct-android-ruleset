@@ -62,7 +62,6 @@ payload:
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.szjxgs.szjob #工友通
-  - PROCESS-NAME,cn.wangxiao.app #中大网校
   - PROCESS-NAME,cn.wangxiao.cpazhuntiku #注册会计师准题库
   - PROCESS-NAME,cn.wangxiao.gwyzhuntiku #公务员准题库
   - PROCESS-NAME,cn.xiaochuankeji.tieba #最右
@@ -499,6 +498,7 @@ payload:
   - PROCESS-NAME,com.mcdonalds.gma.cn #麦当劳
   - PROCESS-NAME,com.mediabox.voicechanger #安卓变声器
   - PROCESS-NAME,com.meelive.ingkee #映客直播
+  - PROCESS-NAME,com.meijialove.activity #美甲帮
   - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.meipaimv #美拍
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机

@@ -117,7 +117,6 @@ PROCESS-NAME,cn.soulapp.android,{{ rule }} # Soul
 PROCESS-NAME,cn.szjxgs.szjob,{{ rule }} # 工友通
 PROCESS-NAME,cn.tianya.light,{{ rule }} # 天涯社区
 PROCESS-NAME,cn.vcinema.cinema,{{ rule }} # 南瓜电影
-PROCESS-NAME,cn.wangxiao.app,{{ rule }} # 中大网校
 PROCESS-NAME,cn.wangxiao.cpazhuntiku,{{ rule }} # 注册会计师准题库
 PROCESS-NAME,cn.wangxiao.gwyzhuntiku,{{ rule }} # 公务员准题库
 PROCESS-NAME,cn.weli.sweet,{{ rule }} # CUCU
@@ -889,6 +888,7 @@ PROCESS-NAME,com.mediabox.voicechanger,{{ rule }} # 安卓变声器
 PROCESS-NAME,com.meelive.ingkee,{{ rule }} # 映客直播
 PROCESS-NAME,com.meet.pianolearn,{{ rule }} # 钢琴教练
 PROCESS-NAME,com.meetstudio.app.Zither,{{ rule }} # 魔幻古筝
+PROCESS-NAME,com.meijialove.activity,{{ rule }} # 美甲帮
 PROCESS-NAME,com.meitianmeihuimtmh.app,{{ rule }} # 喵小盒
 PROCESS-NAME,com.meitu.makeup,{{ rule }} # 美妆相机
 PROCESS-NAME,com.meitu.meipaimv,{{ rule }} # 美拍

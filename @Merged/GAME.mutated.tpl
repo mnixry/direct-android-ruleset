@@ -116,7 +116,6 @@ PROCESS-NAME,com.appchina.yugao.2020060406,{{ rule }} # 萌龙训练师
 PROCESS-NAME,com.appchina.yugao.2020070312,{{ rule }} # 足球俱乐部经理 2021
 PROCESS-NAME,com.appchina.yugao.2020073006,{{ rule }} # 无限激战
 PROCESS-NAME,com.appchina.yugao.2020080310,{{ rule }} # 娃娃计划
-PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
 PROCESS-NAME,com.appchina.yugao.2020090305,{{ rule }} # 音乐少女
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
@@ -130,6 +129,7 @@ PROCESS-NAME,com.appchina.yugao.2021052007,{{ rule }} # 阳春艺曲
 PROCESS-NAME,com.appchina.yugao.2021060103,{{ rule }} # NEEDY GIRL OVERDOSE
 PROCESS-NAME,com.appchina.yugao.2021070511,{{ rule }} # 索尼克在2020东京奥运会
 PROCESS-NAME,com.appchina.yugao.2021070709,{{ rule }} # 实况足球2022
+PROCESS-NAME,com.appchina.yugao.2021071401,{{ rule }} # FIFA 22 
 PROCESS-NAME,com.appchina.yugao.2021071501,{{ rule }} # NBA 2K22
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
 PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
@@ -1549,7 +1549,6 @@ PROCESS-NAME,com.tencent.tmgp.twsklrjx,{{ rule }} # 时空猎人·觉醒
 PROCESS-NAME,com.tencent.tmgp.twxydlly,{{ rule }} # 新月大陆
 PROCESS-NAME,com.tencent.tmgp.twyscq,{{ rule }} # 原始传奇
 PROCESS-NAME,com.tencent.tmgp.twzzjhly,{{ rule }} # 自在江湖
-PROCESS-NAME,com.tencent.tmgp.tx,{{ rule }} # 天下
 PROCESS-NAME,com.tencent.tmgp.txgxxy2024,{{ rule }} # 三国：天下归心
 PROCESS-NAME,com.tencent.tmgp.txsgsj,{{ rule }} # 三国世界
 PROCESS-NAME,com.tencent.tmgp.tydoudizhu,{{ rule }} # 途游斗地主（比赛版）

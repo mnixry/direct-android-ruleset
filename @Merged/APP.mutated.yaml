@@ -117,7 +117,6 @@ payload:
   - PROCESS-NAME,cn.szjxgs.szjob #工友通
   - PROCESS-NAME,cn.tianya.light #天涯社区
   - PROCESS-NAME,cn.vcinema.cinema #南瓜电影
-  - PROCESS-NAME,cn.wangxiao.app #中大网校
   - PROCESS-NAME,cn.wangxiao.cpazhuntiku #注册会计师准题库
   - PROCESS-NAME,cn.wangxiao.gwyzhuntiku #公务员准题库
   - PROCESS-NAME,cn.weli.sweet #CUCU
@@ -889,6 +888,7 @@ payload:
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meet.pianolearn #钢琴教练
   - PROCESS-NAME,com.meetstudio.app.Zither #魔幻古筝
+  - PROCESS-NAME,com.meijialove.activity #美甲帮
   - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.makeup #美妆相机
   - PROCESS-NAME,com.meitu.meipaimv #美拍

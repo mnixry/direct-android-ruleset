@@ -787,7 +787,6 @@ PROCESS-NAME,com.tencent.tmgp.twsklrjx,{{ rule }} # 时空猎人·觉醒
 PROCESS-NAME,com.tencent.tmgp.twxydlly,{{ rule }} # 新月大陆
 PROCESS-NAME,com.tencent.tmgp.twyscq,{{ rule }} # 原始传奇
 PROCESS-NAME,com.tencent.tmgp.twzzjhly,{{ rule }} # 自在江湖
-PROCESS-NAME,com.tencent.tmgp.tx,{{ rule }} # 天下
 PROCESS-NAME,com.tencent.tmgp.txgxxy2024,{{ rule }} # 三国：天下归心
 PROCESS-NAME,com.tencent.tmgp.txsgsj,{{ rule }} # 三国世界
 PROCESS-NAME,com.tencent.tmgp.tydoudizhu,{{ rule }} # 途游斗地主（比赛版）
