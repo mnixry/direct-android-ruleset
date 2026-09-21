@@ -977,6 +977,7 @@ payload:
   - PROCESS-NAME,com.wm.dmall #多点
   - PROCESS-NAME,com.wole56.ishow #我秀
   - PROCESS-NAME,com.womai #中粮我买网
+  - PROCESS-NAME,com.wondertek.cj_yun #长江云
   - PROCESS-NAME,com.wondertek.paper #澎湃新闻
   - PROCESS-NAME,com.wuba #58同城
   - PROCESS-NAME,com.wuba.zhuanzhuan #转转
