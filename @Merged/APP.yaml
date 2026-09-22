@@ -148,6 +148,7 @@ payload:
   - PROCESS-NAME,com.ahnews.newsclient #中安在线
   - PROCESS-NAME,com.ai.marki #马克水印相机
   - PROCESS-NAME,com.aikan #免费小说大全
+  - PROCESS-NAME,com.aiwu.market #爱吾游戏宝盒
   - PROCESS-NAME,com.alarmclock #闹钟
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.android.rimet #钉钉
@@ -214,7 +215,7 @@ payload:
   - PROCESS-NAME,com.baidu.input_mi #百度输入法小米版
   - PROCESS-NAME,com.baidu.lbs.crowdapp #地图淘金
   - PROCESS-NAME,com.baidu.netdisk #百度网盘
-  - PROCESS-NAME,com.baidu.searchbox #百度
+  - PROCESS-NAME,com.baidu.searchbox #百度APP
   - PROCESS-NAME,com.baidu.searchbox.lite #百度极速版
   - PROCESS-NAME,com.baidu.tieba #百度贴吧
   - PROCESS-NAME,com.baidu.video #百搜视频
@@ -1296,7 +1297,6 @@ payload:
   - PROCESS-NAME,com.telecom.video #天翼超高清
   - PROCESS-NAME,com.tencent.android.qqdownloader #应用宝
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
-  - PROCESS-NAME,com.tencent.cmocmna #腾讯手游加速器
   - PROCESS-NAME,com.tencent.djcity #掌上道聚城
   - PROCESS-NAME,com.tencent.gallerymanager #腾讯相册管家
   - PROCESS-NAME,com.tencent.gamehelper #腾讯游戏助手
@@ -1618,7 +1618,7 @@ payload:
   - PROCESS-NAME,com.zhubajie.client #猪八戒
   - PROCESS-NAME,com.zhutisp.sdbzcm #主题商店免费
   - PROCESS-NAME,com.ziipin.homeinn #首旅如家
-  - PROCESS-NAME,com.ziipin.softkeyboard.kazakh #Kazakhsha Kirgizwshi
+  - PROCESS-NAME,com.ziipin.softkeyboard.kazakh #Badam哈语输入法
   - PROCESS-NAME,com.zlj.picture.recover.restore.master #图片恢复
   - PROCESS-NAME,com.zmlearn.course.am #掌门1对1辅导
   - PROCESS-NAME,com.zol.android #中关村在线

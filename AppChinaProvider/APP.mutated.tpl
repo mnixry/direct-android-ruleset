@@ -1075,7 +1075,7 @@ PROCESS-NAME,com.zhihu.daily.android,{{ rule }} # 知乎日报
 PROCESS-NAME,com.zhongan.insurance,{{ rule }} # 众安保险
 PROCESS-NAME,com.zhubajie.client,{{ rule }} # 猪八戒
 PROCESS-NAME,com.zhutisp.sdbzcm,{{ rule }} # 主题商店免费
-PROCESS-NAME,com.ziipin.softkeyboard.kazakh,{{ rule }} # Kazakhsha Kirgizwshi
+PROCESS-NAME,com.ziipin.softkeyboard.kazakh,{{ rule }} # Badam哈语输入法
 PROCESS-NAME,com.zlj.picture.recover.restore.master,{{ rule }} # 图片恢复
 PROCESS-NAME,com.zol.android,{{ rule }} # 中关村在线
 PROCESS-NAME,com.zongheng.reader,{{ rule }} # 纵横小说

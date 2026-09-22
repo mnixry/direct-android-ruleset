@@ -1082,7 +1082,7 @@ payload:
   - PROCESS-NAME,com.zhongan.insurance #众安保险
   - PROCESS-NAME,com.zhubajie.client #猪八戒
   - PROCESS-NAME,com.zhutisp.sdbzcm #主题商店免费
-  - PROCESS-NAME,com.ziipin.softkeyboard.kazakh #Kazakhsha Kirgizwshi
+  - PROCESS-NAME,com.ziipin.softkeyboard.kazakh #Badam哈语输入法
   - PROCESS-NAME,com.zlj.picture.recover.restore.master #图片恢复
   - PROCESS-NAME,com.zol.android #中关村在线
   - PROCESS-NAME,com.zongheng.reader #纵横小说

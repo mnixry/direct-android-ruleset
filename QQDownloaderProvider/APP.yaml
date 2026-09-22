@@ -80,6 +80,7 @@ payload:
   - PROCESS-NAME,com.ai.marki #马克水印相机
   - PROCESS-NAME,com.aikan #免费小说大全
   - PROCESS-NAME,com.airbnb.android #爱彼迎
+  - PROCESS-NAME,com.aiwu.market #爱吾游戏宝盒
   - PROCESS-NAME,com.alibaba.ailabs.tg #天猫精灵
   - PROCESS-NAME,com.alibaba.wireless #阿里巴巴
   - PROCESS-NAME,com.aliyun.tongyi #千问
@@ -111,7 +112,7 @@ payload:
   - PROCESS-NAME,com.baidu.iknow #百度知道
   - PROCESS-NAME,com.baidu.input #百度输入法
   - PROCESS-NAME,com.baidu.netdisk #百度网盘
-  - PROCESS-NAME,com.baidu.searchbox #百度
+  - PROCESS-NAME,com.baidu.searchbox #百度APP
   - PROCESS-NAME,com.baidu.searchbox.lite #百度极速版
   - PROCESS-NAME,com.baidu.video #百搜视频
   - PROCESS-NAME,com.baidu.wenku #百度文库
@@ -740,7 +741,6 @@ payload:
   - PROCESS-NAME,com.taowuyou.tbk #淘无忧
   - PROCESS-NAME,com.teamnet.hula #粤听
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
-  - PROCESS-NAME,com.tencent.cmocmna #腾讯手游加速器
   - PROCESS-NAME,com.tencent.gallerymanager #腾讯相册管家
   - PROCESS-NAME,com.tencent.gamehelper #腾讯游戏助手
   - PROCESS-NAME,com.tencent.gamehelper.dnf #DNF助手
