@@ -97,6 +97,7 @@ PROCESS-NAME,com.appchina.yugao.2019101601,{{ rule }} # 英雄联盟：格斗
 PROCESS-NAME,com.appchina.yugao.2019121413,{{ rule }} # 古树旋律2
 PROCESS-NAME,com.appchina.yugao.2019122601,{{ rule }} # 古树旋律：重生
 PROCESS-NAME,com.appchina.yugao.2020011604,{{ rule }} # 冠军农场
+PROCESS-NAME,com.appchina.yugao.2020011702,{{ rule }} # 世嘉口袋创造球会
 PROCESS-NAME,com.appchina.yugao.2020012101,{{ rule }} # 不可名状的养成
 PROCESS-NAME,com.appchina.yugao.2020020407,{{ rule }} # 猫宅97
 PROCESS-NAME,com.appchina.yugao.2020021103,{{ rule }} # CHARRUA SOCCER
@@ -106,10 +107,10 @@ PROCESS-NAME,com.appchina.yugao.2020032002,{{ rule }} # 勇气与荣耀
 PROCESS-NAME,com.appchina.yugao.2020042406,{{ rule }} # 漫威vs.卡普空：无限
 PROCESS-NAME,com.appchina.yugao.2020042802,{{ rule }} # 节奏快打
 PROCESS-NAME,com.appchina.yugao.2020060406,{{ rule }} # 萌龙训练师
+PROCESS-NAME,com.appchina.yugao.2020062204,{{ rule }} # BanGround
 PROCESS-NAME,com.appchina.yugao.2020070312,{{ rule }} # 足球俱乐部经理 2021
 PROCESS-NAME,com.appchina.yugao.2020073006,{{ rule }} # 无限激战
 PROCESS-NAME,com.appchina.yugao.2020080310,{{ rule }} # 娃娃计划
-PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
 PROCESS-NAME,com.appchina.yugao.2020090305,{{ rule }} # 音乐少女
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
@@ -126,7 +127,6 @@ PROCESS-NAME,com.appchina.yugao.2021070709,{{ rule }} # 实况足球2022
 PROCESS-NAME,com.appchina.yugao.2021071401,{{ rule }} # FIFA 22 
 PROCESS-NAME,com.appchina.yugao.2021071501,{{ rule }} # NBA 2K22
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
-PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
 PROCESS-NAME,com.appchina.yugao.2021111117,{{ rule }} # Futsal Boys
 PROCESS-NAME,com.appchina.yugao.2021112210,{{ rule }} # 缪斯音街
 PROCESS-NAME,com.appchina.yugao.2022020701,{{ rule }} # 奥林匹克运动会：北京2022
