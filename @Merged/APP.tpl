@@ -23,7 +23,6 @@ PROCESS-NAME,cn.banshenggua.aichang,{{ rule }} # 爱唱
 PROCESS-NAME,cn.bdqn.pictureview,{{ rule }} # 手机图库
 PROCESS-NAME,cn.bluecrane.album,{{ rule }} # 相册管家
 PROCESS-NAME,cn.bluecrane.calendar,{{ rule }} # 万年历黄历
-PROCESS-NAME,cn.bluecrane.private_album,{{ rule }} # 私密相册
 PROCESS-NAME,cn.buding.martin,{{ rule }} # 微车
 PROCESS-NAME,cn.caocaokeji.user,{{ rule }} # 曹操出行
 PROCESS-NAME,cn.cbct.seefm,{{ rule }} # 听见广播
@@ -1100,7 +1099,7 @@ PROCESS-NAME,com.roamingsoft.manager,{{ rule }} # WiFi连接管理器
 PROCESS-NAME,com.rong.fastloan,{{ rule }} # 时光分期
 PROCESS-NAME,com.rong360.app,{{ rule }} # 融360
 PROCESS-NAME,com.ruanmei.ithome,{{ rule }} # IT之家
-PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影视大全看看
+PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影评大全看看
 PROCESS-NAME,com.runbey.ybjk,{{ rule }} # 元贝驾考
 PROCESS-NAME,com.sainti.eduread,{{ rule }} # 出口成章
 PROCESS-NAME,com.samoyed.credit,{{ rule }} # 省呗
@@ -1376,7 +1375,6 @@ PROCESS-NAME,com.tst.tinsecret,{{ rule }} # TST庭秘密
 PROCESS-NAME,com.tttci.tik,{{ rule }} # 提客AI提词器
 PROCESS-NAME,com.ttxg.fruitday,{{ rule }} # 天天果园
 PROCESS-NAME,com.tudou.android,{{ rule }} # 土豆
-PROCESS-NAME,com.tuhao.lulu,{{ rule }} # lulu直播
 PROCESS-NAME,com.tujia.hotel,{{ rule }} # 途家民宿
 PROCESS-NAME,com.tuniu.app.ui,{{ rule }} # 途牛旅游
 PROCESS-NAME,com.tuoniu.pingmuezuo,{{ rule }} # 屏幕恶作剧
@@ -1637,6 +1635,7 @@ PROCESS-NAME,com.zzw.october,{{ rule }} # 志愿汇
 PROCESS-NAME,consumer.ttpc.com.consumer,{{ rule }} # 天天拍车
 PROCESS-NAME,cszy.wdtk.dntkbz,{{ rule }} # 我的图库
 PROCESS-NAME,ctrip.android.view,{{ rule }} # 携程旅行
+PROCESS-NAME,dji.go.v5,{{ rule }} # DJI Fly
 PROCESS-NAME,dongzheng.szkingdom.android.phone,{{ rule }} # 掌证宝
 PROCESS-NAME,enfc.metro,{{ rule }} # 亿通行
 PROCESS-NAME,epson.print,{{ rule }} # Epson iPrint

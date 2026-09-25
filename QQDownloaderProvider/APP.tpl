@@ -619,7 +619,7 @@ PROCESS-NAME,com.renrendai.haohuan,{{ rule }} # 好分期
 PROCESS-NAME,com.renxing.xys,{{ rule }} # 性用社
 PROCESS-NAME,com.rong.fastloan,{{ rule }} # 时光分期
 PROCESS-NAME,com.rong360.app,{{ rule }} # 融360
-PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影视大全看看
+PROCESS-NAME,com.rumtel.mobiletv,{{ rule }} # 影评大全看看
 PROCESS-NAME,com.runbey.ybjk,{{ rule }} # 元贝驾考
 PROCESS-NAME,com.sainti.eduread,{{ rule }} # 出口成章
 PROCESS-NAME,com.samoyed.credit,{{ rule }} # 省呗

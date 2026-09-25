@@ -645,7 +645,7 @@ PROCESS-NAME,com.qch.market,{{ rule }} # 拇指玩
 PROCESS-NAME,com.qidian.dldl.yyh,{{ rule }} # 新斗罗大陆
 PROCESS-NAME,com.qmzx.ezfy.yyh,{{ rule }} # 二战风云2
 PROCESS-NAME,com.qqgame.happymj,{{ rule }} # 欢乐麻将
-PROCESS-NAME,com.qqgame.hlddz,{{ rule }} # 欢乐斗地主
+PROCESS-NAME,com.qqgame.hlddz,{{ rule }} # 腾讯欢乐斗地主
 PROCESS-NAME,com.qqgame.mic,{{ rule }} # 英雄杀
 PROCESS-NAME,com.quadowl.craftking,{{ rule }} # 我的王国
 PROCESS-NAME,com.rappidstudios.simulatorbattlephysics,{{ rule }} # 史诗战斗模拟器2

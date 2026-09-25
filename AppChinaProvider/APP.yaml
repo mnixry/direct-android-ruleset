@@ -18,7 +18,6 @@ payload:
   - PROCESS-NAME,cn.bdqn.pictureview #手机图库
   - PROCESS-NAME,cn.bluecrane.album #相册管家
   - PROCESS-NAME,cn.bluecrane.calendar #万年历黄历
-  - PROCESS-NAME,cn.bluecrane.private_album #私密相册
   - PROCESS-NAME,cn.buding.martin #微车
   - PROCESS-NAME,cn.cj.pe #139邮箱
   - PROCESS-NAME,cn.cntv #央视影音
@@ -749,7 +748,7 @@ payload:
   - PROCESS-NAME,com.roamingsoft.manager #WiFi连接管理器
   - PROCESS-NAME,com.rong360.app #融360
   - PROCESS-NAME,com.ruanmei.ithome #IT之家
-  - PROCESS-NAME,com.rumtel.mobiletv #影视大全看看
+  - PROCESS-NAME,com.rumtel.mobiletv #影评大全看看
   - PROCESS-NAME,com.samoyed.credit #省呗
   - PROCESS-NAME,com.sand.airdroid #AirDroid
   - PROCESS-NAME,com.sangame.jjhcps.android #金投网
@@ -933,7 +932,6 @@ payload:
   - PROCESS-NAME,com.tsf.shell.widget.message #TSF 信息小部件
   - PROCESS-NAME,com.ttxg.fruitday #天天果园
   - PROCESS-NAME,com.tudou.android #土豆
-  - PROCESS-NAME,com.tuhao.lulu #lulu直播
   - PROCESS-NAME,com.tujia.hotel #途家民宿
   - PROCESS-NAME,com.tuniu.app.ui #途牛旅游
   - PROCESS-NAME,com.tuoniu.pingmuezuo #屏幕恶作剧
@@ -1094,6 +1092,7 @@ payload:
   - PROCESS-NAME,com.zzu.sxm.chemical #化学方程式
   - PROCESS-NAME,cszy.wdtk.dntkbz #我的图库
   - PROCESS-NAME,ctrip.android.view #携程旅行
+  - PROCESS-NAME,dji.go.v5 #DJI Fly
   - PROCESS-NAME,dongzheng.szkingdom.android.phone #掌证宝
   - PROCESS-NAME,epson.print #Epson iPrint
   - PROCESS-NAME,flipboard.cn #红板报
