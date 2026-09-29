@@ -294,7 +294,7 @@ PROCESS-NAME,com.duolingo,{{ rule }} # 多邻国
 PROCESS-NAME,com.duowan.kiwi,{{ rule }} # 虎牙直播
 PROCESS-NAME,com.duowan.mobile,{{ rule }} # YY
 PROCESS-NAME,com.duxiaoman.umoney,{{ rule }} # 有钱花
-PROCESS-NAME,com.duxiaoman.wallet,{{ rule }} # 度小满金融
+PROCESS-NAME,com.duxiaoman.wallet,{{ rule }} # 度小满
 PROCESS-NAME,com.dx.x1myapplication,{{ rule }} # 电销外呼电话
 PROCESS-NAME,com.dzwww.sd.android,{{ rule }} # 海报新闻
 PROCESS-NAME,com.eastday.listen_news,{{ rule }} # 翱翔
@@ -493,7 +493,6 @@ PROCESS-NAME,com.jeejen.family,{{ rule }} # 极简桌面
 PROCESS-NAME,com.jesson.meishi,{{ rule }} # 美食杰
 PROCESS-NAME,com.jhdapp.xhbycm,{{ rule }} # 交汇点新闻
 PROCESS-NAME,com.jhss.youguu,{{ rule }} # 优顾炒股
-PROCESS-NAME,com.jianhuangshihengyuesddm.cn,{{ rule }} # 黄品汇
 PROCESS-NAME,com.jiaoyinbrother.monkeyking,{{ rule }} # 悟空租车
 PROCESS-NAME,com.jiayuan,{{ rule }} # 世纪佳缘
 PROCESS-NAME,com.jie.lockscreen,{{ rule }} # 锁屏大全
@@ -1130,7 +1129,6 @@ PROCESS-NAME,net.qihoo.launcher.widget.clockweather,{{ rule }} # 360天气
 PROCESS-NAME,net.xinhuamm.mainclient,{{ rule }} # 新华社
 PROCESS-NAME,net.zdsoft.zerobook_android,{{ rule }} # 智人播客
 PROCESS-NAME,news.cnr.cn,{{ rule }} # 央广网
-PROCESS-NAME,ning.zuo.diyzhuti,{{ rule }} # DIY主题组件库
 PROCESS-NAME,oms.mmc.app.almanac_inland,{{ rule }} # 老黄历万年历顺历
 PROCESS-NAME,one.hh.oneclient,{{ rule }} # 一个
 PROCESS-NAME,org.fungo.fungolive,{{ rule }} # 天天电视直播

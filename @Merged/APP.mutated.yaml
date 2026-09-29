@@ -426,7 +426,7 @@ payload:
   - PROCESS-NAME,com.dute.dutenews #读特
   - PROCESS-NAME,com.duwo.reading #伴鱼绘本
   - PROCESS-NAME,com.duxiaoman.umoney #有钱花
-  - PROCESS-NAME,com.duxiaoman.wallet #度小满金融
+  - PROCESS-NAME,com.duxiaoman.wallet #度小满
   - PROCESS-NAME,com.dw.btime #亲宝宝
   - PROCESS-NAME,com.dx.x1myapplication #电销外呼电话
   - PROCESS-NAME,com.dz.hmjc #河马剧场
@@ -732,7 +732,6 @@ payload:
   - PROCESS-NAME,com.jhdapp.xhbycm #交汇点新闻
   - PROCESS-NAME,com.jhss.youguu #优顾炒股
   - PROCESS-NAME,com.jiadi.quannengsaomiaowang #合同扫描王
-  - PROCESS-NAME,com.jianhuangshihengyuesddm.cn #黄品汇
   - PROCESS-NAME,com.jianyou.swatch #智能守护5
   - PROCESS-NAME,com.jianzhiku.zhongrenbang #众人帮
   - PROCESS-NAME,com.jiaoyinbrother.monkeyking #悟空租车
@@ -1296,6 +1295,7 @@ payload:
   - PROCESS-NAME,com.telecom.video #天翼超高清
   - PROCESS-NAME,com.tencent.android.qqdownloader #应用宝
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
+  - PROCESS-NAME,com.tencent.cmocmna #腾讯手游加速器
   - PROCESS-NAME,com.tencent.djcity #掌上道聚城
   - PROCESS-NAME,com.tencent.gallerymanager #腾讯相册管家
   - PROCESS-NAME,com.tencent.gamehelper #腾讯游戏助手
@@ -1563,7 +1563,6 @@ payload:
   - PROCESS-NAME,com.ymatou.shop #洋码头
   - PROCESS-NAME,com.ymt360.app.mass #一亩田
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
-  - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youba.barcode #二维码扫描
   - PROCESS-NAME,com.youcheyihou.iyoursuv #有车以后
   - PROCESS-NAME,com.youdao.dict #网易有道词典
@@ -1693,7 +1692,6 @@ payload:
   - PROCESS-NAME,net.xinhuamm.mainclient #新华社
   - PROCESS-NAME,net.zdsoft.zerobook_android #智人播客
   - PROCESS-NAME,news.cnr.cn #央广网
-  - PROCESS-NAME,ning.zuo.diyzhuti #DIY主题组件库
   - PROCESS-NAME,oms.mmc.app.almanac_inland #老黄历万年历顺历
   - PROCESS-NAME,oms.mmc.fortunetelling #灵机
   - PROCESS-NAME,one.hh.oneclient #一个

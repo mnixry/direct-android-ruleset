@@ -292,7 +292,7 @@ payload:
   - PROCESS-NAME,com.duowan.kiwi #虎牙直播
   - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.duxiaoman.umoney #有钱花
-  - PROCESS-NAME,com.duxiaoman.wallet #度小满金融
+  - PROCESS-NAME,com.duxiaoman.wallet #度小满
   - PROCESS-NAME,com.dx.x1myapplication #电销外呼电话
   - PROCESS-NAME,com.dzwww.sd.android #海报新闻
   - PROCESS-NAME,com.eastday.listen_news #翱翔
@@ -491,7 +491,6 @@ payload:
   - PROCESS-NAME,com.jesson.meishi #美食杰
   - PROCESS-NAME,com.jhdapp.xhbycm #交汇点新闻
   - PROCESS-NAME,com.jhss.youguu #优顾炒股
-  - PROCESS-NAME,com.jianhuangshihengyuesddm.cn #黄品汇
   - PROCESS-NAME,com.jiaoyinbrother.monkeyking #悟空租车
   - PROCESS-NAME,com.jiayuan #世纪佳缘
   - PROCESS-NAME,com.jie.lockscreen #锁屏大全
@@ -1123,7 +1122,6 @@ payload:
   - PROCESS-NAME,net.xinhuamm.mainclient #新华社
   - PROCESS-NAME,net.zdsoft.zerobook_android #智人播客
   - PROCESS-NAME,news.cnr.cn #央广网
-  - PROCESS-NAME,ning.zuo.diyzhuti #DIY主题组件库
   - PROCESS-NAME,oms.mmc.app.almanac_inland #老黄历万年历顺历
   - PROCESS-NAME,one.hh.oneclient #一个
   - PROCESS-NAME,org.fungo.fungolive #天天电视直播

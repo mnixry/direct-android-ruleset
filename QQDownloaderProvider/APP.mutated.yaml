@@ -234,7 +234,7 @@ payload:
   - PROCESS-NAME,com.dute.dutenews #读特
   - PROCESS-NAME,com.duwo.reading #伴鱼绘本
   - PROCESS-NAME,com.duxiaoman.umoney #有钱花
-  - PROCESS-NAME,com.duxiaoman.wallet #度小满金融
+  - PROCESS-NAME,com.duxiaoman.wallet #度小满
   - PROCESS-NAME,com.dw.btime #亲宝宝
   - PROCESS-NAME,com.dz.hmjc #河马剧场
   - PROCESS-NAME,com.dzqh.online11 #东方证券期货
@@ -733,6 +733,7 @@ payload:
   - PROCESS-NAME,com.taowuyou.tbk #淘无忧
   - PROCESS-NAME,com.teamnet.hula #粤听
   - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
+  - PROCESS-NAME,com.tencent.cmocmna #腾讯手游加速器
   - PROCESS-NAME,com.tencent.gallerymanager #腾讯相册管家
   - PROCESS-NAME,com.tencent.gamehelper #腾讯游戏助手
   - PROCESS-NAME,com.tencent.gamehelper.dnf #DNF助手
@@ -910,7 +911,6 @@ payload:
   - PROCESS-NAME,com.ymatou.shop #洋码头
   - PROCESS-NAME,com.ymt360.app.mass #一亩田
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
-  - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youcheyihou.iyoursuv #有车以后
   - PROCESS-NAME,com.youdao.dict #网易有道词典
   - PROCESS-NAME,com.youdao.note #有道云笔记
