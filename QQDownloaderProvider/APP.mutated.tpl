@@ -273,7 +273,6 @@ PROCESS-NAME,com.focusgene.findme,{{ rule }} # 真我
 PROCESS-NAME,com.fosung.lighthouse,{{ rule }} # 灯塔党建在线
 PROCESS-NAME,com.foundao.bjnews,{{ rule }} # 新京报
 PROCESS-NAME,com.foundersc.app.xf,{{ rule }} # 小方
-PROCESS-NAME,com.fqapp.zsh,{{ rule }} # 赚生活
 PROCESS-NAME,com.fqapps.fdsh,{{ rule }} # 福袋生活
 PROCESS-NAME,com.free_ride_pin.yiwei,{{ rule }} # 汽车票
 PROCESS-NAME,com.free_ride.yiwei,{{ rule }} # 顺风车
@@ -526,6 +525,7 @@ PROCESS-NAME,com.nade.ownerride,{{ rule }} # 顺风车司机版
 PROCESS-NAME,com.nade.tickowner,{{ rule }} # 滴答滴出行司机端
 PROCESS-NAME,com.nanyibang.nomi,{{ rule }} # 男衣邦穿衣搭配
 PROCESS-NAME,com.nanyibang.rm,{{ rule }} # 穿衣有品
+PROCESS-NAME,com.NationalPhotograpy.weishoot,{{ rule }} # 微摄
 PROCESS-NAME,com.nd.android.pandareader,{{ rule }} # 熊猫看书
 PROCESS-NAME,com.netease.cloudmusic,{{ rule }} # 网易云音乐
 PROCESS-NAME,com.netease.edu.ucmooc,{{ rule }} # 中国大学MOOC

@@ -501,7 +501,6 @@ PROCESS-NAME,com.founder.zhanjiang,{{ rule }} # 湛江云媒
 PROCESS-NAME,com.foundersc.app.xf,{{ rule }} # 小方
 PROCESS-NAME,com.foxit.mobile.pdf.lite,{{ rule }} # 福昕PDF阅读器
 PROCESS-NAME,com.fq.wallpaper,{{ rule }} # 飞火动态壁纸
-PROCESS-NAME,com.fqapp.zsh,{{ rule }} # 赚生活
 PROCESS-NAME,com.fqapps.fdsh,{{ rule }} # 福袋生活
 PROCESS-NAME,com.free_ride_pin.yiwei,{{ rule }} # 汽车票
 PROCESS-NAME,com.free_ride.yiwei,{{ rule }} # 顺风车
@@ -950,6 +949,7 @@ PROCESS-NAME,com.naiyoubz.main,{{ rule }} # 奶油桌面
 PROCESS-NAME,com.nandu,{{ rule }} # 南都N视频
 PROCESS-NAME,com.nanyibang.nomi,{{ rule }} # 男衣邦穿衣搭配
 PROCESS-NAME,com.nanyibang.rm,{{ rule }} # 穿衣有品
+PROCESS-NAME,com.NationalPhotograpy.weishoot,{{ rule }} # 微摄
 PROCESS-NAME,com.naver.linewebtoon.cn,{{ rule }} # 咚漫漫画
 PROCESS-NAME,com.nbbank,{{ rule }} # 宁波银行
 PROCESS-NAME,com.ncpaclassic,{{ rule }} # 大剧院·古典

@@ -273,7 +273,6 @@ payload:
   - PROCESS-NAME,com.fosung.lighthouse #灯塔党建在线
   - PROCESS-NAME,com.foundao.bjnews #新京报
   - PROCESS-NAME,com.foundersc.app.xf #小方
-  - PROCESS-NAME,com.fqapp.zsh #赚生活
   - PROCESS-NAME,com.fqapps.fdsh #福袋生活
   - PROCESS-NAME,com.free_ride_pin.yiwei #汽车票
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
@@ -526,6 +525,7 @@ payload:
   - PROCESS-NAME,com.nade.tickowner #滴答滴出行司机端
   - PROCESS-NAME,com.nanyibang.nomi #男衣邦穿衣搭配
   - PROCESS-NAME,com.nanyibang.rm #穿衣有品
+  - PROCESS-NAME,com.NationalPhotograpy.weishoot #微摄
   - PROCESS-NAME,com.nd.android.pandareader #熊猫看书
   - PROCESS-NAME,com.netease.cloudmusic #网易云音乐
   - PROCESS-NAME,com.netease.edu.ucmooc #中国大学MOOC

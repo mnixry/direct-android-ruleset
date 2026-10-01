@@ -501,7 +501,6 @@ payload:
   - PROCESS-NAME,com.foundersc.app.xf #小方
   - PROCESS-NAME,com.foxit.mobile.pdf.lite #福昕PDF阅读器
   - PROCESS-NAME,com.fq.wallpaper #飞火动态壁纸
-  - PROCESS-NAME,com.fqapp.zsh #赚生活
   - PROCESS-NAME,com.fqapps.fdsh #福袋生活
   - PROCESS-NAME,com.free_ride_pin.yiwei #汽车票
   - PROCESS-NAME,com.free_ride.yiwei #顺风车
@@ -950,6 +949,7 @@ payload:
   - PROCESS-NAME,com.nandu #南都N视频
   - PROCESS-NAME,com.nanyibang.nomi #男衣邦穿衣搭配
   - PROCESS-NAME,com.nanyibang.rm #穿衣有品
+  - PROCESS-NAME,com.NationalPhotograpy.weishoot #微摄
   - PROCESS-NAME,com.naver.linewebtoon.cn #咚漫漫画
   - PROCESS-NAME,com.nbbank #宁波银行
   - PROCESS-NAME,com.ncpaclassic #大剧院·古典
