@@ -587,7 +587,7 @@ PROCESS-NAME,com.max.xiaoheihe,{{ rule }} # 小黑盒
 PROCESS-NAME,com.mayi.android.shortrent,{{ rule }} # 蚂蚁短租
 PROCESS-NAME,com.meelive.ingkee,{{ rule }} # 映客直播
 PROCESS-NAME,com.meet.pianolearn,{{ rule }} # 钢琴教练
-PROCESS-NAME,com.meetstudio.app.Zither,{{ rule }} # 魔幻古筝
+PROCESS-NAME,com.meetstudio.app.Zither,{{ rule }} # 古筝
 PROCESS-NAME,com.meitu.makeup,{{ rule }} # 美妆相机
 PROCESS-NAME,com.meitu.meipaimv,{{ rule }} # 美拍
 PROCESS-NAME,com.meitu.meiyancamera,{{ rule }} # 美颜相机

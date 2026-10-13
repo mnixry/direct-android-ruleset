@@ -882,7 +882,7 @@ payload:
   - PROCESS-NAME,com.mediabox.voicechanger #安卓变声器
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meet.pianolearn #钢琴教练
-  - PROCESS-NAME,com.meetstudio.app.Zither #魔幻古筝
+  - PROCESS-NAME,com.meetstudio.app.Zither #古筝
   - PROCESS-NAME,com.meijialove.activity #美甲帮
   - PROCESS-NAME,com.meitianmeihuimtmh.app #喵小盒
   - PROCESS-NAME,com.meitu.makeup #美妆相机
