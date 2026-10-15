@@ -175,7 +175,6 @@ payload:
   - PROCESS-NAME,com.cmbc.cc.mbank #全民生活
   - PROCESS-NAME,com.cmcc.cmvideo #咪咕视频
   - PROCESS-NAME,com.cmcc.hebao #和包
-  - PROCESS-NAME,com.cmi.jegotrip #无忧行
   - PROCESS-NAME,com.cmri.universalapp #移动爱家
   - PROCESS-NAME,com.cmschina.stock #招商证券
   - PROCESS-NAME,com.comic.manhuatai #漫画台
@@ -241,6 +240,7 @@ payload:
   - PROCESS-NAME,com.eastmoney.android.berlin #东方财富
   - PROCESS-NAME,com.eastmoney.android.fund #天天基金
   - PROCESS-NAME,com.ebank.creditcard #阳光惠生活
+  - PROCESS-NAME,com.ecej.ui #e城e家
   - PROCESS-NAME,com.edujia.weimai #微脉圈
   - PROCESS-NAME,com.eduyun.app.factory.ykt #智慧中小学
   - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝

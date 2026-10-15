@@ -587,7 +587,7 @@ payload:
   - PROCESS-NAME,com.mayi.android.shortrent #蚂蚁短租
   - PROCESS-NAME,com.meelive.ingkee #映客直播
   - PROCESS-NAME,com.meet.pianolearn #钢琴教练
-  - PROCESS-NAME,com.meetstudio.app.Zither #古筝
+  - PROCESS-NAME,com.meetstudio.app.Zither #魔幻古筝
   - PROCESS-NAME,com.meitu.makeup #美妆相机
   - PROCESS-NAME,com.meitu.meipaimv #美拍
   - PROCESS-NAME,com.meitu.meiyancamera #美颜相机
