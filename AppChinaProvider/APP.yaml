@@ -559,6 +559,7 @@ payload:
   - PROCESS-NAME,com.lgzgykc.xddt #熊多多
   - PROCESS-NAME,com.lianaibiji.dev #恋爱记
   - PROCESS-NAME,com.liba.android #篱笆社区
+  - PROCESS-NAME,com.lime.wallpaper #青柠壁纸
   - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
   - PROCESS-NAME,com.lingan.seeyou #美柚
   - PROCESS-NAME,com.lingyue.zebraloan #洋钱罐借款
@@ -707,7 +708,6 @@ payload:
   - PROCESS-NAME,com.pzds.pzds #盼之账号
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qianyouyu #钱有余
-  - PROCESS-NAME,com.qiaola.desktop #主题壁纸美化
   - PROCESS-NAME,com.qicai.contacts #西瓜通讯录
   - PROCESS-NAME,com.qidian.QDReader #起点读书
   - PROCESS-NAME,com.qihoo.browser #360浏览器

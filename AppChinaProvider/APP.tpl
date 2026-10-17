@@ -559,6 +559,7 @@ PROCESS-NAME,com.lezhi.mythcall,{{ rule }} # 北瓜电话
 PROCESS-NAME,com.lgzgykc.xddt,{{ rule }} # 熊多多
 PROCESS-NAME,com.lianaibiji.dev,{{ rule }} # 恋爱记
 PROCESS-NAME,com.liba.android,{{ rule }} # 篱笆社区
+PROCESS-NAME,com.lime.wallpaper,{{ rule }} # 青柠壁纸
 PROCESS-NAME,com.linecorp.foodcamcn.android,{{ rule }} # Foodie
 PROCESS-NAME,com.lingan.seeyou,{{ rule }} # 美柚
 PROCESS-NAME,com.lingyue.zebraloan,{{ rule }} # 洋钱罐借款
@@ -707,7 +708,6 @@ PROCESS-NAME,com.prinics.kodak.photoprinter,{{ rule }} # KODAK Photo Printer
 PROCESS-NAME,com.pzds.pzds,{{ rule }} # 盼之账号
 PROCESS-NAME,com.qdnews.qd,{{ rule }} # 青岛新闻
 PROCESS-NAME,com.qianyouyu,{{ rule }} # 钱有余
-PROCESS-NAME,com.qiaola.desktop,{{ rule }} # 主题壁纸美化
 PROCESS-NAME,com.qicai.contacts,{{ rule }} # 西瓜通讯录
 PROCESS-NAME,com.qidian.QDReader,{{ rule }} # 起点读书
 PROCESS-NAME,com.qihoo.browser,{{ rule }} # 360浏览器

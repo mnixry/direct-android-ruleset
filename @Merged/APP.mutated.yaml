@@ -833,6 +833,7 @@ payload:
   - PROCESS-NAME,com.lianmengsylm.app #联盟生态
   - PROCESS-NAME,com.liba.android #篱笆社区
   - PROCESS-NAME,com.lietou.mishu #猎聘
+  - PROCESS-NAME,com.lime.wallpaper #青柠壁纸
   - PROCESS-NAME,com.linecorp.foodcamcn.android #Foodie
   - PROCESS-NAME,com.lingan.seeyou #美柚
   - PROCESS-NAME,com.lingan.yunqi #宝宝记
@@ -1041,7 +1042,6 @@ payload:
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
   - PROCESS-NAME,com.qdruotu.app #若途旅行
   - PROCESS-NAME,com.qianyouyu #钱有余
-  - PROCESS-NAME,com.qiaola.desktop #主题壁纸美化
   - PROCESS-NAME,com.qicai.contacts #西瓜通讯录
   - PROCESS-NAME,com.qicai.translate #出国翻译官
   - PROCESS-NAME,com.qidian.QDReader #起点读书
