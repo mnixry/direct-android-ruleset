@@ -94,6 +94,7 @@ PROCESS-NAME,com.appchina.yugao.2019092307,{{ rule }} # 再见狂野之心
 PROCESS-NAME,com.appchina.yugao.2019092309,{{ rule }} # 冠军超音速 安卓版
 PROCESS-NAME,com.appchina.yugao.2019100901,{{ rule }} # 元气小狗 安卓版
 PROCESS-NAME,com.appchina.yugao.2019101601,{{ rule }} # 英雄联盟：格斗
+PROCESS-NAME,com.appchina.yugao.2019120402,{{ rule }} # 神奇猫咪在哪里
 PROCESS-NAME,com.appchina.yugao.2019121413,{{ rule }} # 古树旋律2
 PROCESS-NAME,com.appchina.yugao.2019122601,{{ rule }} # 古树旋律：重生
 PROCESS-NAME,com.appchina.yugao.2020011604,{{ rule }} # 冠军农场
@@ -110,6 +111,7 @@ PROCESS-NAME,com.appchina.yugao.2020060406,{{ rule }} # 萌龙训练师
 PROCESS-NAME,com.appchina.yugao.2020070312,{{ rule }} # 足球俱乐部经理 2021
 PROCESS-NAME,com.appchina.yugao.2020073006,{{ rule }} # 无限激战
 PROCESS-NAME,com.appchina.yugao.2020080310,{{ rule }} # 娃娃计划
+PROCESS-NAME,com.appchina.yugao.2020080705,{{ rule }} # 地下足球经理人2
 PROCESS-NAME,com.appchina.yugao.2020082908,{{ rule }} # 音灵INVAXION
 PROCESS-NAME,com.appchina.yugao.2020090305,{{ rule }} # 音乐少女
 PROCESS-NAME,com.appchina.yugao.2020112301,{{ rule }} # 灌篮高手
@@ -123,7 +125,6 @@ PROCESS-NAME,com.appchina.yugao.2021052007,{{ rule }} # 阳春艺曲
 PROCESS-NAME,com.appchina.yugao.2021060103,{{ rule }} # NEEDY GIRL OVERDOSE
 PROCESS-NAME,com.appchina.yugao.2021070511,{{ rule }} # 索尼克在2020东京奥运会
 PROCESS-NAME,com.appchina.yugao.2021070709,{{ rule }} # 实况足球2022
-PROCESS-NAME,com.appchina.yugao.2021071401,{{ rule }} # FIFA 22 
 PROCESS-NAME,com.appchina.yugao.2021071501,{{ rule }} # NBA 2K22
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
 PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
@@ -439,7 +440,6 @@ PROCESS-NAME,com.hyperbeard.pocketlove,{{ rule }} # 袖珍爱情 测试版
 PROCESS-NAME,com.hypergryph.arknights,{{ rule }} # 明日方舟
 PROCESS-NAME,com.IceWaterGames.Viridi,{{ rule }} # 电子盆栽
 PROCESS-NAME,com.icloudzone.DeathMoto2,{{ rule }} # 暴力摩托2
-PROCESS-NAME,com.idleif.abyssrium,{{ rule }} # 深海水族馆
 PROCESS-NAME,com.idoing.cs,{{ rule }} # 反恐精英3D中文版
 PROCESS-NAME,com.idriscelik.f787anadolu,{{ rule }} # 模拟飞行787 专业版
 PROCESS-NAME,com.ifreyr.sw2,{{ rule }} # 星际战争2：初次反击 Star Warfare2：
