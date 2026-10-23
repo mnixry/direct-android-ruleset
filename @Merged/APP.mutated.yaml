@@ -445,7 +445,7 @@ payload:
   - PROCESS-NAME,com.ejeas.ejeasapp #Ejeas
   - PROCESS-NAME,com.eno.android #国海金探号
   - PROCESS-NAME,com.eno.android.cj.page #长江e号
-  - PROCESS-NAME,com.eno.xyzq.page #兴业证券优理宝
+  - PROCESS-NAME,com.eno.xyzq.page #知己理财
   - PROCESS-NAME,com.enotary.cloud #公证云
   - PROCESS-NAME,com.esbook.reader #宜搜小说
   - PROCESS-NAME,com.essdcbz.nyxx #多彩壁纸
@@ -1416,6 +1416,7 @@ payload:
   - PROCESS-NAME,com.wander.android.wallpaper #元气壁纸
   - PROCESS-NAME,com.wandoujia.phoenix2 #豌豆荚
   - PROCESS-NAME,com.wangdou.prettygirls.dress #装扮次元手帐
+  - PROCESS-NAME,com.wangtongshe.car #网通社
   - PROCESS-NAME,com.wangyin.payment #京东钱包
   - PROCESS-NAME,com.wanmeizhensuo.zhensuo #更美
   - PROCESS-NAME,com.waterfall.metronome #节拍器
@@ -1449,7 +1450,6 @@ payload:
   - PROCESS-NAME,com.wondertek.cj_yun #长江云
   - PROCESS-NAME,com.wondertek.miguaikan #咪咕视频爱看版
   - PROCESS-NAME,com.wondertek.paper #澎湃新闻
-  - PROCESS-NAME,com.woqu.attendance #喔趣考勤
   - PROCESS-NAME,com.wsecar.wsjc #万顺叫车
   - PROCESS-NAME,com.wshifu.app.jiedanyi #万师傅师傅版
   - PROCESS-NAME,com.wuba #58同城

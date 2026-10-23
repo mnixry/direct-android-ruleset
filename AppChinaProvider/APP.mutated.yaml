@@ -677,6 +677,7 @@ payload:
   - PROCESS-NAME,com.pengda.mobile.hhjz #叨叨
   - PROCESS-NAME,com.peopledailychina.activity #人民日报
   - PROCESS-NAME,com.perracolabs.tcc #Tiny Call Confirm
+  - PROCESS-NAME,com.phoenix.read #红果免费短剧
   - PROCESS-NAME,com.piaopiao.idphoto #证件照随拍
   - PROCESS-NAME,com.pingan.paces.ccms #平安口袋银行
   - PROCESS-NAME,com.pingdiguo.tuner #乐器调音器

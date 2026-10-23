@@ -684,6 +684,7 @@ PROCESS-NAME,com.parallel.odyssey,{{ rule }} # 猫箱
 PROCESS-NAME,com.pengda.mobile.hhjz,{{ rule }} # 叨叨
 PROCESS-NAME,com.peopledailychina.activity,{{ rule }} # 人民日报
 PROCESS-NAME,com.perracolabs.tcc,{{ rule }} # Tiny Call Confirm
+PROCESS-NAME,com.phoenix.read,{{ rule }} # 红果免费短剧
 PROCESS-NAME,com.piaopiao.idphoto,{{ rule }} # 证件照随拍
 PROCESS-NAME,com.pingan.paces.ccms,{{ rule }} # 平安口袋银行
 PROCESS-NAME,com.pingdiguo.tuner,{{ rule }} # 乐器调音器
