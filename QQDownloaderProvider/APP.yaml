@@ -519,7 +519,6 @@ payload:
   - PROCESS-NAME,com.mobivans.onestrokecharge #预记智能账本
   - PROCESS-NAME,com.mogujie #蘑菇街
   - PROCESS-NAME,com.moji.mjweather #墨迹天气
-  - PROCESS-NAME,com.mosheng #爱聊
   - PROCESS-NAME,com.motoband #摩托邦
   - PROCESS-NAME,com.mt.mtxx.mtxx #美图秀秀-视频/图片/Live人像精修工具
   - PROCESS-NAME,com.mtime #时光网
@@ -934,6 +933,7 @@ payload:
   - PROCESS-NAME,com.yueme.itv #小翼管家
   - PROCESS-NAME,com.yumc.phsuperapp #必胜客
   - PROCESS-NAME,com.yunxiao.haofenshu #好分数
+  - PROCESS-NAME,com.yunyi.smartcamera #云蚁物联
   - PROCESS-NAME,com.yuyuesports.yuyue.android #羽约运动
   - PROCESS-NAME,com.yx #有信
   - PROCESS-NAME,com.yxcps.trainning #益学堂
