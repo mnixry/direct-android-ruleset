@@ -289,6 +289,7 @@ payload:
   - PROCESS-NAME,com.duoduo.child.storyhd #儿歌多多HD
   - PROCESS-NAME,com.duokan.phone.remotecontroller #万能遥控
   - PROCESS-NAME,com.duolingo #多邻国
+  - PROCESS-NAME,com.duowan.kiwi #虎牙直播
   - PROCESS-NAME,com.duowan.mobile #YY
   - PROCESS-NAME,com.duxiaoman.umoney #有钱花
   - PROCESS-NAME,com.duxiaoman.wallet #度小满
