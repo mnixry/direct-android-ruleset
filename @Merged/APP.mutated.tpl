@@ -462,7 +462,7 @@ PROCESS-NAME,com.example.raccoon.dialogwidget,{{ rule }} # 万象小组件
 PROCESS-NAME,com.excean.dualaid,{{ rule }} # 微双开分身
 PROCESS-NAME,com.excean.gspace,{{ rule }} # OurPlay
 PROCESS-NAME,com.excean.masaid,{{ rule }} # 微分身版
-PROCESS-NAME,com.excelliance.dualaid,{{ rule }} # 双开助手微分身版
+PROCESS-NAME,com.excelliance.dualaid,{{ rule }} # 双开助手多开分身
 PROCESS-NAME,com.ezen.ehshig,{{ rule }} # egshig
 PROCESS-NAME,com.ezg.camper,{{ rule }} # 约你游
 PROCESS-NAME,com.faloo.BookReader4Android,{{ rule }} # 飞卢小说

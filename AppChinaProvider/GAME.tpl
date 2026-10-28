@@ -884,6 +884,7 @@ PROCESS-NAME,com.yuejunzhang.home,{{ rule }} # 据点守卫
 PROCESS-NAME,com.yuktek.laststandchs,{{ rule }} # 背水一战
 PROCESS-NAME,com.yymoon.lmrjvol,{{ rule }} # 我的VR女友
 PROCESS-NAME,com.zeptolab.cats.google,{{ rule }} # 喵星大作战：国际版
+PROCESS-NAME,com.Zeroscale.DemolitionInc.hd,{{ rule }} # 拆迁公司高清版
 PROCESS-NAME,com.zk.car.wipay,{{ rule }} # 狂野飙车
 PROCESS-NAME,com.ztgame.jl2,{{ rule }} # 街篮2
 PROCESS-NAME,com.ztgame.yyzy.yyh,{{ rule }} # 月圆之夜

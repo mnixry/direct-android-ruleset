@@ -250,7 +250,7 @@ PROCESS-NAME,com.eno.xyzq.page,{{ rule }} # 知己理财
 PROCESS-NAME,com.excean.dualaid,{{ rule }} # 微双开分身
 PROCESS-NAME,com.excean.gspace,{{ rule }} # OurPlay
 PROCESS-NAME,com.excean.masaid,{{ rule }} # 微分身版
-PROCESS-NAME,com.excelliance.dualaid,{{ rule }} # 双开助手微分身版
+PROCESS-NAME,com.excelliance.dualaid,{{ rule }} # 双开助手多开分身
 PROCESS-NAME,com.ezg.camper,{{ rule }} # 约你游
 PROCESS-NAME,com.fanli.android.apps,{{ rule }} # 返利
 PROCESS-NAME,com.fanlwgaoylmengw,{{ rule }} # 返利高佣联盟
