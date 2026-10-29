@@ -793,7 +793,6 @@ payload:
   - PROCESS-NAME,com.kugou.playerHD #酷狗音乐HD
   - PROCESS-NAME,com.kunpeng.babyting #宝贝听听
   - PROCESS-NAME,com.kunpeng.bluefont #字体下载极速版
-  - PROCESS-NAME,com.kunpeng.zitice #字体大全
   - PROCESS-NAME,com.kwai.hisense #回森
   - PROCESS-NAME,com.kwai.livepartner #快手直播伴侣
   - PROCESS-NAME,com.kwai.m2u #一甜相机
@@ -922,7 +921,6 @@ payload:
   - PROCESS-NAME,com.mosheng #爱聊
   - PROCESS-NAME,com.motoband #摩托邦
   - PROCESS-NAME,com.moutian.moutianshuiyinwang #水印王
-  - PROCESS-NAME,com.mp.qcoperate #红旗e岗通
   - PROCESS-NAME,com.mrkj.sm #知命
   - PROCESS-NAME,com.msg.schedule #定时信息
   - PROCESS-NAME,com.msxf.ayh #安逸花
@@ -1673,7 +1671,6 @@ payload:
   - PROCESS-NAME,me.piebridge.brevent #黑阈
   - PROCESS-NAME,me.suncloud.marrymemo #婚礼纪
   - PROCESS-NAME,me.yidui #伊对
-  - PROCESS-NAME,music.f2bcutter.mp3editor #音乐音频剪辑
   - PROCESS-NAME,my.beautyCamera #美人相机
   - PROCESS-NAME,my.maya.android #多闪
   - PROCESS-NAME,net.aituyue.app #图曰
