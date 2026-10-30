@@ -828,7 +828,6 @@ payload:
   - PROCESS-NAME,com.wallstreetcn.news #华尔街见闻
   - PROCESS-NAME,com.wandafilm.app #万达影城
   - PROCESS-NAME,com.wandoujia.phoenix2 #豌豆荚
-  - PROCESS-NAME,com.wangtongshe.car #网通社
   - PROCESS-NAME,com.wanmeizhensuo.zhensuo #更美
   - PROCESS-NAME,com.we.keyuan #微商码头
   - PROCESS-NAME,com.webank.wemoney #微众银行
@@ -920,6 +919,7 @@ payload:
   - PROCESS-NAME,com.ymatou.shop #洋码头
   - PROCESS-NAME,com.ymt360.app.mass #一亩田
   - PROCESS-NAME,com.yoloho.dayima #大姨妈
+  - PROCESS-NAME,com.yoosee #有看头
   - PROCESS-NAME,com.youcheyihou.iyoursuv #有车以后
   - PROCESS-NAME,com.youdao.dict #网易有道词典
   - PROCESS-NAME,com.youdao.note #有道云笔记

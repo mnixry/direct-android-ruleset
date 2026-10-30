@@ -820,7 +820,6 @@ PROCESS-NAME,com.wakeup.howear,{{ rule }} # Wearfit Pro
 PROCESS-NAME,com.wallstreetcn.news,{{ rule }} # 华尔街见闻
 PROCESS-NAME,com.wandafilm.app,{{ rule }} # 万达影城
 PROCESS-NAME,com.wandoujia.phoenix2,{{ rule }} # 豌豆荚
-PROCESS-NAME,com.wangtongshe.car,{{ rule }} # 网通社
 PROCESS-NAME,com.wanmeizhensuo.zhensuo,{{ rule }} # 更美
 PROCESS-NAME,com.we.keyuan,{{ rule }} # 微商码头
 PROCESS-NAME,com.webank.wemoney,{{ rule }} # 微众银行
@@ -912,6 +911,7 @@ PROCESS-NAME,com.yiyou.ga,{{ rule }} # TT语音
 PROCESS-NAME,com.ymatou.shop,{{ rule }} # 洋码头
 PROCESS-NAME,com.ymt360.app.mass,{{ rule }} # 一亩田
 PROCESS-NAME,com.yoloho.dayima,{{ rule }} # 大姨妈
+PROCESS-NAME,com.yoosee,{{ rule }} # 有看头
 PROCESS-NAME,com.youcheyihou.iyoursuv,{{ rule }} # 有车以后
 PROCESS-NAME,com.youdao.dict,{{ rule }} # 网易有道词典
 PROCESS-NAME,com.youdao.note,{{ rule }} # 有道云笔记
