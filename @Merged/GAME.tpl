@@ -92,7 +92,6 @@ PROCESS-NAME,com.appchina.yugao.2019061006,{{ rule }} # 无法触碰的掌心
 PROCESS-NAME,com.appchina.yugao.2019061203,{{ rule }} # 超强口径
 PROCESS-NAME,com.appchina.yugao.2019061401,{{ rule }} # 克苏鲁宠物2
 PROCESS-NAME,com.appchina.yugao.2019071702,{{ rule }} # 猫娘团来店！
-PROCESS-NAME,com.appchina.yugao.2019090617,{{ rule }} # 超凡台球
 PROCESS-NAME,com.appchina.yugao.2019091703,{{ rule }} # 滑板之城 
 PROCESS-NAME,com.appchina.yugao.2019091802,{{ rule }} # LoveLive！学园偶像祭 全明星 日服版
 PROCESS-NAME,com.appchina.yugao.2019091803,{{ rule }} # LoveLive！学园偶像祭 全明星 国服版
@@ -132,6 +131,7 @@ PROCESS-NAME,com.appchina.yugao.2021052007,{{ rule }} # 阳春艺曲
 PROCESS-NAME,com.appchina.yugao.2021060103,{{ rule }} # NEEDY GIRL OVERDOSE
 PROCESS-NAME,com.appchina.yugao.2021070511,{{ rule }} # 索尼克在2020东京奥运会
 PROCESS-NAME,com.appchina.yugao.2021070709,{{ rule }} # 实况足球2022
+PROCESS-NAME,com.appchina.yugao.2021071401,{{ rule }} # FIFA 22 
 PROCESS-NAME,com.appchina.yugao.2021071501,{{ rule }} # NBA 2K22
 PROCESS-NAME,com.appchina.yugao.2021081905,{{ rule }} # 像素职业棒球
 PROCESS-NAME,com.appchina.yugao.2021092601,{{ rule }} # SuperStar YG
@@ -648,7 +648,7 @@ PROCESS-NAME,com.netease.dhxy,{{ rule }} # 大话西游
 PROCESS-NAME,com.netease.dwrg,{{ rule }} # 第五人格
 PROCESS-NAME,com.netease.hearthstone,{{ rule }} # 炉石传说盒子
 PROCESS-NAME,com.netease.hyxd,{{ rule }} # 荒野行动
-PROCESS-NAME,com.netease.lrs,{{ rule }} # 狼人杀
+PROCESS-NAME,com.netease.lrs,{{ rule }} # 狼人杀：月夜推理乐园
 PROCESS-NAME,com.netease.lsdmx,{{ rule }} # 灵兽大冒险
 PROCESS-NAME,com.netease.ma59,{{ rule }} # 劲舞时代
 PROCESS-NAME,com.netease.party,{{ rule }} # 蛋仔派对
@@ -1485,7 +1485,6 @@ PROCESS-NAME,com.tencent.tmgp.sparrowkwx2dx.maijie,{{ rule }} # 楚天优游卡�
 PROCESS-NAME,com.tencent.tmgp.speedmobile,{{ rule }} # QQ飞车-粉红兔子联动
 PROCESS-NAME,com.tencent.tmgp.sqcdjz,{{ rule }} # 三国群英传：策定九州
 PROCESS-NAME,com.tencent.tmgp.sqfz,{{ rule }} # 神泣：纷争
-PROCESS-NAME,com.tencent.tmgp.ssfcq,{{ rule }} # 商世传奇
 PROCESS-NAME,com.tencent.tmgp.ssjj.ghyj,{{ rule }} # 古荒遗迹
 PROCESS-NAME,com.tencent.tmgp.ssjj.zmdld,{{ rule }} # 造梦大乱斗
 PROCESS-NAME,com.tencent.tmgp.ssjj.zmws,{{ rule }} # 造梦无双

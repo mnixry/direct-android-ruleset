@@ -91,7 +91,7 @@ PROCESS-NAME,com.mszmapp.detective,{{ rule }} # 百变大侦探
 PROCESS-NAME,com.n1studio.empress,{{ rule }} # 盛世天下-女帝篇
 PROCESS-NAME,com.nd.myht,{{ rule }} # 魔域互通版
 PROCESS-NAME,com.netease.dhxy,{{ rule }} # 大话西游
-PROCESS-NAME,com.netease.lrs,{{ rule }} # 狼人杀
+PROCESS-NAME,com.netease.lrs,{{ rule }} # 狼人杀：月夜推理乐园
 PROCESS-NAME,com.netease.xyfz_02,{{ rule }} # 大话西游：归来
 PROCESS-NAME,com.newstart.chess,{{ rule }} # 象棋入门
 PROCESS-NAME,com.no.color.cn,{{ rule }} # 草莓涂涂
@@ -725,7 +725,6 @@ PROCESS-NAME,com.tencent.tmgp.sparrowkwx2dx.maijie,{{ rule }} # 楚天优游卡�
 PROCESS-NAME,com.tencent.tmgp.speedmobile,{{ rule }} # QQ飞车-粉红兔子联动
 PROCESS-NAME,com.tencent.tmgp.sqcdjz,{{ rule }} # 三国群英传：策定九州
 PROCESS-NAME,com.tencent.tmgp.sqfz,{{ rule }} # 神泣：纷争
-PROCESS-NAME,com.tencent.tmgp.ssfcq,{{ rule }} # 商世传奇
 PROCESS-NAME,com.tencent.tmgp.ssjj.ghyj,{{ rule }} # 古荒遗迹
 PROCESS-NAME,com.tencent.tmgp.ssjj.zmdld,{{ rule }} # 造梦大乱斗
 PROCESS-NAME,com.tencent.tmgp.ssjj.zmws,{{ rule }} # 造梦无双

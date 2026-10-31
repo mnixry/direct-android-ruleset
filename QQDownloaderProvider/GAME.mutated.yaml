@@ -91,7 +91,7 @@ payload:
   - PROCESS-NAME,com.n1studio.empress #盛世天下-女帝篇
   - PROCESS-NAME,com.nd.myht #魔域互通版
   - PROCESS-NAME,com.netease.dhxy #大话西游
-  - PROCESS-NAME,com.netease.lrs #狼人杀
+  - PROCESS-NAME,com.netease.lrs #狼人杀：月夜推理乐园
   - PROCESS-NAME,com.netease.xyfz_02 #大话西游：归来
   - PROCESS-NAME,com.newstart.chess #象棋入门
   - PROCESS-NAME,com.no.color.cn #草莓涂涂
@@ -725,7 +725,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.speedmobile #QQ飞车-粉红兔子联动
   - PROCESS-NAME,com.tencent.tmgp.sqcdjz #三国群英传：策定九州
   - PROCESS-NAME,com.tencent.tmgp.sqfz #神泣：纷争
-  - PROCESS-NAME,com.tencent.tmgp.ssfcq #商世传奇
   - PROCESS-NAME,com.tencent.tmgp.ssjj.ghyj #古荒遗迹
   - PROCESS-NAME,com.tencent.tmgp.ssjj.zmdld #造梦大乱斗
   - PROCESS-NAME,com.tencent.tmgp.ssjj.zmws #造梦无双
