@@ -3,9 +3,9 @@ PROCESS-NAME,a.baozouptu,{{ rule }} # 暴走P图-搞笑图片视频制作神器
 PROCESS-NAME,android.sgb.com,{{ rule }} # 陕工报
 PROCESS-NAME,app.caiyuai.com,{{ rule }} # 彩鱼
 PROCESS-NAME,app.loveddt.com,{{ rule }} # 勒夫防御性驾驶
+PROCESS-NAME,app.xuansugg.com,{{ rule }} # 炫速查
 PROCESS-NAME,app.zhendong.reamicro,{{ rule }} # 阅微
 PROCESS-NAME,blue.chengyou.puzzle,{{ rule }} # 拼图盒-把照片拼成更好看的故事
-PROCESS-NAME,bubei.tingshu,{{ rule }} # 懒人听书-QQ音乐听书版
 PROCESS-NAME,busca.koddii.andr,{{ rule }} # 公交查询
 PROCESS-NAME,cderg.cocc.cocc_cdids,{{ rule }} # 成都地铁
 PROCESS-NAME,chat.mindway.pro,{{ rule }} # Mindway Pro
@@ -19,7 +19,6 @@ PROCESS-NAME,cn.aishumao.android,{{ rule }} # 爱书猫
 PROCESS-NAME,cn.aismw.ssln,{{ rule }} # AI光速扫描王-免费 OCR，极速扫描
 PROCESS-NAME,cn.ankleup.app,{{ rule }} # 踝卫者-足踝训练与复健
 PROCESS-NAME,cn.baixingzy.hkt,{{ rule }} # 百姓中医慧康堂-百姓中医
-PROCESS-NAME,cn.caicaibao.app,{{ rule }} # 才财保-中小微企业合规专家
 PROCESS-NAME,cn.caitc.cajinfu,{{ rule }} # 长安信托
 PROCESS-NAME,cn.ccguitar.music,{{ rule }} # 虫虫吉他
 PROCESS-NAME,cn.ccmore.move.driver,{{ rule }} # 裹小递配送员
@@ -42,8 +41,10 @@ PROCESS-NAME,cn.csxs.xiaoshuo,{{ rule }} # 辰思小说
 PROCESS-NAME,cn.ctgaoms.oxingtuny,{{ rule }} # 高清实景卫星地图
 PROCESS-NAME,cn.d2yun.platform,{{ rule }} # AI约球
 PROCESS-NAME,cn.dahebao,{{ rule }} # 顶端新闻
+PROCESS-NAME,cn.daziclub.app,{{ rule }} # 搭子社区
 PROCESS-NAME,cn.ddzxc.app.dduserprod,{{ rule }} # 云驹智行
 PROCESS-NAME,cn.dictcn.android.digitize.wjs_cbs_9201,{{ rule }} # 外教社词博士
+PROCESS-NAME,cn.dreamshopping.shop,{{ rule }} # 梦想购
 PROCESS-NAME,cn.dxy.android.aspirin,{{ rule }} # 丁香医生
 PROCESS-NAME,cn.fangline.mfcamera,{{ rule }} # 美房相机
 PROCESS-NAME,cn.fzhuayantcoltd.huayaapp,{{ rule }} # 画涯
@@ -63,17 +64,19 @@ PROCESS-NAME,cn.ixuecheng,{{ rule }} # 学丞
 PROCESS-NAME,cn.jianke.hospital,{{ rule }} # 健客医院
 PROCESS-NAME,cn.lnts.android.sghome,{{ rule }} # S365
 PROCESS-NAME,cn.longmaster.pengpeng,{{ rule }} # 语玩-找对象处cp，恋爱交友
-PROCESS-NAME,cn.maiziedu.xxdz,{{ rule }} # 潇湘单招
+PROCESS-NAME,cn.luowice.anxiaojia,{{ rule }} # 安小家
 PROCESS-NAME,cn.mengguyu.yijin_subtitle,{{ rule }} # Ezen Cut
 PROCESS-NAME,cn.microants.merchants,{{ rule }} # 义采宝义乌小商品批发网-找工厂
 PROCESS-NAME,cn.mil.kjzfw.zfapp,{{ rule }} # 空军招飞智能助手
 PROCESS-NAME,cn.mixiaojin.app,{{ rule }} # 诚星借-持牌消费信用借款平台
 PROCESS-NAME,cn.mx5.betly_app,{{ rule }} # Betly 倍拓
+PROCESS-NAME,cn.mytibangbang.tbb,{{ rule }} # 梯帮帮
 PROCESS-NAME,cn.net.caster.showmate,{{ rule }} # 秀友-点亮巡演与现场记忆
 PROCESS-NAME,cn.njpuruiao.flip,{{ rule }} # 1440翻页时钟-全屏时钟
 PROCESS-NAME,cn.pawrio.app,{{ rule }} # 爪里奥-宠物 AI 项圈官方应用
 PROCESS-NAME,cn.ptxczx.mulan.entry,{{ rule }} # 木兰惠生活
 PROCESS-NAME,cn.samsclub.app,{{ rule }} # 山姆会员商店
+PROCESS-NAME,cn.scznjz.tt2,{{ rule }} # 数智路桥
 PROCESS-NAME,cn.sigo,{{ rule }} # 视客眼镜网-美瞳隐形眼镜商城
 PROCESS-NAME,cn.skhlove.tongpin4i,{{ rule }} # 4i同频-女性主导的伊甸园
 PROCESS-NAME,cn.sunoai.music,{{ rule }} # SunoAi中文站-SunoAi
@@ -159,9 +162,8 @@ PROCESS-NAME,com.benben.jinxiu,{{ rule }} # 锦宿Xiu
 PROCESS-NAME,com.benben.miyu,{{ rule }} # 玖亿密语
 PROCESS-NAME,com.benben.tiantianxianggou,{{ rule }} # 天天想购
 PROCESS-NAME,com.benben.tianyuanliujuan,{{ rule }} # 田园刘娟
-PROCESS-NAME,com.bfzl.banlian,{{ rule }} # 伴恋
+PROCESS-NAME,com.benqu.paji,{{ rule }} # Paji 相机-告别假脸,只美一点点
 PROCESS-NAME,com.bh.rb.rbflutter,{{ rule }} # 荣速达
-PROCESS-NAME,com.biaopanzidy.yrsg,{{ rule }} # 表盘自定义工具&middot;怡然时光.
 PROCESS-NAME,com.bifeng.purecalendar,{{ rule }} # 无广告万年历
 PROCESS-NAME,com.bifeng.ssweather,{{ rule }} # 无广告天气
 PROCESS-NAME,com.bigemap.earth,{{ rule }} # BIGEMAP卫星地图
@@ -342,11 +344,13 @@ PROCESS-NAME,com.ehai,{{ rule }} # 一嗨租车-全国直营
 PROCESS-NAME,com.ehuodi.mobile.huilian,{{ rule }} # 远程慧联
 PROCESS-NAME,com.ejianengdigital.ejianeng,{{ rule }} # 易佳电
 PROCESS-NAME,com.ejin.labormanager,{{ rule }} # E筋劳务记账
+PROCESS-NAME,com.elejoai.gloopo,{{ rule }} # 咕噜宝
 PROCESS-NAME,com.elinkthings.infinity.pixel,{{ rule }} # VivaLight
 PROCESS-NAME,com.encryption.player,{{ rule }} # 加密私人播放-高清播放
 PROCESS-NAME,com.eno.xyzq.page,{{ rule }} # 知己理财-兴业证券交易理财
 PROCESS-NAME,com.enya.enyamusic,{{ rule }} # 恩雅音乐
 PROCESS-NAME,com.epatient.master.patient,{{ rule }} # 医陪伴
+PROCESS-NAME,com.eryanet.motorcycle,{{ rule }} # 领骑摩托
 PROCESS-NAME,com.escape.trace,{{ rule }} # 遁名聊天-专注防范信息泄漏
 PROCESS-NAME,com.esports.vsgaming,{{ rule }} # 72电竞
 PROCESS-NAME,com.etclients.manager,{{ rule }} # 小石管家
@@ -359,12 +363,11 @@ PROCESS-NAME,com.example.mhua360,{{ rule }} # 漫画360-漫画免费看
 PROCESS-NAME,com.example.mls.mdspaipan,{{ rule }} # 马国峻八字排盘宝
 PROCESS-NAME,com.example.sevenstory,{{ rule }} # AR神奇七巧板
 PROCESS-NAME,com.excurs.othersabashfu,{{ rule }} # 果汁调一调
+PROCESS-NAME,com.faloo.BookReader4Android,{{ rule }} # 飞卢小说-电子书小说阅读
 PROCESS-NAME,com.fangame.videoenhance,{{ rule }} # 高清视频修复
 PROCESS-NAME,com.fangzhengzhongqi.djt,{{ rule }} # 方正中期期货点金通-期货交易
 PROCESS-NAME,com.faster.dsyd,{{ rule }} # 袋鼠阅读极速版-零花钱不断
-PROCESS-NAME,com.fatong.sen_fatong_app,{{ rule }} # 法律村村通-法律小助手
 PROCESS-NAME,com.fawvw.ebo,{{ rule }} # JETTA捷达
-PROCESS-NAME,com.feierlaiedu.collegelive,{{ rule }} # 启牛
 PROCESS-NAME,com.feisu.jisuanqi,{{ rule }} # 超级全能计算器
 PROCESS-NAME,com.feixingzhiyi.pilottraining,{{ rule }} # 飞行之翼
 PROCESS-NAME,com.fengcangyigou.wbb,{{ rule }} # 丰仓易购
@@ -373,6 +376,7 @@ PROCESS-NAME,com.fenxiang.storyline,{{ rule }} # 围观短剧-无广告海量短
 PROCESS-NAME,com.fescoadeccotech.ihrs.app,{{ rule }} # 员宇宙
 PROCESS-NAME,com.fiftyonexinwei.learning,{{ rule }} # 芯位科技
 PROCESS-NAME,com.figx.brainjd,{{ rule }} # 娃邻国-娃娃情感陪伴
+PROCESS-NAME,com.finhub.fenbeitong,{{ rule }} # 分贝通
 PROCESS-NAME,com.firDrive.MiKey,{{ rule }} # 冷杉云库-课程加密与在线学习
 PROCESS-NAME,com.firstreadapp.read,{{ rule }} # 先读
 PROCESS-NAME,com.fishingverse.fishing_verse,{{ rule }} # 钓江湖
@@ -380,6 +384,7 @@ PROCESS-NAME,com.fitclaw.app,{{ rule }} # PowerClaw
 PROCESS-NAME,com.fitshow,{{ rule }} # 运动秀
 PROCESS-NAME,com.fiture.fitness.cabin,{{ rule }} # 猛犸舱健身
 PROCESS-NAME,com.fivehundredpx.viewer.main,{{ rule }} # 500px中国版
+PROCESS-NAME,com.flashforge.flashstudio,{{ rule }} # Flash Studio
 PROCESS-NAME,com.flashxsport.flash,{{ rule }} # 闪动
 PROCESS-NAME,com.flightmanager.view,{{ rule }} # 航班管家-特价机票
 PROCESS-NAME,com.fluffycat.lulu,{{ rule }} # LuluCare-AI心理咨询
@@ -392,7 +397,6 @@ PROCESS-NAME,com.founder.niedujinchang,{{ rule }} # 镍都金昌
 PROCESS-NAME,com.founder.qingyuan,{{ rule }} # 新清远
 PROCESS-NAME,com.freenotes.freenotes,{{ rule }} # 自由笔记-无纸化记笔记
 PROCESS-NAME,com.fuanjisuan.fa,{{ rule }} # 福安计算器
-PROCESS-NAME,com.fugujiaopian.xinghui,{{ rule }} # 复古胶片氛围相机
 PROCESS-NAME,com.fujian.daily,{{ rule }} # 新福建
 PROCESS-NAME,com.futurefleet.pandabus.ui,{{ rule }} # 熊猫出行
 PROCESS-NAME,com.fxicrazy.sjml,{{ rule }} # 联掌门户
@@ -403,12 +407,14 @@ PROCESS-NAME,com.fzidt.liuxun,{{ rule }} # 柳讯
 PROCESS-NAME,com.gangduo.microbeauty,{{ rule }} # 微美颜
 PROCESS-NAME,com.gangtise.gangtiseapp,{{ rule }} # Gangtise投研
 PROCESS-NAME,com.gaodun.apps.shanganya,{{ rule }} # 上岸鸭公考
+PROCESS-NAME,com.gaoshub.jimanman,{{ rule }} # 绩满满
 PROCESS-NAME,com.garmin.android.apps.gccm,{{ rule }} # 佳速度
 PROCESS-NAME,com.gbbs.ayhw,{{ rule }} # 安优育网
 PROCESS-NAME,com.gcable.wangjie.gm26c9bc30db6de9f15a13d7b855008a18,{{ rule }} # 吴川融媒
 PROCESS-NAME,com.geega.pickup,{{ rule }} # 吉利雷达
 PROCESS-NAME,com.gem.tastyfood,{{ rule }} # 食行生鲜
 PROCESS-NAME,com.generalcomp.batian,{{ rule }} # 霸天安云
+PROCESS-NAME,com.generalcomp.haishiyun,{{ rule }} # 海视云
 PROCESS-NAME,com.generalcomp.liejuyun,{{ rule }} # Lincam
 PROCESS-NAME,com.generalcomp.luowice,{{ rule }} # luowice
 PROCESS-NAME,com.gewara,{{ rule }} # 格瓦拉生活
@@ -435,6 +441,7 @@ PROCESS-NAME,com.gwccdprod.sr,{{ rule }} # 昌都公务出行
 PROCESS-NAME,com.gxxy.bizhi,{{ rule }} # 透明壁纸全局XIU
 PROCESS-NAME,com.gyhz.syfmzm,{{ rule }} # 拾音FM助眠
 PROCESS-NAME,com.gyy.zhiliaoyoufang,{{ rule }} # 知了有方
+PROCESS-NAME,com.gzatyc20.adapp,{{ rule }} # 纪念日小提醒
 PROCESS-NAME,com.gzguangpinhui,{{ rule }} # GuangPinHui
 PROCESS-NAME,com.gzhm.shoujidaohang,{{ rule }} # 手机导航
 PROCESS-NAME,com.gzhuaiyun.psp,{{ rule }} # 红白PSP模拟器-wii/ngc/dc
@@ -454,14 +461,13 @@ PROCESS-NAME,com.hbrb.jiyun,{{ rule }} # 冀云
 PROCESS-NAME,com.hbty.yjk.manager,{{ rule }} # 家和康育
 PROCESS-NAME,com.hbxyfgs.ftxsmf.yykk,{{ rule }} # 番听小说免费
 PROCESS-NAME,com.hdf.twear,{{ rule }} # HD Fit Pro
-PROCESS-NAME,com.heartgo.loong,{{ rule }} # Qni-线上派对
 PROCESS-NAME,com.hebnx.mbank.pmbank,{{ rule }} # 河北农信手机银行
 PROCESS-NAME,com.hefengshenghuo.whbanyu,{{ rule }} # 和风生活
 PROCESS-NAME,com.helloxiaolu.health,{{ rule }} # 哈喽小鹿-为传播美好而生
+PROCESS-NAME,com.helloxj.xlook,{{ rule }} # 自定义水印相机-改时间地点水印
 PROCESS-NAME,com.hengchang.hcyyapp,{{ rule }} # 恒昌健康
 PROCESS-NAME,com.hengrong.app.jiyongqian,{{ rule }} # 急用钱-极速分期
 PROCESS-NAME,com.hengxing.huoxing,{{ rule }} # 火星派
-PROCESS-NAME,com.heniantangpinpai.yxs,{{ rule }} # 养心社
 PROCESS-NAME,com.heven.aidesigner,{{ rule }} # AI室内设计大师-装修设计&amp;效果图
 PROCESS-NAME,com.hexin.hxzhitou,{{ rule }} # 和信智投
 PROCESS-NAME,com.hexin.ifind.android,{{ rule }} # 同花顺iFinD-机构级金融终端
@@ -479,7 +485,6 @@ PROCESS-NAME,com.hftv.wxdl,{{ rule }} # 大连云
 PROCESS-NAME,com.hgxr.blty,{{ rule }} # 百里挑异
 PROCESS-NAME,com.hgxr.ktjc,{{ rule }} # 看图解词
 PROCESS-NAME,com.hicard.cf,{{ rule }} # 嗨卡
-PROCESS-NAME,com.hicoo.app,{{ rule }} # i嗨创
 PROCESS-NAME,com.hihonor.vmall,{{ rule }} # 荣耀商城-官方正品保障
 PROCESS-NAME,com.hikvision.minerva,{{ rule }} # 云眸普教-智慧教学云平台
 PROCESS-NAME,com.himoou.lumi,{{ rule }} # Paku相机-AI构图滤镜CCD复古胶片
@@ -488,7 +493,6 @@ PROCESS-NAME,com.hjxj.camera,{{ rule }} # 幻境相机
 PROCESS-NAME,com.hk.axyqb,{{ rule }} # 安心用钱包
 PROCESS-NAME,com.hk2306.kmhealthy,{{ rule }} # KM健康
 PROCESS-NAME,com.hkyj.gjdzskc,{{ rule }} # 公交到站时刻查
-PROCESS-NAME,com.hnbf.tcqzzp,{{ rule }} # 同城求职招聘
 PROCESS-NAME,com.hncxxt.mobile.trust.client,{{ rule }} # 财信信托
 PROCESS-NAME,com.hnljing.hongyundt,{{ rule }} # 鸿运答题
 PROCESS-NAME,com.hnzycfc.tqh,{{ rule }} # 中原提钱花
@@ -508,7 +512,6 @@ PROCESS-NAME,com.huacuiai.bowux,{{ rule }} # 博悟光年
 PROCESS-NAME,com.huami.watch.hmwatchmanager,{{ rule }} # Zepp
 PROCESS-NAME,com.huawei.holosens,{{ rule }} # 好望个人版
 PROCESS-NAME,com.huaxi.robot.robotProject,{{ rule }} # 护小悉
-PROCESS-NAME,com.huayunxinxi.xlq,{{ rule }} # 校乐趣-连接校园生活
 PROCESS-NAME,com.hugeauto.app,{{ rule }} # Huge Auto
 PROCESS-NAME,com.huiju.estate,{{ rule }} # 惠居家园-智慧社区服务平台
 PROCESS-NAME,com.huiyao.android.skgqjmbfq,{{ rule }} # 私看高清加密播放器
@@ -522,11 +525,13 @@ PROCESS-NAME,com.huxiu,{{ rule }} # 虎嗅
 PROCESS-NAME,com.hvtmnvs.kkrlzv,{{ rule }} # 身高模拟器
 PROCESS-NAME,com.hwl.hj,{{ rule }} # 好借-分期借款
 PROCESS-NAME,com.hwsoft.mobile,{{ rule }} # 掌上移动应用
+PROCESS-NAME,com.hxfps.hxds,{{ rule }} # 泓星代售
 PROCESS-NAME,com.hxt.sass,{{ rule }} # 汇学堂SaaS
 PROCESS-NAME,com.hxyz.warhammer,{{ rule }} # 神选集
 PROCESS-NAME,com.hybridproject,{{ rule }} # 35CRM
 PROCESS-NAME,com.hybunion.hybpro,{{ rule }} # 会员宝Pro
 PROCESS-NAME,com.hykj.meimiaomiao,{{ rule }} # 梅苗苗
+PROCESS-NAME,com.hylg.hylg,{{ rule }} # 话语灵感-成语
 PROCESS-NAME,com.hywh.ajta,{{ rule }} # 爱娇-美女视频聊天
 PROCESS-NAME,com.hyzx.crushapp,{{ rule }} # Crush-遇见你的Crush
 PROCESS-NAME,com.hz.cdschool,{{ rule }} # 恒悦动校园版
@@ -565,12 +570,14 @@ PROCESS-NAME,com.itjuzi.app,{{ rule }} # IT桔子
 PROCESS-NAME,com.ivan.voice_transcriber,{{ rule }} # 小语洞听
 PROCESS-NAME,com.iwown.vitality,{{ rule }} # V9健康
 PROCESS-NAME,com.ixingpan.xp,{{ rule }} # 爱星盘-专业星盘工具
+PROCESS-NAME,com.jbufa.iot3,{{ rule }} # 智消云管家
 PROCESS-NAME,com.jcdb.uni,{{ rule }} # 神盾猫-车主服务
 PROCESS-NAME,com.jd.b2b.jdws.rn,{{ rule }} # 京东万商
 PROCESS-NAME,com.jd.jdhealth,{{ rule }} # 京东健康-看病买药 就上京东
 PROCESS-NAME,com.jeak.ytqlzs,{{ rule }} # 远途旅游助手
 PROCESS-NAME,com.jetair.cuair,{{ rule }} # 中国联合航空
 PROCESS-NAME,com.jfloan.jhj,{{ rule }} # 聚好借
+PROCESS-NAME,com.jgwst.yjzg,{{ rule }} # 云景之谷
 PROCESS-NAME,com.jgy,{{ rule }} # 建果
 PROCESS-NAME,com.jh.cloud_stocking_qin,{{ rule }} # 羽e通
 PROCESS-NAME,com.jiabanleling.lnshenyang,{{ rule }} # 佳伴乐龄
@@ -586,10 +593,7 @@ PROCESS-NAME,com.jihuanshe,{{ rule }} # 集换社
 PROCESS-NAME,com.jike.dadedynasty,{{ rule }} # 翡翠王朝
 PROCESS-NAME,com.jimi.gamestore,{{ rule }} # 机咪-手机云电脑免费玩3A云游戏
 PROCESS-NAME,com.jingtanhao.dmdly,{{ rule }} # 动漫岛乐园
-PROCESS-NAME,com.jingxinjia.huabnaoq,{{ rule }} # 8DBIM
-PROCESS-NAME,com.jingxinjia.huabnaor,{{ rule }} # HFINs
 PROCESS-NAME,com.jingxinjia.huabnaot,{{ rule }} # ITTS
-PROCESS-NAME,com.jingxinjia.huabnaou,{{ rule }} # NM100
 PROCESS-NAME,com.jinrikd.news,{{ rule }} # 今日看点极速版
 PROCESS-NAME,com.jinyinzi.yxh,{{ rule }} # 盈小花-正规小额信用分期平台
 PROCESS-NAME,com.jizhan.wordapp,{{ rule }} # 艾宾浩斯背单词
@@ -613,7 +617,6 @@ PROCESS-NAME,com.jmlide.jicai,{{ rule }} # 批菜集采
 PROCESS-NAME,com.jmu.simplelove,{{ rule }} # 越情-开启一段越南情缘
 PROCESS-NAME,com.jmx.fapp,{{ rule }} # 金质花
 PROCESS-NAME,com.johnson.welltivity,{{ rule }} # Welltivity乔山
-PROCESS-NAME,com.joy.words,{{ rule }} # JoyWords-一拍识物轻松记词
 PROCESS-NAME,com.jryx.isho,{{ rule }} # ISHO-AI 睡眠与精力
 PROCESS-NAME,com.jryy.app.news.big,{{ rule }} # 大字快报
 PROCESS-NAME,com.jryy.app.news.kb,{{ rule }} # 快讯-3分钟看天下事
@@ -645,18 +648,17 @@ PROCESS-NAME,com.keke.android.gqscmcbfq,{{ rule }} # 高清私储密存播放器
 PROCESS-NAME,com.keledge.kezhiai,{{ rule }} # 可知AI
 PROCESS-NAME,com.kidswant.ss,{{ rule }} # 孩子王
 PROCESS-NAME,com.kjktxid.aighrzfp,{{ rule }} # 汽车音乐畅听歌
+PROCESS-NAME,com.klcxkj.zqxy,{{ rule }} # 趣智校园
 PROCESS-NAME,com.kljjg.neet,{{ rule }} # 快来救救鸽
 PROCESS-NAME,com.kmrmqyozvf.hitchhikingdriversfacilitatetravel,{{ rule }} # 顺风车主助力出行
 PROCESS-NAME,com.kmxs.reader,{{ rule }} # 七猫免费小说
 PROCESS-NAME,com.kongfz.app,{{ rule }} # 孔夫子旧书网
 PROCESS-NAME,com.koolearn.android,{{ rule }} # 新东方在线-考研四六级出国必备
-PROCESS-NAME,com.koolearn.zhenxuan,{{ rule }} # 东方甄选-美好生活,尽在东方甄选
 PROCESS-NAME,com.krge.acwl,{{ rule }} # 安驰稳驾
 PROCESS-NAME,com.kuaikan.comic,{{ rule }} # 快看漫画-快看，你的漫画乐园
 PROCESS-NAME,com.kuaizi.kzpush,{{ rule }} # 推你
 PROCESS-NAME,com.kugou.android.lite,{{ rule }} # 酷狗概念版-免费听过亿热门音乐
 PROCESS-NAME,com.kunlunbaichuan.huacai,{{ rule }} # 爱玩你画我猜-你的画画聊天搭子
-PROCESS-NAME,com.kunpengtn.starlight,{{ rule }} # 星光相机
 PROCESS-NAME,com.kuolie.lucky,{{ rule }} # 谷多多-速解MBTI，深度疗愈
 PROCESS-NAME,com.kwai.kling,{{ rule }} # 可灵AI-点燃你的想象力
 PROCESS-NAME,com.kwai.theater,{{ rule }} # 喜番免费短剧
@@ -678,12 +680,11 @@ PROCESS-NAME,com.leo.astro,{{ rule }} # 爱占星-星座运势
 PROCESS-NAME,com.leyi.maipu,{{ rule }} # 脉扑
 PROCESS-NAME,com.lezhi.erasure,{{ rule }} # 无痕改字-p图改字抠图神器
 PROCESS-NAME,com.lianbang.njnx.tech,{{ rule }} # LB廉邦-品质为先 服务至上
+PROCESS-NAME,com.liangpei.app,{{ rule }} # 良配
 PROCESS-NAME,com.liangxin.UNIB5D57FF,{{ rule }} # 良心云游
 PROCESS-NAME,com.lianhezhuli.hyfitmainland,{{ rule }} # HryFine
 PROCESS-NAME,com.lianhezhuli.mtwear,{{ rule }} # M2 Wear
-PROCESS-NAME,com.lib.jiabao_w,{{ rule }} # 回收人员-家宝兔
 PROCESS-NAME,com.lichi.lcyy_android,{{ rule }} # 励齿医药
-PROCESS-NAME,com.lil.yjj.ntv,{{ rule }} # 左右手师傅端
 PROCESS-NAME,com.lingcat.carrycat.worker,{{ rule }} # 搬运猫工人版-搬运工同城接单
 PROCESS-NAME,com.linghit.whisper,{{ rule }} # 轻语星运
 PROCESS-NAME,com.linghuxiong.aireader,{{ rule }} # 令狐兄-一个学习型阅读器
@@ -698,7 +699,6 @@ PROCESS-NAME,com.lipind.lipind,{{ rule }} # 理聘-博士求职找工作高校�
 PROCESS-NAME,com.lipuzhisheng.gzty,{{ rule }} # 古筝民乐调音器
 PROCESS-NAME,com.litta.littacoach,{{ rule }} # LITTA商家端-会员健康管理AI助手
 PROCESS-NAME,com.livesports.goldsphere,{{ rule }} # 金球视界-每一份热爱都有主场
-PROCESS-NAME,com.liveyap.timehut,{{ rule }} # 时光小屋
 PROCESS-NAME,com.lixiangdong.textscanner,{{ rule }} # 幂果扫描
 PROCESS-NAME,com.ljd.hdcy,{{ rule }} # 海底穿越-答题
 PROCESS-NAME,com.lmlunyarr.veinlm,{{ rule }} # 万年历免费农历
@@ -739,6 +739,7 @@ PROCESS-NAME,com.meitu.poster,{{ rule }} # 美图设计室
 PROCESS-NAME,com.melink.android,{{ rule }} # Melinked
 PROCESS-NAME,com.memo93.anymo,{{ rule }} # Anymo记忆卡-Anki记忆卡全新升级
 PROCESS-NAME,com.metareader.YYReader,{{ rule }} # 元阅读
+PROCESS-NAME,com.mg.subtitle,{{ rule }} # 芒果字幕翻译-实时语音翻译
 PROCESS-NAME,com.mhace.jns,{{ rule }} # JNS
 PROCESS-NAME,com.miaoxiang,{{ rule }} # 秒象智能-智慧生活与门店经营
 PROCESS-NAME,com.midoo.ai,{{ rule }} # Midoo学英语-实时纠错
@@ -755,8 +756,8 @@ PROCESS-NAME,com.mmkt.online.edu,{{ rule }} # 木马课堂
 PROCESS-NAME,com.mnopr.exquisite.camera,{{ rule }} # 玲珑相机-水印相机拍照
 PROCESS-NAME,com.moji.mjweather,{{ rule }} # 墨迹天气-让未知可先知
 PROCESS-NAME,com.mongolvideo.mongol_video_cut,{{ rule }} # 蒙映-蒙古语视频创作工具
+PROCESS-NAME,com.mongsion.oa,{{ rule }} # 芒象-物业管理服务平台
 PROCESS-NAME,com.moonshot.kimichat,{{ rule }} # Kimi-K3.1 Pro上线
-PROCESS-NAME,com.mopai.mobapad,{{ rule }} # Mobapad
 PROCESS-NAME,com.motionai.goodminton,{{ rule }} # RallyVision-你的羽球AI搭子
 PROCESS-NAME,com.moyi.xfz,{{ rule }} # 摩义-到家上门按摩优质服务平台
 PROCESS-NAME,com.msd.msdzw,{{ rule }} # 马上到智维-行车维保
@@ -780,6 +781,8 @@ PROCESS-NAME,com.netease.godlikelite,{{ rule }} # 网易大神极速版
 PROCESS-NAME,com.netease.huajia,{{ rule }} # 画加
 PROCESS-NAME,com.netrain.hnzzj.hosptial,{{ rule }} # 仲景医生
 PROCESS-NAME,com.newcolor.qixinginfo,{{ rule }} # 废废-废钢废铜塑料行情报价
+PROCESS-NAME,com.newhainan,{{ rule }} # 新海南
+PROCESS-NAME,com.newledge.app,{{ rule }} # 新枝-信息收藏稍后读批注回顾
 PROCESS-NAME,com.news.shangyounews,{{ rule }} # 上游新闻
 PROCESS-NAME,com.newskyer.draw,{{ rule }} # 享做笔记-闪卡思维导图
 PROCESS-NAME,com.newsports.sports,{{ rule }} # 新体育-直播
@@ -796,10 +799,12 @@ PROCESS-NAME,com.nxy.sc,{{ rule }} # 个人手机银行
 PROCESS-NAME,com.ny.jiuyi160_doctor,{{ rule }} # 160医护
 PROCESS-NAME,com.nydd.xiaoyimanghe,{{ rule }} # 小易盲盒
 PROCESS-NAME,com.oceanread.YHYBAPP,{{ rule }} # 阅海
+PROCESS-NAME,com.oceanus.otr,{{ rule }} # O-Trial PRO
 PROCESS-NAME,com.ococci.tony.smarthouse,{{ rule }} # Onecam
 PROCESS-NAME,com.oilchem.duanxuntong,{{ rule }} # 隆众快讯
 PROCESS-NAME,com.onyx.galaxy.booxreader,{{ rule }} # BooxReader-让阅读回归本真
 PROCESS-NAME,com.ophone.reader.ui,{{ rule }} # 咪咕悦看-免费小说免广告看短剧
+PROCESS-NAME,com.oralcraft.android,{{ rule }} # 可栗口语-AI外教情景对话练口语
 PROCESS-NAME,com.paime.paime,{{ rule }} # 拍me摄影
 PROCESS-NAME,com.pandabus.android.qujing,{{ rule }} # 曲靖公交
 PROCESS-NAME,com.parallel.odyssey,{{ rule }} # 猫箱
@@ -831,7 +836,6 @@ PROCESS-NAME,com.pinyuanbaihuo.whsykyj,{{ rule }} # 品源百货
 PROCESS-NAME,com.pldx.engang,{{ rule }} # 英语帮
 PROCESS-NAME,com.pmobile.byecame,{{ rule }} # Playme Mobile
 PROCESS-NAME,com.pmz.polymerization,{{ rule }} # 创客管家Pro
-PROCESS-NAME,com.powerlawai.wulv,{{ rule }} # 吾律
 PROCESS-NAME,com.powermedia.yuxi.activity,{{ rule }} # 玉溪+
 PROCESS-NAME,com.ppwfund.pub,{{ rule }} # 公募排排网-基金理财投资平台
 PROCESS-NAME,com.preova.yinyue,{{ rule }} # 孕柚-科学备孕高龄二胎
@@ -878,7 +882,6 @@ PROCESS-NAME,com.qvuq.mclw,{{ rule }} # 沐驰育网
 PROCESS-NAME,com.qxdj.mall,{{ rule }} # 轻喜到家-直营家政保洁保姆
 PROCESS-NAME,com.qxlife.windmee,{{ rule }} # 风遇
 PROCESS-NAME,com.qysy.taozixiangji,{{ rule }} # 桃子相机
-PROCESS-NAME,com.rainbow.chkh,{{ rule }} # 彩虹狂欢-机器攻略
 PROCESS-NAME,com.reactbaseapp,{{ rule }} # 碧湾
 PROCESS-NAME,com.readify.app.cn,{{ rule }} # 悦读AI-全能听书神器Readify
 PROCESS-NAME,com.recruit.petclinic,{{ rule }} # 好宠医
@@ -891,6 +894,7 @@ PROCESS-NAME,com.rocksilicon.minicrmapp,{{ rule }} # 电销灵-自动拨号电�
 PROCESS-NAME,com.rong.Shure,{{ rule }} # 舒尔特方格
 PROCESS-NAME,com.rrc.footballwealth,{{ rule }} # 足球财富
 PROCESS-NAME,com.ruling.knowlili.app,{{ rule }} # 哩里
+PROCESS-NAME,com.runfox.english.schoolliving,{{ rule }} # 小狐狸ABC-儿童英语启蒙
 PROCESS-NAME,com.runsdata.socialsecurity.shanxi,{{ rule }} # 民生山西
 PROCESS-NAME,com.ruqii.avatar,{{ rule }} # 头像星球
 PROCESS-NAME,com.rw.revivalfit,{{ rule }} # RWfit
@@ -906,7 +910,6 @@ PROCESS-NAME,com.scgroup.shopmall,{{ rule }} # 小商品城
 PROCESS-NAME,com.scnx.entApp,{{ rule }} # 四川农信企业手机银行
 PROCESS-NAME,com.scsc.edu.exepres,{{ rule }} # 运动促进健康
 PROCESS-NAME,com.scsc.ydgj.admin,{{ rule }} # 运动管家
-PROCESS-NAME,com.sctvcloud.tianfuxinqu,{{ rule }} # 天府发布
 PROCESS-NAME,com.sdhs.easy.high.road,{{ rule }} # e高速
 PROCESS-NAME,com.sdictktrust.cfapp.prod,{{ rule }} # 国投财富
 PROCESS-NAME,com.searchquest.app,{{ rule }} # 易纠错
@@ -924,7 +927,6 @@ PROCESS-NAME,com.shabro.android.activity,{{ rule }} # 沙师弟司机
 PROCESS-NAME,com.shabro.android.ylgj,{{ rule }} # 沙师弟货主
 PROCESS-NAME,com.shadow.mooncake,{{ rule }} # Moon月球-3D月球生日月相
 PROCESS-NAME,com.shadow16.app,{{ rule }} # 16暗影
-PROCESS-NAME,com.shanbay.listen,{{ rule }} # 扇贝听力口语
 PROCESS-NAME,com.shanbay.news,{{ rule }} # 扇贝阅读
 PROCESS-NAME,com.shanbay.wisecards,{{ rule }} # 扇贝知卡-知识卡片学新知
 PROCESS-NAME,com.shanghaionstar,{{ rule }} # 安吉星
@@ -935,6 +937,7 @@ PROCESS-NAME,com.shcw.qcylmfb,{{ rule }} # 汽车音乐免费版-汽车音乐
 PROCESS-NAME,com.shengtian.app,{{ rule }} # 盛天智联
 PROCESS-NAME,com.shenguang.iinvestment,{{ rule }} # 神光智投
 PROCESS-NAME,com.shengyu.yolo,{{ rule }} # Yolo声遇
+PROCESS-NAME,com.shgbit.android.qingzhou,{{ rule }} # Qingzhou
 PROCESS-NAME,com.shhl.sololink,{{ rule }} # SoloLink
 PROCESS-NAME,com.shhy.health,{{ rule }} # 护佑健康
 PROCESS-NAME,com.shibei.adreader,{{ rule }} # 拾贝免费小说
@@ -1032,7 +1035,6 @@ PROCESS-NAME,com.syey.jinrikk,{{ rule }} # 今日看看极速版
 PROCESS-NAME,com.syh.bigbrain,{{ rule }} # 大脑营行
 PROCESS-NAME,com.syhogy.health,{{ rule }} # 康小助
 PROCESS-NAME,com.syt.youqu,{{ rule }} # 天天朋友圈-早晚安励志文案素材
-PROCESS-NAME,com.szfantuan.storage,{{ rule }} # 收纳一手帮
 PROCESS-NAME,com.szjscam.jscam1688,{{ rule }} # 小鲸看看
 PROCESS-NAME,com.szzc,{{ rule }} # 神州租车-全直营安心租
 PROCESS-NAME,com.taier.taishor,{{ rule }} # 泰小虎
@@ -1076,6 +1078,7 @@ PROCESS-NAME,com.tipsoon.android,{{ rule }} # 简讯
 PROCESS-NAME,com.tizhiyun.app,{{ rule }} # 体智云
 PROCESS-NAME,com.tjbhb.pmbs,{{ rule }} # 滨海掌上银行
 PROCESS-NAME,com.tjhxyq.playlet.feimao,{{ rule }} # 飞猫短剧
+PROCESS-NAME,com.tm.speechrecognition,{{ rule }} # AI会议纪要-电话录音存证
 PROCESS-NAME,com.tndy.bhxrl,{{ rule }} # 猜词比划-暖场小工具
 PROCESS-NAME,com.tongchuan.media,{{ rule }} # 今日通川
 PROCESS-NAME,com.tongfudun.legion,{{ rule }} # 大群空间
@@ -1098,6 +1101,7 @@ PROCESS-NAME,com.tuzhu.apkrqp.pureadk,{{ rule }} # 兔兔-辣么可爱
 PROCESS-NAME,com.twx.metronome,{{ rule }} # 节拍器专家
 PROCESS-NAME,com.txzing.car.helper,{{ rule }} # 车帮主
 PROCESS-NAME,com.tysci.titan,{{ rule }} # 体坛周报-足球篮球体育新闻资讯
+PROCESS-NAME,com.tytech.theastro.wear,{{ rule }} # 流宇-畅享智能
 PROCESS-NAME,com.tzbank.merchant,{{ rule }} # 易收款
 PROCESS-NAME,com.ubssdic.gtrynew,{{ rule }} # 国投瑞银
 PROCESS-NAME,com.udian.bus.driver,{{ rule }} # 优点出行-司机
@@ -1117,6 +1121,7 @@ PROCESS-NAME,com.vr.kushe,{{ rule }} # 花园玩家
 PROCESS-NAME,com.vxoe.xtjl,{{ rule }} # 信途捷驾
 PROCESS-NAME,com.waimaiii.waimaiii,{{ rule }} # 歪麦霸王餐-外卖返利红包超优惠
 PROCESS-NAME,com.wangxutech.picwish,{{ rule }} # 佐糖
+PROCESS-NAME,com.wanlianyida.driver,{{ rule }} # 易达宝司机-拉货找货源物流货车
 PROCESS-NAME,com.wanlianyida.industry,{{ rule }} # 产联社
 PROCESS-NAME,com.wanninilikai.j,{{ rule }} # 黄道吉历
 PROCESS-NAME,com.wantou.wanxiaofu,{{ rule }} # 皖小服
@@ -1131,6 +1136,7 @@ PROCESS-NAME,com.weizq,{{ rule }} # 华林财富
 PROCESS-NAME,com.wellness.ring.ring_wellness,{{ rule }} # HEALTHY AMS-您的健康管家
 PROCESS-NAME,com.wepie.ivylovepro.ivy_pro,{{ rule }} # 恋爱主理人
 PROCESS-NAME,com.whalegame.android.southnote,{{ rule }} # 小南书-聊点好游戏，聊点好玩的
+PROCESS-NAME,com.whitepixel.cyx,{{ rule }} # 次元箱-OC兴趣社区
 PROCESS-NAME,com.whjk.chaowan,{{ rule }} # 欢乐都市-掌上电玩城
 PROCESS-NAME,com.whueoqc.gdmfdh,{{ rule }} # 高度免费导航
 PROCESS-NAME,com.whydone.savemoneyonshopping,{{ rule }} # 购物省钱夕
@@ -1147,7 +1153,6 @@ PROCESS-NAME,com.wqwb.yxmy,{{ rule }} # 逸行漫游
 PROCESS-NAME,com.ws3dm.game,{{ rule }} # 3DM游戏-Steam玩家必备游戏社区
 PROCESS-NAME,com.wsjk.wszl_flutter,{{ rule }} # 惟舍之旅
 PROCESS-NAME,com.wskj.fbptxs,{{ rule }} # 习闻乐见
-PROCESS-NAME,com.wstwo.wenjingsaomiao,{{ rule }} # 文镜扫描
 PROCESS-NAME,com.wtp.wtpilates,{{ rule }} # 普拉提运动-让你体态优雅在线
 PROCESS-NAME,com.wuhan.jijin,{{ rule }} # 极近
 PROCESS-NAME,com.wwcy.ytxc,{{ rule }} # 以图析词
@@ -1160,6 +1165,7 @@ PROCESS-NAME,com.xbxxhz.box,{{ rule }} # 小白学习打印
 PROCESS-NAME,com.xcx.snzsb,{{ rule }} # 新颜智尚
 PROCESS-NAME,com.xdjy100.salestool.inhouse,{{ rule }} # 行动协同
 PROCESS-NAME,com.xenyii.cyblink,{{ rule }} # 电工接线通
+PROCESS-NAME,com.xfrhtx.gzb,{{ rule }} # 消防融合通信
 PROCESS-NAME,com.xhdai.app,{{ rule }} # 小红袋
 PROCESS-NAME,com.xhey.xcamera,{{ rule }} # 今日水印相机
 PROCESS-NAME,com.xhkt.classroom,{{ rule }} # 小黑课堂
@@ -1196,7 +1202,6 @@ PROCESS-NAME,com.xinjiang.eishoufang,{{ rule }} # 新疆二手房
 PROCESS-NAME,com.xinmei.etrust,{{ rule }} # 信美相互
 PROCESS-NAME,com.xinxianggou,{{ rule }} # 馫易购商城-数码、美妆与露营装备
 PROCESS-NAME,com.xizhi.wearin,{{ rule }} # WearinOS
-PROCESS-NAME,com.xja.lxly.mail,{{ rule }} # 讯蓟邮箱助手
 PROCESS-NAME,com.xjm.ssdzlhl,{{ rule }} # 四时大字老黄历
 PROCESS-NAME,com.xjm.sswnjrl,{{ rule }} # 顺时万年吉日历
 PROCESS-NAME,com.xjmty.klmysrmtzx,{{ rule }} # 三克油
@@ -1244,7 +1249,6 @@ PROCESS-NAME,com.yihai.gmwh,{{ rule }} # 民品汇
 PROCESS-NAME,com.yilianbank.yilian,{{ rule }} # 亿联银行
 PROCESS-NAME,com.yinbao,{{ rule }} # 鲸猜足球
 PROCESS-NAME,com.yinengbao.release,{{ rule }} # 易能宝
-PROCESS-NAME,com.yinglianbang.android,{{ rule }} # 鹰脉
 PROCESS-NAME,com.Yinsheng.t6,{{ rule }} # 我的拾贰世界
 PROCESS-NAME,com.yinxiang.gaganote,{{ rule }} # Gaganote
 PROCESS-NAME,com.yitong.fjnx.mbank.android,{{ rule }} # 福建农信
@@ -1252,7 +1256,6 @@ PROCESS-NAME,com.yitong.ksrcb.mbank.android,{{ rule }} # 昆山农商银行
 PROCESS-NAME,com.yitong.mbank.gy,{{ rule }} # 贵阳银行
 PROCESS-NAME,com.yituyu.inc,{{ rule }} # 艺图语-超高清海量美图作品欣赏
 PROCESS-NAME,com.yiwang.fangkuaiyi,{{ rule }} # 1药城
-PROCESS-NAME,com.yixingenglish.ft,{{ rule }} # 医行口语-一对一
 PROCESS-NAME,com.yixingtrip.yxsl.trip,{{ rule }} # 易行商旅
 PROCESS-NAME,com.yixiuji.app,{{ rule }} # 壹修机-上门手机维修专家
 PROCESS-NAME,com.yixunsoft.musiceffect,{{ rule }} # 小河音效助手
@@ -1266,7 +1269,6 @@ PROCESS-NAME,com.ylts.doctor,{{ rule }} # e路e诊
 PROCESS-NAME,com.yokitime.erzhuangjiangjun,{{ rule }} # 二壮将军-健身、运动、燃脂、跟练
 PROCESS-NAME,com.yoli.ykt,{{ rule }} # 银客通
 PROCESS-NAME,com.yoomi.t1.huaxin,{{ rule }} # 华鑫星途
-PROCESS-NAME,com.Yoonop.sale,{{ rule }} # 优农帮ERP
 PROCESS-NAME,com.youejisuban.driver,{{ rule }} # 优e司机极速版
 PROCESS-NAME,com.yougewang.aiyundong,{{ rule }} # 优个运动
 PROCESS-NAME,com.youinputmeread,{{ rule }} # 朗读大师-文字朗读神器
@@ -1275,7 +1277,6 @@ PROCESS-NAME,com.youngorigin.young,{{ rule }} # Young潮流平台
 PROCESS-NAME,com.youquant.app,{{ rule }} # 优宽量化
 PROCESS-NAME,com.yours.drama,{{ rule }} # 考拉小说-好看原创小说阅读器
 PROCESS-NAME,com.youxiake,{{ rule }} # 游侠客-好玩的主题旅行平台
-PROCESS-NAME,com.youyutrucking.driver,{{ rule }} # 有余司机端
 PROCESS-NAME,com.yslcz.app,{{ rule }} # 戎易通车主
 PROCESS-NAME,com.yslhz.app,{{ rule }} # 戎易通货主
 PROCESS-NAME,com.yuanfang.luna,{{ rule }} # 智眠Luna
@@ -1284,6 +1285,7 @@ PROCESS-NAME,com.yuanli.naitmoocam,{{ rule }} # Naitmoo Cam
 PROCESS-NAME,com.yuanlue.kegel,{{ rule }} # 凯格尔运动-科学的产后修复计划
 PROCESS-NAME,com.yuanqizhihe.aichaowanshe,{{ rule }} # AI超玩社
 PROCESS-NAME,com.yucheng.HealthWear,{{ rule }} # HealthWear
+PROCESS-NAME,com.yuchuang.xycfloattip,{{ rule }} # 悬浮提示器
 PROCESS-NAME,com.yuechewei.purchase,{{ rule }} # 预泊进货
 PROCESS-NAME,com.yuedong.sport,{{ rule }} # 悦动圈
 PROCESS-NAME,com.yuekang.lnjishibaikang,{{ rule }} # 越康
@@ -1294,9 +1296,10 @@ PROCESS-NAME,com.yueyou.adreader,{{ rule }} # 阅友免费小说
 PROCESS-NAME,com.yueyou.fast,{{ rule }} # 月鼠小说
 PROCESS-NAME,com.yuhuiyida.njyxy,{{ rule }} # 御汇易达-全球易购，通达万家
 PROCESS-NAME,com.yumfee.skate,{{ rule }} # 滑板圈-交流教学专业板正品配件
+PROCESS-NAME,com.yunhe666.yhapp,{{ rule }} # 经营管理端-经营数据与店务协同
 PROCESS-NAME,com.yunjinshenghuo.jlzy,{{ rule }} # 云锦生活
 PROCESS-NAME,com.yunju.yjwl,{{ rule }} # 云聚物流
-PROCESS-NAME,com.yunoa.workflow,{{ rule }} # 工作榴
+PROCESS-NAME,com.yunshang.haileshenghuo,{{ rule }} # 海乐管家
 PROCESS-NAME,com.yunshi.robotlife,{{ rule }} # Lefant
 PROCESS-NAME,com.yurenyoga.com,{{ rule }} # YUREN瑜伽-居家教练
 PROCESS-NAME,com.yuwan.idream.android,{{ rule }} # 小小-越来越懂你的AI
@@ -1307,7 +1310,6 @@ PROCESS-NAME,com.yxb360.zwbz,{{ rule }} # 八字通紫微-紫薇斗数八字排�
 PROCESS-NAME,com.yxhjandroid.uhouzzdis,{{ rule }} # 异乡好居-留学公寓预订平台
 PROCESS-NAME,com.yxkj_main.building_block_robot,{{ rule }} # 宇星科技
 PROCESS-NAME,com.yxm.verio,{{ rule }} # 星眸
-PROCESS-NAME,com.yyxh.yyqt,{{ rule }} # 鸭有钱途
 PROCESS-NAME,com.yyy.fkdwdcc,{{ rule }} # 疯狂动物大冲刺-答题
 PROCESS-NAME,com.yyy.fkqjxdw,{{ rule }} # 疯狂敲击小动物-答题
 PROCESS-NAME,com.yyy.hxdmx,{{ rule }} # 幻星大冒险-答题
@@ -1355,7 +1357,6 @@ PROCESS-NAME,com.zhuoting.healthyucheng,{{ rule }} # SmartHealth
 PROCESS-NAME,com.zhuoxiang.ai.meitu,{{ rule }} # AI美图师-智能修图
 PROCESS-NAME,com.ziroom.awesome,{{ rule }} # 智爱家
 PROCESS-NAME,com.ziroom.ziroomlandlord,{{ rule }} # 自如业主
-PROCESS-NAME,com.ziwei,{{ rule }} # 紫薇星鉴
 PROCESS-NAME,com.ziyou.haokan,{{ rule }} # 好看云壁纸
 PROCESS-NAME,com.zjwh.android_wh_physicalfitness,{{ rule }} # 运动世界
 PROCESS-NAME,com.zkdjk.djkapp,{{ rule }} # 中科健康酒店服务平台-中科健康
@@ -1372,6 +1373,7 @@ PROCESS-NAME,com.zujcrm.fscl,{{ rule }} # 福水常流
 PROCESS-NAME,com.zunbokids.chineseword,{{ rule }} # 呱呱识字-儿童识字认字启蒙软件
 PROCESS-NAME,com.zx.tuner,{{ rule }} # 调音器Tuner-多功能乐器调音器
 PROCESS-NAME,com.zxhy.bulili,{{ rule }} # 卜鲤鲤
+PROCESS-NAME,com.zxw.yarn,{{ rule }} # 纱线圈
 PROCESS-NAME,com.zyark.secondcar,{{ rule }} # 批批车
 PROCESS-NAME,com.zycx.jcrb.android,{{ rule }} # 检察日报
 PROCESS-NAME,com.zyhd.android,{{ rule }} # 知悦电竞-陪玩护航电竞俱乐部
@@ -1386,8 +1388,6 @@ PROCESS-NAME,com.zzsr.gpdmxjx.call,{{ rule }} # 股探索AI-股票精准分析
 PROCESS-NAME,com.zzyx.zxw.l,{{ rule }} # 智小窝房东版
 PROCESS-NAME,count.helper.walk.one,{{ rule }} # 计步小帮手
 PROCESS-NAME,day.quick.glance,{{ rule }} # 每日快看
-PROCESS-NAME,ddff.secnfjvn.secap,{{ rule }} # 仁济-图片美化
-PROCESS-NAME,deepal.com.cn.app,{{ rule }} # 深蓝汽车
 PROCESS-NAME,deepLife.app,{{ rule }} # 庭深-庭院设计施工软装养护
 PROCESS-NAME,dezhou.zhonglongkejiOil.app,{{ rule }} # 油站达
 PROCESS-NAME,dz.astock.djyt.stock,{{ rule }} # 点睛易投
@@ -1428,7 +1428,7 @@ PROCESS-NAME,moc.nauxuoyoaixoaix.www,{{ rule }} # 晓晓优选
 PROCESS-NAME,ms.symsjy.cn,{{ rule }} # 米山英语-米山英语
 PROCESS-NAME,net.cpwxw.cpfiction,{{ rule }} # 长佩阅读
 PROCESS-NAME,net.hangdeng.h5,{{ rule }} # 啦吼
-PROCESS-NAME,net.lvtrip.clientApp,{{ rule }} # 旅程智行
+PROCESS-NAME,net.neobaby.doctor.user,{{ rule }} # 纽贝医生
 PROCESS-NAME,net.ppsz.paopao,{{ rule }} # 泡泡水族
 PROCESS-NAME,net.tinyreader.app,{{ rule }} # 极简漫画-漫画阅读工具
 PROCESS-NAME,net.xinhuamm.mainclient,{{ rule }} # 新华社
@@ -1438,6 +1438,7 @@ PROCESS-NAME,org.chinacourt.tph,{{ rule }} # 天平阳光
 PROCESS-NAME,org.nanhara.nayiapp,{{ rule }} # 卜瓜-AI八字排盘
 PROCESS-NAME,os.imlive.main,{{ rule }} # 漂漂-免费美女秀场
 PROCESS-NAME,ouqe.rosb.zkzhaoz,{{ rule }} # 咕嘎社-区
+PROCESS-NAME,plus.H5F856600,{{ rule }} # 上海停车
 PROCESS-NAME,pro.shengyi.player,{{ rule }} # 众流玩家-众流旗下消费服务平台
 PROCESS-NAME,qwert.healt.okmnhg,{{ rule }} # 运动健康新生活
 PROCESS-NAME,read.free.dt,{{ rule }} # 追书阅读免费版
@@ -1462,7 +1463,6 @@ PROCESS-NAME,uni.app.UNI377B250,{{ rule }} # 标点点
 PROCESS-NAME,uni.app.UNI46D60D6,{{ rule }} # 握己健康
 PROCESS-NAME,uni.app.UNI4930F95,{{ rule }} # ValueLink
 PROCESS-NAME,uni.app.UNI745D614,{{ rule }} # 票好友
-PROCESS-NAME,uni.app.UNI842770A.A1,{{ rule }} # 简聊
 PROCESS-NAME,uni.app.UNI8A90216,{{ rule }} # 宜收-优质品牌资源
 PROCESS-NAME,uni.app.UNI9833208,{{ rule }} # 每日跑步记录GO-专业跑步记录
 PROCESS-NAME,uni.app.UNIAC2C511,{{ rule }} # 医护管理-天成云枢
@@ -1473,13 +1473,13 @@ PROCESS-NAME,uni.F0AEFEF,{{ rule }} # 企原甄品
 PROCESS-NAME,uni.lbhsjiedan,{{ rule }} # 拉豹接单
 PROCESS-NAME,uni.UNI1EC8813,{{ rule }} # 乐园心理
 PROCESS-NAME,uni.UNI1ECAD45,{{ rule }} # 课书房-数字教材出版与阅读
+PROCESS-NAME,uni.UNI5603BD5,{{ rule }} # 易账通
 PROCESS-NAME,uni.UNI69D6F08,{{ rule }} # 柠檬剧场
 PROCESS-NAME,uni.UNI9D65CFA,{{ rule }} # 货满满货主端
 PROCESS-NAME,uni.UNI9FA2C74,{{ rule }} # 医助宝
 PROCESS-NAME,uni.UNIBB0A96F,{{ rule }} # 爱齿商城
 PROCESS-NAME,uni.UNID2941EA,{{ rule }} # 名言屋
 PROCESS-NAME,uni.UNIDCBB82D,{{ rule }} # QABILTUNER
-PROCESS-NAME,uni.UNIECFC834,{{ rule }} # App开发服务-一站式APP开发外包
 PROCESS-NAME,uni.UNIF1BA891,{{ rule }} # 车托夫司机
 PROCESS-NAME,uni.UNIFE86F44,{{ rule }} # 知me
 PROCESS-NAME,vip.xyzx.app,{{ rule }} # 小杨臻选
