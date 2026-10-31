@@ -20,7 +20,7 @@ export const exhaustProvider = async (
       count,
       total,
     });
-    if (count <= 0 || total >= limit) break;
+    if ((count <= 0 && provider.isExhausted) || total >= limit) break;
   }
   return result;
 };

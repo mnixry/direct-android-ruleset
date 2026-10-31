@@ -94,6 +94,7 @@ const main = async () => {
     const merged: Record<string, string> = Object.create(null);
 
     for (const Provider of providers) {
+      if (!Provider.providerTypes.includes(type)) continue;
       const provider = new Provider(type, config?.headers);
       log.info({
         action: "retrieve",
