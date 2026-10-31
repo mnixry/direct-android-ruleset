@@ -98,6 +98,7 @@ payload:
   - PROCESS-NAME,com.ntsqsoft.junqivip #元游军棋
   - PROCESS-NAME,com.og.danjiddz #单机斗地主（开心版）
   - PROCESS-NAME,com.orangestudio.kenken #算独
+  - PROCESS-NAME,com.orangestudio.sudoku #桔子数独
   - PROCESS-NAME,com.ourgame.mahjong.danji #单机麻将-开心版
   - PROCESS-NAME,com.outfit7.mytalkingtomfree #我的汤姆猫
   - PROCESS-NAME,com.papegames.infinitynikki #无限暖暖
@@ -280,6 +281,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.com.hanjiasongshu.jianghux2 #汉家江湖
   - PROCESS-NAME,com.tencent.tmgp.com.outfit7.talkingtomgoldrun #汤姆猫跑酷
   - PROCESS-NAME,com.tencent.tmgp.com.sdgs.yyb #商道高手
+  - PROCESS-NAME,com.tencent.tmgp.com.tencent.tmgp.bog2 #古魂
   - PROCESS-NAME,com.tencent.tmgp.com.tencent.tmgp.jsqq.alsp #爱琳诗篇
   - PROCESS-NAME,com.tencent.tmgp.com.tencent.tmgp.yunbu.pool3 #台球风云游戏软件 V1.0.0
   - PROCESS-NAME,com.tencent.tmgp.combatman #奥特曼之格斗超人
