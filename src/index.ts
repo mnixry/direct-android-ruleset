@@ -1,5 +1,6 @@
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
+import { log } from "evlog";
 import * as YAML from "yaml";
 import { z } from "zod";
 import { ProviderType, providers } from "./provider";
@@ -51,7 +52,7 @@ const writeRulesetFiles = async ({
       namespace,
       `${ProviderType[type]}${suffix}.${renderer.extension}`,
     );
-    console.log(`writing to ${filePath}`);
+    log.info({ action: "write", path: filePath });
     await mkdir(path.dirname(filePath));
     await fs.writeFile(filePath, renderer.render(rules, includes));
   }
@@ -94,9 +95,11 @@ const main = async () => {
 
     for (const Provider of providers) {
       const provider = new Provider(type, config?.headers);
-      console.log(
-        `retrieving from ${Provider.providerName}(${ProviderType[type]})`,
-      );
+      log.info({
+        action: "retrieve",
+        provider: Provider.providerName,
+        type: ProviderType[type],
+      });
       await provider.init();
       const result = await exhaustProvider(provider);
 

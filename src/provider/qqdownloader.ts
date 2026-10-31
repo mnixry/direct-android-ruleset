@@ -1,4 +1,5 @@
 import { assert } from "node:console";
+import { log } from "evlog";
 import { AppListProvider, ProviderType } from "./provider";
 
 export class QQDownloaderProvider extends AppListProvider {
@@ -6,18 +7,26 @@ export class QQDownloaderProvider extends AppListProvider {
   protected uin?: string;
 
   async init() {
-    const cookie = await fetch("https://sj.qq.com/app", {
+    const uuid = await fetch("https://sj.qq.com/app", {
       headers: { ...this.extraHeaders },
-    }).then((res) =>
-      res.headers.get("set-cookie")?.match(/YYB_HOME_UUID=(?<uuid>[^;]+);/),
+    }).then(
+      (res) =>
+        res.headers.get("set-cookie")?.match(/YYB_HOME_UUID=(?<uuid>[^;]+);/)
+          ?.groups?.uuid,
     );
-    assert(!!cookie, "Failed to fetch cookie");
-
-    this.uin = cookie!.groups!.uuid;
+    assert(uuid, "Failed to fetch cookie");
+    this.uin = uuid;
+    log.debug({
+      action: "init",
+      provider: QQDownloaderProvider.providerName,
+      type: ProviderType[this.providerType],
+      uin: uuid,
+    });
   }
 
   async retrieve(page: number) {
-    assert(!!this.uin, "UIN is not initialized");
+    const uin = this.uin;
+    assert(uin, "UIN is not initialized");
 
     const response = await fetch(
       "https://yybadaccess.3g.qq.com/v2/dynamicard_yybhome",
@@ -34,7 +43,7 @@ export class QQDownloaderProvider extends AppListProvider {
             cmd: "dynamicard_yybhome",
             authInfo: { businessId: "AuthName" },
             deviceInfo: { platformType: 2, platform: 2 },
-            userInfo: { guid: this.uin! },
+            userInfo: { guid: uin },
             expSceneIds: "",
             hostAppInfo: {
               scene: {
@@ -67,10 +76,12 @@ export class QQDownloaderProvider extends AppListProvider {
     assert(ret === 0, "Failed to fetch data");
 
     return Object.fromEntries(
-      data.components[0].data.itemData.map(({ pkg_name, name }: any) => [
-        pkg_name,
-        name,
-      ]),
-    ) as Record<string, string>;
+      data.components[0].data.itemData.map(
+        ({ pkg_name, name }: { pkg_name: string; name: string }) => [
+          pkg_name,
+          name,
+        ],
+      ),
+    );
   }
 }

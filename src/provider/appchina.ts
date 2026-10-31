@@ -1,5 +1,6 @@
 import { assert } from "node:console";
 import * as Cheerio from "cheerio";
+import { log } from "evlog";
 import { AppListProvider, ProviderType } from "./provider";
 
 export class AppChinaProvider extends AppListProvider {
@@ -23,9 +24,9 @@ export class AppChinaProvider extends AppListProvider {
     for (const option of $(".ClassifyBox li a").toArray()) {
       const href = $(option).attr("href");
       if (!href) continue;
-      const match = href.match(/(?<typeId>\d+)$/);
-      if (!match) continue;
-      this.appTypeIds.add(+match.groups!.typeId);
+      const typeId = href.match(/(?<typeId>\d+)$/)?.groups?.typeId;
+      if (!typeId) continue;
+      this.appTypeIds.add(+typeId);
     }
 
     this.appTypeIds.add(
@@ -34,6 +35,12 @@ export class AppChinaProvider extends AppListProvider {
         [ProviderType.GAME]: 40,
       }[this.providerType],
     );
+    log.debug({
+      action: "init",
+      provider: AppChinaProvider.providerName,
+      type: ProviderType[this.providerType],
+      typeIds: [...this.appTypeIds],
+    });
   }
 
   async retrieve(page: number): Promise<Record<string, string>> {
@@ -57,7 +64,7 @@ export class AppChinaProvider extends AppListProvider {
         try {
           return JSON.parse(text);
         } catch (e) {
-          console.error(e, text);
+          log.error({ action: "parse", error: e, body: text });
           throw e;
         }
       });
@@ -69,7 +76,11 @@ export class AppChinaProvider extends AppListProvider {
 
       Object.assign(
         results,
-        ...list.map(({ name, packageName }: any) => ({ [packageName]: name })),
+        ...list.map(
+          ({ name, packageName }: { name: string; packageName: string }) => ({
+            [packageName]: name,
+          }),
+        ),
       );
     }
 

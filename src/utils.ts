@@ -1,4 +1,5 @@
 import * as fs from "node:fs/promises";
+import { log } from "evlog";
 import type { AppListProvider } from "./provider";
 import type { RuleSetExtension } from "./rules";
 
@@ -7,11 +8,19 @@ export const exhaustProvider = async (
   limit: number = 1_000,
 ) => {
   const result: Record<string, string> = Object.create(null);
-  for (let i = 0; ; i++) {
-    const data = await exponentialBackoff(() => provider.retrieve(i));
+  for (let page = 0; ; page++) {
+    const data = await exponentialBackoff(() => provider.retrieve(page));
     Object.assign(result, data);
-    if (Object.keys(data).length <= 0 || Object.keys(result).length >= limit)
-      break;
+    const count = Object.keys(data).length;
+    const total = Object.keys(result).length;
+    log.debug({
+      action: "page",
+      provider: provider.constructor.name,
+      page,
+      count,
+      total,
+    });
+    if (count <= 0 || total >= limit) break;
   }
   return result;
 };
@@ -60,10 +69,13 @@ export const exponentialBackoff = async <T>(
     } catch (e) {
       delayMs *= 2;
       lastError = e;
-      console.warn(
-        `Function ${fn.name} failed (attempt ${i}/${maxRetries}):`,
-        lastError,
-      );
+      log.warn({
+        action: "retry",
+        fn: fn.name,
+        attempt: i,
+        maxRetries,
+        error: lastError,
+      });
       await sleep(delayMs);
     }
   }
