@@ -164,6 +164,7 @@ payload:
   - PROCESS-NAME,com.fivexgames.g15002003.bilibili #漫画群星：大集结（测试服）
   - PROCESS-NAME,com.fjb.fuyazhihun.bilibili #芙娅之魂（测试服）
   - PROCESS-NAME,com.forgame.mmxd.bilibili #美美小店
+  - PROCESS-NAME,com.frfj.shqn.bilibili #凡人飞剑
   - PROCESS-NAME,com.frozenfrog.Dungeon2.bilibili #地牢求生2
   - PROCESS-NAME,com.frxxcrjpws37zgx16.ggws #凡人修仙传：人界篇-新版本
   - PROCESS-NAME,com.ftaro.caocao.bilibili #乱世曹操传
@@ -632,6 +633,7 @@ payload:
   - PROCESS-NAME,com.shiyongshi.xydzp.bilibili #大圣牌凌霄斗神（测试服）
   - PROCESS-NAME,com.shiyue.sszg.bilibili #闪烁之光
   - PROCESS-NAME,com.shlk.dljh.bilibili #斗笠江湖
+  - PROCESS-NAME,com.shlk.shjt.bilibili #山海剑途
   - PROCESS-NAME,com.shsy.ymhx.bilibili #永暮幻想
   - PROCESS-NAME,com.shyl.lsfx.bilibili #乐守防线
   - PROCESS-NAME,com.shyl.mhbyj.bilibili #梦回白玉京

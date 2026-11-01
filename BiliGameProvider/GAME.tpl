@@ -164,6 +164,7 @@ PROCESS-NAME,com.firewick.p42.bilibili,{{ rule }} # 新月同行
 PROCESS-NAME,com.fivexgames.g15002003.bilibili,{{ rule }} # 漫画群星：大集结（测试服）
 PROCESS-NAME,com.fjb.fuyazhihun.bilibili,{{ rule }} # 芙娅之魂（测试服）
 PROCESS-NAME,com.forgame.mmxd.bilibili,{{ rule }} # 美美小店
+PROCESS-NAME,com.frfj.shqn.bilibili,{{ rule }} # 凡人飞剑
 PROCESS-NAME,com.frozenfrog.Dungeon2.bilibili,{{ rule }} # 地牢求生2
 PROCESS-NAME,com.frxxcrjpws37zgx16.ggws,{{ rule }} # 凡人修仙传：人界篇-新版本
 PROCESS-NAME,com.ftaro.caocao.bilibili,{{ rule }} # 乱世曹操传
@@ -632,6 +633,7 @@ PROCESS-NAME,com.ShinyShoe.MonsterTrain.bilibili,{{ rule }} # 怪物火车
 PROCESS-NAME,com.shiyongshi.xydzp.bilibili,{{ rule }} # 大圣牌凌霄斗神（测试服）
 PROCESS-NAME,com.shiyue.sszg.bilibili,{{ rule }} # 闪烁之光
 PROCESS-NAME,com.shlk.dljh.bilibili,{{ rule }} # 斗笠江湖
+PROCESS-NAME,com.shlk.shjt.bilibili,{{ rule }} # 山海剑途
 PROCESS-NAME,com.shsy.ymhx.bilibili,{{ rule }} # 永暮幻想
 PROCESS-NAME,com.shyl.lsfx.bilibili,{{ rule }} # 乐守防线
 PROCESS-NAME,com.shyl.mhbyj.bilibili,{{ rule }} # 梦回白玉京
