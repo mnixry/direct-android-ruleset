@@ -312,7 +312,6 @@ PROCESS-NAME,com.eusoft.eudic,{{ rule }} # 欧路词典
 PROCESS-NAME,com.eusoft.frhelper,{{ rule }} # 法语助手
 PROCESS-NAME,com.eusoft.ting.en,{{ rule }} # 每日英语听力
 PROCESS-NAME,com.eusoft.ting.fr,{{ rule }} # 每日法语听力
-PROCESS-NAME,com.evaair.android,{{ rule }} # 长荣航空
 PROCESS-NAME,com.everimaging.photoeffectstudio,{{ rule }} # Fotor
 PROCESS-NAME,com.exam8.yijian,{{ rule }} # 一建万题库
 PROCESS-NAME,com.example.raccoon.dialogwidget,{{ rule }} # 万象小组件

@@ -312,7 +312,6 @@ payload:
   - PROCESS-NAME,com.eusoft.frhelper #法语助手
   - PROCESS-NAME,com.eusoft.ting.en #每日英语听力
   - PROCESS-NAME,com.eusoft.ting.fr #每日法语听力
-  - PROCESS-NAME,com.evaair.android #长荣航空
   - PROCESS-NAME,com.everimaging.photoeffectstudio #Fotor
   - PROCESS-NAME,com.exam8.yijian #一建万题库
   - PROCESS-NAME,com.example.raccoon.dialogwidget #万象小组件
