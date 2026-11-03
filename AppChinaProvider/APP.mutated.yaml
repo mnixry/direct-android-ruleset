@@ -38,7 +38,6 @@ payload:
   - PROCESS-NAME,cn.com.sina.sports #新浪体育
   - PROCESS-NAME,cn.com.spdb.mobilebank.per #浦发银行
   - PROCESS-NAME,cn.com.tx.chat.android #天下网
-  - PROCESS-NAME,cn.com.wiisoft.glass #灵动液态玻璃
   - PROCESS-NAME,cn.com.wiisoft.skin #灵动主题皮肤
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.damai #大麦
@@ -685,7 +684,6 @@ payload:
   - PROCESS-NAME,com.prinics.kodak.photoprinter #KODAK Photo Printer
   - PROCESS-NAME,com.pzds.pzds #盼之账号
   - PROCESS-NAME,com.qdnews.qd #青岛新闻
-  - PROCESS-NAME,com.qianyouyu #钱有余
   - PROCESS-NAME,com.qiaola.desktop #主题壁纸美化
   - PROCESS-NAME,com.qidian.QDReader #起点读书
   - PROCESS-NAME,com.qihoo.browser #360浏览器
@@ -830,7 +828,6 @@ payload:
   - PROCESS-NAME,com.sun.quickpay #神奇小部件
   - PROCESS-NAME,com.suning.mobile.ebuy #苏宁易购
   - PROCESS-NAME,com.suning.mobile.epa #星图金融
-  - PROCESS-NAME,com.sunying.booster #光影
   - PROCESS-NAME,com.sup.android.superb #皮皮虾
   - PROCESS-NAME,com.superlib #移动图书馆
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸

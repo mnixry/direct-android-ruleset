@@ -17,6 +17,7 @@ PROCESS-NAME,com.ahlh.zxr.bilibili,{{ rule }} # 镇邪人
 PROCESS-NAME,com.ahsq.dhzq.bilibili,{{ rule }} # 足球大人物
 PROCESS-NAME,com.ahsq.dldllhsj.bilibili,{{ rule }} # 斗罗大陆：猎魂世界
 PROCESS-NAME,com.ahsq.xxyg.bilibili,{{ rule }} # 小小蚁国
+PROCESS-NAME,com.aiyagames.mxtzy.bilibili,{{ rule }} # 马戏团之夜（测试服）
 PROCESS-NAME,com.aligames.hysg.bilibili,{{ rule }} # 荒原曙光
 PROCESS-NAME,com.aligames.sgzzqb.bilibili,{{ rule }} # 三国志·战棋版
 PROCESS-NAME,com.aligames.szgd.bilibili,{{ rule }} # 森之国度
@@ -164,7 +165,6 @@ PROCESS-NAME,com.firewick.p42.bilibili,{{ rule }} # 新月同行
 PROCESS-NAME,com.fivexgames.g15002003.bilibili,{{ rule }} # 漫画群星：大集结（测试服）
 PROCESS-NAME,com.fjb.fuyazhihun.bilibili,{{ rule }} # 芙娅之魂（测试服）
 PROCESS-NAME,com.forgame.mmxd.bilibili,{{ rule }} # 美美小店
-PROCESS-NAME,com.frfj.shqn.bilibili,{{ rule }} # 凡人飞剑
 PROCESS-NAME,com.frozenfrog.Dungeon2.bilibili,{{ rule }} # 地牢求生2
 PROCESS-NAME,com.frxxcrjpws37zgx16.ggws,{{ rule }} # 凡人修仙传：人界篇-新版本
 PROCESS-NAME,com.ftaro.caocao.bilibili,{{ rule }} # 乱世曹操传
@@ -633,7 +633,6 @@ PROCESS-NAME,com.ShinyShoe.MonsterTrain.bilibili,{{ rule }} # 怪物火车
 PROCESS-NAME,com.shiyongshi.xydzp.bilibili,{{ rule }} # 大圣牌凌霄斗神（测试服）
 PROCESS-NAME,com.shiyue.sszg.bilibili,{{ rule }} # 闪烁之光
 PROCESS-NAME,com.shlk.dljh.bilibili,{{ rule }} # 斗笠江湖
-PROCESS-NAME,com.shlk.shjt.bilibili,{{ rule }} # 山海剑途
 PROCESS-NAME,com.shsy.ymhx.bilibili,{{ rule }} # 永暮幻想
 PROCESS-NAME,com.shyl.lsfx.bilibili,{{ rule }} # 乐守防线
 PROCESS-NAME,com.shyl.mhbyj.bilibili,{{ rule }} # 梦回白玉京
@@ -815,6 +814,7 @@ PROCESS-NAME,com.weile.sichuanmj.bilibili,{{ rule }} # 微乐四川麻将
 PROCESS-NAME,com.wenxian.tqsy.bilibili,{{ rule }} # 天启圣源
 PROCESS-NAME,com.wereviz.inlchina.bilibili,{{ rule }} # 村落人生
 PROCESS-NAME,com.whsz.mlqy.bilibili,{{ rule }} # 魔力契约
+PROCESS-NAME,com.wks.abyss.bilibili,{{ rule }} # 阿比斯少年冒险团
 PROCESS-NAME,com.wks.rljyjq.bilibili,{{ rule }} # 人类纪元：崛起
 PROCESS-NAME,com.wls.jhrm.bilibili,{{ rule }} # 江湖如梦
 PROCESS-NAME,com.wmxzj.bilibili,{{ rule }} # 五芒星战记
