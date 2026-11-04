@@ -175,7 +175,7 @@ PROCESS-NAME,com.clov4r.android.nil,{{ rule }} # MoboPlayer
 PROCESS-NAME,com.clover.daysmatter,{{ rule }} # 倒数日
 PROCESS-NAME,com.cmbc.cc.mbank,{{ rule }} # 全民生活
 PROCESS-NAME,com.cmcc.cmvideo,{{ rule }} # 咪咕视频
-PROCESS-NAME,com.cmcc.hebao,{{ rule }} # 和包
+PROCESS-NAME,com.cmcc.hebao,{{ rule }} # 移动钱包
 PROCESS-NAME,com.cmri.universalapp,{{ rule }} # 移动爱家
 PROCESS-NAME,com.cmschina.stock,{{ rule }} # 招商证券
 PROCESS-NAME,com.comic.manhuatai,{{ rule }} # 漫画台
@@ -692,6 +692,7 @@ PROCESS-NAME,com.sinyee.babybus.travelsafety,{{ rule }} # 宝宝出行安全
 PROCESS-NAME,com.site.maigoo,{{ rule }} # 买购十大品牌排行榜
 PROCESS-NAME,com.sktq.weather,{{ rule }} # 实况天气预报
 PROCESS-NAME,com.skyplatanus.crucio,{{ rule }} # 快点阅读
+PROCESS-NAME,com.slanissue.apps.mobile.erge,{{ rule }} # 贝瓦儿歌
 PROCESS-NAME,com.sloth.removelogo,{{ rule }} # 视频去水印全能王
 PROCESS-NAME,com.smallyin.musiceditor,{{ rule }} # 音乐剪辑助手
 PROCESS-NAME,com.smile.gifmaker,{{ rule }} # 快手
@@ -925,7 +926,6 @@ PROCESS-NAME,com.youdao.dict,{{ rule }} # 网易有道词典
 PROCESS-NAME,com.youdao.note,{{ rule }} # 有道云笔记
 PROCESS-NAME,com.youdao.translator,{{ rule }} # 有道翻译官
 PROCESS-NAME,com.youku.phone,{{ rule }} # 优酷视频
-PROCESS-NAME,com.youloft.calendar,{{ rule }} # 万年历
 PROCESS-NAME,com.youxiang.soyoungapp,{{ rule }} # 新氧医美
 PROCESS-NAME,com.ysy.ayy,{{ rule }} # 木鸟民宿
 PROCESS-NAME,com.yuanli.recordingSoftware,{{ rule }} # 录音软件

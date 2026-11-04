@@ -45,7 +45,6 @@ payload:
   - PROCESS-NAME,com.bantus.styjz.bilibili #隋唐英杰传
   - PROCESS-NAME,com.baplay.st.bilibili #时间秩序
   - PROCESS-NAME,com.bekko.lszjz.bilibili #乱世终结战
-  - PROCESS-NAME,com.bekko.yld.bilibili #我有一座育龙岛
   - PROCESS-NAME,com.bfyx.hldmj.bilibili #欢乐斗萌将
   - PROCESS-NAME,com.biguo.xblr.bilibili #新不良人
   - PROCESS-NAME,com.bilibili.fatego #命运-冠位指定
@@ -165,6 +164,7 @@ payload:
   - PROCESS-NAME,com.fivexgames.g15002003.bilibili #漫画群星：大集结（测试服）
   - PROCESS-NAME,com.fjb.fuyazhihun.bilibili #芙娅之魂（测试服）
   - PROCESS-NAME,com.forgame.mmxd.bilibili #美美小店
+  - PROCESS-NAME,com.frfj.shqn.bilibili #凡人飞剑
   - PROCESS-NAME,com.frozenfrog.Dungeon2.bilibili #地牢求生2
   - PROCESS-NAME,com.frxxcrjpws37zgx16.ggws #凡人修仙传：人界篇-新版本
   - PROCESS-NAME,com.ftaro.caocao.bilibili #乱世曹操传
@@ -316,6 +316,7 @@ payload:
   - PROCESS-NAME,com.iskywan.jxxy.bilibili #剑侠逍遥
   - PROCESS-NAME,com.iskywan.yyj.bilibili #阴阳劫
   - PROCESS-NAME,com.jd.dlphs.bilibili #地牢破坏神
+  - PROCESS-NAME,com.jd.xywg.bilibili #逍遥王国（测试服）
   - PROCESS-NAME,com.jd.yxzd.bilibili #异星之地
   - PROCESS-NAME,com.je.skgame.bilibili #太空杀
   - PROCESS-NAME,com.jg.ddxt.bilibili #大道仙途
@@ -392,6 +393,7 @@ payload:
   - PROCESS-NAME,com.leiting.wxs.bilibili #五行师
   - PROCESS-NAME,com.leiting.xswc.bilibili #像素危城
   - PROCESS-NAME,com.leiting.yxhs.bilibili #异象回声
+  - PROCESS-NAME,com.leiting.zhz.a #甄嬛传（测试服）
   - PROCESS-NAME,com.leiting.zjcs.bilibili #杖剑传说
   - PROCESS-NAME,com.leiyan.mdjl.bilibili #锚点降临
   - PROCESS-NAME,com.leniu.dpcqln.bilibili #斗破苍穹
@@ -581,10 +583,10 @@ payload:
   - PROCESS-NAME,com.qika.ds.azh.bilibili #夺帅
   - PROCESS-NAME,com.qingame.moewill.bilibili #无双萌将
   - PROCESS-NAME,com.qjsjqy.bilibili #奇迹世界：起源
+  - PROCESS-NAME,com.qkyx.lhzs.bilibili #烈火战神
   - PROCESS-NAME,com.qmaygame.mhxy.bilibili #梦幻仙语
   - PROCESS-NAME,com.qmzg2.bilibili #全民主公Ⅱ
   - PROCESS-NAME,com.qpyx.zyj.bilibili #作妖计
-  - PROCESS-NAME,com.qqgame.happymj #腾讯欢乐麻将全集
   - PROCESS-NAME,com.qqgame.hlddz #欢乐斗地主
   - PROCESS-NAME,com.qqgame.mic #英雄杀
   - PROCESS-NAME,com.qqyy.blzlmmm.bilibili #部落战联盟
@@ -774,7 +776,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xymobile #轩辕传奇
   - PROCESS-NAME,com.tencent.tmgp.yxwdzzjy #魔法门之英雄无敌：战争纪元
   - PROCESS-NAME,com.tencent.toaa #黎明觉醒：生机
-  - PROCESS-NAME,com.tencent.uc #异人之下（招募测试）
   - PROCESS-NAME,com.tencent.VGame #虚环（测试服）
   - PROCESS-NAME,com.tencent.wlfz #星痕共鸣
   - PROCESS-NAME,com.tencent.wmsj #完美世界
