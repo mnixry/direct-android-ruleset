@@ -9,7 +9,7 @@ PROCESS-NAME,com.aligames.kuang.kybc.mi,{{ rule }} # 狂野飙车9：竞速传�
 PROCESS-NAME,com.aligames.sgzzlb.mi,{{ rule }} # 三国志&middot;战略版-下载抽手机
 PROCESS-NAME,com.Antistress.wacky.jelly.mi,{{ rule }} # 解压神器2-双人对战
 PROCESS-NAME,com.bairimeng.dmmdzz.mi,{{ rule }} # 逃跑吧！少年
-PROCESS-NAME,com.bairimeng.snake.mi,{{ rule }} # 蛇蛇争霸-新赛季
+PROCESS-NAME,com.bairimeng.snake.mi,{{ rule }} # 蛇蛇争霸-十周年
 PROCESS-NAME,com.baitian.aobi.czs.mi,{{ rule }} # 奥比岛：梦想国度
 PROCESS-NAME,com.bf.sgs.hdexp.mi,{{ rule }} # 三国杀
 PROCESS-NAME,com.bf.sgs.mi,{{ rule }} # 三国杀移动版
@@ -47,7 +47,7 @@ PROCESS-NAME,com.ex.hlxckxjr.mi,{{ rule }} # 欢乐消除开心假日
 PROCESS-NAME,com.ex.msrj.mi,{{ rule }} # 末世日记
 PROCESS-NAME,com.example.chinesechess.mi,{{ rule }} # 途游中国象棋
 PROCESS-NAME,com.feiyu.carrot3.mi,{{ rule }} # 保卫萝卜3
-PROCESS-NAME,com.feiyu.luobo4.mi,{{ rule }} # 保卫萝卜4-呆兔影史上最艺术剧集
+PROCESS-NAME,com.feiyu.luobo4.mi,{{ rule }} # 保卫萝卜4-杂役阿波降妖除魔
 PROCESS-NAME,com.fgol.hsw.mi,{{ rule }} # 饥饿鲨：世界
 PROCESS-NAME,com.fgol.xiaomi,{{ rule }} # 饥饿鲨：进化
 PROCESS-NAME,com.fingersoft.hcr2.cn.noncmcc.mi,{{ rule }} # 登山赛车2
@@ -164,7 +164,7 @@ PROCESS-NAME,com.outfit7.talkingtom2free,{{ rule }} # 会说话的汤姆猫2
 PROCESS-NAME,com.outfit7.talkingtomgoldrun.mi,{{ rule }} # 汤姆猫跑酷-赛博跑酷焕新
 PROCESS-NAME,com.pandadastudio.ninjamustdie3.mi,{{ rule }} # 忍者必须死3
 PROCESS-NAME,com.papegames.evol.mi,{{ rule }} # 恋与制作人
-PROCESS-NAME,com.papegames.nn4.mi,{{ rule }} # 闪耀暖暖-联动中
+PROCESS-NAME,com.papegames.nn4.mi,{{ rule }} # 闪耀暖暖-送80抽
 PROCESS-NAME,com.pdragon.doushouqi.mi,{{ rule }} # 斗兽棋
 PROCESS-NAME,com.pdragon.HD1010,{{ rule }} # 方块合合乐
 PROCESS-NAME,com.pdragon.junqi.mi,{{ rule }} # 军棋
