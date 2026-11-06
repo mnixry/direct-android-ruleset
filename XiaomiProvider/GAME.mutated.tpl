@@ -257,7 +257,7 @@ PROCESS-NAME,com.xplaygame.zjgq.mi,{{ rule }} # 指尖钢琴
 PROCESS-NAME,com.yhhy.whrhx.mi,{{ rule }} # 无悔华夏-大宋
 PROCESS-NAME,com.yingxiong.dftk1.mi,{{ rule }} # 巅峰坦克
 PROCESS-NAME,com.yingxiong.dfzj.mi,{{ rule }} # 巅峰战舰
-PROCESS-NAME,com.yingxiong.hero.mi,{{ rule }} # 王牌战争-福利季
+PROCESS-NAME,com.yingxiong.hero.mi,{{ rule }} # 王牌战争-折扣季
 PROCESS-NAME,com.ynwl.ozkcmns.mi,{{ rule }} # 欧洲卡车模拟3
 PROCESS-NAME,com.ynwl.yhmnq.mi,{{ rule }} # 烟花燃放模拟器
 PROCESS-NAME,com.yodo1.ctr2.XIAOMI_01,{{ rule }} # 割绳子2
