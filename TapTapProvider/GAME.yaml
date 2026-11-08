@@ -1,5 +1,4 @@
 payload:
-  - PROCESS-NAME,ai.yetanother.beifa #江山北望
   - PROCESS-NAME,air.hjhrpg #贺井号的奇妙冒险
   - PROCESS-NAME,air.lx.ydk.game.DanZaiJiZhuanWan #蛋仔派派
   - PROCESS-NAME,air.ocean.BattlePlaneApp #格斗战机
@@ -19,8 +18,12 @@ payload:
   - PROCESS-NAME,cn.lbwdhysj.gf #我的花园世界
   - PROCESS-NAME,cn.maoguo.mobile #猫国杀
   - PROCESS-NAME,cn.noctella.galgod #想成为Galgame领域大神！！！
+  - PROCESS-NAME,cn.qinglan.lingmai #宗门传承录
   - PROCESS-NAME,cn.scarc.trick #别信这游戏
+  - PROCESS-NAME,cn.susutao.closead #快关掉这个广告
   - PROCESS-NAME,cn.vstudio.eel.ipay #英雄别浪（Future Battle）
+  - PROCESS-NAME,cn.xiaofang.feihualing #飞花令
+  - PROCESS-NAME,cn.xingyatuwei.game #星芽突围
   - PROCESS-NAME,com.actgames.bbee #苍翼：混沌效应
   - PROCESS-NAME,com.adna.tilemapgame.amethyst_knight #紫水晶骑士物语
   - PROCESS-NAME,com.Afterburn.Railbound.gamet #轨道连结
@@ -29,13 +32,10 @@ payload:
   - PROCESS-NAME,com.akls.sdxxk.jxzxc #极限自行车
   - PROCESS-NAME,com.alawar.wallworld.gamet #墙世界
   - PROCESS-NAME,com.ALezhi.TKF #格霸三国
-  - PROCESS-NAME,com.alpha3c.musecells #缪斯细胞
   - PROCESS-NAME,com.altlab.nw #新世界：暗影成双
   - PROCESS-NAME,com.ALUBA.CyberManhunt2 #命运代码：侵入
   - PROCESS-NAME,com.AmusingGames.Compaz #Compaz
   - PROCESS-NAME,com.Aniya.PathlessWoods #无径之林
-  - PROCESS-NAME,com.anzheng.game.ayxdm #爱旅行的猫
-  - PROCESS-NAME,com.anzheng.game.lbxzs #六边形战士
   - PROCESS-NAME,com.anzheng.game.myylg #没有压力馆
   - PROCESS-NAME,com.anzheng.game.nlwjslmdxfg #那年我接手了老妈的小饭馆
   - PROCESS-NAME,com.anzheng.game.nnwjslyydyg #那年我接手了爷爷的医馆
@@ -45,11 +45,9 @@ payload:
   - PROCESS-NAME,com.anzheng.game.xxmml #修仙慢慢来
   - PROCESS-NAME,com.anzheng.game.ygrdwh #一个人的武魂
   - PROCESS-NAME,com.app.chinaHero #华夏古战略
-  - PROCESS-NAME,com.avgplus.g13ae1d05 #视差之环
   - PROCESS-NAME,com.ayw.wltdtz.mmy #无厘头脑洞大挑战
   - PROCESS-NAME,com.bailixisheng.chaoshikongguaidao #超时空怪盗
   - PROCESS-NAME,com.baitian.color.bt #乱涂彩世界
-  - PROCESS-NAME,com.baiyu.nzzz #逆时真探:最初的审判
   - PROCESS-NAME,com.baiyunworks.azureone #青鸟
   - PROCESS-NAME,com.bamboogame.moto #黎明飞驰
   - PROCESS-NAME,com.banana.football.fake #斗球学园
@@ -60,7 +58,6 @@ payload:
   - PROCESS-NAME,com.bazxgame.duola.android #朵拉的露营餐车
   - PROCESS-NAME,com.BecoachStudio.ZombiesAndFarms #末日穷途
   - PROCESS-NAME,com.bee.OA #幸福请走OA排队
-  - PROCESS-NAME,com.betweentwopoles.game #两极之间
   - PROCESS-NAME,com.bhapk.jrfb #巨龙之戒
   - PROCESS-NAME,com.BigTrue.Orzmic #Orzmic
   - PROCESS-NAME,com.bijianasyjzcychangpuheji.cysz #碧涧菖蒲合集
@@ -70,6 +67,7 @@ payload:
   - PROCESS-NAME,com.BlackIsle.Xanadu #黑白之地
   - PROCESS-NAME,com.BlackLightStudio.CluckmechOasis #鸡械绿洲
   - PROCESS-NAME,com.blizzard.wtcg.hearthstone #炉石传说
+  - PROCESS-NAME,com.bloodmoon.program #阴间：血月
   - PROCESS-NAME,com.blp.bleapcn #闪音跃动
   - PROCESS-NAME,com.bmystu.peng.gw #夜幕之下
   - PROCESS-NAME,com.Boba.BobaCafeSimulator #奶茶店模拟器 - 重生之我在冰堡甜城当店长
@@ -77,7 +75,7 @@ payload:
   - PROCESS-NAME,com.boltfish.mthjdhkd.taptap #如果可以回家早一点
   - PROCESS-NAME,com.boming.deltaforce.test #搜打撤：我是摸红大王
   - PROCESS-NAME,com.booboforest.ruky #菜鸡梦想家
-  - PROCESS-NAME,com.bossppl.balatro.bubbleshooter #Boss泡泡龙
+  - PROCESS-NAME,com.bossppl.balatro.bubbleshooter #龙骸弹道
   - PROCESS-NAME,com.brackrat.hudbreaker #小药瓶
   - PROCESS-NAME,com.bttcxq.txtryy #自在江湖
   - PROCESS-NAME,com.building.destruction.simlator.battle #拆迁破坏模拟器
@@ -85,18 +83,17 @@ payload:
   - PROCESS-NAME,com.BXZZ.MixProject11 #不朽之争
   - PROCESS-NAME,com.by.dj.cyou #斗神之刃
   - PROCESS-NAME,com.candlemangames.wuxingyou.taptap #五行游
+  - PROCESS-NAME,com.candyracing.saiche #糖果飞车
   - PROCESS-NAME,com.caohua.hymc.tp #荒野迷城
   - PROCESS-NAME,com.capecosmic.phoenotopia.gamet #不死鸟传说
   - PROCESS-NAME,com.catstudio.outerspace #秩序：新曙光
   - PROCESS-NAME,com.cfx.tfcd #江湖如梦
   - PROCESS-NAME,com.changfeng.jyxsg.guanbao #解忧小食光
   - PROCESS-NAME,com.changjiangnan.laststop #前往安全区
-  - PROCESS-NAME,com.changshengjing.lunhuishilian #轮回试炼
   - PROCESS-NAME,com.chanyi.dawulin #大武林
   - PROCESS-NAME,com.chaojipengpengpeng.bq #超级碰碰碰
   - PROCESS-NAME,com.chaotianque #朝天阙
   - PROCESS-NAME,com.chaowu.jianghu #超武江湖
-  - PROCESS-NAME,com.chenjianting.yingwu #應物
   - PROCESS-NAME,com.chenz.vamsur.gn #九重试炼
   - PROCESS-NAME,com.chickrice.prototype #啾啾饭搭子
   - PROCESS-NAME,com.chillyroom.containerofsoul.yw #魂坠深境
@@ -105,6 +102,7 @@ payload:
   - PROCESS-NAME,com.ChingYing #剑影寻光
   - PROCESS-NAME,com.chunzhen.program #我们纯真的青春
   - PROCESS-NAME,com.chuxin.shenyuan #深鸢
+  - PROCESS-NAME,com.cici.cyberxiuxian #转生成为程序员
   - PROCESS-NAME,com.cityafterlight.survival #城中余生
   - PROCESS-NAME,com.cjdms.csf.muzi #超级逗萌兽
   - PROCESS-NAME,com.ckwy.yf #苍空物语
@@ -112,13 +110,14 @@ payload:
   - PROCESS-NAME,com.cngal.memory_oblivion_cngalgirl #回忆忘却之看板娘
   - PROCESS-NAME,com.coco.chukong.llcy #料理次元
   - PROCESS-NAME,com.coco.rhythmspeed #节奏狂飙
+  - PROCESS-NAME,com.codemon.game1024 #1024 代码兽
   - PROCESS-NAME,com.Company.BreathofDragons #超数据世界
   - PROCESS-NAME,com.company.wind #守个蛋
-  - PROCESS-NAME,com.cookie.fall #cookie-falls
-  - PROCESS-NAME,com.cottongame.FrontierSpace #边缘空间
+  - PROCESS-NAME,com.cookie.fall #曲奇落落
   - PROCESS-NAME,com.cottongame.isoland.TapTap #迷失岛
   - PROCESS-NAME,com.cottongame.isoland3.taptap #迷失岛3宇宙的尘埃
   - PROCESS-NAME,com.courtsidestory.club #篮球俱乐部：通向世界之巅
+  - PROCESS-NAME,com.cove.iridescentcompound #虹彩化合物
   - PROCESS-NAME,com.coweye.musync.android #同步音律
   - PROCESS-NAME,com.crazysports.dl #雪山漂移
   - PROCESS-NAME,com.crzymeow.popcorngun #枪枪爆米
@@ -132,6 +131,7 @@ payload:
   - PROCESS-NAME,com.cxyx.ndzts #脑洞推理侦探社
   - PROCESS-NAME,com.cxyx.outpost #前哨站：归来
   - PROCESS-NAME,com.cxyx.tbmnq #荒野徒步模拟器
+  - PROCESS-NAME,com.cxyx.xjkc #星际矿场
   - PROCESS-NAME,com.cxyx.yggzs.jsts #僵尸天师
   - PROCESS-NAME,com.cxyx.yggzs.kfzjh #砍翻这江湖
   - PROCESS-NAME,com.cxyx.yggzs.mraqw #我有一个末日安全屋
@@ -142,9 +142,11 @@ payload:
   - PROCESS-NAME,com.cyrgame.kj10ce #课间四册
   - PROCESS-NAME,com.cytx.td #部落命运
   - PROCESS-NAME,com.cyzr.fight #终极对决
-  - PROCESS-NAME,com.dabocai.pixeldreamteam #像素篮球梦之队
+  - PROCESS-NAME,com.dafeiyu.game #大肥鱼：2012年的夏天
   - PROCESS-NAME,com.dagoujiao.bark #大狗大狗叫叫叫
+  - PROCESS-NAME,com.daluo.xiuzhen #修真大罗
   - PROCESS-NAME,com.daohen.yuanchao #神谕之渊
+  - PROCESS-NAME,com.daqssi.zseyyw #甜趣小暖暖
   - PROCESS-NAME,com.DawnGames.DayoftheShell #孤岛猎神
   - PROCESS-NAME,com.dax.deepsteel #深海冷钢像素舰队
   - PROCESS-NAME,com.dcslad4.ad1b #地城狩猎
@@ -155,6 +157,7 @@ payload:
   - PROCESS-NAME,com.DelianStudio.EarthRemnant #遗民
   - PROCESS-NAME,com.denachina.g13002008.denacn #境界-死神激斗
   - PROCESS-NAME,com.dengni.huijia #冒险公会：等你回家
+  - PROCESS-NAME,com.dengzhanguo.datangchuanjialu #大唐传家录
   - PROCESS-NAME,com.developdream.shiningwar #光明战争
   - PROCESS-NAME,com.devilk.dk #魔王
   - PROCESS-NAME,com.df.game.gjcs #鬼剑传说
@@ -164,20 +167,19 @@ payload:
   - PROCESS-NAME,com.dicedungeon.game #骰渊回廊
   - PROCESS-NAME,com.dljh.lk.jysl #斗笠江湖
   - PROCESS-NAME,com.dlxmz.zmsl.zmslggsbtt13.ggsb #织梦森林
+  - PROCESS-NAME,com.dongli.cattetris.app #猫猫俄罗斯方块
   - PROCESS-NAME,com.dongyin.jiuzhugui #旧烛归
   - PROCESS-NAME,com.dongzhuo.game #董卓之死
   - PROCESS-NAME,com.doubao.tetris #俄罗斯方块：简约
   - PROCESS-NAME,com.douq.dongtian #洞天夺宝
   - PROCESS-NAME,com.douyu.rxjhgl.guanfang #热血江湖：归来
+  - PROCESS-NAME,com.doveflowers.fairycomedy1 #精灵戏剧：复读机不会获得幸福
   - PROCESS-NAME,com.dpcq.ddzl.dpcqddzltapggsb37zgx2.ddzltap #斗破苍穹：斗帝之路
   - PROCESS-NAME,com.dpstudio.lightfold #光之镜
   - PROCESS-NAME,com.dragonest.cytusre.ly #音乐世界
-  - PROCESS-NAME,com.dream.sangoku #三国志将星闪耀
   - PROCESS-NAME,com.drill.kungfuAR #功夫格斗AR
-  - PROCESS-NAME,com.DrillStudio.DragonNinjia #龙之忍者VR
   - PROCESS-NAME,com.drs.cn #重建生存营地
   - PROCESS-NAME,com.dsh.yx.minesweeper #扫雷：经典重制
-  - PROCESS-NAME,com.dshx.game.SU #钓鱼人生:放置大师模拟
   - PROCESS-NAME,com.dshx.game.yiwang #迷雾降临之地
   - PROCESS-NAME,com.dssgame.ceo #这个CEO我当定了！
   - PROCESS-NAME,com.dssgame.jianzhong #剑中
@@ -187,8 +189,8 @@ payload:
   - PROCESS-NAME,com.duoqu.sshxzcc.duoqu #蜀山幻想志
   - PROCESS-NAME,com.duskward.chapterone #暮境远征
   - PROCESS-NAME,com.dvgames.shizhenyuzhihui #石阵与智慧
-  - PROCESS-NAME,com.dwqszht.ylssy #大王请上阵
   - PROCESS-NAME,com.dygame.sim.v7a #珍珠海大冒险
+  - PROCESS-NAME,com.dylanstudio.fanrenpaoshan #修仙路很长
   - PROCESS-NAME,com.east2west.theescapists2.TapTap #逃脱者：困境突围（付费下载版）
   - PROCESS-NAME,com.echo.studio #ECH0
   - PROCESS-NAME,com.elderwastes.game #天行健
@@ -204,6 +206,7 @@ payload:
   - PROCESS-NAME,com.emztzero.game #恶魔之塔Zero
   - PROCESS-NAME,com.energybox.ss.cn #曙光防线
   - PROCESS-NAME,com.epieplay.bcportal #桥梁工程师：传送门
+  - PROCESS-NAME,com.errmdp.wwybuz #元气碎碎念
   - PROCESS-NAME,com.evkworld.huanpj #莫比乌斯计划
   - PROCESS-NAME,com.example.echoes #EchoEs
   - PROCESS-NAME,com.example.HumanBugCleaning #人类Bug清除计划
@@ -217,9 +220,7 @@ payload:
   - PROCESS-NAME,com.fantablade.icey #艾希
   - PROCESS-NAME,com.fcat.immortalislandt #我在海上有小岛
   - PROCESS-NAME,com.fcxx.duck.qgdyz #奇怪的鸭子
-  - PROCESS-NAME,com.fcxx.flycar.fcds #飞车大师
   - PROCESS-NAME,com.feimo.astralparty #吉星派对
-  - PROCESS-NAME,com.FengYuCompany.ChunHeAndMe21Days #我与李春和的21天
   - PROCESS-NAME,com.fenyuan.game #焚元
   - PROCESS-NAME,com.ffi.sjzg #世界之光
   - PROCESS-NAME,com.fhdt.xw #烽火大唐
@@ -233,6 +234,7 @@ payload:
   - PROCESS-NAME,com.fishafish.szs #合合换装秀
   - PROCESS-NAME,com.fivexgames.g15002003.android #漫画群星：大集结
   - PROCESS-NAME,com.flamebaitgames.passpartout2.gamet #饥饿派画家2：迷失
+  - PROCESS-NAME,com.fleetbreakout.arrowout #舰航突围
   - PROCESS-NAME,com.fluckymachine.trashsailors.gamet #破烂水手
   - PROCESS-NAME,com.fmgame.gunfight #混乱大枪战
   - PROCESS-NAME,com.fog.zhutanji #蛛炭纪
@@ -246,12 +248,14 @@ payload:
   - PROCESS-NAME,com.funplus.dreamdetective #梦境侦探
   - PROCESS-NAME,com.funtohit.animalrush.tt #萌宠救援队
   - PROCESS-NAME,com.furry.shechumusic #节奏比兜
+  - PROCESS-NAME,com.fuzavdnf.jfppnmnu #逐梦漫行册
   - PROCESS-NAME,com.fx.mxdzz #冒险大作战
   - PROCESS-NAME,com.fx.tonghs #童话师
   - PROCESS-NAME,com.fx.xxyx #小小英雄
   - PROCESS-NAME,com.fx.yzlm #勇者联盟
   - PROCESS-NAME,com.fx.zzsj #主宰世界
   - PROCESS-NAME,com.fymg.yyds #养鱼大师
+  - PROCESS-NAME,com.game.mjyz #魔界勇者
   - PROCESS-NAME,com.Game.xiangsujiayuan #像素时代
   - PROCESS-NAME,com.gameash.sea #碧海苍云录
   - PROCESS-NAME,com.gamebl.gdxcrs.xct #古代乡村人生
@@ -288,14 +292,15 @@ payload:
   - PROCESS-NAME,com.gmzon.taptap.lanota #调律诗篇
   - PROCESS-NAME,com.gnapk.totnew #旅人日记
   - PROCESS-NAME,com.gof.china #无尽冬日
-  - PROCESS-NAME,com.GoodGame.BattlefieldToy #玩具风暴：迷你战场
   - PROCESS-NAME,com.goodgames.dilao #地下小英雄
   - PROCESS-NAME,com.got.china #奔奔王国
-  - PROCESS-NAME,com.grinning.beta.yszl #超维进化
+  - PROCESS-NAME,com.grade1.quest #一年级闯关乐园
   - PROCESS-NAME,com.growcube.nat.mela #上帝模拟器
+  - PROCESS-NAME,com.gua.qinglanswordrush #青岚剑境
   - PROCESS-NAME,com.guaiji.idlehunter.solo #挂机猎人
   - PROCESS-NAME,com.guangjun.thunderwing #雷翼防线
   - PROCESS-NAME,com.guchao.game #蛊潮
+  - PROCESS-NAME,com.guigu.guiyuanpai #归元牌
   - PROCESS-NAME,com.guigugame.guigubahuang #鬼谷八荒
   - PROCESS-NAME,com.guyin.flyingcarracing #老马的飞行汽车竞速
   - PROCESS-NAME,com.guyungame.tt #古云传奇
@@ -322,7 +327,6 @@ payload:
   - PROCESS-NAME,com.hcr3.qcjs.game #火柴人联盟3
   - PROCESS-NAME,com.hd.xxdkhb.and #弹壳特攻队
   - PROCESS-NAME,com.HeGameTech.Stranger #Stranger
-  - PROCESS-NAME,com.hellomeow.awaken.jingzhe #谍：惊蛰
   - PROCESS-NAME,com.hermes.h1game #航海王热血航线
   - PROCESS-NAME,com.hermes.j1game #星球：重启
   - PROCESS-NAME,com.hermes.mk #初音未来：缤纷舞台
@@ -331,12 +335,11 @@ payload:
   - PROCESS-NAME,com.hh.hcrzgl #火柴忍者归来
   - PROCESS-NAME,com.hi4fun.ldsgjlyq #零度曙光
   - PROCESS-NAME,com.hiddenta.game #藏不住的TA
-  - PROCESS-NAME,com.higame.mmtf2 #萌萌塔防
   - PROCESS-NAME,com.hjgzs.dqsj2 #大千世界2
   - PROCESS-NAME,com.hkhy.pwyzcs #帕瓦勇者传说
+  - PROCESS-NAME,com.hngs.ylgcyxrj #饮料工厂
   - PROCESS-NAME,com.hnxiha.gfwzn.main1 #江湖我最牛
   - PROCESS-NAME,com.hnxw.xykp2.w6kw #小鱼快跑
-  - PROCESS-NAME,com.hnyg.bjdwxcf.topon #伯吉的温馨厨房
   - PROCESS-NAME,com.hnyg.dyzw.topon #地狱之吻
   - PROCESS-NAME,com.hnyg.pzxw.bye #拼装小窝
   - PROCESS-NAME,com.hnyg.syzl.topon #神域之恋
@@ -350,6 +353,7 @@ payload:
   - PROCESS-NAME,com.HuaGame.TheTongueofDoge #舔狗之路
   - PROCESS-NAME,com.huangjunjie.survivorcivilization #文明幸存者
   - PROCESS-NAME,com.HuanZhen.MobileEmpire.taptap #手机帝国
+  - PROCESS-NAME,com.huihuihui.xunsheng #循声
   - PROCESS-NAME,com.huiqi.blcq #部落传奇
   - PROCESS-NAME,com.hujia.changbanpo #护驾长坂坡
   - PROCESS-NAME,com.huli.baguayihun #八卦弈魂
@@ -383,9 +387,10 @@ payload:
   - PROCESS-NAME,com.jcgame.zongmenwudi #我的宗门天下无敌
   - PROCESS-NAME,com.jgd.jgdgamejam2026 #夏日重映
   - PROCESS-NAME,com.jgsz.ddxt.official #大道仙途
+  - PROCESS-NAME,com.jiahao.xiuxianlife #嘉豪的修仙生活
   - PROCESS-NAME,com.jianghu.bupingjing #江湖不太平静
+  - PROCESS-NAME,com.JianZhu.WordLeague2 #单词传说：新纪元
   - PROCESS-NAME,com.jiaodouzhihun.game #角斗之魂
-  - PROCESS-NAME,com.jiji.volcano #火山
   - PROCESS-NAME,com.jingfeng.xianzong #踏仙道
   - PROCESS-NAME,com.jingxiu.xjdzm #仙界大掌门
   - PROCESS-NAME,com.jingzhonghua.daluxueyuan #大陆第一学院
@@ -411,7 +416,6 @@ payload:
   - PROCESS-NAME,com.kaixuangame.mrdgly #末日帝国
   - PROCESS-NAME,com.kako_laboratory.game #KAKO LABORATORY
   - PROCESS-NAME,com.kangparty.islandparty #梦幻派对
-  - PROCESS-NAME,com.kelisi.Round #出将入相
   - PROCESS-NAME,com.kingnet.gundam.mg.normal #敢达 争锋对决
   - PROCESS-NAME,com.kiwigames.idle.dessert.cafe.android.cn #幸福甜点咖啡店
   - PROCESS-NAME,com.kjfzd.ts4 #开间服装店
@@ -429,6 +433,7 @@ payload:
   - PROCESS-NAME,com.LastLoveSong.BallHero #爆丸召唤
   - PROCESS-NAME,com.lc.cjmt #刺激摩托
   - PROCESS-NAME,com.leakartgames.discreteheart #离散之心
+  - PROCESS-NAME,com.ledon.sudu #乐灯数独
   - PROCESS-NAME,com.leiting.elona #伊洛纳
   - PROCESS-NAME,com.leiting.ldgj #律动轨迹
   - PROCESS-NAME,com.leiting.lostcastle.leiting #失落城堡
@@ -441,6 +446,7 @@ payload:
   - PROCESS-NAME,com.leniu.zhxxtap #真魂修仙
   - PROCESS-NAME,com.lfy.yushouxiuxian #御兽修仙录
   - PROCESS-NAME,com.lgdzjqzyy.zjqz #装甲枪战
+  - PROCESS-NAME,com.liangshan.shouyulu #梁山守御录
   - PROCESS-NAME,com.libii.march.cn #瞬搭
   - PROCESS-NAME,com.LICOGAME.ZhiYuan #未完信笺：纸鸢
   - PROCESS-NAME,com.lighthouse.keeper #雾海灯语
@@ -449,7 +455,6 @@ payload:
   - PROCESS-NAME,com.lilithgame.isoland2.cn #迷失岛2时间的灰烬
   - PROCESS-NAME,com.lilithgame.pgame.android.cn #塔塔冒险队
   - PROCESS-NAME,com.lilithgames.solarland.android.cn #远光84
-  - PROCESS-NAME,com.liluoailuoli.cardrun #爱丽丝与彼岸
   - PROCESS-NAME,com.lingfan.zhubo #我在废土当主播
   - PROCESS-NAME,com.lingwo.game #另我
   - PROCESS-NAME,com.lingxigames.hysg.cn #荒原曙光
@@ -458,12 +463,13 @@ payload:
   - PROCESS-NAME,com.lingxigames.uwm.tap #大航海时代：传说
   - PROCESS-NAME,com.lingxigames.zszs.cn.tap #宗师之上
   - PROCESS-NAME,com.link.xingyuqingdaofu #星域清道夫
+  - PROCESS-NAME,com.linkpop.jelly #果冻连连消
   - PROCESS-NAME,com.linlight.match13 #Match 13 Solitaire
   - PROCESS-NAME,com.lion.czbys.t #出征吧！勇士
   - PROCESS-NAME,com.LiquidMeowGames.MessyUp #萌宠拆拆乐
   - PROCESS-NAME,com.litetang.egg #蛋业大亨：鸡蛋仙人的养成日记
   - PROCESS-NAME,com.litetang.mayifangzhi #蚂蚁放置
-  - PROCESS-NAME,com.liutong.diexiang #叠相
+  - PROCESS-NAME,com.ll.zhxx #龙灵
   - PROCESS-NAME,com.llgames.wildbrigade #荒野旅团
   - PROCESS-NAME,com.lmbl.im30.cn #黎明堡垒
   - PROCESS-NAME,com.Lonerangerix.ArrowGame #箭箭剑
@@ -471,6 +477,7 @@ payload:
   - PROCESS-NAME,com.loopfoundry.prototype #像素工坊
   - PROCESS-NAME,com.lovelybird.chmhtxd #彩虹棉花糖小店
   - PROCESS-NAME,com.loyalsoft.ylsj #言灵世界
+  - PROCESS-NAME,com.lqx.jlqj #精灵奇迹
   - PROCESS-NAME,com.lsb.findchar #丛林找字
   - PROCESS-NAME,com.ltdz.zsf #雷霆大战
   - PROCESS-NAME,com.ludoy.balls.road #球球跑个酷
@@ -494,13 +501,12 @@ payload:
   - PROCESS-NAME,com.martian.hxsktx.tp #幻想时空探险
   - PROCESS-NAME,com.mediocre.grannysmith #跑酷老奶奶
   - PROCESS-NAME,com.mellow.falldrop #一板之遥
-  - PROCESS-NAME,com.memorycube.game #记忆魔方
+  - PROCESS-NAME,com.MemoCompany.fhqy #方盒奇遇
   - PROCESS-NAME,com.mengpotang.mistsurvival #迷雾岛屿求生
   - PROCESS-NAME,com.meta.box.party #233派对
   - PROCESS-NAME,com.mfsldzzzs.yf #魔法森林大作战
   - PROCESS-NAME,com.mhb.yxwt #英雄问天
   - PROCESS-NAME,com.mhxcz.mhxc #梦幻消除战
-  - PROCESS-NAME,com.miaomiaomie.o2side #O2side 在现实之外轻轻跃起
   - PROCESS-NAME,com.migo.sf #旅人苏菲亚
   - PROCESS-NAME,com.MJCC.MasterMa #MMA大师拯救世界
   - PROCESS-NAME,com.mjct.wxbz #名将冲突
@@ -511,6 +517,7 @@ payload:
   - PROCESS-NAME,com.mocheng.jdxy.tp1001 #决斗学院
   - PROCESS-NAME,com.mohaokong.fushengjianwenlu #滑向修仙五千年
   - PROCESS-NAME,com.mojikenstudio.wpwa.mtap #往事
+  - PROCESS-NAME,com.mojing.arena #墨境·文字擂台
   - PROCESS-NAME,com.monkey.swing #猴子跳跳跳
   - PROCESS-NAME,com.moonlitjiangnan.game #月隐江南
   - PROCESS-NAME,com.mossfrontier.monstersurvivors #萌兽大作战
@@ -521,12 +528,12 @@ payload:
   - PROCESS-NAME,com.mpexternal.stickfighttjl #激射火柴人
   - PROCESS-NAME,com.msdmx.taptap #美食大冒险之横扫天下
   - PROCESS-NAME,com.muccy.zhzt #藏狐侦探
-  - PROCESS-NAME,com.mujin.zhengzaishengcheng #正在生成
   - PROCESS-NAME,com.muqiuxm.fighter #我打不过漂亮的她们
   - PROCESS-NAME,com.musegames.hamsterdam #功夫小仓鼠
   - PROCESS-NAME,com.mushreb.ballex2 #Ballex²: The Hanging Gardens
   - PROCESS-NAME,com.muyangyu.yuanqi #胡思乱想武侠：缘启
   - PROCESS-NAME,com.muyegame.blfx #爆裂防线
+  - PROCESS-NAME,com.MX.PullNail #拔钉子
   - PROCESS-NAME,com.my.zgldmg #诸葛亮的迷宫
   - PROCESS-NAME,com.Mysm.Zjfccar #终极飞车
   - PROCESS-NAME,com.Mysm.ZZZjfccar #巅峰终极飞车
@@ -538,6 +545,7 @@ payload:
   - PROCESS-NAME,com.nd.he.official #英魂之刃
   - PROCESS-NAME,com.ndh.waipo #外婆的手账本
   - PROCESS-NAME,com.Nekootan.kfkj.android #开放空间
+  - PROCESS-NAME,com.neonword.island #霓虹字海寻踪记
   - PROCESS-NAME,com.Nerial.ReignsThreeKingdom #决策三国
   - PROCESS-NAME,com.netease.dwrg #第五人格
   - PROCESS-NAME,com.netease.EVE #星战前夜：无烬星河
@@ -574,11 +582,11 @@ payload:
   - PROCESS-NAME,com.paiyufun.sectgame.taptap #开派大祖师
   - PROCESS-NAME,com.PandoxProject.Twirdora #Twirdora
   - PROCESS-NAME,com.papegames.infinitynikki #无限暖暖
-  - PROCESS-NAME,com.paperika.mewraider #猫猫盗墓贼
   - PROCESS-NAME,com.pathea.portia.TapTap #波西亚时光
   - PROCESS-NAME,com.paulpip.icewalk #浮冰同行
   - PROCESS-NAME,com.PeacockStudio.KongfuPunchLite #功夫之拳2
   - PROCESS-NAME,com.perrygame.cannon #灭魔之炮
+  - PROCESS-NAME,com.petershi2026.fzsbz #放置刷宝传
   - PROCESS-NAME,com.pfkj.neonslide #霓虹滑行队
   - PROCESS-NAME,com.pfkj.yiyankanchuan #一眼看穿
   - PROCESS-NAME,com.phoebe.memorycafe #Memory Café
@@ -590,10 +598,12 @@ payload:
   - PROCESS-NAME,com.pixifact.huanting #炼妖师塔防
   - PROCESS-NAME,com.plausibleconcept.badnorth.gamet #迷雾北境
   - PROCESS-NAME,com.playwithfurcifer.bpbcn.android #背包乱斗
+  - PROCESS-NAME,com.pofengba.shijie #破封吧！师姐
+  - PROCESS-NAME,com.pointtowerdefense #追分塔防
   - PROCESS-NAME,com.poptiger.catarmy #喵星军团
   - PROCESS-NAME,com.potatoflower.mycatisamaid #我家猫猫是女仆！
-  - PROCESS-NAME,com.PrairieFireStudio.WhenThePastUnfolds #旧日重现
   - PROCESS-NAME,com.primefactor.hundredfold.mobile #来都来了，下去吧你！
+  - PROCESS-NAME,com.prismatlas.game #棱镜星图
   - PROCESS-NAME,com.prpr.musedash.TapTap #喵斯快跑
   - PROCESS-NAME,com.pt.at #凹凸世界：彩虹收藏家
   - PROCESS-NAME,com.ptm.jsbk #剑术崩溃
@@ -602,12 +612,15 @@ payload:
   - PROCESS-NAME,com.pushangame.dada #嗒嗒球
   - PROCESS-NAME,com.pwrd.mzlite.laohu #梦幻新诛仙：轻享
   - PROCESS-NAME,com.pwrd.zx2.laohu #诛仙2
+  - PROCESS-NAME,com.qgwh.gongshouzha #攻守诈
   - PROCESS-NAME,com.qianlight.wzzyarpg #王者之役
   - PROCESS-NAME,com.Qiaoguangzhi.OceanWar #深海突击战
   - PROCESS-NAME,com.qiesite.SoulDrawer #灵魂画手
   - PROCESS-NAME,com.qihuan.xiuxian #指间悟道
+  - PROCESS-NAME,com.qingchuan.pixeldays #像素青春
   - PROCESS-NAME,com.qingxiaoasyjzcyyuzhuheji.cysz #清宵玉烛合集
   - PROCESS-NAME,com.qiqi.ttfirstruncar #指尖赛车手
+  - PROCESS-NAME,com.qiuqiu.sandousanjie #三斗三界
   - PROCESS-NAME,com.qqsy.xnbz #仙逆：本尊
   - PROCESS-NAME,com.qsmx.wkynzf #挖矿也能致富
   - PROCESS-NAME,com.qsmx.xxdl #仙侠大陆
@@ -632,8 +645,6 @@ payload:
   - PROCESS-NAME,com.rtcm.wsqjs #我是拳击手
   - PROCESS-NAME,com.ruanfengasyjzcyhuaixuheji.cysz #软风槐序合集
   - PROCESS-NAME,com.ruiwoo.ff.aligames #飞飞：无限宇宙
-  - PROCESS-NAME,com.rule12.game #第 12 条
-  - PROCESS-NAME,com.runmingc.spotlight.shop #倒着开的店
   - PROCESS-NAME,com.rv9yd1.e0s6yn62 #奇幻梦旅人
   - PROCESS-NAME,com.sanguo.qunxiong #汉末牌局
   - PROCESS-NAME,com.sanguo110.star.base.game122 #我在无常司当差
@@ -647,14 +658,15 @@ payload:
   - PROCESS-NAME,com.screambox.sws #超逼真的攻城模拟器
   - PROCESS-NAME,com.senyu.monetgarden #莫奈的花园
   - PROCESS-NAME,com.setagames.survivor.tt #幸存者危城
-  - PROCESS-NAME,com.sgb.hn #三国霸
   - PROCESS-NAME,com.sgzm.shhzc.game #守护花之窗
   - PROCESS-NAME,com.sh.zjmsplatform #指尖魔兽
   - PROCESS-NAME,com.shandagames.shelter #辐射：避难所Online
   - PROCESS-NAME,com.shanhai.xianzonglu #山海仙宗录
   - PROCESS-NAME,com.shanhai.zy1 #山海志异
+  - PROCESS-NAME,com.shanhaiyuchenglu.game.taptap #山海御城录
   - PROCESS-NAME,com.shbq.gyzw.ppyx #光阴之外
   - PROCESS-NAME,com.shengleigame.xfjdzd #小飞机大战斗
+  - PROCESS-NAME,com.shengleigame.zygxmb #挣一个小目标
   - PROCESS-NAME,com.shengmiao.cqzy.ywwl #传奇之业
   - PROCESS-NAME,com.shgygame.wawuworld #哇呜世界
   - PROCESS-NAME,com.shidai.bussimulator.an #巴士之星
@@ -686,7 +698,6 @@ payload:
   - PROCESS-NAME,com.souxian.guixumijing #搜仙：归墟秘境
   - PROCESS-NAME,com.sparklet.doomsdaycard #卡包荒野
   - PROCESS-NAME,com.Spotlight.Spotlight #原油战线
-  - PROCESS-NAME,com.spotlightgames.beyondthephoto #照片外的人
   - PROCESS-NAME,com.spotlightor.candleman #蜡烛人
   - PROCESS-NAME,com.spotlightor.exhaustedmantaptap #累趴侠
   - PROCESS-NAME,com.springup.garden #春现
@@ -702,6 +713,7 @@ payload:
   - PROCESS-NAME,com.starcleft.game #星隙：重启
   - PROCESS-NAME,com.starpop.station #星光消消小站
   - PROCESS-NAME,com.Stonefish_Studio.Heartwriting #心画
+  - PROCESS-NAME,com.streamfishery.game #溪流渔场
   - PROCESS-NAME,com.stt.yscs.tap #弈世苍生
   - PROCESS-NAME,com.Subtilight.Minesweeper #正经的扫雷大冒险
   - PROCESS-NAME,com.sugarflowerstudios.catchfruits #Catch Fruits!
@@ -711,14 +723,13 @@ payload:
   - PROCESS-NAME,com.surprisingstudio.fakehero #冒牌英雄
   - PROCESS-NAME,com.survivor.acecn #弹壳战机
   - PROCESS-NAME,com.survivor.offline #异界灾潮
-  - PROCESS-NAME,com.swinc.jumpjumpsv #弹跳肉鸽
   - PROCESS-NAME,com.sxyz.igame.quickgame #上行勇者
   - PROCESS-NAME,com.sy.benevoforpop.tap #剑泽苍生
   - PROCESS-NAME,com.sy.ylqx.yxdl.game.dkw #悠星大陆
+  - PROCESS-NAME,com.sycldl.lwzweg #云境漫记
   - PROCESS-NAME,com.syyx.nuoya.idle #诺亚传说口袋版
   - PROCESS-NAME,com.szml.fzgsj #风之国世界
   - PROCESS-NAME,com.szyh.YHP1.kaopu1 #盛世荣耀
-  - PROCESS-NAME,com.szykj.lzfx.tp1 #领主防线
   - PROCESS-NAME,com.szyy.msct #末世冲突
   - PROCESS-NAME,com.tangyuanyuan.RewovenSelf #重织之我
   - PROCESS-NAME,com.TantrumNetwork.sy #栖云异梦3：溯源
@@ -757,15 +768,15 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sgamece #王者荣耀前瞻版
   - PROCESS-NAME,com.tencent.wlfz #星痕共鸣
   - PROCESS-NAME,com.teshen.zhengqishijie #蒸汽世界
+  - PROCESS-NAME,com.test.lineagemidle #亚丁大陆
   - PROCESS-NAME,com.tfzzd.lcsq #占城大师
   - PROCESS-NAME,com.tgy.xjswt #小鸡守卫
   - PROCESS-NAME,com.TheApocalypse #启示录
-  - PROCESS-NAME,com.thinkingteam.pen #聚宝盆
   - PROCESS-NAME,com.Three.mogumogu #蘑菇蘑菇
   - PROCESS-NAME,com.tianxun.racing #狂野飞车
   - PROCESS-NAME,com.TiBuTiGame.SimulatedImmortality #模拟长生：无尽炼气劫
-  - PROCESS-NAME,com.tidal.maintenance #潮汐维护
   - PROCESS-NAME,com.tide.terminal #智械暴走，而我称霸全球
+  - PROCESS-NAME,com.timeslit.demo #时隙
   - PROCESS-NAME,com.tomato.android.ssbhc #时尚百货城
   - PROCESS-NAME,com.tomato.gxy #西游梗传
   - PROCESS-NAME,com.tortoisehare.semmanngame #龟兔赛跑游戏
@@ -776,20 +787,19 @@ payload:
   - PROCESS-NAME,com.tthd.stick #奋战火柴人：影子武士
   - PROCESS-NAME,com.tthd.survivalrpg #岛屿生存·圣庙遗宝
   - PROCESS-NAME,com.tuanzhan.bunengshu #团战不能输
+  - PROCESS-NAME,com.tufang.juezhankapai #决战卡牌
   - PROCESS-NAME,com.tunshi.zuan #吞食天地二合一
   - PROCESS-NAME,com.turnheart.preview #转心塔
   - PROCESS-NAME,com.tutcomics.amarvelouscupid #奇怪的丘比特
+  - PROCESS-NAME,com.tuzi.guzhuangtu #借过一下：别撞我
   - PROCESS-NAME,com.twilight.defense.mobile #暮光防线
   - PROCESS-NAME,com.twnb.xdqxz #雪刀群侠传
   - PROCESS-NAME,com.tyou.guiou #诡偶
-  - PROCESS-NAME,com.tyou.jieyan #借眼
   - PROCESS-NAME,com.tyou.yuanlou #怨楼
   - PROCESS-NAME,com.tz.cpyr.qxds #潜行大师
   - PROCESS-NAME,com.tzyz.gmzz #诡秘之主
   - PROCESS-NAME,com.uelink.streetfight.bmqd #暴力街区之拳王
-  - PROCESS-NAME,com.ultralisk.game305 #末世求生者
   - PROCESS-NAME,com.ultralisk.gamemsxw #末世小屋
-  - PROCESS-NAME,com.unbrokenreality.game2012 #窗户xp2012
   - PROCESS-NAME,com.UnderLineStudio.Strayoflostcat #迷途猫的灵魂碎片
   - PROCESS-NAME,com.uniiao.zzxy.gbt #自在逍遥：风起
   - PROCESS-NAME,com.UnityTechnologies.world_of_chaos #混乱世界
@@ -797,7 +807,6 @@ payload:
   - PROCESS-NAME,com.upublishing.kamaeru #世蛙桃源
   - PROCESS-NAME,com.UrbenLegend #夜路别回头
   - PROCESS-NAME,com.userjoy.sgwchina #诸国争霸
-  - PROCESS-NAME,com.uwinhong.TheLastThreeMinutes #最后三分钟
   - PROCESS-NAME,com.uwocn.aos #大航海时代：起源
   - PROCESS-NAME,com.uzjce.kquh1 #小岛日记
   - PROCESS-NAME,com.vanbss.salvageFrenzy #疯狂打捞队
@@ -812,20 +821,21 @@ payload:
   - PROCESS-NAME,com.wanshijianzhong.app #万世剑冢
   - PROCESS-NAME,com.wanxiang.qitu #万象歧途
   - PROCESS-NAME,com.wanxiu.cn.yaocuotu.andriod #妖错图
-  - PROCESS-NAME,com.watersort.puzzle #水排序大师
   - PROCESS-NAME,com.WeatheringStudio.weathering210427 #挂机工厂
   - PROCESS-NAME,com.webcheng.crazyparcel #乱套快递局
   - PROCESS-NAME,com.wedobest.gqyyds #节奏音乐大师
+  - PROCESS-NAME,com.weicheng.chronicle #围城编年史
   - PROCESS-NAME,com.wenqi.game #文气长歌
   - PROCESS-NAME,com.wereviz.inlchina.gbt #村落人生
   - PROCESS-NAME,com.wexgames.ycbx #阳春艺曲
   - PROCESS-NAME,com.whatboygames.trialsoffire.gamet #火焰审判
+  - PROCESS-NAME,com.whatthegroveremembers.game #What the Grove Remembers
   - PROCESS-NAME,com.whitestaaar.songm #满庭芳・宋上繁华
   - PROCESS-NAME,com.whsl.myisland #恐龙小岛
   - PROCESS-NAME,com.whtzwpt.xmwl #我和同桌玩跑团
+  - PROCESS-NAME,com.wilderness.days35 #荒野三十五天
   - PROCESS-NAME,com.winter.relayzero #断连：零号中继
   - PROCESS-NAME,com.winturn.lwdj #灵文对决
-  - PROCESS-NAME,com.wisegames.interwovendreams #隐梦交织
   - PROCESS-NAME,com.wisegames.mercuryabbey #水银疗养院
   - PROCESS-NAME,com.wjmtjq.ma.android #我叫MT：崛起
   - PROCESS-NAME,com.wlwzsnzy.tt #武林外传：十年之约
@@ -847,7 +857,6 @@ payload:
   - PROCESS-NAME,com.wuwan94.hanzitd #汉字塔防
   - PROCESS-NAME,com.wuyirumi.volfishing #火山岛·钓鱼背单词
   - PROCESS-NAME,com.wwjd.kkkwan #无畏舰队
-  - PROCESS-NAME,com.wxgame.xiuxian #我是修仙主角
   - PROCESS-NAME,com.wxlhs6.dmlt.gz15 #无限轮回
   - PROCESS-NAME,com.wygames.selfrunner #自走机
   - PROCESS-NAME,com.wyhd.shipx.gw #苍蓝前线
@@ -870,15 +879,14 @@ payload:
   - PROCESS-NAME,com.xd.volcano.tap #火山的女儿：再度重逢
   - PROCESS-NAME,com.xg.sldzz #闪亮大作战
   - PROCESS-NAME,com.xgame.sjycy #生计与沉冤
-  - PROCESS-NAME,com.xgame.xykc.tt #炫音狂潮2
   - PROCESS-NAME,com.xiandi.qyzs.android.offical #卿云之上
-  - PROCESS-NAME,com.xiangzhang.offwork #下班大作战
   - PROCESS-NAME,com.Xiaocai.ChaseCrashCar #追撞飞车
   - PROCESS-NAME,com.xiaomiao.xianghuo #小庙香火
   - PROCESS-NAME,com.xiaosiyi.zero #萍水档案-死水
   - PROCESS-NAME,com.xiaoyinya.TauLink #时羁之律TauLink
   - PROCESS-NAME,com.xiayizhanjianghu.taptap #下一站江湖Ⅰ
   - PROCESS-NAME,com.ximumu.loophero #循环勇士
+  - PROCESS-NAME,com.xinchengstudio.polanche #落魄车神再就业
   - PROCESS-NAME,com.xindong.tapaim #TapAim
   - PROCESS-NAME,com.xinghuo.jthj #九天绘卷
   - PROCESS-NAME,com.Xingyi.ImmortalMayor #蓬莱镇
@@ -896,11 +904,9 @@ payload:
   - PROCESS-NAME,com.xiyouzhi.wuji.qk #西游志：山海战纪
   - PROCESS-NAME,com.xjhcw.tapcwxjh #唱舞星计划
   - PROCESS-NAME,com.xjskp.tv.tgb #向僵尸开炮
-  - PROCESS-NAME,com.xjwjj.justice_angle #未竟审判
   - PROCESS-NAME,com.xjzs.kywl #星界战士
   - PROCESS-NAME,com.xlj.kapigame #炫龙记
   - PROCESS-NAME,com.xmgame.qiyueandmofa #契约与冒险：英雄传说
-  - PROCESS-NAME,com.xmqxt.archvale.mtap #阿彻威尔奇妙冒险
   - PROCESS-NAME,com.xmrkp.dmlt.gw01 #向末日开炮
   - PROCESS-NAME,com.xmxq.alchemage.taptap #炼金与魔法
   - PROCESS-NAME,com.xr.wgdzztap #王国大作战：前线
@@ -919,15 +925,15 @@ payload:
   - PROCESS-NAME,com.xy.glqxl.guanfang #古龙群侠录
   - PROCESS-NAME,com.xyuapp.circle.juzhen #圆环矩阵
   - PROCESS-NAME,com.xyuapp.WhackZombies #向僵尸射击
+  - PROCESS-NAME,com.xyystudio.homeward #晚风：归途
   - PROCESS-NAME,com.xzgame.atm.toufang #奥特曼：超时空英雄
   - PROCESS-NAME,com.xzw.daluandou #暗夜大乱斗
   - PROCESS-NAME,com.xzy.styx #星之翼
   - PROCESS-NAME,com.yang.token.b #街机残骸
+  - PROCESS-NAME,com.yang.token.c #黄阈：后室
   - PROCESS-NAME,com.yaohe.yaohe #盲盒：听声辨物
   - PROCESS-NAME,com.yes.clrgame.mj #主公胡了
-  - PROCESS-NAME,com.yggame.ygrdzd.lgfyb #拉弓防一波
   - PROCESS-NAME,com.yhszg.gamet #永恒树之歌：创世
-  - PROCESS-NAME,com.yihao.yihao #箱尽办法
   - PROCESS-NAME,com.yihuan.little_immortal_cultivator #小小修仙者
   - PROCESS-NAME,com.yiiwan.xiangqia #万宁象棋
   - PROCESS-NAME,com.yimengstudio.xiuyuan #以梦修院
@@ -953,6 +959,7 @@ payload:
   - PROCESS-NAME,com.yunshi.leitingwinter #冰原守卫者
   - PROCESS-NAME,com.yuntu.fouryears #四年·云大漫行
   - PROCESS-NAME,com.yunying.qgfzmnq #情感反诈模拟器
+  - PROCESS-NAME,com.yuohira.daohua #道化太初
   - PROCESS-NAME,com.yuting.zhiqian #雨停之前
   - PROCESS-NAME,com.yuzhou.grove #归灯行纪
   - PROCESS-NAME,com.YuZhouHe.Sea_Of_Radiation #辐射之海
@@ -967,10 +974,10 @@ payload:
   - PROCESS-NAME,com.zhanhuo.mw #现代战舰
   - PROCESS-NAME,com.zhcj.xzjh #侠战江湖
   - PROCESS-NAME,com.zhixun.bhxz #笔画寻字
+  - PROCESS-NAME,com.zhixun.mmlr #密码猎人
   - PROCESS-NAME,com.zhixun.zjg #纸间光
   - PROCESS-NAME,com.zhongchi.shijianxingqiu #时间星球
   - PROCESS-NAME,com.zhoulipeng.jiansaobahuang #剑扫八荒
-  - PROCESS-NAME,com.zhuoxun.whmsca #我还没上车
   - PROCESS-NAME,com.zhuziplay.lvmengnew.op #绿梦：时空之声
   - PROCESS-NAME,com.zichen.hlxxx.official #欢乐消消消
   - PROCESS-NAME,com.zihua.LineageRedDragon.gf #梦想与征程
@@ -989,6 +996,7 @@ payload:
   - PROCESS-NAME,com.zyl.hdsg #海岛时光-种田挖矿
   - PROCESS-NAME,com.zzonegame.aresvirus2.android #阿瑞斯病毒2
   - PROCESS-NAME,com.zzqy.wxxx #万象修仙
+  - PROCESS-NAME,com.zzu.shenhaihuixiang #深海回响 · 枪火柔情
   - PROCESS-NAME,dev.tianji.jianghu #天机江湖
   - PROCESS-NAME,fans.chocola.foxshooter #Fox Shooter
   - PROCESS-NAME,fs.kongzhong.online #栾青商神系统
@@ -1012,11 +1020,9 @@ payload:
   - PROCESS-NAME,game.taptap.zzzProject.Notanote #Notanote（TapTap测试版）
   - PROCESS-NAME,game.ximing.wdmrxd #我的末日小队
   - PROCESS-NAME,game.xingran.honghuangwuzu #洪荒:苟道军师
-  - PROCESS-NAME,games.baohaowande.jinhuo #烬火千金·假面棋局
   - PROCESS-NAME,Hery.mo #MO视觉小说引擎
   - PROCESS-NAME,inland.jwm.twgame #九万亩
   - PROCESS-NAME,io.github.babayzhan.findcandy #找到那颗糖
-  - PROCESS-NAME,jskj.tools.huyaoyaochengrijitt #狐仙美人养成日记
   - PROCESS-NAME,kuangkuang.game.dingliu #倪帝蔷来了
   - PROCESS-NAME,ltd.shell.smdz #使魔大战3
   - PROCESS-NAME,me.mugzone.emiria #Malody V
@@ -1029,13 +1035,13 @@ payload:
   - PROCESS-NAME,org.codexgames.velocityride.ue #疾速无界
   - PROCESS-NAME,org.dreamingcards.layoutdebug #梦尽之前
   - PROCESS-NAME,org.hypothermia.demo #失温
-  - PROCESS-NAME,org.taptap2026.emergence #雾里，点一盏灯
   - PROCESS-NAME,org.td.xydznf.v #西游斗战怒佛
   - PROCESS-NAME,plus.H5F1A5334 #极速驰骋
   - PROCESS-NAME,qq.dd.yy.tt #柒柒的一天
   - PROCESS-NAME,site.shuoguopiaoxiang.chengfengduyu #乘风渡屿
   - PROCESS-NAME,sleepfly.nowood #偷袭武林老同志
   - PROCESS-NAME,studio.bitecho.sevendays #七日回声
+  - PROCESS-NAME,top.seegood.toapp.zeng #正义公平的律师：律师模拟器
   - PROCESS-NAME,www.mota.com #萌塔物语
   - PROCESS-NAME,www.www.www #在异世界打怪的修仙者
   - PROCESS-NAME,xd.sce.echo #回响计划
