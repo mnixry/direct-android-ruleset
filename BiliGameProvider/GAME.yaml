@@ -431,6 +431,7 @@ payload:
   - PROCESS-NAME,com.longsheng.ysjyz.bilibili #异世界勇者
   - PROCESS-NAME,com.longyou.xxmxn.bilibili #冒险小分队
   - PROCESS-NAME,com.lovin2.bilibili #落樱2：千乐之章
+  - PROCESS-NAME,com.lw.ftcs.bilibili #飞艇传说
   - PROCESS-NAME,com.lw.ftyx.bilibili #飞艇英雄
   - PROCESS-NAME,com.lywl.xbxxz.bilibili #想不想修真
   - PROCESS-NAME,com.lzgqc.bilibili #龙之谷：启程
@@ -493,11 +494,11 @@ payload:
   - PROCESS-NAME,com.netease.EVE #星战前夜：无烬星河
   - PROCESS-NAME,com.netease.g108 #命运：群星
   - PROCESS-NAME,com.netease.g67 #暗黑破坏神：不朽
-  - PROCESS-NAME,com.netease.g67.bilibili #暗黑破坏神：不朽（账号绑定工具）
   - PROCESS-NAME,com.netease.harrypotter.bilibili #哈利波特：魔法觉醒
   - PROCESS-NAME,com.netease.hyxd #荒野行动
   - PROCESS-NAME,com.netease.hyxd.bili #荒野行动（账号绑定工具）
-  - PROCESS-NAME,com.netease.idol2.bilibili #绝对演绎
+  - PROCESS-NAME,com.netease.idol2 #绝对演绎
+  - PROCESS-NAME,com.netease.idol2.bilibili #绝对演绎（账号绑定工具）
   - PROCESS-NAME,com.netease.l22 #永劫无间
   - PROCESS-NAME,com.netease.l28 #星绘友晴天（测试服）
   - PROCESS-NAME,com.netease.ldxy #乱斗西游2
@@ -516,7 +517,6 @@ payload:
   - PROCESS-NAME,com.netease.onmyoji.bili #阴阳师
   - PROCESS-NAME,com.netease.party.bilibili #蛋仔派对
   - PROCESS-NAME,com.netease.pes.bilibili #实况足球
-  - PROCESS-NAME,com.netease.pm02 #天谕
   - PROCESS-NAME,com.netease.pm03 #忘川风华录
   - PROCESS-NAME,com.netease.qrsj #七日世界
   - PROCESS-NAME,com.netease.sjzw.bilibili #世界之外
@@ -780,7 +780,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.xymobile #轩辕传奇
   - PROCESS-NAME,com.tencent.tmgp.yxwdzzjy #魔法门之英雄无敌：战争纪元
   - PROCESS-NAME,com.tencent.toaa #黎明觉醒：生机
-  - PROCESS-NAME,com.tencent.VGame #虚环（测试服）
+  - PROCESS-NAME,com.tencent.VGame #虚环（招募测试）
   - PROCESS-NAME,com.tencent.wlfz #星痕共鸣
   - PROCESS-NAME,com.tencent.wmsj #完美世界
   - PROCESS-NAME,com.tencent.xsgryzq #新三国：荣耀再起（测试服）

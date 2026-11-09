@@ -431,6 +431,7 @@ PROCESS-NAME,com.lmgame.atmgedou.bilibili,{{ rule }} # 奥特曼格斗之热血�
 PROCESS-NAME,com.longsheng.ysjyz.bilibili,{{ rule }} # 异世界勇者
 PROCESS-NAME,com.longyou.xxmxn.bilibili,{{ rule }} # 冒险小分队
 PROCESS-NAME,com.lovin2.bilibili,{{ rule }} # 落樱2：千乐之章
+PROCESS-NAME,com.lw.ftcs.bilibili,{{ rule }} # 飞艇传说
 PROCESS-NAME,com.lw.ftyx.bilibili,{{ rule }} # 飞艇英雄
 PROCESS-NAME,com.lywl.xbxxz.bilibili,{{ rule }} # 想不想修真
 PROCESS-NAME,com.lzgqc.bilibili,{{ rule }} # 龙之谷：启程
@@ -493,11 +494,11 @@ PROCESS-NAME,com.netease.dwrg.bili,{{ rule }} # 第五人格
 PROCESS-NAME,com.netease.EVE,{{ rule }} # 星战前夜：无烬星河
 PROCESS-NAME,com.netease.g108,{{ rule }} # 命运：群星
 PROCESS-NAME,com.netease.g67,{{ rule }} # 暗黑破坏神：不朽
-PROCESS-NAME,com.netease.g67.bilibili,{{ rule }} # 暗黑破坏神：不朽（账号绑定工具）
 PROCESS-NAME,com.netease.harrypotter.bilibili,{{ rule }} # 哈利波特：魔法觉醒
 PROCESS-NAME,com.netease.hyxd,{{ rule }} # 荒野行动
 PROCESS-NAME,com.netease.hyxd.bili,{{ rule }} # 荒野行动（账号绑定工具）
-PROCESS-NAME,com.netease.idol2.bilibili,{{ rule }} # 绝对演绎
+PROCESS-NAME,com.netease.idol2,{{ rule }} # 绝对演绎
+PROCESS-NAME,com.netease.idol2.bilibili,{{ rule }} # 绝对演绎（账号绑定工具）
 PROCESS-NAME,com.netease.l22,{{ rule }} # 永劫无间
 PROCESS-NAME,com.netease.l28,{{ rule }} # 星绘友晴天（测试服）
 PROCESS-NAME,com.netease.ldxy,{{ rule }} # 乱斗西游2
@@ -516,7 +517,6 @@ PROCESS-NAME,com.netease.nshm,{{ rule }} # 逆水寒
 PROCESS-NAME,com.netease.onmyoji.bili,{{ rule }} # 阴阳师
 PROCESS-NAME,com.netease.party.bilibili,{{ rule }} # 蛋仔派对
 PROCESS-NAME,com.netease.pes.bilibili,{{ rule }} # 实况足球
-PROCESS-NAME,com.netease.pm02,{{ rule }} # 天谕
 PROCESS-NAME,com.netease.pm03,{{ rule }} # 忘川风华录
 PROCESS-NAME,com.netease.qrsj,{{ rule }} # 七日世界
 PROCESS-NAME,com.netease.sjzw.bilibili,{{ rule }} # 世界之外
@@ -780,7 +780,7 @@ PROCESS-NAME,com.tencent.tmgp.xtlbb,{{ rule }} # 新天龙八部
 PROCESS-NAME,com.tencent.tmgp.xymobile,{{ rule }} # 轩辕传奇
 PROCESS-NAME,com.tencent.tmgp.yxwdzzjy,{{ rule }} # 魔法门之英雄无敌：战争纪元
 PROCESS-NAME,com.tencent.toaa,{{ rule }} # 黎明觉醒：生机
-PROCESS-NAME,com.tencent.VGame,{{ rule }} # 虚环（测试服）
+PROCESS-NAME,com.tencent.VGame,{{ rule }} # 虚环（招募测试）
 PROCESS-NAME,com.tencent.wlfz,{{ rule }} # 星痕共鸣
 PROCESS-NAME,com.tencent.wmsj,{{ rule }} # 完美世界
 PROCESS-NAME,com.tencent.xsgryzq,{{ rule }} # 新三国：荣耀再起（测试服）
