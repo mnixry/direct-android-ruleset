@@ -192,6 +192,7 @@ payload:
   - PROCESS-NAME,com.game.fengbaotts.bilibili #风暴天堂
   - PROCESS-NAME,com.game.jueswjl.bilibili #绝世万剑录
   - PROCESS-NAME,com.game.longhdlu.bilibili #龙魂大陆
+  - PROCESS-NAME,com.game.mshou.bilibili #不朽骑士（测试服）
   - PROCESS-NAME,com.game.sgzzqtxsy.bilibili #三国志战棋天下
   - PROCESS-NAME,com.game.universeatm.bilibili #奥特曼宇宙英雄
   - PROCESS-NAME,com.game.xiydmx.bilibili #西游大冒险
@@ -401,7 +402,6 @@ payload:
   - PROCESS-NAME,com.leniu.dpcqln.bilibili #斗破苍穹
   - PROCESS-NAME,com.leniu.jlsy.bilibili #九灵神域
   - PROCESS-NAME,com.leniu.lfcs.bilibili #猎风传说
-  - PROCESS-NAME,com.leniu.lmzt.bilibili #黎明之塔
   - PROCESS-NAME,com.leniu.lyj.bilibili #灵妖劫
   - PROCESS-NAME,com.leniu.shjx.bilibili #山海烬墟
   - PROCESS-NAME,com.leniu.yslj.bilibili #异兽灵境
@@ -515,11 +515,14 @@ payload:
   - PROCESS-NAME,com.netease.nshhelper.bilibili #遇见逆水寒
   - PROCESS-NAME,com.netease.nshm #逆水寒
   - PROCESS-NAME,com.netease.onmyoji.bili #阴阳师
-  - PROCESS-NAME,com.netease.party.bilibili #蛋仔派对
+  - PROCESS-NAME,com.netease.party #蛋仔派对
+  - PROCESS-NAME,com.netease.party.bilibili #蛋仔派对（账号绑定工具）
   - PROCESS-NAME,com.netease.pes.bilibili #实况足球
+  - PROCESS-NAME,com.netease.pm02 #天谕
   - PROCESS-NAME,com.netease.pm03 #忘川风华录
   - PROCESS-NAME,com.netease.qrsj #七日世界
   - PROCESS-NAME,com.netease.sjzw.bilibili #世界之外
+  - PROCESS-NAME,com.netease.skzdhlr.external #时空中的绘旅人
   - PROCESS-NAME,com.netease.soulofhunter.bilibili #猎魂觉醒
   - PROCESS-NAME,com.netease.stzb.bilibili #率土之滨
   - PROCESS-NAME,com.netease.tank.bilibili #坦克连
@@ -544,6 +547,7 @@ payload:
   - PROCESS-NAME,com.ninogame.beverageTown.bilibili #饮料小镇
   - PROCESS-NAME,com.nomoga.fsandroid.bilibili #封神幻想世界
   - PROCESS-NAME,com.nsn592.bubblefish.bilibili #萌鱼泡泡
+  - PROCESS-NAME,com.oaktree.catsland.bilibili #复苏的猫之大陆
   - PROCESS-NAME,com.omnidreamgames.zcnws.bilibili #女武神战纪
   - PROCESS-NAME,com.Onut.Snow.bilibili #异色边缘
   - PROCESS-NAME,com.orange.sndwz.bilibili #少女的伪证（测试服）
@@ -648,14 +652,13 @@ payload:
   - PROCESS-NAME,com.sky8yx.hhj.bilibili #航海记（测试服）
   - PROCESS-NAME,com.skybox.nowhere.bilibili #旅人日记
   - PROCESS-NAME,com.slggames.hgsg.bilibili #群雄时代
-  - PROCESS-NAME,com.slqj.qmms.bilibili #全民萌兽
   - PROCESS-NAME,com.slqj.tbnxy.bilibili #踢爆那西游
   - PROCESS-NAME,com.slqj.wjws.bilibili #武将无双
   - PROCESS-NAME,com.slqj.yzmy.bilibili #勇者秘域
   - PROCESS-NAME,com.slsmfx.union.bilibili #狩猎使命
   - PROCESS-NAME,com.smdl.qy.bilibili #神魔大陆
   - PROCESS-NAME,com.songyue.yydwlxq.bilibili #永远的蔚蓝星球
-  - PROCESS-NAME,com.soulgames.lunacn.bilibili #露娜：蓝色大陆（测试服）
+  - PROCESS-NAME,com.soulgames.lunacn.bilibili #露娜：蓝色大陆
   - PROCESS-NAME,com.sqfz.bilibili #神泣：纷争
   - PROCESS-NAME,com.sqw.by.bilibili #霸业
   - PROCESS-NAME,com.sqw.fzdl.dldlcc_bz #斗罗大陆：传承
@@ -702,7 +705,6 @@ payload:
   - PROCESS-NAME,com.tanyu.cjhwy.bilibili #超进化物语
   - PROCESS-NAME,com.taojin.dungeon2.bilibili #地下城堡2：黑暗觉醒
   - PROCESS-NAME,com.taolu.freakplanet.bilibili #妙奇星球
-  - PROCESS-NAME,com.taoqipao.myrzg.bilibili #深渊之歌（测试服）
   - PROCESS-NAME,com.tbg.galaxyreavers.bilibili #银河掠夺者
   - PROCESS-NAME,com.tbg.silentclash.bilibili #无声冲突
   - PROCESS-NAME,com.tdgame.aliya.bilibili #彼方的她

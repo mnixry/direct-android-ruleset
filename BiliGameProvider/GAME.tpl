@@ -192,6 +192,7 @@ PROCESS-NAME,com.game.dianfjizhan.bilibili,{{ rule }} # 巅峰激战
 PROCESS-NAME,com.game.fengbaotts.bilibili,{{ rule }} # 风暴天堂
 PROCESS-NAME,com.game.jueswjl.bilibili,{{ rule }} # 绝世万剑录
 PROCESS-NAME,com.game.longhdlu.bilibili,{{ rule }} # 龙魂大陆
+PROCESS-NAME,com.game.mshou.bilibili,{{ rule }} # 不朽骑士（测试服）
 PROCESS-NAME,com.game.sgzzqtxsy.bilibili,{{ rule }} # 三国志战棋天下
 PROCESS-NAME,com.game.universeatm.bilibili,{{ rule }} # 奥特曼宇宙英雄
 PROCESS-NAME,com.game.xiydmx.bilibili,{{ rule }} # 西游大冒险
@@ -401,7 +402,6 @@ PROCESS-NAME,com.leiyan.mdjl.bilibili,{{ rule }} # 锚点降临
 PROCESS-NAME,com.leniu.dpcqln.bilibili,{{ rule }} # 斗破苍穹
 PROCESS-NAME,com.leniu.jlsy.bilibili,{{ rule }} # 九灵神域
 PROCESS-NAME,com.leniu.lfcs.bilibili,{{ rule }} # 猎风传说
-PROCESS-NAME,com.leniu.lmzt.bilibili,{{ rule }} # 黎明之塔
 PROCESS-NAME,com.leniu.lyj.bilibili,{{ rule }} # 灵妖劫
 PROCESS-NAME,com.leniu.shjx.bilibili,{{ rule }} # 山海烬墟
 PROCESS-NAME,com.leniu.yslj.bilibili,{{ rule }} # 异兽灵境
@@ -515,11 +515,14 @@ PROCESS-NAME,com.netease.my.bilibili,{{ rule }} # 梦幻西游
 PROCESS-NAME,com.netease.nshhelper.bilibili,{{ rule }} # 遇见逆水寒
 PROCESS-NAME,com.netease.nshm,{{ rule }} # 逆水寒
 PROCESS-NAME,com.netease.onmyoji.bili,{{ rule }} # 阴阳师
-PROCESS-NAME,com.netease.party.bilibili,{{ rule }} # 蛋仔派对
+PROCESS-NAME,com.netease.party,{{ rule }} # 蛋仔派对
+PROCESS-NAME,com.netease.party.bilibili,{{ rule }} # 蛋仔派对（账号绑定工具）
 PROCESS-NAME,com.netease.pes.bilibili,{{ rule }} # 实况足球
+PROCESS-NAME,com.netease.pm02,{{ rule }} # 天谕
 PROCESS-NAME,com.netease.pm03,{{ rule }} # 忘川风华录
 PROCESS-NAME,com.netease.qrsj,{{ rule }} # 七日世界
 PROCESS-NAME,com.netease.sjzw.bilibili,{{ rule }} # 世界之外
+PROCESS-NAME,com.netease.skzdhlr.external,{{ rule }} # 时空中的绘旅人
 PROCESS-NAME,com.netease.soulofhunter.bilibili,{{ rule }} # 猎魂觉醒
 PROCESS-NAME,com.netease.stzb.bilibili,{{ rule }} # 率土之滨
 PROCESS-NAME,com.netease.tank.bilibili,{{ rule }} # 坦克连
@@ -544,6 +547,7 @@ PROCESS-NAME,com.nextjoy.xlgs.bilibili,{{ rule }} # 驯龙高手：旅程
 PROCESS-NAME,com.ninogame.beverageTown.bilibili,{{ rule }} # 饮料小镇
 PROCESS-NAME,com.nomoga.fsandroid.bilibili,{{ rule }} # 封神幻想世界
 PROCESS-NAME,com.nsn592.bubblefish.bilibili,{{ rule }} # 萌鱼泡泡
+PROCESS-NAME,com.oaktree.catsland.bilibili,{{ rule }} # 复苏的猫之大陆
 PROCESS-NAME,com.omnidreamgames.zcnws.bilibili,{{ rule }} # 女武神战纪
 PROCESS-NAME,com.Onut.Snow.bilibili,{{ rule }} # 异色边缘
 PROCESS-NAME,com.orange.sndwz.bilibili,{{ rule }} # 少女的伪证（测试服）
@@ -648,14 +652,13 @@ PROCESS-NAME,com.sjffcf.bilibili,{{ rule }} # 飞飞：重逢
 PROCESS-NAME,com.sky8yx.hhj.bilibili,{{ rule }} # 航海记（测试服）
 PROCESS-NAME,com.skybox.nowhere.bilibili,{{ rule }} # 旅人日记
 PROCESS-NAME,com.slggames.hgsg.bilibili,{{ rule }} # 群雄时代
-PROCESS-NAME,com.slqj.qmms.bilibili,{{ rule }} # 全民萌兽
 PROCESS-NAME,com.slqj.tbnxy.bilibili,{{ rule }} # 踢爆那西游
 PROCESS-NAME,com.slqj.wjws.bilibili,{{ rule }} # 武将无双
 PROCESS-NAME,com.slqj.yzmy.bilibili,{{ rule }} # 勇者秘域
 PROCESS-NAME,com.slsmfx.union.bilibili,{{ rule }} # 狩猎使命
 PROCESS-NAME,com.smdl.qy.bilibili,{{ rule }} # 神魔大陆
 PROCESS-NAME,com.songyue.yydwlxq.bilibili,{{ rule }} # 永远的蔚蓝星球
-PROCESS-NAME,com.soulgames.lunacn.bilibili,{{ rule }} # 露娜：蓝色大陆（测试服）
+PROCESS-NAME,com.soulgames.lunacn.bilibili,{{ rule }} # 露娜：蓝色大陆
 PROCESS-NAME,com.sqfz.bilibili,{{ rule }} # 神泣：纷争
 PROCESS-NAME,com.sqw.by.bilibili,{{ rule }} # 霸业
 PROCESS-NAME,com.sqw.fzdl.dldlcc_bz,{{ rule }} # 斗罗大陆：传承
@@ -702,7 +705,6 @@ PROCESS-NAME,com.tanwan.zzjhcpsly.bilibili,{{ rule }} # 自在江湖
 PROCESS-NAME,com.tanyu.cjhwy.bilibili,{{ rule }} # 超进化物语
 PROCESS-NAME,com.taojin.dungeon2.bilibili,{{ rule }} # 地下城堡2：黑暗觉醒
 PROCESS-NAME,com.taolu.freakplanet.bilibili,{{ rule }} # 妙奇星球
-PROCESS-NAME,com.taoqipao.myrzg.bilibili,{{ rule }} # 深渊之歌（测试服）
 PROCESS-NAME,com.tbg.galaxyreavers.bilibili,{{ rule }} # 银河掠夺者
 PROCESS-NAME,com.tbg.silentclash.bilibili,{{ rule }} # 无声冲突
 PROCESS-NAME,com.tdgame.aliya.bilibili,{{ rule }} # 彼方的她
