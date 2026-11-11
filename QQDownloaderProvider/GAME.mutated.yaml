@@ -262,7 +262,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.cjqyz.kkk5 #超级群英传
   - PROCESS-NAME,com.tencent.tmgp.clgame.cs2 #火线出击
   - PROCESS-NAME,com.tencent.tmgp.cly.fkzz #疯狂征战
-  - PROCESS-NAME,com.tencent.tmgp.cly.rxys #热血勇士
   - PROCESS-NAME,com.tencent.tmgp.cmcm.zmjjkillshotbravo #狙神荣耀
   - PROCESS-NAME,com.tencent.tmgp.cmge.dldllove #斗罗大陆：逆转时空
   - PROCESS-NAME,com.tencent.tmgp.cmge.gathering #斗罗大陆：史莱克学院
@@ -330,7 +329,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.dpdj #斗破苍穹：巅峰对决
   - PROCESS-NAME,com.tencent.tmgp.dqdgxxhd #大秦帝国之帝国烽烟
   - PROCESS-NAME,com.tencent.tmgp.dragonball #龙珠激斗
-  - PROCESS-NAME,com.tencent.tmgp.dssgame.jianzhong #剑中
   - PROCESS-NAME,com.tencent.tmgp.dtszj #永恒纪元
   - PROCESS-NAME,com.tencent.tmgp.dtszjkhd #精灵盛典：黎明
   - PROCESS-NAME,com.tencent.tmgp.dungeon22 #地下城堡2：黑暗觉醒
@@ -616,7 +614,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.pook.foodgame #爆炒江湖
   - PROCESS-NAME,com.tencent.tmgp.projectsnow #尘白禁区
   - PROCESS-NAME,com.tencent.tmgp.projectt #天龙八部2：飞龙战天
-  - PROCESS-NAME,com.tencent.tmgp.pubgmhd #和平精英-11.11雪战冬日
+  - PROCESS-NAME,com.tencent.tmgp.pubgmhd #和平精英
   - PROCESS-NAME,com.tencent.tmgp.pvz2hdtxyyb #植物大战僵尸2
   - PROCESS-NAME,com.tencent.tmgp.pygame.zipai #同城字牌
   - PROCESS-NAME,com.tencent.tmgp.qblykilltext #谁是卧底移动版
@@ -779,7 +777,6 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.tthy.dtl #大屠龙
   - PROCESS-NAME,com.tencent.tmgp.ttigd2.android #天天爱掼蛋
   - PROCESS-NAME,com.tencent.tmgp.ttmj #麻将来了
-  - PROCESS-NAME,com.tencent.tmgp.tttq #天天台球
   - PROCESS-NAME,com.tencent.tmgp.ttwq #腾讯围棋
   - PROCESS-NAME,com.tencent.tmgp.tunshixkljh #吞噬星空：黎明
   - PROCESS-NAME,com.tencent.tmgp.turnipboy #大头菜菜历险记

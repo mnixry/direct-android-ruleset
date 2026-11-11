@@ -884,7 +884,7 @@ payload:
   - PROCESS-NAME,com.tencent.xriver #腾讯加速器
   - PROCESS-NAME,com.tencent.zebra #水印相机
   - PROCESS-NAME,com.themewallpaper.douping #主题动态壁纸
-  - PROCESS-NAME,com.theotino.chinadaily #China Daily
+  - PROCESS-NAME,com.theotino.chinadaily #CHINADAILY
   - PROCESS-NAME,com.theotino.sztv #无线苏州
   - PROCESS-NAME,com.thestore.main #1号会员店
   - PROCESS-NAME,com.thinkyeah.galleryvault #照片保险箱

@@ -209,13 +209,13 @@ payload:
   - PROCESS-NAME,com.tencent.pao #天天酷跑
   - PROCESS-NAME,com.tencent.qqgame.xq #天天象棋
   - PROCESS-NAME,com.tencent.tmgp.cf #穿越火线-枪战王者
-  - PROCESS-NAME,com.tencent.tmgp.cod #使命召唤手游-崩坏3联动上线
+  - PROCESS-NAME,com.tencent.tmgp.cod #使命召唤手游
   - PROCESS-NAME,com.tencent.tmgp.djsy #妄想山海
   - PROCESS-NAME,com.tencent.tmgp.hjol #红警OL
   - PROCESS-NAME,com.tencent.tmgp.jnbg2 #纪念碑谷2
   - PROCESS-NAME,com.tencent.tmgp.lv #光与夜之恋
   - PROCESS-NAME,com.tencent.tmgp.NBA #最强美职篮
-  - PROCESS-NAME,com.tencent.tmgp.pubgmhd #和平精英：11.11雪战冬日
+  - PROCESS-NAME,com.tencent.tmgp.pubgmhd #和平精英
   - PROCESS-NAME,com.tencent.tmgp.qqx5 #QQ炫舞
   - PROCESS-NAME,com.tencent.tmgp.sgame #王者荣耀-1024领周年庆福利
   - PROCESS-NAME,com.tencent.tmgp.speedmobile #QQ飞车-粉红兔子联动

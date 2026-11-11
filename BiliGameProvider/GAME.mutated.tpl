@@ -197,6 +197,7 @@ PROCESS-NAME,com.game.sgzzqtxsy.bilibili,{{ rule }} # 三国志战棋天下
 PROCESS-NAME,com.game.universeatm.bilibili,{{ rule }} # 奥特曼宇宙英雄
 PROCESS-NAME,com.game.xiydmx.bilibili,{{ rule }} # 西游大冒险
 PROCESS-NAME,com.game.yinianca.bilibili,{{ rule }} # 一念长安
+PROCESS-NAME,com.game.zhijianswz.bilibili,{{ rule }} # 指尖守卫战（测试服）
 PROCESS-NAME,com.gamebox.leagueclash.bilibili,{{ rule }} # 联盟纷争
 PROCESS-NAME,com.gamedo.hlw.bilibili,{{ rule }} # 葫芦娃
 PROCESS-NAME,com.gameduchy.jdzd.bilibili,{{ rule }} # 机动战队大作战
@@ -231,7 +232,6 @@ PROCESS-NAME,com.gzlc.ddxe.bilibili,{{ rule }} # 大店小二
 PROCESS-NAME,com.gzlc.dldll.bilibili,{{ rule }} # 斗罗大陆：零（测试服）
 PROCESS-NAME,com.gzlc.scssst.bilibili,{{ rule }} # 生存33天
 PROCESS-NAME,com.gzld.ygjsz.bilibili,{{ rule }} # 妖怪金手指
-PROCESS-NAME,com.gzlt.dxctx.bilibili,{{ rule }} # 大侠闯天下
 PROCESS-NAME,com.gzqh.zjxsc.bilibili,{{ rule }} # 指尖像素城
 PROCESS-NAME,com.gzsnp.wlwd.bilibili,{{ rule }} # 卧龙无敌
 PROCESS-NAME,com.gzsy.qnxx.bilibili,{{ rule }} # 千年寻仙
@@ -494,7 +494,8 @@ PROCESS-NAME,com.netease.dwrg.bili,{{ rule }} # 第五人格
 PROCESS-NAME,com.netease.EVE,{{ rule }} # 星战前夜：无烬星河
 PROCESS-NAME,com.netease.g108,{{ rule }} # 命运：群星
 PROCESS-NAME,com.netease.g67,{{ rule }} # 暗黑破坏神：不朽
-PROCESS-NAME,com.netease.harrypotter.bilibili,{{ rule }} # 哈利波特：魔法觉醒
+PROCESS-NAME,com.netease.harrypotter,{{ rule }} # 哈利波特：魔法觉醒
+PROCESS-NAME,com.netease.harrypotter.bilibili,{{ rule }} # 哈利波特：魔法觉醒（账号绑定工具）
 PROCESS-NAME,com.netease.hyxd,{{ rule }} # 荒野行动
 PROCESS-NAME,com.netease.hyxd.bili,{{ rule }} # 荒野行动（账号绑定工具）
 PROCESS-NAME,com.netease.idol2,{{ rule }} # 绝对演绎
@@ -511,7 +512,8 @@ PROCESS-NAME,com.netease.mecury,{{ rule }} # 雾海之下（招募测试）
 PROCESS-NAME,com.netease.mmm.cn,{{ rule }} # 漫威秘法狂潮
 PROCESS-NAME,com.netease.mrzh.bilibili,{{ rule }} # 明日之后
 PROCESS-NAME,com.netease.ms,{{ rule }} # 漫威终极逆转
-PROCESS-NAME,com.netease.my.bilibili,{{ rule }} # 梦幻西游
+PROCESS-NAME,com.netease.my,{{ rule }} # 梦幻西游
+PROCESS-NAME,com.netease.my.bilibili,{{ rule }} # 梦幻西游（账号绑定工具）
 PROCESS-NAME,com.netease.nshhelper.bilibili,{{ rule }} # 遇见逆水寒
 PROCESS-NAME,com.netease.nshm,{{ rule }} # 逆水寒
 PROCESS-NAME,com.netease.onmyoji.bili,{{ rule }} # 阴阳师
@@ -547,7 +549,6 @@ PROCESS-NAME,com.nextjoy.xlgs.bilibili,{{ rule }} # 驯龙高手：旅程
 PROCESS-NAME,com.ninogame.beverageTown.bilibili,{{ rule }} # 饮料小镇
 PROCESS-NAME,com.nomoga.fsandroid.bilibili,{{ rule }} # 封神幻想世界
 PROCESS-NAME,com.nsn592.bubblefish.bilibili,{{ rule }} # 萌鱼泡泡
-PROCESS-NAME,com.oaktree.catsland.bilibili,{{ rule }} # 复苏的猫之大陆
 PROCESS-NAME,com.omnidreamgames.zcnws.bilibili,{{ rule }} # 女武神战纪
 PROCESS-NAME,com.Onut.Snow.bilibili,{{ rule }} # 异色边缘
 PROCESS-NAME,com.orange.sndwz.bilibili,{{ rule }} # 少女的伪证（测试服）
@@ -592,6 +593,7 @@ PROCESS-NAME,com.qmaygame.mhxy.bilibili,{{ rule }} # 梦幻仙语
 PROCESS-NAME,com.qmzg2.bilibili,{{ rule }} # 全民主公Ⅱ
 PROCESS-NAME,com.qnsk.shanhaizy.bilibili,{{ rule }} # 山海志异
 PROCESS-NAME,com.qpyx.zyj.bilibili,{{ rule }} # 作妖计
+PROCESS-NAME,com.qqgame.happymj,{{ rule }} # 腾讯欢乐麻将全集
 PROCESS-NAME,com.qqgame.hlddz,{{ rule }} # 欢乐斗地主
 PROCESS-NAME,com.qqgame.mic,{{ rule }} # 英雄杀
 PROCESS-NAME,com.qqyy.blzlmmm.bilibili,{{ rule }} # 部落战联盟
@@ -812,7 +814,6 @@ PROCESS-NAME,com.wanda.bxjg.bilibili,{{ rule }} # 变形金刚：新纪元（测
 PROCESS-NAME,com.wanda.qqdqmmx.bilibili,{{ rule }} # 乔乔的奇妙冒险：黄金赞歌（招募测试）
 PROCESS-NAME,com.wanda.qzlrds.bilibili,{{ rule }} # 全职法师：猎人大师（测试服）
 PROCESS-NAME,com.wanda.sf3.bilibili,{{ rule }} # 暗影格斗3
-PROCESS-NAME,com.wanda.tytp.bilibili,{{ rule }} # 天元突破红莲螺岩（测试服）
 PROCESS-NAME,com.wanyu.clqx.bilibili,{{ rule }} # 苍蓝前线
 PROCESS-NAME,com.weflycn.bilibili,{{ rule }} # 发条总动员
 PROCESS-NAME,com.wegame.gg.bilibili,{{ rule }} # 坦克无敌
@@ -828,7 +829,6 @@ PROCESS-NAME,com.wmxzj.bilibili,{{ rule }} # 五芒星战记
 PROCESS-NAME,com.wmyzfhzfx.union.bilibili,{{ rule }} # 文明与征服
 PROCESS-NAME,com.woobest.dyqlb.bilibili,{{ rule }} # 道友请留步
 PROCESS-NAME,com.woobest.mysq.bilibili,{{ rule }} # 命运圣契
-PROCESS-NAME,com.woobest.zhxxj.bilibili,{{ rule }} # 纵横修仙界（测试服）
 PROCESS-NAME,com.wsy.wansuiye2.bilibili,{{ rule }} # 叫我万岁爷
 PROCESS-NAME,com.wsyl.zqdwj.bilibili,{{ rule }} # 足球大玩家
 PROCESS-NAME,com.wwsg.yzx.bilibili,{{ rule }} # 微微三国

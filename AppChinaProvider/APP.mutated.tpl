@@ -884,7 +884,7 @@ PROCESS-NAME,com.tencent.weread,{{ rule }} # 微信读书
 PROCESS-NAME,com.tencent.xriver,{{ rule }} # 腾讯加速器
 PROCESS-NAME,com.tencent.zebra,{{ rule }} # 水印相机
 PROCESS-NAME,com.themewallpaper.douping,{{ rule }} # 主题动态壁纸
-PROCESS-NAME,com.theotino.chinadaily,{{ rule }} # China Daily
+PROCESS-NAME,com.theotino.chinadaily,{{ rule }} # CHINADAILY
 PROCESS-NAME,com.theotino.sztv,{{ rule }} # 无线苏州
 PROCESS-NAME,com.thestore.main,{{ rule }} # 1号会员店
 PROCESS-NAME,com.thinkyeah.galleryvault,{{ rule }} # 照片保险箱
