@@ -217,7 +217,7 @@ PROCESS-NAME,com.tencent.tmgp.lv,{{ rule }} # 光与夜之恋
 PROCESS-NAME,com.tencent.tmgp.NBA,{{ rule }} # 最强美职篮
 PROCESS-NAME,com.tencent.tmgp.pubgmhd,{{ rule }} # 和平精英
 PROCESS-NAME,com.tencent.tmgp.qqx5,{{ rule }} # QQ炫舞
-PROCESS-NAME,com.tencent.tmgp.sgame,{{ rule }} # 王者荣耀-1024领周年庆福利
+PROCESS-NAME,com.tencent.tmgp.sgame,{{ rule }} # 王者荣耀
 PROCESS-NAME,com.tencent.tmgp.speedmobile,{{ rule }} # QQ飞车-粉红兔子联动
 PROCESS-NAME,com.tencent.tmgp.ttmj,{{ rule }} # 麻将来了
 PROCESS-NAME,com.tencent.tmgp.WePop,{{ rule }} # 跑跑卡丁车官方竞速版
