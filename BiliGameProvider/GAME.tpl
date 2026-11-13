@@ -378,7 +378,6 @@ PROCESS-NAME,com.kx.sgqyz.bilibili,{{ rule }} # 三国群英传-争霸
 PROCESS-NAME,com.kyruanjian.gwlm.bilibili,{{ rule }} # 怪物联萌
 PROCESS-NAME,com.lanjing.yanyu.bilibili,{{ rule }} # 烟雨江湖
 PROCESS-NAME,com.ledou.mhhy.bilibili,{{ rule }} # 梦幻花园
-PROCESS-NAME,com.ledou.mhjy.bilibili,{{ rule }} # 梦幻家园
 PROCESS-NAME,com.ledou.templerun2.bilibili,{{ rule }} # 神庙逃亡2
 PROCESS-NAME,com.leiting.chaojinhua.bilibili,{{ rule }} # 超进化物语2
 PROCESS-NAME,com.leiting.daluandou.bilibili,{{ rule }} # 奇葩战斗家
@@ -506,6 +505,7 @@ PROCESS-NAME,com.netease.ma84.bilibili,{{ rule }} # 游戏王：决斗链接
 PROCESS-NAME,com.netease.mduel,{{ rule }} # 漫威对决
 PROCESS-NAME,com.netease.mecury,{{ rule }} # 雾海之下（招募测试）
 PROCESS-NAME,com.netease.mmm.cn,{{ rule }} # 漫威秘法狂潮
+PROCESS-NAME,com.netease.moba,{{ rule }} # 决战！平安京
 PROCESS-NAME,com.netease.mrzh.bilibili,{{ rule }} # 明日之后
 PROCESS-NAME,com.netease.ms,{{ rule }} # 漫威终极逆转
 PROCESS-NAME,com.netease.my,{{ rule }} # 梦幻西游
@@ -822,7 +822,6 @@ PROCESS-NAME,com.wsyl.zqdwj.bilibili,{{ rule }} # 足球大玩家
 PROCESS-NAME,com.wwsg.yzx.bilibili,{{ rule }} # 微微三国
 PROCESS-NAME,com.wxbz.lyjxx.z086,{{ rule }} # 烈焰觉醒
 PROCESS-NAME,com.wyx.ysr.bilibili,{{ rule }} # 狩猎吧！原始人
-PROCESS-NAME,com.wyx.yyzj.bilibili,{{ rule }} # 吟游战记
 PROCESS-NAME,com.wz.fhwca.bilibili,{{ rule }} # 烽火望长安
 PROCESS-NAME,com.wz.qhmlr.bilibili,{{ rule }} # 奇幻梦旅人
 PROCESS-NAME,com.wzl.hzxd.bilibili,{{ rule }} # 火种协定

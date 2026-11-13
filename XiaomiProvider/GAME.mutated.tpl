@@ -192,7 +192,7 @@ PROCESS-NAME,com.sshd.hunanpaohuzi.mi,{{ rule }} # 湖南跑胡子
 PROCESS-NAME,com.standddz003.mi,{{ rule }} # 单机斗地主单机版
 PROCESS-NAME,com.supercell.clashofclans.mi,{{ rule }} # 部落冲突账号绑定工具
 PROCESS-NAME,com.sx.brnf.mi,{{ rule }} # 别惹农夫
-PROCESS-NAME,com.sy.dldlhsdj.mi,{{ rule }} # 斗罗大陆：魂师对决-百级成神
+PROCESS-NAME,com.sy.dldlhsdj.mi,{{ rule }} # 斗罗大陆：魂师对决-送SP魂师
 PROCESS-NAME,com.sy.xxyg.mi,{{ rule }} # 小小蚁国-超快发育版
 PROCESS-NAME,com.SYzongYi.doudizhu.mi,{{ rule }} # 斗地主经典版
 PROCESS-NAME,com.taiyouxi.tk2.mi,{{ rule }} # 极无双2
@@ -215,7 +215,7 @@ PROCESS-NAME,com.tencent.tmgp.hjol,{{ rule }} # 红警OL
 PROCESS-NAME,com.tencent.tmgp.jnbg2,{{ rule }} # 纪念碑谷2
 PROCESS-NAME,com.tencent.tmgp.lv,{{ rule }} # 光与夜之恋
 PROCESS-NAME,com.tencent.tmgp.NBA,{{ rule }} # 最强美职篮
-PROCESS-NAME,com.tencent.tmgp.pubgmhd,{{ rule }} # 和平精英
+PROCESS-NAME,com.tencent.tmgp.pubgmhd,{{ rule }} # 和平精英：雪战冬日版本上线
 PROCESS-NAME,com.tencent.tmgp.qqx5,{{ rule }} # QQ炫舞
 PROCESS-NAME,com.tencent.tmgp.sgame,{{ rule }} # 王者荣耀
 PROCESS-NAME,com.tencent.tmgp.speedmobile,{{ rule }} # QQ飞车-粉红兔子联动

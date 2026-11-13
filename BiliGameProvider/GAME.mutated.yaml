@@ -378,7 +378,6 @@ payload:
   - PROCESS-NAME,com.kyruanjian.gwlm.bilibili #怪物联萌
   - PROCESS-NAME,com.lanjing.yanyu.bilibili #烟雨江湖
   - PROCESS-NAME,com.ledou.mhhy.bilibili #梦幻花园
-  - PROCESS-NAME,com.ledou.mhjy.bilibili #梦幻家园
   - PROCESS-NAME,com.ledou.templerun2.bilibili #神庙逃亡2
   - PROCESS-NAME,com.leiting.chaojinhua.bilibili #超进化物语2
   - PROCESS-NAME,com.leiting.daluandou.bilibili #奇葩战斗家
@@ -506,6 +505,7 @@ payload:
   - PROCESS-NAME,com.netease.mduel #漫威对决
   - PROCESS-NAME,com.netease.mecury #雾海之下（招募测试）
   - PROCESS-NAME,com.netease.mmm.cn #漫威秘法狂潮
+  - PROCESS-NAME,com.netease.moba #决战！平安京
   - PROCESS-NAME,com.netease.mrzh.bilibili #明日之后
   - PROCESS-NAME,com.netease.ms #漫威终极逆转
   - PROCESS-NAME,com.netease.my #梦幻西游
@@ -822,7 +822,6 @@ payload:
   - PROCESS-NAME,com.wwsg.yzx.bilibili #微微三国
   - PROCESS-NAME,com.wxbz.lyjxx.z086 #烈焰觉醒
   - PROCESS-NAME,com.wyx.ysr.bilibili #狩猎吧！原始人
-  - PROCESS-NAME,com.wyx.yyzj.bilibili #吟游战记
   - PROCESS-NAME,com.wz.fhwca.bilibili #烽火望长安
   - PROCESS-NAME,com.wz.qhmlr.bilibili #奇幻梦旅人
   - PROCESS-NAME,com.wzl.hzxd.bilibili #火种协定
