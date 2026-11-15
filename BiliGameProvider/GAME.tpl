@@ -549,6 +549,7 @@ PROCESS-NAME,com.nextjoy.xlgs.bilibili,{{ rule }} # 驯龙高手：旅程
 PROCESS-NAME,com.ninogame.beverageTown.bilibili,{{ rule }} # 饮料小镇
 PROCESS-NAME,com.nomoga.fsandroid.bilibili,{{ rule }} # 封神幻想世界
 PROCESS-NAME,com.nsn592.bubblefish.bilibili,{{ rule }} # 萌鱼泡泡
+PROCESS-NAME,com.oaktree.catsland.bilibili,{{ rule }} # 复苏的猫之大陆
 PROCESS-NAME,com.omnidreamgames.zcnws.bilibili,{{ rule }} # 女武神战纪
 PROCESS-NAME,com.Onut.Snow.bilibili,{{ rule }} # 异色边缘
 PROCESS-NAME,com.orange.sndwz.bilibili,{{ rule }} # 少女的伪证（测试服）
@@ -929,7 +930,6 @@ PROCESS-NAME,com.yoozoo.sgyml.bilibili,{{ rule }} # 三国云梦录
 PROCESS-NAME,com.youka.werewolfbattle.bilibili,{{ rule }} # 狼人对决
 PROCESS-NAME,com.youmin.jszc.bilibili,{{ rule }} # 巨兽战场
 PROCESS-NAME,com.youmt.jszx.bilibili,{{ rule }} # 决胜之心
-PROCESS-NAME,com.youximi.pmwcn.bilibili,{{ rule }} # 口袋新旅途
 PROCESS-NAME,com.youxing.sjcs.bilibili,{{ rule }} # 神将传说
 PROCESS-NAME,com.youzu.djlw.bili,{{ rule }} # 刀剑乱舞-ONLINE-
 PROCESS-NAME,com.youzu.shaoniansanguozhi2.bilibili,{{ rule }} # 少年三国志2

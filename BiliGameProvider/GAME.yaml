@@ -549,6 +549,7 @@ payload:
   - PROCESS-NAME,com.ninogame.beverageTown.bilibili #饮料小镇
   - PROCESS-NAME,com.nomoga.fsandroid.bilibili #封神幻想世界
   - PROCESS-NAME,com.nsn592.bubblefish.bilibili #萌鱼泡泡
+  - PROCESS-NAME,com.oaktree.catsland.bilibili #复苏的猫之大陆
   - PROCESS-NAME,com.omnidreamgames.zcnws.bilibili #女武神战纪
   - PROCESS-NAME,com.Onut.Snow.bilibili #异色边缘
   - PROCESS-NAME,com.orange.sndwz.bilibili #少女的伪证（测试服）
@@ -929,7 +930,6 @@ payload:
   - PROCESS-NAME,com.youka.werewolfbattle.bilibili #狼人对决
   - PROCESS-NAME,com.youmin.jszc.bilibili #巨兽战场
   - PROCESS-NAME,com.youmt.jszx.bilibili #决胜之心
-  - PROCESS-NAME,com.youximi.pmwcn.bilibili #口袋新旅途
   - PROCESS-NAME,com.youxing.sjcs.bilibili #神将传说
   - PROCESS-NAME,com.youzu.djlw.bili #刀剑乱舞-ONLINE-
   - PROCESS-NAME,com.youzu.shaoniansanguozhi2.bilibili #少年三国志2
