@@ -62,6 +62,7 @@ payload:
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
   - PROCESS-NAME,cn.szjxgs.szjob #工友通
+  - PROCESS-NAME,cn.wangxiao.app #中大网校
   - PROCESS-NAME,cn.wangxiao.cpazhuntiku #注册会计师准题库
   - PROCESS-NAME,cn.wangxiao.gwyzhuntiku #公务员准题库
   - PROCESS-NAME,cn.xiaochuankeji.tieba #最右
@@ -487,7 +488,6 @@ payload:
   - PROCESS-NAME,com.lxkj.dmhw #呆萌价
   - PROCESS-NAME,com.m4399.gamecenter #4399游戏盒
   - PROCESS-NAME,com.macrovideo.v380 #V380
-  - PROCESS-NAME,com.magicpoint.mobile.bank #重庆农商行
   - PROCESS-NAME,com.maihan.tredian #淘最热点
   - PROCESS-NAME,com.maipu.tourist #小鹿导游
   - PROCESS-NAME,com.maka.app #MAKA设计

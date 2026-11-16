@@ -117,6 +117,7 @@ PROCESS-NAME,com.cyou.mtlbb.bilibili,{{ rule }} # 天龙3D
 PROCESS-NAME,com.cyou.xxy.bilibili,{{ rule }} # 西游：笔绘西行
 PROCESS-NAME,com.cytx.td.bilibili,{{ rule }} # 部落命运（测试服）
 PROCESS-NAME,com.cz9song.rougefighter.bilibili,{{ rule }} # 魔灵武士
+PROCESS-NAME,com.danvzhu.hzbht.bilibili,{{ rule }} # 破晓之前（测试服）
 PROCESS-NAME,com.dddwan.summer.eater.bilibili,{{ rule }} # 食之契约
 PROCESS-NAME,com.ddwy.xksq.android.bilibili,{{ rule }} # 星空神曲
 PROCESS-NAME,com.dehan.ljzcly.bilibili,{{ rule }} # 龙迹之城
@@ -474,6 +475,7 @@ PROCESS-NAME,com.moefantasy.clover.bilibili,{{ rule }} # 四叶草剧场
 PROCESS-NAME,com.moefantasy.cove,{{ rule }} # 苍蓝避风港（测试服）
 PROCESS-NAME,com.moonton.silverblood.cn.bilibili,{{ rule }} # 银与绯
 PROCESS-NAME,com.msdld.yzx.bilibili,{{ rule }} # 美食大乱斗
+PROCESS-NAME,com.muqiuxm.fz21k.bilibili,{{ rule }} # 反转21克
 PROCESS-NAME,com.muqiuxm.rescue.bilibili,{{ rule }} # 极速营救
 PROCESS-NAME,com.muzhiyouwan.miniddt.bilibili,{{ rule }} # 斗斗堂
 PROCESS-NAME,com.mwigame.mwiadventure.bilibili,{{ rule }} # 咪哇伊奇幻冒险
@@ -877,6 +879,7 @@ PROCESS-NAME,com.xqxgame.st2.bilibili,{{ rule }} # 灵魂潮汐：蚀月（招�
 PROCESS-NAME,com.xr.wgdzz.bilibili,{{ rule }} # 王国大作战：前线
 PROCESS-NAME,com.xtsdk.jymhd.bilibili,{{ rule }} # 解忧梦幻岛
 PROCESS-NAME,com.xtsdk.kldk.bilibili,{{ rule }} # 淘金历险记：克朗代克
+PROCESS-NAME,com.xxhd.yymxj.bilibili,{{ rule }} # 影业梦想家
 PROCESS-NAME,com.xy.bwjq.bilibili,{{ rule }} # 三国志霸王崛起（测试服）
 PROCESS-NAME,com.xy.chc.bilibili,{{ rule }} # 彩虹橙
 PROCESS-NAME,com.xy.glqxl.bilibili,{{ rule }} # 古龙群侠录
@@ -905,7 +908,7 @@ PROCESS-NAME,com.ylhd.bibots.bilibili,{{ rule }} # 超能机器人
 PROCESS-NAME,com.ylhd.nairi.bilibili,{{ rule }} # 奈里
 PROCESS-NAME,com.ylhd.turnipboy.bilibili,{{ rule }} # 大头菜菜历险记
 PROCESS-NAME,com.ylhd.yxzs.bilibili,{{ rule }} # 英雄之时
-PROCESS-NAME,com.ylhy.td.yuanhuan.bilibili,{{ rule }} # 渊环（测试服）
+PROCESS-NAME,com.ylhy.td.yuanhuan.bilibili,{{ rule }} # 渊环
 PROCESS-NAME,com.ym.wwjd.bilibili,{{ rule }} # 无畏舰队
 PROCESS-NAME,com.ymfy.drsy.bilibili,{{ rule }} # 叠入深渊
 PROCESS-NAME,com.ymly.ymzy.bilibili,{{ rule }} # 圆梦庄园
@@ -985,7 +988,6 @@ PROCESS-NAME,com.zihua.cxzj.bilibili,{{ rule }} # 晨曦战纪
 PROCESS-NAME,com.zlongame.cn.epicseven.bilibili,{{ rule }} # 第七史诗
 PROCESS-NAME,com.zlongame.cn.phoenix.bilibili,{{ rule }} # 龙魂旅人
 PROCESS-NAME,com.zlongame.cn.ro.bilibili,{{ rule }} # 仙境传说：新启航
-PROCESS-NAME,com.zlongame.eversoul.bilibili,{{ rule }} # 空灵诗篇
 PROCESS-NAME,com.zlongame.fzdl.bilibili,{{ rule }} # 风之大陆
 PROCESS-NAME,com.zlongame.mecharashi.bilibili,{{ rule }} # 钢岚
 PROCESS-NAME,com.zlongame.mhmnz.bilibili,{{ rule }} # 梦幻模拟战

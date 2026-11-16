@@ -62,6 +62,7 @@ PROCESS-NAME,cn.rainbow.westore,{{ rule }} # 天虹
 PROCESS-NAME,cn.shuangshuangfei,{{ rule }} # 找对象
 PROCESS-NAME,cn.soulapp.android,{{ rule }} # Soul
 PROCESS-NAME,cn.szjxgs.szjob,{{ rule }} # 工友通
+PROCESS-NAME,cn.wangxiao.app,{{ rule }} # 中大网校
 PROCESS-NAME,cn.wangxiao.cpazhuntiku,{{ rule }} # 注册会计师准题库
 PROCESS-NAME,cn.wangxiao.gwyzhuntiku,{{ rule }} # 公务员准题库
 PROCESS-NAME,cn.xiaochuankeji.tieba,{{ rule }} # 最右
@@ -487,7 +488,6 @@ PROCESS-NAME,com.lvshiguan.app,{{ rule }} # 律师馆法律咨询
 PROCESS-NAME,com.lxkj.dmhw,{{ rule }} # 呆萌价
 PROCESS-NAME,com.m4399.gamecenter,{{ rule }} # 4399游戏盒
 PROCESS-NAME,com.macrovideo.v380,{{ rule }} # V380
-PROCESS-NAME,com.magicpoint.mobile.bank,{{ rule }} # 重庆农商行
 PROCESS-NAME,com.maihan.tredian,{{ rule }} # 淘最热点
 PROCESS-NAME,com.maipu.tourist,{{ rule }} # 小鹿导游
 PROCESS-NAME,com.maka.app,{{ rule }} # MAKA设计

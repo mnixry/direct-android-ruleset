@@ -117,6 +117,7 @@ payload:
   - PROCESS-NAME,com.cyou.xxy.bilibili #西游：笔绘西行
   - PROCESS-NAME,com.cytx.td.bilibili #部落命运（测试服）
   - PROCESS-NAME,com.cz9song.rougefighter.bilibili #魔灵武士
+  - PROCESS-NAME,com.danvzhu.hzbht.bilibili #破晓之前（测试服）
   - PROCESS-NAME,com.dddwan.summer.eater.bilibili #食之契约
   - PROCESS-NAME,com.ddwy.xksq.android.bilibili #星空神曲
   - PROCESS-NAME,com.dehan.ljzcly.bilibili #龙迹之城
@@ -474,6 +475,7 @@ payload:
   - PROCESS-NAME,com.moefantasy.cove #苍蓝避风港（测试服）
   - PROCESS-NAME,com.moonton.silverblood.cn.bilibili #银与绯
   - PROCESS-NAME,com.msdld.yzx.bilibili #美食大乱斗
+  - PROCESS-NAME,com.muqiuxm.fz21k.bilibili #反转21克
   - PROCESS-NAME,com.muqiuxm.rescue.bilibili #极速营救
   - PROCESS-NAME,com.muzhiyouwan.miniddt.bilibili #斗斗堂
   - PROCESS-NAME,com.mwigame.mwiadventure.bilibili #咪哇伊奇幻冒险
@@ -877,6 +879,7 @@ payload:
   - PROCESS-NAME,com.xr.wgdzz.bilibili #王国大作战：前线
   - PROCESS-NAME,com.xtsdk.jymhd.bilibili #解忧梦幻岛
   - PROCESS-NAME,com.xtsdk.kldk.bilibili #淘金历险记：克朗代克
+  - PROCESS-NAME,com.xxhd.yymxj.bilibili #影业梦想家
   - PROCESS-NAME,com.xy.bwjq.bilibili #三国志霸王崛起（测试服）
   - PROCESS-NAME,com.xy.chc.bilibili #彩虹橙
   - PROCESS-NAME,com.xy.glqxl.bilibili #古龙群侠录
@@ -905,7 +908,7 @@ payload:
   - PROCESS-NAME,com.ylhd.nairi.bilibili #奈里
   - PROCESS-NAME,com.ylhd.turnipboy.bilibili #大头菜菜历险记
   - PROCESS-NAME,com.ylhd.yxzs.bilibili #英雄之时
-  - PROCESS-NAME,com.ylhy.td.yuanhuan.bilibili #渊环（测试服）
+  - PROCESS-NAME,com.ylhy.td.yuanhuan.bilibili #渊环
   - PROCESS-NAME,com.ym.wwjd.bilibili #无畏舰队
   - PROCESS-NAME,com.ymfy.drsy.bilibili #叠入深渊
   - PROCESS-NAME,com.ymly.ymzy.bilibili #圆梦庄园
@@ -985,7 +988,6 @@ payload:
   - PROCESS-NAME,com.zlongame.cn.epicseven.bilibili #第七史诗
   - PROCESS-NAME,com.zlongame.cn.phoenix.bilibili #龙魂旅人
   - PROCESS-NAME,com.zlongame.cn.ro.bilibili #仙境传说：新启航
-  - PROCESS-NAME,com.zlongame.eversoul.bilibili #空灵诗篇
   - PROCESS-NAME,com.zlongame.fzdl.bilibili #风之大陆
   - PROCESS-NAME,com.zlongame.mecharashi.bilibili #钢岚
   - PROCESS-NAME,com.zlongame.mhmnz.bilibili #梦幻模拟战
