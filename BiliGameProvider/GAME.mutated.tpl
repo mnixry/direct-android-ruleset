@@ -157,7 +157,6 @@ PROCESS-NAME,com.feelingtouch.zfsniper.cn.bilibili,{{ rule }} # 僵尸前线3D
 PROCESS-NAME,com.feimo.astralparty.bilibili,{{ rule }} # 吉星派对
 PROCESS-NAME,com.feimo.hazeworld.bilibili,{{ rule }} # 苍雾世界
 PROCESS-NAME,com.feiyou.fszx.bilibili,{{ rule }} # 绯石之心
-PROCESS-NAME,com.feiyu.carrot3.bilibili,{{ rule }} # 保卫萝卜3
 PROCESS-NAME,com.fengchi.ldjx.bilibili,{{ rule }} # 雷电：觉醒
 PROCESS-NAME,com.fenglan.space.bilibili,{{ rule }} # 群星征途2117（测试服）
 PROCESS-NAME,com.fengyin.cdqxz.bilibili,{{ rule }} # 辰东群侠传
@@ -270,7 +269,6 @@ PROCESS-NAME,com.hi4fun.ldsg.bilibili,{{ rule }} # 零度曙光
 PROCESS-NAME,com.higame.bfzy.bilibili,{{ rule }} # 百分之一
 PROCESS-NAME,com.higame.cskxj.bilibili,{{ rule }} # 超时空星舰
 PROCESS-NAME,com.higame.mmtf.bilibili,{{ rule }} # 萌萌塔防
-PROCESS-NAME,com.hlcf.bilibili,{{ rule }} # 欢乐冲锋（测试服）
 PROCESS-NAME,com.hlzh.cdhrx.bilibili,{{ rule }} # 幻灵召唤
 PROCESS-NAME,com.hnhy.blrpj.bilibili,{{ rule }} # 不良人：破局
 PROCESS-NAME,com.hnlq.slmydxc.bilibili,{{ rule }} # 史莱姆与地下城
@@ -403,6 +401,7 @@ PROCESS-NAME,com.leniu.dpcqln.bilibili,{{ rule }} # 斗破苍穹
 PROCESS-NAME,com.leniu.jlsy.bilibili,{{ rule }} # 九灵神域
 PROCESS-NAME,com.leniu.lfcs.bilibili,{{ rule }} # 猎风传说
 PROCESS-NAME,com.leniu.lyj.bilibili,{{ rule }} # 灵妖劫
+PROCESS-NAME,com.leniu.shdl.bilibili,{{ rule }} # 神火大陆
 PROCESS-NAME,com.leniu.shjx.bilibili,{{ rule }} # 山海烬墟
 PROCESS-NAME,com.leniu.yslj.bilibili,{{ rule }} # 异兽灵境
 PROCESS-NAME,com.leniu.ysqy.bilibili,{{ rule }} # 云上契约
@@ -696,7 +695,7 @@ PROCESS-NAME,com.szml.fsdmn.bilibili,{{ rule }} # 复苏的魔女
 PROCESS-NAME,com.szml.fzgsj.bilibili,{{ rule }} # 风之国世界
 PROCESS-NAME,com.taiyouxi.tk2.bilibili,{{ rule }} # 极无双2
 PROCESS-NAME,com.tanwan.dldlslkxy.bilibili,{{ rule }} # 斗罗大陆：史莱克学院
-PROCESS-NAME,com.tanwan.dldlzxcsly.bilibili,{{ rule }} # 斗罗大陆：诛邪传说（测试服）
+PROCESS-NAME,com.tanwan.dldlzxcsly.bilibili,{{ rule }} # 斗罗大陆：诛邪传说
 PROCESS-NAME,com.tanwan.gntbtly.bilibili,{{ rule }} # 高能探宝团
 PROCESS-NAME,com.tanwan.lywzly.bilibili,{{ rule }} # 龙渊王座
 PROCESS-NAME,com.tanwan.qjxjyly.bilibili,{{ rule }} # 奇迹：新纪元（测试服）

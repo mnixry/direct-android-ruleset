@@ -157,7 +157,6 @@ payload:
   - PROCESS-NAME,com.feimo.astralparty.bilibili #吉星派对
   - PROCESS-NAME,com.feimo.hazeworld.bilibili #苍雾世界
   - PROCESS-NAME,com.feiyou.fszx.bilibili #绯石之心
-  - PROCESS-NAME,com.feiyu.carrot3.bilibili #保卫萝卜3
   - PROCESS-NAME,com.fengchi.ldjx.bilibili #雷电：觉醒
   - PROCESS-NAME,com.fenglan.space.bilibili #群星征途2117（测试服）
   - PROCESS-NAME,com.fengyin.cdqxz.bilibili #辰东群侠传
@@ -270,7 +269,6 @@ payload:
   - PROCESS-NAME,com.higame.bfzy.bilibili #百分之一
   - PROCESS-NAME,com.higame.cskxj.bilibili #超时空星舰
   - PROCESS-NAME,com.higame.mmtf.bilibili #萌萌塔防
-  - PROCESS-NAME,com.hlcf.bilibili #欢乐冲锋（测试服）
   - PROCESS-NAME,com.hlzh.cdhrx.bilibili #幻灵召唤
   - PROCESS-NAME,com.hnhy.blrpj.bilibili #不良人：破局
   - PROCESS-NAME,com.hnlq.slmydxc.bilibili #史莱姆与地下城
@@ -403,6 +401,7 @@ payload:
   - PROCESS-NAME,com.leniu.jlsy.bilibili #九灵神域
   - PROCESS-NAME,com.leniu.lfcs.bilibili #猎风传说
   - PROCESS-NAME,com.leniu.lyj.bilibili #灵妖劫
+  - PROCESS-NAME,com.leniu.shdl.bilibili #神火大陆
   - PROCESS-NAME,com.leniu.shjx.bilibili #山海烬墟
   - PROCESS-NAME,com.leniu.yslj.bilibili #异兽灵境
   - PROCESS-NAME,com.leniu.ysqy.bilibili #云上契约
@@ -696,7 +695,7 @@ payload:
   - PROCESS-NAME,com.szml.fzgsj.bilibili #风之国世界
   - PROCESS-NAME,com.taiyouxi.tk2.bilibili #极无双2
   - PROCESS-NAME,com.tanwan.dldlslkxy.bilibili #斗罗大陆：史莱克学院
-  - PROCESS-NAME,com.tanwan.dldlzxcsly.bilibili #斗罗大陆：诛邪传说（测试服）
+  - PROCESS-NAME,com.tanwan.dldlzxcsly.bilibili #斗罗大陆：诛邪传说
   - PROCESS-NAME,com.tanwan.gntbtly.bilibili #高能探宝团
   - PROCESS-NAME,com.tanwan.lywzly.bilibili #龙渊王座
   - PROCESS-NAME,com.tanwan.qjxjyly.bilibili #奇迹：新纪元（测试服）
