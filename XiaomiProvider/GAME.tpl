@@ -116,7 +116,7 @@ PROCESS-NAME,com.k7k7.goujihd.mi,{{ rule }} # 多乐够级
 PROCESS-NAME,com.k7k7.shengjihd.mi,{{ rule }} # 多乐升级
 PROCESS-NAME,com.kiloo.subwaysurf,{{ rule }} # 地铁跑酷-光河引路灵魂赴约
 PROCESS-NAME,com.kingdomrush4.mi,{{ rule }} # 王国保卫战4
-PROCESS-NAME,com.knight.union.mi,{{ rule }} # 元气骑士-银藏限时返场
+PROCESS-NAME,com.knight.union.mi,{{ rule }} # 元气骑士-电玩嘉年华开启
 PROCESS-NAME,com.ks.jybh.mi,{{ rule }} # 解压宝盒
 PROCESS-NAME,com.kunpo.myhome.mi,{{ rule }} # 我的小家
 PROCESS-NAME,com.kurogame.haru.mi,{{ rule }} # 战双帕弥什
