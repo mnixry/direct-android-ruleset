@@ -2,7 +2,6 @@
 PROCESS-NAME,ai.fd.evocar,{{ rule }} # 疯狂开箱车
 PROCESS-NAME,AIPanLuan.qtyx,{{ rule }} # AI叛乱
 PROCESS-NAME,air.hjhrpg,{{ rule }} # 贺井号的奇妙冒险
-PROCESS-NAME,app.wakequest.wake_quest,{{ rule }} # 起了么
 PROCESS-NAME,Atana.gamecreator.gc815728825158,{{ rule }} # Atana
 PROCESS-NAME,cc.cxuan.CiORIGIN,{{ rule }} # 璃芯溯源
 PROCESS-NAME,cedong.ifaction.rivercityceo,{{ rule }} # 江城创业记
@@ -24,7 +23,6 @@ PROCESS-NAME,cn.jinxiushanhe.game,{{ rule }} # 锦绣山河大富翁
 PROCESS-NAME,cn.jj.log,{{ rule }} # 曙光英雄
 PROCESS-NAME,cn.lbwdhysj.gf,{{ rule }} # 我的花园世界
 PROCESS-NAME,cn.legendary.wushuang.offline,{{ rule }} # 传奇无双王
-PROCESS-NAME,cn.maoguo.mobile,{{ rule }} # 猫国杀
 PROCESS-NAME,cn.neigongjianghu.game,{{ rule }} # 内功江湖
 PROCESS-NAME,cn.noctella.galgod,{{ rule }} # 想成为Galgame领域大神！！！
 PROCESS-NAME,cn.poemquest.game,{{ rule }} # 清墨诗会
@@ -57,13 +55,11 @@ PROCESS-NAME,com.anzheng.game.ayxdm,{{ rule }} # 爱旅行的猫
 PROCESS-NAME,com.anzheng.game.mczswy,{{ rule }} # 萌宠诊所物语
 PROCESS-NAME,com.anzheng.game.myylg,{{ rule }} # 没有压力馆
 PROCESS-NAME,com.anzheng.game.qysgrl,{{ rule }} # 夜路别乱敲
-PROCESS-NAME,com.anzheng.game.sdllyzdyz,{{ rule }} # 谁动了老爷子的遗嘱
 PROCESS-NAME,com.anzheng.game.sxzll,{{ rule }} # 少侠再练练
 PROCESS-NAME,com.anzheng.game.wdgsjjlj,{{ rule }} # 我打怪升级捡垃圾
 PROCESS-NAME,com.anzheng.game.wktsjh,{{ rule }} # 我靠吞噬进化
 PROCESS-NAME,com.anzheng.game.xxmml,{{ rule }} # 修仙慢慢来
 PROCESS-NAME,com.anzheng.game.xxx,{{ rule }} # 消消侠
-PROCESS-NAME,com.anzheng.game.ygrdwh,{{ rule }} # 一个人的武魂
 PROCESS-NAME,com.anzheng.game.zhylshc,{{ rule }} # 最后一辆拾荒车
 PROCESS-NAME,com.aoyou.jhyjz,{{ rule }} # 江湖英杰传
 PROCESS-NAME,com.app.chinaHero,{{ rule }} # 华夏古战略
@@ -108,6 +104,7 @@ PROCESS-NAME,com.boming.deltaforce.test,{{ rule }} # 搜打撤：我是摸红大
 PROCESS-NAME,com.booboforest.ruky,{{ rule }} # 菜鸡梦想家
 PROCESS-NAME,com.borderhero.record,{{ rule }} # 边境勇者录
 PROCESS-NAME,com.bossppl.balatro.bubbleshooter,{{ rule }} # 龙骸弹道
+PROCESS-NAME,com.brainspark.app,{{ rule }} # 脑力觉醒
 PROCESS-NAME,com.btiswrps.lfgdtxis,{{ rule }} # 听海拾星芒
 PROCESS-NAME,com.building.destruction.simlator.battle,{{ rule }} # 拆迁破坏模拟器
 PROCESS-NAME,com.building.voxel.world,{{ rule }} # 盖瑞模组：体素世界
@@ -138,7 +135,6 @@ PROCESS-NAME,com.chenghuangzhi.game,{{ rule }} # 乘黄志
 PROCESS-NAME,com.chenz.vamsur.gn,{{ rule }} # 九重试炼
 PROCESS-NAME,com.ChingYing,{{ rule }} # 剑影寻光
 PROCESS-NAME,com.chishau.mizpah,{{ rule }} # Mizpah
-PROCESS-NAME,com.chuibao.poopcleaner,{{ rule }} # 便便必须铲
 PROCESS-NAME,com.chunzhen.program,{{ rule }} # 我们纯真的青春
 PROCESS-NAME,com.chuxin.shenyuan,{{ rule }} # 深鸢
 PROCESS-NAME,com.cityafterlight.survival,{{ rule }} # 城中余生
@@ -147,7 +143,6 @@ PROCESS-NAME,com.ckwy.yf,{{ rule }} # 苍空物语
 PROCESS-NAME,com.cmge.xianjianshijie.android,{{ rule }} # 仙剑世界
 PROCESS-NAME,com.cngal.memory_oblivion_cngalgirl,{{ rule }} # 回忆忘却之看板娘
 PROCESS-NAME,com.coco.chukong.llcy,{{ rule }} # 料理次元
-PROCESS-NAME,com.code.yingchaoxingdong,{{ rule }} # 代号·影巢行动
 PROCESS-NAME,com.computervsvirus.mobile.debug,{{ rule }} # 电脑大战病毒
 PROCESS-NAME,com.cottongame.isoland.TapTap,{{ rule }} # 迷失岛
 PROCESS-NAME,com.cottongame.isoland3.taptap,{{ rule }} # 迷失岛3宇宙的尘埃
@@ -164,6 +159,7 @@ PROCESS-NAME,com.cxdx.cz,{{ rule }} # 澄心大学
 PROCESS-NAME,com.cxuu.ktmnq,{{ rule }} # 空投模拟器
 PROCESS-NAME,com.cxyx.dszpjl.yjjx,{{ rule }} # 转世成为异界剑仙
 PROCESS-NAME,com.cxyx.hzwg,{{ rule }} # 汉字王国
+PROCESS-NAME,com.cxyx.ksgl,{{ rule }} # 狂少归来
 PROCESS-NAME,com.cxyx.ndzts,{{ rule }} # 脑洞推理侦探社
 PROCESS-NAME,com.cxyx.tbmnq,{{ rule }} # 荒野徒步模拟器
 PROCESS-NAME,com.cxyx.xjkc,{{ rule }} # 星际矿场
@@ -204,7 +200,6 @@ PROCESS-NAME,com.dodomore.moridibaodazhengli,{{ rule }} # 末日地堡大整理
 PROCESS-NAME,com.dodospeed.wozaifeituzhenglichaoshi,{{ rule }} # 我在废土整理超市
 PROCESS-NAME,com.domeee.program,{{ rule }} # 我在古代修礼记
 PROCESS-NAME,com.Dong.OdeToEighthPigeon,{{ rule }} # 八鸽乐章
-PROCESS-NAME,com.donge.neoncross,{{ rule }} # 霓虹十字
 PROCESS-NAME,com.douxu.pindou,{{ rule }} # 小猫拼豆
 PROCESS-NAME,com.doveflowers.fairycomedy1,{{ rule }} # 精灵戏剧：复读机不会获得幸福
 PROCESS-NAME,com.dpcq.ddzl.dpcqddzltapggsb37zgx2.ddzltap,{{ rule }} # 斗破苍穹：斗帝之路
@@ -225,7 +220,6 @@ PROCESS-NAME,com.elderwastes.game,{{ rule }} # 天行健
 PROCESS-NAME,com.ElectronicIngenuity.Emergence,{{ rule }} # 一发万象
 PROCESS-NAME,com.emay.gcxfd.qudao,{{ rule }} # 割草小分队
 PROCESS-NAME,com.emay.gjdz.qudao,{{ rule }} # 弓箭大战
-PROCESS-NAME,com.emberoasis.game,{{ rule }} # 余烬绿洲
 PROCESS-NAME,com.embersiege.towerdefense,{{ rule }} # 余烬围城·尸潮
 PROCESS-NAME,com.empromgame.bioweavercn,{{ rule }} # 生物原型2
 PROCESS-NAME,com.epieplay.bcportal,{{ rule }} # 桥梁工程师：传送门
@@ -266,7 +260,6 @@ PROCESS-NAME,com.fortunekid.harmonica,{{ rule }} # 花：小口琴
 PROCESS-NAME,com.FourFire.InfiniteSoul,{{ rule }} # 无尽之炼
 PROCESS-NAME,com.FourthFront.Magibrick,{{ rule }} # 魔幻砖域
 PROCESS-NAME,com.frank.beforetendays.protected,{{ rule }} # 寒冬前十天
-PROCESS-NAME,com.fubiaoxin.geofighter,{{ rule }} # 几何战机
 PROCESS-NAME,com.funplus.dreamdetective,{{ rule }} # 梦境侦探
 PROCESS-NAME,com.furry.shechumusic,{{ rule }} # 节奏比兜
 PROCESS-NAME,com.fuzavdnf.jfppnmnu,{{ rule }} # 逐梦漫行册
@@ -283,8 +276,6 @@ PROCESS-NAME,com.gamecrane.wdfy,{{ rule }} # 武道风云
 PROCESS-NAME,com.gamecreator.gc816993572743,{{ rule }} # 众星入海
 PROCESS-NAME,com.gameduchy.jdzdZero,{{ rule }} # 明天
 PROCESS-NAME,com.GameJam.app,{{ rule }} # GameJam 水群模拟器
-PROCESS-NAME,com.GameLily,{{ rule }} # 修了个仙
-PROCESS-NAME,com.gameragame.Rewinder,{{ rule }} # 山海旅人
 PROCESS-NAME,com.GamerGame.LostSubway,{{ rule }} # 迷失地铁
 PROCESS-NAME,com.gamersky_games.stray_path,{{ rule }} # 迷失之径
 PROCESS-NAME,com.ganfanyu.app,{{ rule }} # 小鲸鱼：会记住你的桌宠
@@ -308,7 +299,6 @@ PROCESS-NAME,com.goodgames.dilao,{{ rule }} # 地下小英雄
 PROCESS-NAME,com.goodgames.ppzxs,{{ rule }} # 砰砰装修师
 PROCESS-NAME,com.goodgames.szgc,{{ rule }} # 数字工厂
 PROCESS-NAME,com.gooseeggstudio.simple,{{ rule }} # Simple
-PROCESS-NAME,com.grade1.quest,{{ rule }} # 一年级闯关乐园
 PROCESS-NAME,com.GrimArc.swordcombat.halfsword,{{ rule }} # 半剑
 PROCESS-NAME,com.gua.qinglanswordrush,{{ rule }} # 青岚剑境
 PROCESS-NAME,com.guangjun.thunderwing,{{ rule }} # 雷翼防线
@@ -342,7 +332,6 @@ PROCESS-NAME,com.hawk504904.magicdefense,{{ rule }} # 魔法保卫战
 PROCESS-NAME,com.hbsj.qxddz,{{ rule }} # 前行到终点
 PROCESS-NAME,com.hcr3.qcjs.game,{{ rule }} # 火柴人联盟3
 PROCESS-NAME,com.hcwwxp.yarcuq,{{ rule }} # 星澜小册
-PROCESS-NAME,com.hczy.yg.mini,{{ rule }} # 放开那妖怪
 PROCESS-NAME,com.hd.xxdkhb.and,{{ rule }} # 弹壳特攻队
 PROCESS-NAME,com.hermes.h1game,{{ rule }} # 航海王热血航线
 PROCESS-NAME,com.hermes.mk,{{ rule }} # 初音未来：缤纷舞台
@@ -379,13 +368,13 @@ PROCESS-NAME,com.huifeng.emberdrift,{{ rule }} # 余烬星海
 PROCESS-NAME,com.huihuihui.xunsheng,{{ rule }} # 循声
 PROCESS-NAME,com.huiqi.blcq,{{ rule }} # 部落传奇
 PROCESS-NAME,com.hujia.changbanpo,{{ rule }} # 护驾长坂坡
-PROCESS-NAME,com.huli.baguayihun,{{ rule }} # 八卦弈魂
 PROCESS-NAME,com.hulian.lzm,{{ rule }} # 魔塔与英雄
 PROCESS-NAME,com.hundrednights.survival,{{ rule }} # 饥荒惊魂100夜
 PROCESS-NAME,com.hundunjidian.hxjx,{{ rule }} # 幻想九霄
 PROCESS-NAME,com.hunter.PetMaster,{{ rule }} # 宠物大师
 PROCESS-NAME,com.husapq.cpfyib,{{ rule }} # 碎片轻治愈
 PROCESS-NAME,com.hutanna.falaomigong,{{ rule }} # 法老迷宫大逃脱
+PROCESS-NAME,com.hxgzs.hjzs,{{ rule }} # 幻境转生
 PROCESS-NAME,com.hxymre.qhspxn,{{ rule }} # 云野手札
 PROCESS-NAME,com.hygame.hmrj.official,{{ rule }} # 绘梦日记
 PROCESS-NAME,com.hypergryph.arknights,{{ rule }} # 明日方舟
@@ -406,6 +395,7 @@ PROCESS-NAME,com.izhaohe.heroes_taptap,{{ rule }} # 召唤与合成
 PROCESS-NAME,com.izhaohe.zhaohe2,{{ rule }} # 召唤与合成2
 PROCESS-NAME,com.JAGames.TalesoftheClan,{{ rule }} # 我本布衣：世家录
 PROCESS-NAME,com.jcgame.jianchao,{{ rule }} # 舰潮
+PROCESS-NAME,com.jcgame.siqugongfang,{{ rule }} # 四驱工坊
 PROCESS-NAME,com.jcsoft.wlxkz,{{ rule }} # 武林侠客传
 PROCESS-NAME,com.jghkut.yttngl,{{ rule }} # 欢喜碎碎念
 PROCESS-NAME,com.jhbad.tap,{{ rule }} # 江湖不挨刀
@@ -416,11 +406,12 @@ PROCESS-NAME,com.jianghu.idle,{{ rule }} # 山河江湖
 PROCESS-NAME,com.jianghuxing.wuda,{{ rule }} # 江湖行
 PROCESS-NAME,com.JianZhu.WordLeague2,{{ rule }} # 单词传说：新纪元
 PROCESS-NAME,com.jiezhao.copyrpg,{{ rule }} # 你的招式我能复制
-PROCESS-NAME,com.jiguo.animalsudoku,{{ rule }} # 动物磁力棋
 PROCESS-NAME,com.jingzhonghua.daluxueyuan,{{ rule }} # 大陆第一学院
 PROCESS-NAME,com.jingzhonghua.lingyongxianzu,{{ rule }} # 灵涌：仙族志
 PROCESS-NAME,com.jinke.rlwxsc.tapcps,{{ rule }} # 热力无限赛车
+PROCESS-NAME,com.jinsaina.auditionsgo.gw,{{ rule }} # 鹦鹉团
 PROCESS-NAME,com.jiuyao.shenchao,{{ rule }} # 九曜神朝
+PROCESS-NAME,com.jiuyiwu.lhqyqweaz,{{ rule }} # 灵魂契约
 PROCESS-NAME,com.jiyingsoft.yxqcz.ad,{{ rule }} # 英雄请出战
 PROCESS-NAME,com.jjd.progarm,{{ rule }} # 海上有座极极岛
 PROCESS-NAME,com.jlcq.shengmiao,{{ rule }} # 君临传奇
@@ -439,6 +430,7 @@ PROCESS-NAME,com.junyydai.snakegame,{{ rule }} # 分解蛇
 PROCESS-NAME,com.juwang.moba,{{ rule }} # 人人大作战
 PROCESS-NAME,com.KaCatStudio.MinimalistBoxes,{{ rule }} # 极简箱
 PROCESS-NAME,com.kako_laboratory.game,{{ rule }} # KAKO LABORATORY
+PROCESS-NAME,com.kanata.sweepmiaos,{{ rule }} # 我的猫雷会转弯
 PROCESS-NAME,com.kangparty.islandparty,{{ rule }} # 梦幻派对
 PROCESS-NAME,com.kdxjyfkhmgw.cn,{{ rule }} # 跟我比脑力
 PROCESS-NAME,com.keep.td,{{ rule }} # 森林守望
@@ -459,6 +451,8 @@ PROCESS-NAME,com.lastshop.survival,{{ rule }} # 末日小卖部
 PROCESS-NAME,com.lasttrain.taptap,{{ rule }} # 终末列车
 PROCESS-NAME,com.laughingbang.abyss,{{ rule }} # 霓虹城后的废土末日
 PROCESS-NAME,com.lc.cjmt,{{ rule }} # 刺激摩托
+PROCESS-NAME,com.lcfjjoy.jhqs.huawei,{{ rule }} # 几何枪神
+PROCESS-NAME,com.lcfjjoy.nckwd.huawei,{{ rule }} # 挪车看我的
 PROCESS-NAME,com.leakartgames.discreteheart,{{ rule }} # 离散之心
 PROCESS-NAME,com.ledon.mota100,{{ rule }} # 魔塔100层
 PROCESS-NAME,com.ledudu.dancingcats,{{ rule }} # 喵喵音乐猫
@@ -486,11 +480,11 @@ PROCESS-NAME,com.lilithgame.abi,{{ rule }} # 艾彼
 PROCESS-NAME,com.lilithgame.isoland2.cn,{{ rule }} # 迷失岛2时间的灰烬
 PROCESS-NAME,com.lilithgame.pgame.android.cn,{{ rule }} # 塔塔冒险队
 PROCESS-NAME,com.lingchen3.school3am,{{ rule }} # 凌晨三点的校园
+PROCESS-NAME,com.lingfan.zhubo,{{ rule }} # 我在废土当主播
 PROCESS-NAME,com.lingjie.zahuopu,{{ rule }} # 灵界杂货铺
 PROCESS-NAME,com.lingxigames.hysg.cn,{{ rule }} # 荒原曙光
 PROCESS-NAME,com.lingxigames.lqsn.cn.tap,{{ rule }} # 篮球少女：飞跃巅峰
 PROCESS-NAME,com.lingxigames.rocs.tap,{{ rule }} # 仙境传说：重生
-PROCESS-NAME,com.linkpop.jelly,{{ rule }} # 果冻连连消
 PROCESS-NAME,com.linlight.match13,{{ rule }} # Match 13 Solitaire
 PROCESS-NAME,com.LiquidMeowGames.MessyUp,{{ rule }} # 萌宠拆拆乐
 PROCESS-NAME,com.litetang.instantgungeon,{{ rule }} # 即刻地牢
@@ -509,7 +503,6 @@ PROCESS-NAME,com.loyalsoft.ylsj,{{ rule }} # 言灵世界
 PROCESS-NAME,com.luki.jellyorbit,{{ rule }} # 果冻星轨
 PROCESS-NAME,com.luomuyuge.luomuyuge,{{ rule }} # 落暮余歌Song of Dusk
 PROCESS-NAME,com.luyunan.wendao,{{ rule }} # 登仙十二阶
-PROCESS-NAME,com.luyunan.yingjian,{{ rule }} # 影箭
 PROCESS-NAME,com.lwsjwan.qkyx,{{ rule }} # 灵武世界
 PROCESS-NAME,com.lyjz.chqsy.yw,{{ rule }} # 传奇岁月
 PROCESS-NAME,com.lyl.zombiesurvival,{{ rule }} # 丧尸末日：生存
@@ -570,7 +563,6 @@ PROCESS-NAME,com.muyegame.blfx,{{ rule }} # 爆裂防线
 PROCESS-NAME,com.my.zgldmg,{{ rule }} # 诸葛亮的迷宫
 PROCESS-NAME,com.mybg.Byron,{{ rule }} # 黑白悟道
 PROCESS-NAME,com.myparents.android,{{ rule }} # 我的家长
-PROCESS-NAME,com.Mysm.Zjfccar,{{ rule }} # 终极飞车
 PROCESS-NAME,com.Mysm.ZZZjfccar,{{ rule }} # 巅峰终极飞车
 PROCESS-NAME,com.mysteryphone.app,{{ rule }} # 谜案追踪
 PROCESS-NAME,com.MYYZCompany.ZQQDZZ,{{ rule }} # 走亲戚大作战
@@ -637,6 +629,7 @@ PROCESS-NAME,com.pixelarchers.game,{{ rule }} # 像素弓箭团
 PROCESS-NAME,com.pixeldelivery.empire,{{ rule }} # 像素外卖帝国
 PROCESS-NAME,com.plairj.rhhafb,{{ rule }} # 柔甜治愈
 PROCESS-NAME,com.plausibleconcept.badnorth.gamet,{{ rule }} # 迷雾北境
+PROCESS-NAME,com.playdigious.chantsofsennaar.gamet,{{ rule }} # 高塔旅人
 PROCESS-NAME,com.PlayedM_Game.CAD,{{ rule }} # I Wanna Save My Dog
 PROCESS-NAME,com.playwithfurcifer.bpbcn.android,{{ rule }} # 背包乱斗
 PROCESS-NAME,COM.PMTWG,{{ rule }} # 破迷通万关
@@ -644,7 +637,6 @@ PROCESS-NAME,com.pofengba.shijie,{{ rule }} # 破封吧！师姐
 PROCESS-NAME,com.pointtowerdefense,{{ rule }} # 追分塔防
 PROCESS-NAME,com.poptiger.catarmy,{{ rule }} # 喵星军团
 PROCESS-NAME,com.potatoflower.mycatisamaid,{{ rule }} # 我家猫猫是女仆！
-PROCESS-NAME,com.PotatoNotebook.PotatoNewLife,{{ rule }} # 土豆子的港硕生活
 PROCESS-NAME,com.prismatlas.game,{{ rule }} # 棱镜星图
 PROCESS-NAME,com.prpr.musedash.TapTap,{{ rule }} # 喵斯快跑
 PROCESS-NAME,com.pt.at,{{ rule }} # 凹凸世界：彩虹收藏家
@@ -671,6 +663,7 @@ PROCESS-NAME,com.ran.candy,{{ rule }} # 糖果消一消
 PROCESS-NAME,com.ran.program,{{ rule }} # 饲养染的30 DAYS
 PROCESS-NAME,com.rastar.dpcqyhjs,{{ rule }} # 斗破苍穹：异火降世
 PROCESS-NAME,com.ReloadingDomain.Darkrune,{{ rule }} # 本关考验你听声辩位功夫
+PROCESS-NAME,com.returncore.prototype,{{ rule }} # 归航核心
 PROCESS-NAME,com.rimblade.bambooduel,{{ rule }} # 竹雨刀决
 PROCESS-NAME,com.rocketpunchgames.hmm,{{ rule }} # 硬核机甲启示
 PROCESS-NAME,com.roguecarrom.mobile,{{ rule }} # 看招！异端台球
@@ -690,6 +683,7 @@ PROCESS-NAME,com.sanguo110.star.base.game134,{{ rule }} # 虫潮闸门
 PROCESS-NAME,com.sanguo110.star.base.game202,{{ rule }} # 乾坤袋
 PROCESS-NAME,com.sanguo110.star.game46.t,{{ rule }} # 超工资帽篮球队
 PROCESS-NAME,com.sanguomingjianglu.game,{{ rule }} # 三国·冥将录
+PROCESS-NAME,com.sanski.kiwi,{{ rule }} # 小鸟军团
 PROCESS-NAME,com.scppp.cn,{{ rule }} # 赛车碰碰碰
 PROCESS-NAME,com.screambox.sws,{{ rule }} # 超逼真的攻城模拟器
 PROCESS-NAME,com.sczb.JJGX,{{ rule }} # 惊惧鬼校
@@ -699,17 +693,18 @@ PROCESS-NAME,com.setagames.survivor.tt,{{ rule }} # 幸存者危城
 PROCESS-NAME,com.sgzm.shhzc.game,{{ rule }} # 守护花之窗
 PROCESS-NAME,com.shandagames.shelter,{{ rule }} # 辐射：避难所Online
 PROCESS-NAME,com.shanhaiyuchenglu.game.taptap,{{ rule }} # 山海御城录
+PROCESS-NAME,com.shanheyi.game,{{ rule }} # 山河弈
 PROCESS-NAME,com.shanye.xiaoyuan,{{ rule }} # 山野小院
 PROCESS-NAME,com.shaoguangxubai.liter,{{ rule }} # 浅酌词章
 PROCESS-NAME,com.shbq.gyzw.ppyx,{{ rule }} # 光阴之外
 PROCESS-NAME,com.shengleigame.msxcz,{{ rule }} # 末世幸存者
 PROCESS-NAME,com.shengleigame.xfjdzd,{{ rule }} # 小飞机大战斗
-PROCESS-NAME,com.shengleigame.zygxmb,{{ rule }} # 挣一个小目标
 PROCESS-NAME,com.shengmiao.cqzy.ywwl,{{ rule }} # 传奇之业
 PROCESS-NAME,com.shengtian.FJH,{{ rule }} # 赴江湖
 PROCESS-NAME,com.shenkuangwuyu.game,{{ rule }} # 深矿物语
 PROCESS-NAME,com.shenren.daluandou.trial,{{ rule }} # 神人大乱斗杀
 PROCESS-NAME,com.shgygame.wawuworld,{{ rule }} # 哇呜世界
+PROCESS-NAME,com.shibeitech.changkong1943,{{ rule }} # 长空1943
 PROCESS-NAME,com.shikonglieren.juexingaz9,{{ rule }} # 时空猎人·觉醒
 PROCESS-NAME,com.shiling.psyoverload,{{ rule }} # 灵能过载
 PROCESS-NAME,com.shixu.canying,{{ rule }} # 时序残影
@@ -732,14 +727,12 @@ PROCESS-NAME,com.sofunny.Sausage,{{ rule }} # 香肠派对
 PROCESS-NAME,com.songci.songciDazuozhan,{{ rule }} # 宋词大作战
 PROCESS-NAME,com.soulgame.minishootcn.android,{{ rule }} # 小飞船大冒险
 PROCESS-NAME,com.soulhd.zaocandian.anzhuo,{{ rule }} # 爷爷的早餐店
-PROCESS-NAME,com.souxian.guixumijing,{{ rule }} # 搜仙：归墟秘境
 PROCESS-NAME,com.spotlightor.candleman,{{ rule }} # 蜡烛人
 PROCESS-NAME,com.spotlightor.exhaustedmantaptap,{{ rule }} # 累趴侠
 PROCESS-NAME,com.sq.zpyb.zpt,{{ rule }} # 再拼一把
 PROCESS-NAME,com.sqfz.tt,{{ rule }} # 神泣：纷争
 PROCESS-NAME,com.sqw.mhzhz.mhzhz_tap,{{ rule }} # 梦回甄嬛传
 PROCESS-NAME,com.sqw.wxmj.wxmj_t3p,{{ rule }} # 无限梦境
-PROCESS-NAME,com.sqw.zx.taptap,{{ rule }} # 赘婿
 PROCESS-NAME,com.ssgame.wujin,{{ rule }} # 无尽纷争
 PROCESS-NAME,com.ssjj.shx.gf,{{ rule }} # 侍魂 晓
 PROCESS-NAME,com.starcave.sanctuaryundead,{{ rule }} # 圣殿亡灵·涌现
@@ -756,6 +749,7 @@ PROCESS-NAME,com.stt.yscs.tap,{{ rule }} # 弈世苍生
 PROCESS-NAME,com.sudokubuddy.mobile,{{ rule }} # 莎头趣味数独
 PROCESS-NAME,com.sugarflowerstudios.catchfruits,{{ rule }} # Catch Fruits!
 PROCESS-NAME,com.sunkensplash.aquarium,{{ rule }} # 下海创业物语
+PROCESS-NAME,com.suparnin.historymeow,{{ rule }} # 历史喵战记
 PROCESS-NAME,com.suqing.aguardwalksintoatavern,{{ rule }} # 一名卫兵走进了一间酒馆
 PROCESS-NAME,com.surpriseman.aifriends,{{ rule }} # AIFriends
 PROCESS-NAME,com.surprisingstudio.fakehero,{{ rule }} # 冒牌英雄
@@ -781,6 +775,7 @@ PROCESS-NAME,com.tapcheer.hotslidecn,{{ rule }} # 绝尘漂移
 PROCESS-NAME,com.tapsdk.cat.csbl,{{ rule }} # 喵星收容计划
 PROCESS-NAME,com.tapsdk.catcoffee.csbl,{{ rule }} # 喵咪咖啡馆
 PROCESS-NAME,com.taptapdemo.wendao,{{ rule }} # 求药仙途
+PROCESS-NAME,com.tbaosppds.matchmaster,{{ rule }} # 匹配大师
 PROCESS-NAME,com.tcjackclay.adventurersguild,{{ rule }} # 冒险公会
 PROCESS-NAME,com.tdbshu.lingwenxiushi,{{ rule }} # 一粒尘埃的修行
 PROCESS-NAME,com.tdyz.xf.taptap,{{ rule }} # 提灯勇者
@@ -818,6 +813,7 @@ PROCESS-NAME,com.tortoisehare.semmanngame,{{ rule }} # 龟兔赛跑游戏
 PROCESS-NAME,com.tptp.xingfutianpinwu.xy.tp,{{ rule }} # 幸福甜品屋
 PROCESS-NAME,com.tpystuio.pj45,{{ rule }} # 重制十七岁
 PROCESS-NAME,com.TravellersOnHazard.YaoCases,{{ rule }} # 妖案
+PROCESS-NAME,com.tszzl.xlm,{{ rule }} # 天神赵子龙
 PROCESS-NAME,com.tthd.stick,{{ rule }} # 奋战火柴人：影子武士
 PROCESS-NAME,com.tuanzhan.bunengshu,{{ rule }} # 团战不能输
 PROCESS-NAME,com.tucyan.deepsurge,{{ rule }} # 深潮
@@ -857,6 +853,7 @@ PROCESS-NAME,com.vpfimp.abmjhn,{{ rule }} # 星野漫录
 PROCESS-NAME,com.w2a.aps2,{{ rule }} # 像素沙盒
 PROCESS-NAME,com.wanda.sf3.wd,{{ rule }} # 暗影格斗3
 PROCESS-NAME,com.wanfashoushan.game.debug,{{ rule }} # 万法守山门
+PROCESS-NAME,com.wanglingfashi.summon,{{ rule }} # 亡灵法师之无限召唤
 PROCESS-NAME,com.wanshi.game,{{ rule }} # 万世轮回
 PROCESS-NAME,com.wanshijianzhong.app,{{ rule }} # 万世剑冢
 PROCESS-NAME,com.wanxiang.qitu,{{ rule }} # 万象歧途
@@ -913,9 +910,9 @@ PROCESS-NAME,com.xfxgame.wssyy.mrscfz,{{ rule }} # 末日生存法则
 PROCESS-NAME,com.xg.sldzz,{{ rule }} # 闪亮大作战
 PROCESS-NAME,com.xhy.mobile.sgjyqj.tapa,{{ rule }} # 三国：箭雨千军
 PROCESS-NAME,com.xiandi.qyzs.android.offical,{{ rule }} # 卿云之上
+PROCESS-NAME,com.xianstudio.jianghumilu,{{ rule }} # 江湖秘录
 PROCESS-NAME,com.xianxia.wenqing,{{ rule }} # 仙侠问情
 PROCESS-NAME,com.Xiaocai.ChaseCrashCar,{{ rule }} # 追撞飞车
-PROCESS-NAME,com.xiaochu.towerescape,{{ rule }} # 消除这座塔
 PROCESS-NAME,com.xiaofengasyjzcychaowuheji.cysz,{{ rule }} # 晓峰朝雾合集
 PROCESS-NAME,com.xiaomiao.xianghuo,{{ rule }} # 小庙香火
 PROCESS-NAME,com.XiaoWuxian.AnimalFriend,{{ rule }} # 动物密友
@@ -923,7 +920,7 @@ PROCESS-NAME,com.xiaoyinya.TauLink,{{ rule }} # 时羁之律TauLink
 PROCESS-NAME,com.ximumu.loophero,{{ rule }} # 循环勇士
 PROCESS-NAME,com.xinchengstudio.polanche,{{ rule }} # 落魄车神再就业
 PROCESS-NAME,com.xingqikashu.mochunqiu,{{ rule }} # 谋春秋
-PROCESS-NAME,com.xingyao.wxyw,{{ rule }} # 万象移物
+PROCESS-NAME,com.xingyao.xygj,{{ rule }} # 旭月管家
 PROCESS-NAME,com.Xingyi.ImmortalMayor,{{ rule }} # 蓬莱镇
 PROCESS-NAME,com.xinhuogame.littlenightmares,{{ rule }} # 小小梦魇
 PROCESS-NAME,com.xinshijie.app3d,{{ rule }} # 心世界
@@ -936,7 +933,6 @@ PROCESS-NAME,com.xiyoujue.zijue,{{ rule }} # 西游·字决
 PROCESS-NAME,com.xiyouzhi.wuji.qk,{{ rule }} # 西游志：山海战纪
 PROCESS-NAME,com.xjhcw.tapcwxjh,{{ rule }} # 唱舞星计划
 PROCESS-NAME,com.xjzs.kywl,{{ rule }} # 星界战士
-PROCESS-NAME,com.XL.xnorthsey1,{{ rule }} # 节奏碰撞
 PROCESS-NAME,com.xlgames.antpuzzle,{{ rule }} # 蚂蚁开搬啦
 PROCESS-NAME,com.xlgames.roomsort2d,{{ rule }} # 收纳小日子
 PROCESS-NAME,com.xlj.kapigame,{{ rule }} # 炫龙记
@@ -1017,7 +1013,7 @@ PROCESS-NAME,com.yxg.fy.guanwang,{{ rule }} # 烽烟破晓
 PROCESS-NAME,com.yy.mzlqjmzd,{{ rule }} # 美职篮奇迹梦之队
 PROCESS-NAME,com.yycx.pawartillery,{{ rule }} # 爪爪炮团
 PROCESS-NAME,com.yzcc.zc,{{ rule }} # 勇者传承
-PROCESS-NAME,com.yzsd.game,{{ rule }} # 扬州十日
+PROCESS-NAME,com.yzsd.game,{{ rule }} # 扬州十日模拟器
 PROCESS-NAME,com.zby.lunhui,{{ rule }} # 轮回修仙模拟器
 PROCESS-NAME,com.zenfarm.android,{{ rule }} # 佛系种地
 PROCESS-NAME,com.zeptolab.cats.china.android,{{ rule }} # 喵星大作战
@@ -1057,6 +1053,7 @@ PROCESS-NAME,com.zyl.hdsg,{{ rule }} # 海岛时光-种田挖矿
 PROCESS-NAME,com.zz.mm,{{ rule }} # 弈剑行
 PROCESS-NAME,com.zzqy.wxxx,{{ rule }} # 万象修仙
 PROCESS-NAME,com.zzu.shenhaihuixiang,{{ rule }} # 深海回响 · 枪火柔情
+PROCESS-NAME,dev.provisional.tuntu.monster,{{ rule }} # 吞吐小怪物
 PROCESS-NAME,dev.tianji.jianghu,{{ rule }} # 天机江湖
 PROCESS-NAME,fans.chocola.foxshooter,{{ rule }} # Fox Shooter
 PROCESS-NAME,fs.kongzhong.online,{{ rule }} # 栾青商神系统
@@ -1071,7 +1068,6 @@ PROCESS-NAME,game.taptap.delta.rpg_lost_zone,{{ rule }} # 失落秘境（TapTap 
 PROCESS-NAME,game.taptap.kongming.lmxxc,{{ rule }} # 雷鸣修仙传（TapTap 测试版）
 PROCESS-NAME,game.taptap.land,{{ rule }} # 圈地大作战
 PROCESS-NAME,game.taptap.maka.lastsevendays,{{ rule }} # 末日前七日
-PROCESS-NAME,game.taptap.MoonEonGames.HRSimulator,{{ rule }} # HR模拟器（TapTap 测试版）
 PROCESS-NAME,game.taptap.pfx,{{ rule }} # Project FX（TapTap测试版）
 PROCESS-NAME,game.taptap.redyi.wuxia,{{ rule }} # 江湖挂机事（TapTap测试版）
 PROCESS-NAME,game.taptap.xieyingengyouxi,{{ rule }} # 谐音梗游戏
@@ -1080,7 +1076,7 @@ PROCESS-NAME,game.taptap.zzzProject.Notanote,{{ rule }} # Notanote（TapTap测�
 PROCESS-NAME,gklutz.Game_MiniRace.panda619,{{ rule }} # 国宝竞速
 PROCESS-NAME,io.cordova.pojia,{{ rule }} # 破枷
 PROCESS-NAME,io.github.wisperbeep.foldlight,{{ rule }} # 光返之境
-PROCESS-NAME,io.glasslight.puzzle,{{ rule }} # 彩窗 Glasslight
+PROCESS-NAME,io.github.ximutuanzi.colorchain,{{ rule }} # 一路拆到底
 PROCESS-NAME,kr.yonsei60.offline,{{ rule }} # 韩国语60天速通
 PROCESS-NAME,kuangkuang.game.dingliu,{{ rule }} # 倪帝蔷来了
 PROCESS-NAME,MonsterCraft.Factory.com,{{ rule }} # 怪兽工厂

@@ -92,6 +92,7 @@ PROCESS-NAME,com.chx.shhj.bilibili,{{ rule }} # 山海幻境
 PROCESS-NAME,com.chyo.dyshz.bilibili,{{ rule }} # 大洋守护者
 PROCESS-NAME,com.cipaishe.wuhua.bilibili,{{ rule }} # 物华弥新
 PROCESS-NAME,com.clgame.qmyxatm.bilibili,{{ rule }} # 全民奥特曼之银河英雄
+PROCESS-NAME,com.cm.hksjn.bilibili,{{ rule }} # 花开时见你（测试服）
 PROCESS-NAME,com.cm.xttc.bilibili,{{ rule }} # 星途天城
 PROCESS-NAME,com.cmge.ccz.bilibili,{{ rule }} # 新三国志曹操传
 PROCESS-NAME,com.cmge.crisisfire.bilibili,{{ rule }} # 全民枪战2
@@ -337,7 +338,7 @@ PROCESS-NAME,com.jingxiu.pqsn,{{ rule }} # 排球少年：新的征程
 PROCESS-NAME,com.jingxiu.xjdzm,{{ rule }} # 仙界大掌门
 PROCESS-NAME,com.jingxiu.yanwu,{{ rule }} # 偃武
 PROCESS-NAME,com.jinke.ltxfd.bilibili,{{ rule }} # 雷霆小分队
-PROCESS-NAME,com.jinsaina.auditionsgo.bilibili,{{ rule }} # 鹦鹉团（测试服）
+PROCESS-NAME,com.jinsaina.auditionsgo.bilibili,{{ rule }} # 鹦鹉团
 PROCESS-NAME,com.jinyou.hldj.bilibili,{{ rule }} # 欢乐对决
 PROCESS-NAME,com.jiuhu.myty.bilibili,{{ rule }} # 明月天涯
 PROCESS-NAME,com.jiuyu.zljjt.bilibili,{{ rule }} # 侏罗纪军团
@@ -447,7 +448,6 @@ PROCESS-NAME,com.martian.tmst.bilibili,{{ rule }} # 同盟神探
 PROCESS-NAME,com.mc.jzzd.bilibili,{{ rule }} # 决战之地
 PROCESS-NAME,com.mechanist.dream2.aos.cn.bilibili,{{ rule }} # 盗梦英雄2：幻野
 PROCESS-NAME,com.megagame.crosscore.bilibili,{{ rule }} # 交错战线
-PROCESS-NAME,com.mengqu.jiuzhoubahuanglu.bilibili,{{ rule }} # 九州八荒录
 PROCESS-NAME,com.metek.ultraman.bilibili,{{ rule }} # 奥特曼系列OL
 PROCESS-NAME,com.mfzl.ylhy.bilibili,{{ rule }} # 魔法之路
 PROCESS-NAME,com.mfzr.starkey.bilibili,{{ rule }} # 心之钥
@@ -498,6 +498,7 @@ PROCESS-NAME,com.netease.idol2.bilibili,{{ rule }} # 绝对演绎（账号绑定
 PROCESS-NAME,com.netease.l22,{{ rule }} # 永劫无间
 PROCESS-NAME,com.netease.l28,{{ rule }} # 星绘友晴天（测试服）
 PROCESS-NAME,com.netease.ldxy,{{ rule }} # 乱斗西游2
+PROCESS-NAME,com.netease.lglr,{{ rule }} # 星际猎人
 PROCESS-NAME,com.netease.lsdmx,{{ rule }} # 灵兽大冒险
 PROCESS-NAME,com.netease.ma167,{{ rule }} # 歧路旅人：大陆的霸者
 PROCESS-NAME,com.netease.ma167.bilibili,{{ rule }} # 歧路旅人：大陆的霸者（账号绑定工具）
@@ -532,7 +533,6 @@ PROCESS-NAME,com.netease.wecc.bilibili,{{ rule }} # 实况：王者集结
 PROCESS-NAME,com.netease.wotb,{{ rule }} # 坦克世界闪击战
 PROCESS-NAME,com.netease.wotb.bili,{{ rule }} # 坦克世界闪击战（账号绑定工具）
 PROCESS-NAME,com.netease.wowsb,{{ rule }} # 战舰世界闪击战
-PROCESS-NAME,com.netease.wxzc.bilibili,{{ rule }} # 重装上阵
 PROCESS-NAME,com.netease.wyclx,{{ rule }} # 一梦江湖
 PROCESS-NAME,com.netease.yhtj.bilibili,{{ rule }} # 萤火突击
 PROCESS-NAME,com.netease.yqyn.bilibili,{{ rule }} # 一起优诺
@@ -550,6 +550,7 @@ PROCESS-NAME,com.Onut.Snow.bilibili,{{ rule }} # 异色边缘
 PROCESS-NAME,com.orange.sndwz.bilibili,{{ rule }} # 少女的伪证（测试服）
 PROCESS-NAME,com.pachira.bilibili,{{ rule }} # 东离剑游纪
 PROCESS-NAME,com.palmpi.matrix.bilibili,{{ rule }} # 盲盒派对
+PROCESS-NAME,com.palmpi.neonlife.bilibili,{{ rule }} # 霓虹人生（测试服）
 PROCESS-NAME,com.pangu.ciyuanzj.bilibili,{{ rule }} # 次元战纪
 PROCESS-NAME,com.papegames.evol.bili,{{ rule }} # 恋与制作人
 PROCESS-NAME,com.papegames.infinitynikki.bilibili,{{ rule }} # 无限暖暖
@@ -573,7 +574,6 @@ PROCESS-NAME,com.popcap.pvz2cthd.bilibili,{{ rule }} # 植物大战僵尸2
 PROCESS-NAME,com.project.Mooncn,{{ rule }} # 代号：Moon
 PROCESS-NAME,com.pwrd.mzlite.bilibili,{{ rule }} # 梦幻新诛仙：轻享
 PROCESS-NAME,com.pwrd.p5x.bilibili,{{ rule }} # 女神异闻录：夜幕魅影
-PROCESS-NAME,com.pwrd.secret.bilibili,{{ rule }} # 黑猫奇闻社
 PROCESS-NAME,com.pwrd.tzyxmznew.bilibili,{{ rule }} # 梦幻新诛仙
 PROCESS-NAME,com.pwrd.zx2.bilibili,{{ rule }} # 诛仙2
 PROCESS-NAME,com.qc.msj.bilibili,{{ rule }} # 猫狩纪
@@ -902,6 +902,7 @@ PROCESS-NAME,com.ymly.ymzy.bilibili,{{ rule }} # 圆梦庄园
 PROCESS-NAME,com.yodo1.pocketchamps.bilibili,{{ rule }} # 口袋冠军
 PROCESS-NAME,com.yodo1.rodeo.bilibili,{{ rule }} # 疯狂动物园
 PROCESS-NAME,com.yodo1.taptitans2.bilibili,{{ rule }} # 点击泰坦2
+PROCESS-NAME,com.yodo1.tew.bilibili,{{ rule }} # 变形金刚：地球之战
 PROCESS-NAME,com.yodomi.fzdxc.bilibili,{{ rule }} # 荣耀冒险王
 PROCESS-NAME,com.yofijoy.fcdj.bilibili,{{ rule }} # 方寸对决
 PROCESS-NAME,com.yofijoy.mlbbgl.bilibili,{{ rule }} # 魔力宝贝归来

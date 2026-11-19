@@ -164,14 +164,14 @@ PROCESS-NAME,com.outfit7.talkingtom2free,{{ rule }} # 会说话的汤姆猫2
 PROCESS-NAME,com.outfit7.talkingtomgoldrun.mi,{{ rule }} # 汤姆猫跑酷-赛博跑酷焕新
 PROCESS-NAME,com.pandadastudio.ninjamustdie3.mi,{{ rule }} # 忍者必须死3
 PROCESS-NAME,com.papegames.evol.mi,{{ rule }} # 恋与制作人
-PROCESS-NAME,com.papegames.nn4.mi,{{ rule }} # 闪耀暖暖-送80抽
+PROCESS-NAME,com.papegames.nn4.mi,{{ rule }} # 闪耀暖暖-联动中
 PROCESS-NAME,com.pdragon.doushouqi.mi,{{ rule }} # 斗兽棋
 PROCESS-NAME,com.pdragon.HD1010,{{ rule }} # 方块合合乐
 PROCESS-NAME,com.pdragon.junqi.mi,{{ rule }} # 军棋
 PROCESS-NAME,com.pdragon.new2048.mi,{{ rule }} # 新2048
 PROCESS-NAME,com.pdragon.weiqi.mi,{{ rule }} # 围棋
 PROCESS-NAME,com.pkwan.op.mi,{{ rule }} # 航海王：燃烧意志
-PROCESS-NAME,com.playrix.township.chukong.mi,{{ rule }} # 梦想城镇-欢乐派对
+PROCESS-NAME,com.playrix.township.chukong.mi,{{ rule }} # 梦想城镇-12周年狂欢
 PROCESS-NAME,com.pokemon.awakening.mi,{{ rule }} # 口袋觉醒
 PROCESS-NAME,com.popcap.pvz2cthdxm,{{ rule }} # 植物大战僵尸2-万圣惊魂夜
 PROCESS-NAME,com.qidian.dldl.mi,{{ rule }} # 新斗罗大陆-海神贺八载
@@ -208,7 +208,7 @@ PROCESS-NAME,com.tencent.lolm,{{ rule }} # 英雄联盟手游
 PROCESS-NAME,com.tencent.mf.uam,{{ rule }} # 暗区突围-全新篇章C2S0赛季
 PROCESS-NAME,com.tencent.pao,{{ rule }} # 天天酷跑
 PROCESS-NAME,com.tencent.qqgame.xq,{{ rule }} # 天天象棋
-PROCESS-NAME,com.tencent.tmgp.cf,{{ rule }} # 穿越火线-枪战王者
+PROCESS-NAME,com.tencent.tmgp.cf,{{ rule }} # 穿越火线-枪战王者（火线新生）
 PROCESS-NAME,com.tencent.tmgp.cod,{{ rule }} # 使命召唤手游
 PROCESS-NAME,com.tencent.tmgp.djsy,{{ rule }} # 妄想山海
 PROCESS-NAME,com.tencent.tmgp.hjol,{{ rule }} # 红警OL

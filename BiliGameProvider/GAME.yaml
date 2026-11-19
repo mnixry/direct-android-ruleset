@@ -92,6 +92,7 @@ payload:
   - PROCESS-NAME,com.chyo.dyshz.bilibili #大洋守护者
   - PROCESS-NAME,com.cipaishe.wuhua.bilibili #物华弥新
   - PROCESS-NAME,com.clgame.qmyxatm.bilibili #全民奥特曼之银河英雄
+  - PROCESS-NAME,com.cm.hksjn.bilibili #花开时见你（测试服）
   - PROCESS-NAME,com.cm.xttc.bilibili #星途天城
   - PROCESS-NAME,com.cmge.ccz.bilibili #新三国志曹操传
   - PROCESS-NAME,com.cmge.crisisfire.bilibili #全民枪战2
@@ -337,7 +338,7 @@ payload:
   - PROCESS-NAME,com.jingxiu.xjdzm #仙界大掌门
   - PROCESS-NAME,com.jingxiu.yanwu #偃武
   - PROCESS-NAME,com.jinke.ltxfd.bilibili #雷霆小分队
-  - PROCESS-NAME,com.jinsaina.auditionsgo.bilibili #鹦鹉团（测试服）
+  - PROCESS-NAME,com.jinsaina.auditionsgo.bilibili #鹦鹉团
   - PROCESS-NAME,com.jinyou.hldj.bilibili #欢乐对决
   - PROCESS-NAME,com.jiuhu.myty.bilibili #明月天涯
   - PROCESS-NAME,com.jiuyu.zljjt.bilibili #侏罗纪军团
@@ -447,7 +448,6 @@ payload:
   - PROCESS-NAME,com.mc.jzzd.bilibili #决战之地
   - PROCESS-NAME,com.mechanist.dream2.aos.cn.bilibili #盗梦英雄2：幻野
   - PROCESS-NAME,com.megagame.crosscore.bilibili #交错战线
-  - PROCESS-NAME,com.mengqu.jiuzhoubahuanglu.bilibili #九州八荒录
   - PROCESS-NAME,com.metek.ultraman.bilibili #奥特曼系列OL
   - PROCESS-NAME,com.mfzl.ylhy.bilibili #魔法之路
   - PROCESS-NAME,com.mfzr.starkey.bilibili #心之钥
@@ -498,6 +498,7 @@ payload:
   - PROCESS-NAME,com.netease.l22 #永劫无间
   - PROCESS-NAME,com.netease.l28 #星绘友晴天（测试服）
   - PROCESS-NAME,com.netease.ldxy #乱斗西游2
+  - PROCESS-NAME,com.netease.lglr #星际猎人
   - PROCESS-NAME,com.netease.lsdmx #灵兽大冒险
   - PROCESS-NAME,com.netease.ma167 #歧路旅人：大陆的霸者
   - PROCESS-NAME,com.netease.ma167.bilibili #歧路旅人：大陆的霸者（账号绑定工具）
@@ -532,7 +533,6 @@ payload:
   - PROCESS-NAME,com.netease.wotb #坦克世界闪击战
   - PROCESS-NAME,com.netease.wotb.bili #坦克世界闪击战（账号绑定工具）
   - PROCESS-NAME,com.netease.wowsb #战舰世界闪击战
-  - PROCESS-NAME,com.netease.wxzc.bilibili #重装上阵
   - PROCESS-NAME,com.netease.wyclx #一梦江湖
   - PROCESS-NAME,com.netease.yhtj.bilibili #萤火突击
   - PROCESS-NAME,com.netease.yqyn.bilibili #一起优诺
@@ -550,6 +550,7 @@ payload:
   - PROCESS-NAME,com.orange.sndwz.bilibili #少女的伪证（测试服）
   - PROCESS-NAME,com.pachira.bilibili #东离剑游纪
   - PROCESS-NAME,com.palmpi.matrix.bilibili #盲盒派对
+  - PROCESS-NAME,com.palmpi.neonlife.bilibili #霓虹人生（测试服）
   - PROCESS-NAME,com.pangu.ciyuanzj.bilibili #次元战纪
   - PROCESS-NAME,com.papegames.evol.bili #恋与制作人
   - PROCESS-NAME,com.papegames.infinitynikki.bilibili #无限暖暖
@@ -573,7 +574,6 @@ payload:
   - PROCESS-NAME,com.project.Mooncn #代号：Moon
   - PROCESS-NAME,com.pwrd.mzlite.bilibili #梦幻新诛仙：轻享
   - PROCESS-NAME,com.pwrd.p5x.bilibili #女神异闻录：夜幕魅影
-  - PROCESS-NAME,com.pwrd.secret.bilibili #黑猫奇闻社
   - PROCESS-NAME,com.pwrd.tzyxmznew.bilibili #梦幻新诛仙
   - PROCESS-NAME,com.pwrd.zx2.bilibili #诛仙2
   - PROCESS-NAME,com.qc.msj.bilibili #猫狩纪
@@ -902,6 +902,7 @@ payload:
   - PROCESS-NAME,com.yodo1.pocketchamps.bilibili #口袋冠军
   - PROCESS-NAME,com.yodo1.rodeo.bilibili #疯狂动物园
   - PROCESS-NAME,com.yodo1.taptitans2.bilibili #点击泰坦2
+  - PROCESS-NAME,com.yodo1.tew.bilibili #变形金刚：地球之战
   - PROCESS-NAME,com.yodomi.fzdxc.bilibili #荣耀冒险王
   - PROCESS-NAME,com.yofijoy.fcdj.bilibili #方寸对决
   - PROCESS-NAME,com.yofijoy.mlbbgl.bilibili #魔力宝贝归来
