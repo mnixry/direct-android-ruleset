@@ -104,6 +104,7 @@ payload:
   - PROCESS-NAME,com.cmge.xianjianshijie.bilibili #仙剑世界
   - PROCESS-NAME,com.cmge.xiaohua.bilibili #校花梦工厂
   - PROCESS-NAME,com.cmge.zsgwsb.bilibili #真•三国无双 霸
+  - PROCESS-NAME,com.cmsj.gctx.bilibili #攻城天下
   - PROCESS-NAME,com.co.zjhy.bilibili #创世战车
   - PROCESS-NAME,com.coco.chukong.llcy.bilibili #料理次元
   - PROCESS-NAME,com.coolfun.sgcs.bilibili #三国传说

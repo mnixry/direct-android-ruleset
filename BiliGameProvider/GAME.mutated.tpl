@@ -104,6 +104,7 @@ PROCESS-NAME,com.cmge.wdyjrj.bilibili,{{ rule }} # 我的御剑日记
 PROCESS-NAME,com.cmge.xianjianshijie.bilibili,{{ rule }} # 仙剑世界
 PROCESS-NAME,com.cmge.xiaohua.bilibili,{{ rule }} # 校花梦工厂
 PROCESS-NAME,com.cmge.zsgwsb.bilibili,{{ rule }} # 真•三国无双 霸
+PROCESS-NAME,com.cmsj.gctx.bilibili,{{ rule }} # 攻城天下
 PROCESS-NAME,com.co.zjhy.bilibili,{{ rule }} # 创世战车
 PROCESS-NAME,com.coco.chukong.llcy.bilibili,{{ rule }} # 料理次元
 PROCESS-NAME,com.coolfun.sgcs.bilibili,{{ rule }} # 三国传说
