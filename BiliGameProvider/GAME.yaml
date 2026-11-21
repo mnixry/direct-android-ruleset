@@ -158,6 +158,7 @@ payload:
   - PROCESS-NAME,com.feimo.astralparty.bilibili #吉星派对
   - PROCESS-NAME,com.feimo.hazeworld.bilibili #苍雾世界
   - PROCESS-NAME,com.feiyou.fszx.bilibili #绯石之心
+  - PROCESS-NAME,com.feiyu.carrot3.bilibili #保卫萝卜3
   - PROCESS-NAME,com.fengchi.ldjx.bilibili #雷电：觉醒
   - PROCESS-NAME,com.fenglan.space.bilibili #群星征途2117（测试服）
   - PROCESS-NAME,com.fengyin.cdqxz.bilibili #辰东群侠传
@@ -220,6 +221,7 @@ payload:
   - PROCESS-NAME,com.glkj.lhcx.bilibili #灵魂潮汐
   - PROCESS-NAME,com.gnsbt.Shgame.bilibili #高能手办团
   - PROCESS-NAME,com.goatgames.dlls.cn.bilibili #地牢猎手6
+  - PROCESS-NAME,com.gx.sw.qa.fkssj.bilibili #疯狂水世界
   - PROCESS-NAME,com.gzbjy.fzha.bilibili #镇魂街：破晓
   - PROCESS-NAME,com.gzchukai.wzlr.bilibili #王者猎人
   - PROCESS-NAME,com.gzcw.cjxcw.bilibili #超级新宠物

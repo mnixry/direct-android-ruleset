@@ -158,6 +158,7 @@ PROCESS-NAME,com.feelingtouch.zfsniper.cn.bilibili,{{ rule }} # 僵尸前线3D
 PROCESS-NAME,com.feimo.astralparty.bilibili,{{ rule }} # 吉星派对
 PROCESS-NAME,com.feimo.hazeworld.bilibili,{{ rule }} # 苍雾世界
 PROCESS-NAME,com.feiyou.fszx.bilibili,{{ rule }} # 绯石之心
+PROCESS-NAME,com.feiyu.carrot3.bilibili,{{ rule }} # 保卫萝卜3
 PROCESS-NAME,com.fengchi.ldjx.bilibili,{{ rule }} # 雷电：觉醒
 PROCESS-NAME,com.fenglan.space.bilibili,{{ rule }} # 群星征途2117（测试服）
 PROCESS-NAME,com.fengyin.cdqxz.bilibili,{{ rule }} # 辰东群侠传
@@ -220,6 +221,7 @@ PROCESS-NAME,com.ginicat.sweet.bilibili,{{ rule }} # 弹力果冻
 PROCESS-NAME,com.glkj.lhcx.bilibili,{{ rule }} # 灵魂潮汐
 PROCESS-NAME,com.gnsbt.Shgame.bilibili,{{ rule }} # 高能手办团
 PROCESS-NAME,com.goatgames.dlls.cn.bilibili,{{ rule }} # 地牢猎手6
+PROCESS-NAME,com.gx.sw.qa.fkssj.bilibili,{{ rule }} # 疯狂水世界
 PROCESS-NAME,com.gzbjy.fzha.bilibili,{{ rule }} # 镇魂街：破晓
 PROCESS-NAME,com.gzchukai.wzlr.bilibili,{{ rule }} # 王者猎人
 PROCESS-NAME,com.gzcw.cjxcw.bilibili,{{ rule }} # 超级新宠物
