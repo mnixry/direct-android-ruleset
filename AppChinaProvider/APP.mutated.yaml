@@ -607,7 +607,6 @@ payload:
   - PROCESS-NAME,com.mt.mtxx.mtxx #美图秀秀
   - PROCESS-NAME,com.mtime #时光网
   - PROCESS-NAME,com.music.qishui #汽水铃声
-  - PROCESS-NAME,com.mx.browser #傲游浏览器
   - PROCESS-NAME,com.mygolbs.mybus #掌上公交
   - PROCESS-NAME,com.mygolbs.mybuswz #我看行
   - PROCESS-NAME,com.mymoney #随手记
