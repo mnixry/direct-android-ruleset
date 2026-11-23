@@ -214,7 +214,6 @@ payload:
   - PROCESS-NAME,com.gf.cxswz.bilibili #潮汐守望者
   - PROCESS-NAME,com.gf.l1h5cncn.hwyad.bilibili #心跳陷落
   - PROCESS-NAME,com.gf.p6cncn.hwyad.bilibili #浮生忆玲珑
-  - PROCESS-NAME,com.gf.wxcncn.hwyad.bilibili #墨剑江湖
   - PROCESS-NAME,com.gfyouxi.ygqx.bilibili #远古群星
   - PROCESS-NAME,com.gg.lostword.bilibili #东方归言录
   - PROCESS-NAME,com.ginicat.sweet.bilibili #弹力果冻
@@ -661,7 +660,6 @@ payload:
   - PROCESS-NAME,com.sqw.by.bilibili #霸业
   - PROCESS-NAME,com.sqw.fzdl.dldlcc_bz #斗罗大陆：传承
   - PROCESS-NAME,com.sqw.hwzx.bilibili #荒无之下
-  - PROCESS-NAME,com.sqw.mhzhz.mhzhz_bilibili #梦回甄嬛传
   - PROCESS-NAME,com.sqw.skzj.bilibili #深空战境（测试服）
   - PROCESS-NAME,com.sqw.wslys.bilibili #我是猎妖师（测试服）
   - PROCESS-NAME,com.sqw.wxmj.bilibili #无限梦境

@@ -214,7 +214,6 @@ PROCESS-NAME,com.gdzz2.hzmb.bilibili,{{ rule }} # 最后的勇者
 PROCESS-NAME,com.gf.cxswz.bilibili,{{ rule }} # 潮汐守望者
 PROCESS-NAME,com.gf.l1h5cncn.hwyad.bilibili,{{ rule }} # 心跳陷落
 PROCESS-NAME,com.gf.p6cncn.hwyad.bilibili,{{ rule }} # 浮生忆玲珑
-PROCESS-NAME,com.gf.wxcncn.hwyad.bilibili,{{ rule }} # 墨剑江湖
 PROCESS-NAME,com.gfyouxi.ygqx.bilibili,{{ rule }} # 远古群星
 PROCESS-NAME,com.gg.lostword.bilibili,{{ rule }} # 东方归言录
 PROCESS-NAME,com.ginicat.sweet.bilibili,{{ rule }} # 弹力果冻
@@ -661,7 +660,6 @@ PROCESS-NAME,com.sqfz.bilibili,{{ rule }} # 神泣：纷争
 PROCESS-NAME,com.sqw.by.bilibili,{{ rule }} # 霸业
 PROCESS-NAME,com.sqw.fzdl.dldlcc_bz,{{ rule }} # 斗罗大陆：传承
 PROCESS-NAME,com.sqw.hwzx.bilibili,{{ rule }} # 荒无之下
-PROCESS-NAME,com.sqw.mhzhz.mhzhz_bilibili,{{ rule }} # 梦回甄嬛传
 PROCESS-NAME,com.sqw.skzj.bilibili,{{ rule }} # 深空战境（测试服）
 PROCESS-NAME,com.sqw.wslys.bilibili,{{ rule }} # 我是猎妖师（测试服）
 PROCESS-NAME,com.sqw.wxmj.bilibili,{{ rule }} # 无限梦境
