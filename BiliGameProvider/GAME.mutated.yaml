@@ -155,7 +155,6 @@ payload:
   - PROCESS-NAME,com.fdd.yzcs.bilibili #远征传说
   - PROCESS-NAME,com.feelingtouch.bn.cn.bilibili #明日边境
   - PROCESS-NAME,com.feelingtouch.zfsniper.cn.bilibili #僵尸前线3D
-  - PROCESS-NAME,com.feimo.astralparty.bilibili #吉星派对
   - PROCESS-NAME,com.feimo.hazeworld.bilibili #苍雾世界
   - PROCESS-NAME,com.feiyou.fszx.bilibili #绯石之心
   - PROCESS-NAME,com.feiyu.carrot3.bilibili #保卫萝卜3
@@ -381,6 +380,7 @@ payload:
   - PROCESS-NAME,com.kyruanjian.gwlm.bilibili #怪物联萌
   - PROCESS-NAME,com.lanjing.yanyu.bilibili #烟雨江湖
   - PROCESS-NAME,com.ledou.mhhy.bilibili #梦幻花园
+  - PROCESS-NAME,com.ledou.mhjy.bilibili #梦幻家园
   - PROCESS-NAME,com.ledou.templerun2.bilibili #神庙逃亡2
   - PROCESS-NAME,com.leiting.chaojinhua.bilibili #超进化物语2
   - PROCESS-NAME,com.leiting.daluandou.bilibili #奇葩战斗家
@@ -435,6 +435,7 @@ payload:
   - PROCESS-NAME,com.lzgqc.bilibili #龙之谷：启程
   - PROCESS-NAME,com.m2.xzlr.bilibili #星之旅人
   - PROCESS-NAME,com.manbu.zjxb.bilibili #拯救细胞
+  - PROCESS-NAME,com.manjuu.promilia.bilibili #蓝色星原：旅谣
   - PROCESS-NAME,com.maobu.jiushizhuunity.bilibili #古代战争
   - PROCESS-NAME,com.maoxiandao.autorts.bilibili #战争警戒
   - PROCESS-NAME,com.maple.fairyland.bilibili #山海仙路
@@ -577,6 +578,7 @@ payload:
   - PROCESS-NAME,com.pwrd.mzlite.bilibili #梦幻新诛仙：轻享
   - PROCESS-NAME,com.pwrd.p5x.bilibili #女神异闻录：夜幕魅影
   - PROCESS-NAME,com.pwrd.tzyxmznew.bilibili #梦幻新诛仙
+  - PROCESS-NAME,com.pwrd.wdqy.bilibili #我的起源
   - PROCESS-NAME,com.pwrd.zx2.bilibili #诛仙2
   - PROCESS-NAME,com.qc.msj.bilibili #猫狩纪
   - PROCESS-NAME,com.qcplay.smjh.bilibili #使魔计划
@@ -585,7 +587,6 @@ payload:
   - PROCESS-NAME,com.qidian.dldl.bilibili #新斗罗大陆
   - PROCESS-NAME,com.qika.ds.azh.bilibili #夺帅
   - PROCESS-NAME,com.qingame.moewill.bilibili #无双萌将
-  - PROCESS-NAME,com.qkyx.lhzs.bilibili #烈火战神
   - PROCESS-NAME,com.qmaygame.mhxy.bilibili #梦幻仙语
   - PROCESS-NAME,com.qmzg2.bilibili #全民主公Ⅱ
   - PROCESS-NAME,com.qpyx.zyj.bilibili #作妖计
@@ -648,6 +649,7 @@ payload:
   - PROCESS-NAME,com.sjffcf.bilibili #飞飞：重逢
   - PROCESS-NAME,com.sky8yx.hhj.bilibili #航海记（测试服）
   - PROCESS-NAME,com.skybox.nowhere.bilibili #旅人日记
+  - PROCESS-NAME,com.slddqt.bilibili #神来的第七天（测试服）
   - PROCESS-NAME,com.slggames.hgsg.bilibili #群雄时代
   - PROCESS-NAME,com.slqj.tbnxy.bilibili #踢爆那西游
   - PROCESS-NAME,com.slqj.wjws.bilibili #武将无双
@@ -673,6 +675,7 @@ payload:
   - PROCESS-NAME,com.styx.xzy.bilibili #星之翼
   - PROCESS-NAME,com.styx.zsgwstx.bilibili #真・三国无双 天下
   - PROCESS-NAME,com.sunborn.neuralcloud.cn.bilibili #少女前线：云图计划
+  - PROCESS-NAME,com.Sunborn.SnqxExilium.bilibili #少女前线2：追放
   - PROCESS-NAME,com.sunking.as3d.bilibili #人征塔战
   - PROCESS-NAME,com.supercell.boombeach.bilibili #海岛奇兵账号绑定工具
   - PROCESS-NAME,com.sy.dldlhsdj.bilibili #斗罗大陆：魂师对决
@@ -709,7 +712,7 @@ payload:
   - PROCESS-NAME,com.tencent.cookie #冲呀！饼干人：王国
   - PROCESS-NAME,com.tencent.czn #卡厄思梦境
   - PROCESS-NAME,com.tencent.dhhsd #大航海时代：海上霸主（测试服）
-  - PROCESS-NAME,com.tencent.dontstarvetest #饥困荒野（测试服）
+  - PROCESS-NAME,com.tencent.dontstarve #饥困荒野
   - PROCESS-NAME,com.tencent.dragoncn #龙息：神寂
   - PROCESS-NAME,com.tencent.egame #英雄联盟电竞经理
   - PROCESS-NAME,com.tencent.fiftyone.yc #桃源深处有人家
@@ -825,7 +828,6 @@ payload:
   - PROCESS-NAME,com.wwsg.yzx.bilibili #微微三国
   - PROCESS-NAME,com.wxbz.lyjxx.z086 #烈焰觉醒
   - PROCESS-NAME,com.wyx.ysr.bilibili #狩猎吧！原始人
-  - PROCESS-NAME,com.wyx.yyzj.bilibili #吟游战记
   - PROCESS-NAME,com.wz.fhwca.bilibili #烽火望长安
   - PROCESS-NAME,com.wz.qhmlr.bilibili #奇幻梦旅人
   - PROCESS-NAME,com.wzl.hzxd.bilibili #火种协定

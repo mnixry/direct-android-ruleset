@@ -122,7 +122,7 @@ PROCESS-NAME,com.kunpo.myhome.mi,{{ rule }} # 我的小家
 PROCESS-NAME,com.kurogame.haru.mi,{{ rule }} # 战双帕弥什
 PROCESS-NAME,com.ledo.kof97ol.az.mi,{{ rule }} # 拳皇97OL
 PROCESS-NAME,com.ledou.mhhy.mi,{{ rule }} # 梦幻花园-非遗江南
-PROCESS-NAME,com.ledou.mhjy.mi,{{ rule }} # 梦幻家园-皮肤返场
+PROCESS-NAME,com.ledou.mhjy.mi,{{ rule }} # 梦幻家园-全新收藏
 PROCESS-NAME,com.leiting.daluandou.mi,{{ rule }} # 奇葩战斗家
 PROCESS-NAME,com.leiting.jm.mi,{{ rule }} # 匠木
 PROCESS-NAME,com.leiting.lostcastle.mi,{{ rule }} # 失落城堡
@@ -184,7 +184,7 @@ PROCESS-NAME,com.qqgame.mic,{{ rule }} # 英雄杀
 PROCESS-NAME,com.quanmai.pmp.mi,{{ rule }} # 口袋新世代
 PROCESS-NAME,com.r2games.myhero.mi,{{ rule }} # 我的勇者
 PROCESS-NAME,com.rywl.tkzx2.mi,{{ rule }} # 坦克之星2
-PROCESS-NAME,com.shiyue.sszg.mi,{{ rule }} # 闪烁之光-5000抽
+PROCESS-NAME,com.shiyue.sszg.mi,{{ rule }} # 闪烁之光-送万抽
 PROCESS-NAME,com.shyw.yzy.mi,{{ rule }} # 源战役-魔刃神职装备全靠打
 PROCESS-NAME,com.sjyy.wdxxsj2.mi,{{ rule }} # 我的小小世界2
 PROCESS-NAME,com.sqw.jwdzg.mi,{{ rule }} # 叫我大掌柜

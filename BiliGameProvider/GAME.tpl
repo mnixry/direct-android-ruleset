@@ -155,7 +155,6 @@ PROCESS-NAME,com.eryuan.xingchen.bilibili,{{ rule }} # 卢希达：起源
 PROCESS-NAME,com.fdd.yzcs.bilibili,{{ rule }} # 远征传说
 PROCESS-NAME,com.feelingtouch.bn.cn.bilibili,{{ rule }} # 明日边境
 PROCESS-NAME,com.feelingtouch.zfsniper.cn.bilibili,{{ rule }} # 僵尸前线3D
-PROCESS-NAME,com.feimo.astralparty.bilibili,{{ rule }} # 吉星派对
 PROCESS-NAME,com.feimo.hazeworld.bilibili,{{ rule }} # 苍雾世界
 PROCESS-NAME,com.feiyou.fszx.bilibili,{{ rule }} # 绯石之心
 PROCESS-NAME,com.feiyu.carrot3.bilibili,{{ rule }} # 保卫萝卜3
@@ -381,6 +380,7 @@ PROCESS-NAME,com.kx.sgqyz.bilibili,{{ rule }} # 三国群英传-争霸
 PROCESS-NAME,com.kyruanjian.gwlm.bilibili,{{ rule }} # 怪物联萌
 PROCESS-NAME,com.lanjing.yanyu.bilibili,{{ rule }} # 烟雨江湖
 PROCESS-NAME,com.ledou.mhhy.bilibili,{{ rule }} # 梦幻花园
+PROCESS-NAME,com.ledou.mhjy.bilibili,{{ rule }} # 梦幻家园
 PROCESS-NAME,com.ledou.templerun2.bilibili,{{ rule }} # 神庙逃亡2
 PROCESS-NAME,com.leiting.chaojinhua.bilibili,{{ rule }} # 超进化物语2
 PROCESS-NAME,com.leiting.daluandou.bilibili,{{ rule }} # 奇葩战斗家
@@ -435,6 +435,7 @@ PROCESS-NAME,com.lywl.xbxxz.bilibili,{{ rule }} # 想不想修真
 PROCESS-NAME,com.lzgqc.bilibili,{{ rule }} # 龙之谷：启程
 PROCESS-NAME,com.m2.xzlr.bilibili,{{ rule }} # 星之旅人
 PROCESS-NAME,com.manbu.zjxb.bilibili,{{ rule }} # 拯救细胞
+PROCESS-NAME,com.manjuu.promilia.bilibili,{{ rule }} # 蓝色星原：旅谣
 PROCESS-NAME,com.maobu.jiushizhuunity.bilibili,{{ rule }} # 古代战争
 PROCESS-NAME,com.maoxiandao.autorts.bilibili,{{ rule }} # 战争警戒
 PROCESS-NAME,com.maple.fairyland.bilibili,{{ rule }} # 山海仙路
@@ -577,6 +578,7 @@ PROCESS-NAME,com.project.Mooncn,{{ rule }} # 代号：Moon
 PROCESS-NAME,com.pwrd.mzlite.bilibili,{{ rule }} # 梦幻新诛仙：轻享
 PROCESS-NAME,com.pwrd.p5x.bilibili,{{ rule }} # 女神异闻录：夜幕魅影
 PROCESS-NAME,com.pwrd.tzyxmznew.bilibili,{{ rule }} # 梦幻新诛仙
+PROCESS-NAME,com.pwrd.wdqy.bilibili,{{ rule }} # 我的起源
 PROCESS-NAME,com.pwrd.zx2.bilibili,{{ rule }} # 诛仙2
 PROCESS-NAME,com.qc.msj.bilibili,{{ rule }} # 猫狩纪
 PROCESS-NAME,com.qcplay.smjh.bilibili,{{ rule }} # 使魔计划
@@ -585,7 +587,6 @@ PROCESS-NAME,com.qcplay.wjdmx.bilibili,{{ rule }} # 无尽大冒险
 PROCESS-NAME,com.qidian.dldl.bilibili,{{ rule }} # 新斗罗大陆
 PROCESS-NAME,com.qika.ds.azh.bilibili,{{ rule }} # 夺帅
 PROCESS-NAME,com.qingame.moewill.bilibili,{{ rule }} # 无双萌将
-PROCESS-NAME,com.qkyx.lhzs.bilibili,{{ rule }} # 烈火战神
 PROCESS-NAME,com.qmaygame.mhxy.bilibili,{{ rule }} # 梦幻仙语
 PROCESS-NAME,com.qmzg2.bilibili,{{ rule }} # 全民主公Ⅱ
 PROCESS-NAME,com.qpyx.zyj.bilibili,{{ rule }} # 作妖计
@@ -648,6 +649,7 @@ PROCESS-NAME,com.siso.mobiwusizhilian.bilibili,{{ rule }} # 莫比乌斯之恋
 PROCESS-NAME,com.sjffcf.bilibili,{{ rule }} # 飞飞：重逢
 PROCESS-NAME,com.sky8yx.hhj.bilibili,{{ rule }} # 航海记（测试服）
 PROCESS-NAME,com.skybox.nowhere.bilibili,{{ rule }} # 旅人日记
+PROCESS-NAME,com.slddqt.bilibili,{{ rule }} # 神来的第七天（测试服）
 PROCESS-NAME,com.slggames.hgsg.bilibili,{{ rule }} # 群雄时代
 PROCESS-NAME,com.slqj.tbnxy.bilibili,{{ rule }} # 踢爆那西游
 PROCESS-NAME,com.slqj.wjws.bilibili,{{ rule }} # 武将无双
@@ -673,6 +675,7 @@ PROCESS-NAME,com.street.bilibili,{{ rule }} # 迷城陆区
 PROCESS-NAME,com.styx.xzy.bilibili,{{ rule }} # 星之翼
 PROCESS-NAME,com.styx.zsgwstx.bilibili,{{ rule }} # 真・三国无双 天下
 PROCESS-NAME,com.sunborn.neuralcloud.cn.bilibili,{{ rule }} # 少女前线：云图计划
+PROCESS-NAME,com.Sunborn.SnqxExilium.bilibili,{{ rule }} # 少女前线2：追放
 PROCESS-NAME,com.sunking.as3d.bilibili,{{ rule }} # 人征塔战
 PROCESS-NAME,com.supercell.boombeach.bilibili,{{ rule }} # 海岛奇兵账号绑定工具
 PROCESS-NAME,com.sy.dldlhsdj.bilibili,{{ rule }} # 斗罗大陆：魂师对决
@@ -709,7 +712,7 @@ PROCESS-NAME,com.tencent.chio,{{ rule }} # 奇奥英雄传（测试服）
 PROCESS-NAME,com.tencent.cookie,{{ rule }} # 冲呀！饼干人：王国
 PROCESS-NAME,com.tencent.czn,{{ rule }} # 卡厄思梦境
 PROCESS-NAME,com.tencent.dhhsd,{{ rule }} # 大航海时代：海上霸主（测试服）
-PROCESS-NAME,com.tencent.dontstarvetest,{{ rule }} # 饥困荒野（测试服）
+PROCESS-NAME,com.tencent.dontstarve,{{ rule }} # 饥困荒野
 PROCESS-NAME,com.tencent.dragoncn,{{ rule }} # 龙息：神寂
 PROCESS-NAME,com.tencent.egame,{{ rule }} # 英雄联盟电竞经理
 PROCESS-NAME,com.tencent.fiftyone.yc,{{ rule }} # 桃源深处有人家
@@ -825,7 +828,6 @@ PROCESS-NAME,com.wsyl.zqdwj.bilibili,{{ rule }} # 足球大玩家
 PROCESS-NAME,com.wwsg.yzx.bilibili,{{ rule }} # 微微三国
 PROCESS-NAME,com.wxbz.lyjxx.z086,{{ rule }} # 烈焰觉醒
 PROCESS-NAME,com.wyx.ysr.bilibili,{{ rule }} # 狩猎吧！原始人
-PROCESS-NAME,com.wyx.yyzj.bilibili,{{ rule }} # 吟游战记
 PROCESS-NAME,com.wz.fhwca.bilibili,{{ rule }} # 烽火望长安
 PROCESS-NAME,com.wz.qhmlr.bilibili,{{ rule }} # 奇幻梦旅人
 PROCESS-NAME,com.wzl.hzxd.bilibili,{{ rule }} # 火种协定
