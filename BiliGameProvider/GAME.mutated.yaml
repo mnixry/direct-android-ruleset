@@ -144,6 +144,7 @@ payload:
   - PROCESS-NAME,com.duoku.dwwz.bilibili #动物王者
   - PROCESS-NAME,com.duoqu.sshxz.bilibili #蜀山幻想志
   - PROCESS-NAME,com.dyyfgame.kuroko.bilibili #黑子的篮球：街头对决
+  - PROCESS-NAME,com.dyyfgame.neostreetball.bilibili #超时空街球对决（测试服）
   - PROCESS-NAME,com.ea.simcitymobile.bilibili #模拟城市：我是市长
   - PROCESS-NAME,com.east2west.hitmansniper.bilibili #代号47：狙击（测试服）
   - PROCESS-NAME,com.east2west.kingdomrush5.ff.bilibili #王国保卫战5
@@ -313,7 +314,6 @@ payload:
   - PROCESS-NAME,com.ilongyuan.soe.bilibili #伊甸之战
   - PROCESS-NAME,com.ilongyuan.voez.ly.bilibili #兰空
   - PROCESS-NAME,com.ilongyuan.zzq.bilibili #多多自走棋
-  - PROCESS-NAME,com.intiny.hd6.bilibili #完蛋！我被美女包围了！2（测试服）
   - PROCESS-NAME,com.ironoakgames.ftk1.bilibili #为了吾王
   - PROCESS-NAME,com.iskywan.djzl.bilibili #搭救之路
   - PROCESS-NAME,com.iskywan.jxxy.bilibili #剑侠逍遥
@@ -361,6 +361,7 @@ payload:
   - PROCESS-NAME,com.jw.rsjy.bilibili #燃烧纪元
   - PROCESS-NAME,com.jy.qlfhl.bilibili #青鸾繁华录
   - PROCESS-NAME,com.jy.scjzyh.bilibili #神创九州
+  - PROCESS-NAME,com.jy.wdxzyh.bilibili #武道仙宗（测试服）
   - PROCESS-NAME,com.jyqznbp.bilibili #酋长你别跑
   - PROCESS-NAME,com.kaixuan.ayzj.bilibili #暗影战姬
   - PROCESS-NAME,com.kakapogame.lootrush.bilibili #骑士冲呀
@@ -561,7 +562,6 @@ payload:
   - PROCESS-NAME,com.papegames.nn4.bilibili #闪耀暖暖
   - PROCESS-NAME,com.PGSoul.BOG.bilibili #巨龙城堡
   - PROCESS-NAME,com.PGSoul.BOG2.pangu.bilibili #古魂
-  - PROCESS-NAME,com.phonecoolgame.sanguo.bilibili #三国之乱世为王（测试服）
   - PROCESS-NAME,com.phxh.nlddev.bilibili #雪松
   - PROCESS-NAME,com.pi.czrxdfirst #超自然行动组
   - PROCESS-NAME,com.picktao.zsjjc.bilibili #诸神竞技场
@@ -587,6 +587,7 @@ payload:
   - PROCESS-NAME,com.qidian.dldl.bilibili #新斗罗大陆
   - PROCESS-NAME,com.qika.ds.azh.bilibili #夺帅
   - PROCESS-NAME,com.qingame.moewill.bilibili #无双萌将
+  - PROCESS-NAME,com.qlwl.shdmx.bilibili #山海大冒险（测试服）
   - PROCESS-NAME,com.qmaygame.mhxy.bilibili #梦幻仙语
   - PROCESS-NAME,com.qmzg2.bilibili #全民主公Ⅱ
   - PROCESS-NAME,com.qpyx.zyj.bilibili #作妖计

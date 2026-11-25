@@ -34,6 +34,7 @@ payload:
   - PROCESS-NAME,cn.com.pcgroup.magazine #PChouse太平洋家居
   - PROCESS-NAME,cn.com.pconline.android.browser #太平洋科技
   - PROCESS-NAME,cn.com.qlwb.qiluyidian #齐鲁壹点
+  - PROCESS-NAME,cn.com.shbank.mper #上海银行
   - PROCESS-NAME,cn.com.sina.finance #新浪财经
   - PROCESS-NAME,cn.com.sina.sports #新浪体育
   - PROCESS-NAME,cn.com.spdb.mobilebank.per #浦发银行
@@ -76,6 +77,7 @@ payload:
   - PROCESS-NAME,cn.shengmimi.callshow #视频铃声
   - PROCESS-NAME,cn.shuangshuangfei #找对象
   - PROCESS-NAME,cn.soulapp.android #Soul
+  - PROCESS-NAME,cn.thecover.www.covermedia #封面新闻
   - PROCESS-NAME,cn.tianya.light #天涯社区
   - PROCESS-NAME,cn.vcinema.cinema #南瓜电影
   - PROCESS-NAME,cn.weli.sweet #CUCU
@@ -201,7 +203,6 @@ payload:
   - PROCESS-NAME,com.cbnweekly #第一财经杂志
   - PROCESS-NAME,com.ccgs.sms #短信群发助手
   - PROCESS-NAME,com.cctir.huinongbao #惠农网
-  - PROCESS-NAME,com.cdsb.newsreader #红星新闻
   - PROCESS-NAME,com.cdtv.app #看度新闻
   - PROCESS-NAME,com.ceic.app #地震速报
   - PROCESS-NAME,com.chan.cwallpaper #图凌

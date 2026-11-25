@@ -144,6 +144,7 @@ PROCESS-NAME,com.duoku.brsqs.bilibili,{{ rule }} # 别惹神枪手
 PROCESS-NAME,com.duoku.dwwz.bilibili,{{ rule }} # 动物王者
 PROCESS-NAME,com.duoqu.sshxz.bilibili,{{ rule }} # 蜀山幻想志
 PROCESS-NAME,com.dyyfgame.kuroko.bilibili,{{ rule }} # 黑子的篮球：街头对决
+PROCESS-NAME,com.dyyfgame.neostreetball.bilibili,{{ rule }} # 超时空街球对决（测试服）
 PROCESS-NAME,com.ea.simcitymobile.bilibili,{{ rule }} # 模拟城市：我是市长
 PROCESS-NAME,com.east2west.hitmansniper.bilibili,{{ rule }} # 代号47：狙击（测试服）
 PROCESS-NAME,com.east2west.kingdomrush5.ff.bilibili,{{ rule }} # 王国保卫战5
@@ -313,7 +314,6 @@ PROCESS-NAME,com.ilongyuan.implosion.bilibili,{{ rule }} # 聚爆
 PROCESS-NAME,com.ilongyuan.soe.bilibili,{{ rule }} # 伊甸之战
 PROCESS-NAME,com.ilongyuan.voez.ly.bilibili,{{ rule }} # 兰空
 PROCESS-NAME,com.ilongyuan.zzq.bilibili,{{ rule }} # 多多自走棋
-PROCESS-NAME,com.intiny.hd6.bilibili,{{ rule }} # 完蛋！我被美女包围了！2（测试服）
 PROCESS-NAME,com.ironoakgames.ftk1.bilibili,{{ rule }} # 为了吾王
 PROCESS-NAME,com.iskywan.djzl.bilibili,{{ rule }} # 搭救之路
 PROCESS-NAME,com.iskywan.jxxy.bilibili,{{ rule }} # 剑侠逍遥
@@ -361,6 +361,7 @@ PROCESS-NAME,com.jw.jlbdg.bilibili,{{ rule }} # 加勒比帝国
 PROCESS-NAME,com.jw.rsjy.bilibili,{{ rule }} # 燃烧纪元
 PROCESS-NAME,com.jy.qlfhl.bilibili,{{ rule }} # 青鸾繁华录
 PROCESS-NAME,com.jy.scjzyh.bilibili,{{ rule }} # 神创九州
+PROCESS-NAME,com.jy.wdxzyh.bilibili,{{ rule }} # 武道仙宗（测试服）
 PROCESS-NAME,com.jyqznbp.bilibili,{{ rule }} # 酋长你别跑
 PROCESS-NAME,com.kaixuan.ayzj.bilibili,{{ rule }} # 暗影战姬
 PROCESS-NAME,com.kakapogame.lootrush.bilibili,{{ rule }} # 骑士冲呀
@@ -561,7 +562,6 @@ PROCESS-NAME,com.papegames.lysk.cn.bilibili,{{ rule }} # 恋与深空
 PROCESS-NAME,com.papegames.nn4.bilibili,{{ rule }} # 闪耀暖暖
 PROCESS-NAME,com.PGSoul.BOG.bilibili,{{ rule }} # 巨龙城堡
 PROCESS-NAME,com.PGSoul.BOG2.pangu.bilibili,{{ rule }} # 古魂
-PROCESS-NAME,com.phonecoolgame.sanguo.bilibili,{{ rule }} # 三国之乱世为王（测试服）
 PROCESS-NAME,com.phxh.nlddev.bilibili,{{ rule }} # 雪松
 PROCESS-NAME,com.pi.czrxdfirst,{{ rule }} # 超自然行动组
 PROCESS-NAME,com.picktao.zsjjc.bilibili,{{ rule }} # 诸神竞技场
@@ -587,6 +587,7 @@ PROCESS-NAME,com.qcplay.wjdmx.bilibili,{{ rule }} # 无尽大冒险
 PROCESS-NAME,com.qidian.dldl.bilibili,{{ rule }} # 新斗罗大陆
 PROCESS-NAME,com.qika.ds.azh.bilibili,{{ rule }} # 夺帅
 PROCESS-NAME,com.qingame.moewill.bilibili,{{ rule }} # 无双萌将
+PROCESS-NAME,com.qlwl.shdmx.bilibili,{{ rule }} # 山海大冒险（测试服）
 PROCESS-NAME,com.qmaygame.mhxy.bilibili,{{ rule }} # 梦幻仙语
 PROCESS-NAME,com.qmzg2.bilibili,{{ rule }} # 全民主公Ⅱ
 PROCESS-NAME,com.qpyx.zyj.bilibili,{{ rule }} # 作妖计

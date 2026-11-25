@@ -89,6 +89,7 @@ payload:
   - PROCESS-NAME,com.msld.gochess #围棋大师
   - PROCESS-NAME,com.mszmapp.detective #百变大侦探
   - PROCESS-NAME,com.n1studio.empress #盛世天下-女帝篇
+  - PROCESS-NAME,com.nd.myht #魔域互通版
   - PROCESS-NAME,com.netease.dhxy #大话西游
   - PROCESS-NAME,com.netease.lrs #狼人杀：月夜推理乐园
   - PROCESS-NAME,com.netease.xyfz_02 #大话西游：归来
@@ -991,7 +992,6 @@ payload:
   - PROCESS-NAME,com.xjskp.gztv1.hnsc #向僵尸开炮
   - PROCESS-NAME,com.xzbig.idiom #成语大接龙
   - PROCESS-NAME,com.xzidiom.stay #成语小秀才
-  - PROCESS-NAME,com.yikeweiqi.ifk #弈客少儿围棋
   - PROCESS-NAME,com.yinhan.hunter.tx #时空猎人
   - PROCESS-NAME,com.yodo1.rodeo.TXYYB #疯狂动物园
   - PROCESS-NAME,com.yodo1.SkiSafari.TXYYB_01 #滑雪大冒险
