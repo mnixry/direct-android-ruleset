@@ -141,7 +141,7 @@ PROCESS-NAME,com.martian.sggz.mi,{{ rule }} # 三国哈哈哈
 PROCESS-NAME,com.mengmi.majiang.mi,{{ rule }} # 欢乐真人麻将
 PROCESS-NAME,com.metek.ultraman.mi,{{ rule }} # 奥特曼系列OL-豪腕刚力战士
 PROCESS-NAME,com.mfp.jelly.xiaomi,{{ rule }} # 宾果消消消
-PROCESS-NAME,com.miHoYo.bh3.mi,{{ rule }} # 崩坏3-十周年庆
+PROCESS-NAME,com.miHoYo.bh3.mi,{{ rule }} # 崩坏3-天外孑行
 PROCESS-NAME,com.miHoYo.wd.mi,{{ rule }} # 未定事件簿
 PROCESS-NAME,com.mili.wdtks.mi,{{ rule }} # 大空杀冲冲冲
 PROCESS-NAME,com.milkstudio.bobby.mi,{{ rule }} # 波比的游戏时间

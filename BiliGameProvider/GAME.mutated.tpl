@@ -21,6 +21,7 @@ PROCESS-NAME,com.aiyagames.mxtzy.bilibili,{{ rule }} # 马戏团之夜（测试�
 PROCESS-NAME,com.aligames.hysg.bilibili,{{ rule }} # 荒原曙光
 PROCESS-NAME,com.aligames.sgzzqb.bilibili,{{ rule }} # 三国志·战棋版
 PROCESS-NAME,com.aligames.szgd.bilibili,{{ rule }} # 森之国度
+PROCESS-NAME,com.alsp.ly.bilibili,{{ rule }} # 猎妖
 PROCESS-NAME,com.altlab.nw.bilibili,{{ rule }} # 新世界：暗影成双
 PROCESS-NAME,com.amy.t3.bilibili,{{ rule }} # 未尽行夜（招募测试）
 PROCESS-NAME,com.Anidote.TimeSymmetryBroken.bilibili,{{ rule }} # 时间对称性破缺
@@ -319,7 +320,7 @@ PROCESS-NAME,com.iskywan.djzl.bilibili,{{ rule }} # 搭救之路
 PROCESS-NAME,com.iskywan.jxxy.bilibili,{{ rule }} # 剑侠逍遥
 PROCESS-NAME,com.iskywan.yyj.bilibili,{{ rule }} # 阴阳劫
 PROCESS-NAME,com.jd.dlphs.bilibili,{{ rule }} # 地牢破坏神
-PROCESS-NAME,com.jd.xywg.bilibili,{{ rule }} # 逍遥王国（测试服）
+PROCESS-NAME,com.jd.xywg.bilibili,{{ rule }} # 逍遥王国
 PROCESS-NAME,com.jd.yxzd.bilibili,{{ rule }} # 异星之地
 PROCESS-NAME,com.je.skgame.bilibili,{{ rule }} # 太空杀
 PROCESS-NAME,com.jg.ddxt.bilibili,{{ rule }} # 大道仙途
@@ -361,6 +362,7 @@ PROCESS-NAME,com.jw.jlbdg.bilibili,{{ rule }} # 加勒比帝国
 PROCESS-NAME,com.jw.rsjy.bilibili,{{ rule }} # 燃烧纪元
 PROCESS-NAME,com.jy.qlfhl.bilibili,{{ rule }} # 青鸾繁华录
 PROCESS-NAME,com.jy.scjzyh.bilibili,{{ rule }} # 神创九州
+PROCESS-NAME,com.jy.shywlyh.bilibili,{{ rule }} # 少年封神（测试服）
 PROCESS-NAME,com.jy.wdxzyh.bilibili,{{ rule }} # 武道仙宗（测试服）
 PROCESS-NAME,com.jyqznbp.bilibili,{{ rule }} # 酋长你别跑
 PROCESS-NAME,com.kaixuan.ayzj.bilibili,{{ rule }} # 暗影战姬
@@ -620,6 +622,7 @@ PROCESS-NAME,com.seasun.jx3,{{ rule }} # 剑网3无界
 PROCESS-NAME,com.seasun.jxqy0.bilibili,{{ rule }} # 剑侠情缘·零
 PROCESS-NAME,com.seasun.jxsj3.bilibili,{{ rule }} # 剑侠世界3
 PROCESS-NAME,com.seasungame.jxsj4.bilibili,{{ rule }} # 剑侠世界4：无限
+PROCESS-NAME,com.seayoo.ab2.bilibili,{{ rule }} # 愤怒的小鸟：经典归来（测试服）
 PROCESS-NAME,com.seayoo.ggd.bilibili,{{ rule }} # 鹅鸭杀
 PROCESS-NAME,com.seayoo.zero.bilibili,{{ rule }} # 不朽箴言
 PROCESS-NAME,com.senlin.wdzz.bilibili,{{ rule }} # 我的战争
@@ -870,6 +873,7 @@ PROCESS-NAME,com.xqxgame.st2.bilibili,{{ rule }} # 灵魂潮汐：蚀月（招�
 PROCESS-NAME,com.xr.wgdzz.bilibili,{{ rule }} # 王国大作战：前线
 PROCESS-NAME,com.xtsdk.jymhd.bilibili,{{ rule }} # 解忧梦幻岛
 PROCESS-NAME,com.xtsdk.kldk.bilibili,{{ rule }} # 淘金历险记：克朗代克
+PROCESS-NAME,com.xxhd.dqdg.bilibili,{{ rule }} # 大秦帝国之帝国烽烟
 PROCESS-NAME,com.xxhd.yymxj.bilibili,{{ rule }} # 影业梦想家
 PROCESS-NAME,com.xy.bwjq.bilibili,{{ rule }} # 三国志霸王崛起（测试服）
 PROCESS-NAME,com.xy.chc.bilibili,{{ rule }} # 彩虹橙

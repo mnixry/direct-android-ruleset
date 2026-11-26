@@ -587,8 +587,8 @@ payload:
   - PROCESS-NAME,com.messi.cantonese.study #粤语说
   - PROCESS-NAME,com.messi.languagehelper #中英互译
   - PROCESS-NAME,com.mgyun.rootmaster #ROOT大师
-  - PROCESS-NAME,com.microsoft.appmanager #连接至 Windows
-  - PROCESS-NAME,com.microsoft.emmx #Edge
+  - PROCESS-NAME,com.microsoft.appmanager #你的手机助手 - 链接至Windows
+  - PROCESS-NAME,com.microsoft.emmx #微软浏览器 Microsoft Edge 网络浏览器
   - PROCESS-NAME,com.microsoft.launcher #微软桌面
   - PROCESS-NAME,com.microsoft.skydrive #OneDrive
   - PROCESS-NAME,com.mifeng.ui #蜜疯直播

@@ -21,6 +21,7 @@ payload:
   - PROCESS-NAME,com.aligames.hysg.bilibili #荒原曙光
   - PROCESS-NAME,com.aligames.sgzzqb.bilibili #三国志·战棋版
   - PROCESS-NAME,com.aligames.szgd.bilibili #森之国度
+  - PROCESS-NAME,com.alsp.ly.bilibili #猎妖
   - PROCESS-NAME,com.altlab.nw.bilibili #新世界：暗影成双
   - PROCESS-NAME,com.amy.t3.bilibili #未尽行夜（招募测试）
   - PROCESS-NAME,com.Anidote.TimeSymmetryBroken.bilibili #时间对称性破缺
@@ -319,7 +320,7 @@ payload:
   - PROCESS-NAME,com.iskywan.jxxy.bilibili #剑侠逍遥
   - PROCESS-NAME,com.iskywan.yyj.bilibili #阴阳劫
   - PROCESS-NAME,com.jd.dlphs.bilibili #地牢破坏神
-  - PROCESS-NAME,com.jd.xywg.bilibili #逍遥王国（测试服）
+  - PROCESS-NAME,com.jd.xywg.bilibili #逍遥王国
   - PROCESS-NAME,com.jd.yxzd.bilibili #异星之地
   - PROCESS-NAME,com.je.skgame.bilibili #太空杀
   - PROCESS-NAME,com.jg.ddxt.bilibili #大道仙途
@@ -361,6 +362,7 @@ payload:
   - PROCESS-NAME,com.jw.rsjy.bilibili #燃烧纪元
   - PROCESS-NAME,com.jy.qlfhl.bilibili #青鸾繁华录
   - PROCESS-NAME,com.jy.scjzyh.bilibili #神创九州
+  - PROCESS-NAME,com.jy.shywlyh.bilibili #少年封神（测试服）
   - PROCESS-NAME,com.jy.wdxzyh.bilibili #武道仙宗（测试服）
   - PROCESS-NAME,com.jyqznbp.bilibili #酋长你别跑
   - PROCESS-NAME,com.kaixuan.ayzj.bilibili #暗影战姬
@@ -620,6 +622,7 @@ payload:
   - PROCESS-NAME,com.seasun.jxqy0.bilibili #剑侠情缘·零
   - PROCESS-NAME,com.seasun.jxsj3.bilibili #剑侠世界3
   - PROCESS-NAME,com.seasungame.jxsj4.bilibili #剑侠世界4：无限
+  - PROCESS-NAME,com.seayoo.ab2.bilibili #愤怒的小鸟：经典归来（测试服）
   - PROCESS-NAME,com.seayoo.ggd.bilibili #鹅鸭杀
   - PROCESS-NAME,com.seayoo.zero.bilibili #不朽箴言
   - PROCESS-NAME,com.senlin.wdzz.bilibili #我的战争
@@ -870,6 +873,7 @@ payload:
   - PROCESS-NAME,com.xr.wgdzz.bilibili #王国大作战：前线
   - PROCESS-NAME,com.xtsdk.jymhd.bilibili #解忧梦幻岛
   - PROCESS-NAME,com.xtsdk.kldk.bilibili #淘金历险记：克朗代克
+  - PROCESS-NAME,com.xxhd.dqdg.bilibili #大秦帝国之帝国烽烟
   - PROCESS-NAME,com.xxhd.yymxj.bilibili #影业梦想家
   - PROCESS-NAME,com.xy.bwjq.bilibili #三国志霸王崛起（测试服）
   - PROCESS-NAME,com.xy.chc.bilibili #彩虹橙

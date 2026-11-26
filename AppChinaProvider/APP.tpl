@@ -587,8 +587,8 @@ PROCESS-NAME,com.mendon.riza,{{ rule }} # 日杂相机
 PROCESS-NAME,com.messi.cantonese.study,{{ rule }} # 粤语说
 PROCESS-NAME,com.messi.languagehelper,{{ rule }} # 中英互译
 PROCESS-NAME,com.mgyun.rootmaster,{{ rule }} # ROOT大师
-PROCESS-NAME,com.microsoft.appmanager,{{ rule }} # 连接至 Windows
-PROCESS-NAME,com.microsoft.emmx,{{ rule }} # Edge
+PROCESS-NAME,com.microsoft.appmanager,{{ rule }} # 你的手机助手 - 链接至Windows
+PROCESS-NAME,com.microsoft.emmx,{{ rule }} # 微软浏览器 Microsoft Edge 网络浏览器
 PROCESS-NAME,com.microsoft.launcher,{{ rule }} # 微软桌面
 PROCESS-NAME,com.microsoft.skydrive,{{ rule }} # OneDrive
 PROCESS-NAME,com.mifeng.ui,{{ rule }} # 蜜疯直播
