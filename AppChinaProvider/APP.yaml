@@ -39,7 +39,6 @@ payload:
   - PROCESS-NAME,cn.com.sina.sports #新浪体育
   - PROCESS-NAME,cn.com.spdb.mobilebank.per #浦发银行
   - PROCESS-NAME,cn.com.tx.chat.android #天下网
-  - PROCESS-NAME,cn.com.wiisoft.skin #灵动主题皮肤
   - PROCESS-NAME,cn.dahebao #顶端新闻
   - PROCESS-NAME,cn.damai #大麦
   - PROCESS-NAME,cn.dict.android.pro #海词词典
@@ -587,8 +586,8 @@ payload:
   - PROCESS-NAME,com.messi.cantonese.study #粤语说
   - PROCESS-NAME,com.messi.languagehelper #中英互译
   - PROCESS-NAME,com.mgyun.rootmaster #ROOT大师
-  - PROCESS-NAME,com.microsoft.appmanager #你的手机助手 - 链接至Windows
-  - PROCESS-NAME,com.microsoft.emmx #微软浏览器 Microsoft Edge 网络浏览器
+  - PROCESS-NAME,com.microsoft.appmanager #连接至 Windows
+  - PROCESS-NAME,com.microsoft.emmx #Edge
   - PROCESS-NAME,com.microsoft.launcher #微软桌面
   - PROCESS-NAME,com.microsoft.skydrive #OneDrive
   - PROCESS-NAME,com.mifeng.ui #蜜疯直播
@@ -834,7 +833,6 @@ payload:
   - PROCESS-NAME,com.sup.android.superb #皮皮虾
   - PROCESS-NAME,com.superlib #移动图书馆
   - PROCESS-NAME,com.swlvrm.anwsi #蜜桃主题壁纸
-  - PROCESS-NAME,com.synology.DSfile #DS file
   - PROCESS-NAME,com.sywg.stock #申万宏源高端
   - PROCESS-NAME,com.szeureka.camerasrc #联趣拍摄遥控器
   - PROCESS-NAME,com.szqd.dialer #神指拨号
@@ -910,6 +908,7 @@ payload:
   - PROCESS-NAME,com.tujia.hotel #途家民宿
   - PROCESS-NAME,com.tuniu.app.ui #途牛旅游
   - PROCESS-NAME,com.tuoniu.pingmuezuo #屏幕恶作剧
+  - PROCESS-NAME,com.tuyang.global.trans #全局透明壁纸APP
   - PROCESS-NAME,com.twentyfirstcbh.epaper #21财经
   - PROCESS-NAME,com.ucar.app #淘车车
   - PROCESS-NAME,com.UCMobile #UC浏览器
@@ -1113,6 +1112,7 @@ payload:
   - PROCESS-NAME,paint.by.number.pixel.art.coloring.drawing.puzzle #乐涂数字填色
   - PROCESS-NAME,photo.editor.polarr #泼辣修图
   - PROCESS-NAME,pinkdiary.xiaoxiaotu.com #粉粉日记
+  - PROCESS-NAME,pw.skygy.app #光遇乐谱
   - PROCESS-NAME,qianlong.qlmobile #钱龙
   - PROCESS-NAME,qnahj.water.xianx #水仙
   - PROCESS-NAME,sg.bigo.shrimp #皮皮蟹

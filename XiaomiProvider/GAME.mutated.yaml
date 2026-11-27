@@ -53,7 +53,6 @@ payload:
   - PROCESS-NAME,com.fingersoft.hcr2.cn.noncmcc.mi #登山赛车2
   - PROCESS-NAME,com.fingertip.saolei.mi #扫雷世界
   - PROCESS-NAME,com.flower.robotbattle.mi #机器人大乱斗
-  - PROCESS-NAME,com.flyfish.supermario #超级玛丽
   - PROCESS-NAME,com.funbirdsort.cn.mi #轻松乐消消
   - PROCESS-NAME,com.fungames.sniper3d.mi #狙击行动：代号猎鹰
   - PROCESS-NAME,com.funnygames.zjy2.mi #纸嫁衣2奘铃村
@@ -183,6 +182,7 @@ payload:
   - PROCESS-NAME,com.qqgame.mic #英雄杀
   - PROCESS-NAME,com.quanmai.pmp.mi #口袋新世代
   - PROCESS-NAME,com.r2games.myhero.mi #我的勇者
+  - PROCESS-NAME,com.rinzz.projectmuse.mi #缪斯计划
   - PROCESS-NAME,com.rywl.tkzx2.mi #坦克之星2
   - PROCESS-NAME,com.shiyue.sszg.mi #闪烁之光-送万抽
   - PROCESS-NAME,com.shyw.yzy.mi #源战役-魔刃神职装备全靠打

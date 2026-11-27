@@ -251,7 +251,7 @@ PROCESS-NAME,com.hardtime.yzmj.bilibili,{{ rule }} # 勇者秘境
 PROCESS-NAME,com.hasu.deemo2.bilibili,{{ rule }} # 花雨旋律
 PROCESS-NAME,com.hbjjw.tfzhs.bilibili,{{ rule }} # 塔防召唤师
 PROCESS-NAME,com.hcr3.qcjs.bilibili,{{ rule }} # 火柴人联盟3
-PROCESS-NAME,com.hdhd.xxcz.bilibili,{{ rule }} # 小小村长2（测试服）
+PROCESS-NAME,com.hdhd.xxcz.bilibili,{{ rule }} # 小小村长2
 PROCESS-NAME,com.hdyx.xsxn.bilibili,{{ rule }} # 仙山小农
 PROCESS-NAME,com.hdyxnhbx.bilibili,{{ rule }} # 全民养成之女皇陛下
 PROCESS-NAME,com.heitao.yhdzz.bilibili,{{ rule }} # 约战：精灵再临
@@ -274,7 +274,6 @@ PROCESS-NAME,com.higame.cskxj.bilibili,{{ rule }} # 超时空星舰
 PROCESS-NAME,com.higame.mmtf.bilibili,{{ rule }} # 萌萌塔防
 PROCESS-NAME,com.hlzh.cdhrx.bilibili,{{ rule }} # 幻灵召唤
 PROCESS-NAME,com.hnhy.blrpj.bilibili,{{ rule }} # 不良人：破局
-PROCESS-NAME,com.hnlq.slmydxc.bilibili,{{ rule }} # 史莱姆与地下城
 PROCESS-NAME,com.hnmj.wwqs.bilibili,{{ rule }} # 无畏骑士
 PROCESS-NAME,com.hnrc.czmg.bilibili,{{ rule }} # 铳之迷宫
 PROCESS-NAME,com.hntw.dgzfz.bilibili,{{ rule }} # 帝国征服者
@@ -333,7 +332,6 @@ PROCESS-NAME,com.jianxiliemotuan.bilibili,{{ rule }} # 见习猎魔团
 PROCESS-NAME,com.jibei.pg2.bilibili,{{ rule }} # 口袋训练师
 PROCESS-NAME,com.jingxiu.civ,{{ rule }} # 世界启元
 PROCESS-NAME,com.jingxiu.cr,{{ rule }} # 饼干人联盟（招募测试）
-PROCESS-NAME,com.jingxiu.dfdgr,{{ rule }} # 大奉打更人（测试服）
 PROCESS-NAME,com.jingxiu.dhm1,{{ rule }} # 群星纪元
 PROCESS-NAME,com.jingxiu.lszz,{{ rule }} # 龙石战争
 PROCESS-NAME,com.jingxiu.pqsn,{{ rule }} # 排球少年：新的征程
@@ -460,7 +458,6 @@ PROCESS-NAME,com.mfzr.starkey.bilibili,{{ rule }} # 心之钥
 PROCESS-NAME,com.mg.yszml.bilibili,{{ rule }} # 云深掌门路
 PROCESS-NAME,com.miaorui.d7hy.bilibili,{{ rule }} # 第七幻域
 PROCESS-NAME,com.migu.mgxlzl.bilibili,{{ rule }} # 驯龙之旅
-PROCESS-NAME,com.miHoYo.hkrpg.bilibili,{{ rule }} # 崩坏：星穹铁道
 PROCESS-NAME,com.miHoYo.HSoDv2BiliBiliRelease,{{ rule }} # 崩坏学园2
 PROCESS-NAME,com.miHoYo.Nap.bilibili,{{ rule }} # 绝区零
 PROCESS-NAME,com.miHoYo.wd.bilibili,{{ rule }} # 未定事件簿
@@ -576,6 +573,7 @@ PROCESS-NAME,com.playrix.township.chukong.bilibili,{{ rule }} # 梦想城镇
 PROCESS-NAME,com.playwhale.bilibili,{{ rule }} # 守望英雄
 PROCESS-NAME,com.pook.foodgame.bilibili,{{ rule }} # 爆炒江湖
 PROCESS-NAME,com.popcap.pvz2cthd.bilibili,{{ rule }} # 植物大战僵尸2
+PROCESS-NAME,com.potian.aotu.bilibili,{{ rule }} # 凹凸世界：彩虹收藏家
 PROCESS-NAME,com.project.Mooncn,{{ rule }} # 代号：Moon
 PROCESS-NAME,com.pwrd.mzlite.bilibili,{{ rule }} # 梦幻新诛仙：轻享
 PROCESS-NAME,com.pwrd.p5x.bilibili,{{ rule }} # 女神异闻录：夜幕魅影
@@ -816,7 +814,6 @@ PROCESS-NAME,com.wanyu.clqx.bilibili,{{ rule }} # 苍蓝前线
 PROCESS-NAME,com.weflycn.bilibili,{{ rule }} # 发条总动员
 PROCESS-NAME,com.wegame.gg.bilibili,{{ rule }} # 坦克无敌
 PROCESS-NAME,com.weile.jymxpd.bilibili,{{ rule }} # 家园：梦想派对
-PROCESS-NAME,com.weile.sichuanmj.bilibili,{{ rule }} # 微乐四川麻将
 PROCESS-NAME,com.wenxian.tqsy.bilibili,{{ rule }} # 天启圣源
 PROCESS-NAME,com.wereviz.inlchina.bilibili,{{ rule }} # 村落人生
 PROCESS-NAME,com.whsz.mlqy.bilibili,{{ rule }} # 魔力契约

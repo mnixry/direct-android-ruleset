@@ -251,7 +251,7 @@ payload:
   - PROCESS-NAME,com.hasu.deemo2.bilibili #花雨旋律
   - PROCESS-NAME,com.hbjjw.tfzhs.bilibili #塔防召唤师
   - PROCESS-NAME,com.hcr3.qcjs.bilibili #火柴人联盟3
-  - PROCESS-NAME,com.hdhd.xxcz.bilibili #小小村长2（测试服）
+  - PROCESS-NAME,com.hdhd.xxcz.bilibili #小小村长2
   - PROCESS-NAME,com.hdyx.xsxn.bilibili #仙山小农
   - PROCESS-NAME,com.hdyxnhbx.bilibili #全民养成之女皇陛下
   - PROCESS-NAME,com.heitao.yhdzz.bilibili #约战：精灵再临
@@ -274,7 +274,6 @@ payload:
   - PROCESS-NAME,com.higame.mmtf.bilibili #萌萌塔防
   - PROCESS-NAME,com.hlzh.cdhrx.bilibili #幻灵召唤
   - PROCESS-NAME,com.hnhy.blrpj.bilibili #不良人：破局
-  - PROCESS-NAME,com.hnlq.slmydxc.bilibili #史莱姆与地下城
   - PROCESS-NAME,com.hnmj.wwqs.bilibili #无畏骑士
   - PROCESS-NAME,com.hnrc.czmg.bilibili #铳之迷宫
   - PROCESS-NAME,com.hntw.dgzfz.bilibili #帝国征服者
@@ -333,7 +332,6 @@ payload:
   - PROCESS-NAME,com.jibei.pg2.bilibili #口袋训练师
   - PROCESS-NAME,com.jingxiu.civ #世界启元
   - PROCESS-NAME,com.jingxiu.cr #饼干人联盟（招募测试）
-  - PROCESS-NAME,com.jingxiu.dfdgr #大奉打更人（测试服）
   - PROCESS-NAME,com.jingxiu.dhm1 #群星纪元
   - PROCESS-NAME,com.jingxiu.lszz #龙石战争
   - PROCESS-NAME,com.jingxiu.pqsn #排球少年：新的征程
@@ -460,7 +458,6 @@ payload:
   - PROCESS-NAME,com.mg.yszml.bilibili #云深掌门路
   - PROCESS-NAME,com.miaorui.d7hy.bilibili #第七幻域
   - PROCESS-NAME,com.migu.mgxlzl.bilibili #驯龙之旅
-  - PROCESS-NAME,com.miHoYo.hkrpg.bilibili #崩坏：星穹铁道
   - PROCESS-NAME,com.miHoYo.HSoDv2BiliBiliRelease #崩坏学园2
   - PROCESS-NAME,com.miHoYo.Nap.bilibili #绝区零
   - PROCESS-NAME,com.miHoYo.wd.bilibili #未定事件簿
@@ -576,6 +573,7 @@ payload:
   - PROCESS-NAME,com.playwhale.bilibili #守望英雄
   - PROCESS-NAME,com.pook.foodgame.bilibili #爆炒江湖
   - PROCESS-NAME,com.popcap.pvz2cthd.bilibili #植物大战僵尸2
+  - PROCESS-NAME,com.potian.aotu.bilibili #凹凸世界：彩虹收藏家
   - PROCESS-NAME,com.project.Mooncn #代号：Moon
   - PROCESS-NAME,com.pwrd.mzlite.bilibili #梦幻新诛仙：轻享
   - PROCESS-NAME,com.pwrd.p5x.bilibili #女神异闻录：夜幕魅影
@@ -816,7 +814,6 @@ payload:
   - PROCESS-NAME,com.weflycn.bilibili #发条总动员
   - PROCESS-NAME,com.wegame.gg.bilibili #坦克无敌
   - PROCESS-NAME,com.weile.jymxpd.bilibili #家园：梦想派对
-  - PROCESS-NAME,com.weile.sichuanmj.bilibili #微乐四川麻将
   - PROCESS-NAME,com.wenxian.tqsy.bilibili #天启圣源
   - PROCESS-NAME,com.wereviz.inlchina.bilibili #村落人生
   - PROCESS-NAME,com.whsz.mlqy.bilibili #魔力契约

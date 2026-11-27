@@ -53,7 +53,6 @@ PROCESS-NAME,com.fgol.xiaomi,{{ rule }} # 饥饿鲨：进化
 PROCESS-NAME,com.fingersoft.hcr2.cn.noncmcc.mi,{{ rule }} # 登山赛车2
 PROCESS-NAME,com.fingertip.saolei.mi,{{ rule }} # 扫雷世界
 PROCESS-NAME,com.flower.robotbattle.mi,{{ rule }} # 机器人大乱斗
-PROCESS-NAME,com.flyfish.supermario,{{ rule }} # 超级玛丽
 PROCESS-NAME,com.funbirdsort.cn.mi,{{ rule }} # 轻松乐消消
 PROCESS-NAME,com.fungames.sniper3d.mi,{{ rule }} # 狙击行动：代号猎鹰
 PROCESS-NAME,com.funnygames.zjy2.mi,{{ rule }} # 纸嫁衣2奘铃村
@@ -183,6 +182,7 @@ PROCESS-NAME,com.qiqi.game.kbdmm3.mi,{{ rule }} # 恐怖躲猫猫3
 PROCESS-NAME,com.qqgame.mic,{{ rule }} # 英雄杀
 PROCESS-NAME,com.quanmai.pmp.mi,{{ rule }} # 口袋新世代
 PROCESS-NAME,com.r2games.myhero.mi,{{ rule }} # 我的勇者
+PROCESS-NAME,com.rinzz.projectmuse.mi,{{ rule }} # 缪斯计划
 PROCESS-NAME,com.rywl.tkzx2.mi,{{ rule }} # 坦克之星2
 PROCESS-NAME,com.shiyue.sszg.mi,{{ rule }} # 闪烁之光-送万抽
 PROCESS-NAME,com.shyw.yzy.mi,{{ rule }} # 源战役-魔刃神职装备全靠打
