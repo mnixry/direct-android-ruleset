@@ -554,6 +554,7 @@ payload:
   - PROCESS-NAME,com.pachira.bilibili #东离剑游纪
   - PROCESS-NAME,com.palmpi.matrix.bilibili #盲盒派对
   - PROCESS-NAME,com.palmpi.neonlife.bilibili #霓虹人生（测试服）
+  - PROCESS-NAME,com.panda.swglxh.bilibili #十万个冷笑话之异世界大冒险（测试服）
   - PROCESS-NAME,com.pangu.ciyuanzj.bilibili #次元战纪
   - PROCESS-NAME,com.papegames.evol.bili #恋与制作人
   - PROCESS-NAME,com.papegames.infinitynikki.bilibili #无限暖暖
@@ -862,7 +863,6 @@ payload:
   - PROCESS-NAME,com.xm4399.zmws.bilibili #造梦无双
   - PROCESS-NAME,com.xm4399.zmxy6hj.bilibili #造梦西游之黎尤浩劫篇
   - PROCESS-NAME,com.xm4399.zzjs.bilibili #最终坚守
-  - PROCESS-NAME,com.xmsl.bilibili #寻梦丝路
   - PROCESS-NAME,com.xmyd.zjmdx.bilibili #指尖大冒险
   - PROCESS-NAME,com.xn.xiwan.bilibili #仙逆H5
   - PROCESS-NAME,com.xqxdys.bilibili #星球小队

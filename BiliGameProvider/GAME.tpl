@@ -554,6 +554,7 @@ PROCESS-NAME,com.orange.sndwz.bilibili,{{ rule }} # 少女的伪证（测试服�
 PROCESS-NAME,com.pachira.bilibili,{{ rule }} # 东离剑游纪
 PROCESS-NAME,com.palmpi.matrix.bilibili,{{ rule }} # 盲盒派对
 PROCESS-NAME,com.palmpi.neonlife.bilibili,{{ rule }} # 霓虹人生（测试服）
+PROCESS-NAME,com.panda.swglxh.bilibili,{{ rule }} # 十万个冷笑话之异世界大冒险（测试服）
 PROCESS-NAME,com.pangu.ciyuanzj.bilibili,{{ rule }} # 次元战纪
 PROCESS-NAME,com.papegames.evol.bili,{{ rule }} # 恋与制作人
 PROCESS-NAME,com.papegames.infinitynikki.bilibili,{{ rule }} # 无限暖暖
@@ -862,7 +863,6 @@ PROCESS-NAME,com.xm4399.zmdld.bilibili,{{ rule }} # 造梦大乱斗
 PROCESS-NAME,com.xm4399.zmws.bilibili,{{ rule }} # 造梦无双
 PROCESS-NAME,com.xm4399.zmxy6hj.bilibili,{{ rule }} # 造梦西游之黎尤浩劫篇
 PROCESS-NAME,com.xm4399.zzjs.bilibili,{{ rule }} # 最终坚守
-PROCESS-NAME,com.xmsl.bilibili,{{ rule }} # 寻梦丝路
 PROCESS-NAME,com.xmyd.zjmdx.bilibili,{{ rule }} # 指尖大冒险
 PROCESS-NAME,com.xn.xiwan.bilibili,{{ rule }} # 仙逆H5
 PROCESS-NAME,com.xqxdys.bilibili,{{ rule }} # 星球小队
